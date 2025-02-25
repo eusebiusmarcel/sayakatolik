@@ -6,7 +6,7 @@ title = 'Mengapa Saya Katolik'
 
 Setiap orang memiliki perjalanan imannya masing-masing. Ada yang lahir sebagai Katolik dan tetap bertahan, ada yang berpindah keyakinan, dan ada pula yang menemukan kembali imannya di Gereja Katolik. Saya sendiri dibesarkan dalam iman Katolik dan terus menemukan alasan yang semakin memperkuat keyakinan saya. Dalam artikel ini, saya ingin berbagi mengapa saya memilih untuk tetap berada dalam Gereja Katolik.
 
-### 1. Yesus Sendiri Mengklaim Sebagai Tuhan
+### 1. Yesus Mengklaim Diri Sebagai Tuhan
 
 Yesus tidak hanya dianggap Tuhan oleh pengikut-Nya, tetapi Dia sendiri menyatakan keilahian-Nya. Beberapa contoh di antaranya:
 
@@ -21,7 +21,9 @@ Pernyataan-pernyataan ini menunjukkan bahwa Yesus tidak sekadar seorang guru ata
 Mukjizat yang dilakukan Yesus menjadi bukti otoritas ilahi-Nya:
 
 - Menyembuhkan orang buta (Yohanes 9:1-7)
+- Menyembuhkan orang tuli (Markus 7:31-37)
 - Menyembuhkan orang lumpuh (Matius 9:2-7)
+- Menyembuhkan orang bisu (Matius 9:32-34)
 - Mengendalikan alam (Markus 4:39 – meredakan badai)
 - Membangkitkan orang mati, termasuk Lazarus (Yohanes 11:43-44)
 
