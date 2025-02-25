@@ -1,0 +1,4 @@
+baseURL = 'https://sayakatolik.com/'
+languageCode = 'id-ID'
+title = 'Saya Katolik'
+theme = 'ananke'
