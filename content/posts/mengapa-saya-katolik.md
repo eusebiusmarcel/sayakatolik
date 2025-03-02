@@ -57,7 +57,6 @@ Jika Yesus bukan Tuhan, Dia seharusnya menolak penyembahan ini.
 
 Paulus, yang awalnya adalah penganiaya pengikut Kristus, mengalami perubahan drastis setelah bertemu Yesus yang telah bangkit dalam perjalanannya ke Damaskus (Kisah Para Rasul 9:3-6). Dari seorang pemburu orang Kristen, ia menjadi penginjil terbesar dalam sejarah Gereja.
 
-
 ### 6. Alkitab adalah Sumber yang Kredibel
 
 Alkitab bukan sekadar kumpulan kisah kuno, tetapi merupakan sumber yang kredibel dan memiliki dasar yang kuat dalam sejarah serta iman. Ada beberapa alasan mengapa Alkitab dapat dipercaya:
@@ -99,12 +98,9 @@ Dalam Gereja Katolik, Ekaristi bukan hanya simbol, tetapi benar-benar tubuh dan 
 - Yohanes 6:53-56 – Yesus berkata bahwa barang siapa makan daging-Nya dan minum darah-Nya akan memperoleh hidup kekal.
 - 1 Korintus 11:27-29 – Paulus memperingatkan agar tidak menerima tubuh dan darah Tuhan dengan tidak layak.
 
-### 10. Peran Maria dan Para Kudus
+### 10. Ketika Saya Ragu, Saya Mengingat Perkataan Petrus
 
-Gereja Katolik tidak menyembah Maria dan para santo dan santa, tetapi menghormati mereka sebagai teladan iman:
-
-- Maria adalah ibu Yesus dan disebut "penuh rahmat" (Lukas 1:28).
-- Para kudus adalah saksi iman yang telah mencapai kehidupan kekal dan dapat mendoakan kita (Wahyu 5:8).
+Saat saya ragu akan ajaran Gereja karena logika saya belum mampu mencernanya, saya teringat akan perkataan Petrus dalam Yohanes 6:68. Ketika banyak murid meninggalkan Yesus karena sulit menerima ajaran-Nya tentang makan tubuh-Nya dan minum darah-Nya, Petrus berkata: "Tuhan, kepada siapakah kami akan pergi? Perkataan-Mu adalah perkataan hidup yang kekal." Ini mengingatkan saya bahwa terkadang iman mendahului pemahaman, dan saya memilih untuk tetap percaya.
 
 ### Kesimpulan
 
