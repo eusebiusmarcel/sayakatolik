@@ -1,7 +1,7 @@
 +++
 date = '2025-02-25T00:24:11+07:00'
 draft = true
-title = 'Mengapa Saya Katolik'
+title = 'Mengapa Saya Katolik?'
 +++
 
 Setiap orang memiliki perjalanan imannya masing-masing. Ada yang lahir sebagai Katolik dan tetap bertahan, ada yang berpindah keyakinan, dan ada pula yang menemukan kembali imannya di Gereja Katolik. Saya sendiri dibesarkan dalam iman Katolik dan terus menemukan alasan yang semakin memperkuat keyakinan saya. Dalam artikel ini, saya ingin berbagi mengapa saya memilih untuk tetap berada dalam Gereja Katolik.
@@ -48,8 +48,8 @@ Di dalam Alkitab, para nabi dan malaikat menolak disembah:
 
 Namun, Yesus menerima penyembahan:
 
-- Matius 28:9,17 – Para murid menyembah Yesus setelah kebangkitan-Nya.
-- Yohanes 20:28 – Tomas berkata kepada Yesus, "Ya Tuhanku dan Allahku!" dan Yesus tidak menegurnya.
+- Matius 28:9-10,17-20 – Para murid menyembah Yesus setelah kebangkitan-Nya.
+- Yohanes 20:28-29 – Tomas berkata kepada Yesus, "Ya Tuhanku dan Allahku!" dan Yesus tidak menegurnya.
 
 Jika Yesus bukan Tuhan, Dia seharusnya menolak penyembahan ini.
 
@@ -100,7 +100,11 @@ Dalam Gereja Katolik, Ekaristi bukan hanya simbol, tetapi benar-benar tubuh dan 
 
 ### 10. Ketika Saya Ragu, Saya Mengingat Perkataan Petrus
 
-Saat saya ragu akan ajaran Gereja karena logika saya belum mampu mencernanya, saya teringat akan perkataan Petrus dalam Yohanes 6:68. Ketika banyak murid meninggalkan Yesus karena sulit menerima ajaran-Nya tentang makan tubuh-Nya dan minum darah-Nya, Petrus berkata: "Tuhan, kepada siapakah kami akan pergi? Perkataan-Mu adalah perkataan hidup yang kekal." Ini mengingatkan saya bahwa terkadang iman mendahului pemahaman, dan saya memilih untuk tetap percaya.
+Misteri Ekaristi memang sulit dipahami dengan akal manusia, sebagaimana banyak murid Yesus yang meninggalkan-Nya karena ajaran ini. Namun, justru di saat sulit memahami ajaran Gereja, saya teringat akan perkataan Petrus dalam Yohanes 6:68. Ketika banyak murid meninggalkan Yesus karena sulit menerima ajaran-Nya tentang makan tubuh-Nya dan minum darah-Nya, Petrus berkata:
+
+"Tuhan, kepada siapakah kami akan pergi? Perkataan-Mu adalah perkataan hidup yang kekal."
+
+Ini mengingatkan saya bahwa terkadang iman mendahului pemahaman, dan saya memilih untuk tetap percaya.
 
 ### Kesimpulan
 
