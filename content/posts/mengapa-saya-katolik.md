@@ -1,7 +1,8 @@
 +++
 date = '2025-02-25T00:24:11+07:00'
-draft = true
+draft = false
 title = 'Mengapa Saya Katolik?'
+featured_image = "/images/pexels-pablo-santiago-108389788-9582355.jpg"
 +++
 
 Setiap orang memiliki perjalanan imannya masing-masing. Ada yang lahir sebagai Katolik dan tetap bertahan, ada yang berpindah keyakinan, dan ada pula yang menemukan kembali imannya di Gereja Katolik. Saya sendiri dibesarkan dalam iman Katolik dan terus menemukan alasan yang semakin memperkuat keyakinan saya. Dalam artikel ini, saya ingin berbagi mengapa saya memilih untuk tetap berada dalam Gereja Katolik.
