@@ -7,7 +7,7 @@ featured_image = "/images/pexels-ian-panelo-4585167.jpg"
 
 Alkitab adalah kitab suci yang menjadi dasar iman bagi umat Kristiani. Namun, banyak orang meragukan keabsahannya: apakah Alkitab hanya sekadar kumpulan cerita kuno, atau benar-benar dapat dipercaya? Dalam artikel ini, kita akan melihat beberapa alasan mengapa Alkitab memiliki kredibilitas yang kuat.
 
-1. Berdasarkan Kesaksian Para Saksi Mata
+### 1. Berdasarkan Kesaksian Para Saksi Mata
 
 Perjanjian Baru sebagian besar ditulis oleh para saksi mata atau berdasarkan laporan saksi mata langsung. Hal ini penting karena:
 
@@ -19,7 +19,7 @@ Lukas 1:1-4 menunjukkan bahwa Injil Lukas disusun berdasarkan penelitian yang te
 
 Seandainya peristiwa-peristiwa ini tidak benar, banyak saksi mata yang masih hidup pada saat itu bisa membantahnya, tetapi justru mereka memperkuat kesaksian ini.
 
-2. Konsistensi dan Keutuhan Alkitab
+### 2. Konsistensi dan Keutuhan Alkitab
 
 Meskipun ditulis oleh lebih dari 40 penulis yang berasal dari latar belakang berbeda, dalam rentang waktu lebih dari 1.500 tahun, Alkitab tetap memiliki satu pesan utama yang konsisten: rencana keselamatan Allah bagi umat manusia.
 
@@ -27,7 +27,7 @@ Nubuat dalam Perjanjian Lama digenapi dalam Perjanjian Baru, seperti nubuat tent
 
 Meskipun terdapat berbagai genre tulisan (sejarah, hukum, puisi, surat), Alkitab tetap memiliki keselarasan yang luar biasa, tidak seperti kitab-kitab lain yang mengalami banyak kontradiksi.
 
-3. Dikonfirmasi oleh Sejarah dan Arkeologi
+### 3. Dikonfirmasi oleh Sejarah dan Arkeologi
 
 Banyak peristiwa, tempat, dan tokoh dalam Alkitab yang telah dikonfirmasi oleh penelitian arkeologi dan catatan sejarah lainnya:
 
@@ -39,7 +39,7 @@ Kitab-kitab sejarah Romawi dan Yahudi (seperti tulisan sejarawan Flavius Yosefus
 
 Penemuan-penemuan ini mendukung fakta bahwa Alkitab bukan sekadar mitos atau legenda, tetapi memiliki dasar sejarah yang kuat.
 
-4. Kesaksian Para Rasul yang Rela Mati
+### 4. Kesaksian Para Rasul yang Rela Mati
 
 Jika kebangkitan Yesus hanyalah kebohongan, mengapa para rasul rela mati demi iman mereka? Beberapa contoh:
 
@@ -51,7 +51,7 @@ Paulus dipenggal di Roma.
 
 Orang mungkin bersedia mati untuk sesuatu yang mereka yakini benar, tetapi sangat kecil kemungkinan seseorang mau mati demi sesuatu yang mereka tahu sebagai kebohongan. Ini menunjukkan bahwa para rasul benar-benar percaya pada kebangkitan Yesus.
 
-Kesimpulan
+### Kesimpulan
 
 Alkitab bukan sekadar kumpulan cerita atau legenda. Kesaksian para saksi mata, konsistensi isi, dukungan dari arkeologi dan sejarah, serta kesaksian para rasul yang rela mati demi iman mereka menunjukkan bahwa Alkitab adalah kitab yang dapat dipercaya. Jika Anda masih ragu, saya mengajak Anda untuk mempelajari lebih dalam dan meneliti sendiri bukti-bukti ini.
 

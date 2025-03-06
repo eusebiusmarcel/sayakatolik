@@ -1,5 +1,5 @@
 ---
-title: "Saya Katolik"
+title: "Mengapa Katolik?"
 
 description: "Menelusuri Kebenaran, Menghidupi Iman"
 cascade:
