@@ -62,21 +62,13 @@ Paulus, yang awalnya adalah penganiaya pengikut Kristus, mengalami perubahan dra
 
 Alkitab bukan sekadar kumpulan kisah kuno, tetapi merupakan sumber yang kredibel dan memiliki dasar yang kuat dalam sejarah serta iman. Ada beberapa alasan mengapa Alkitab dapat dipercaya:
 
-1. **Berdasarkan Kesaksian Para Saksi Mata**
+1. **Berdasarkan kesaksian para saksi mata.** Perjanjian Baru ditulis oleh saksi mata kehidupan Yesus atau berdasarkan laporan saksi mata langsung.
 
-   Perjanjian Baru ditulis oleh saksi mata kehidupan Yesus atau berdasarkan laporan saksi mata langsung.
+2. **Konsistensi dan keutuhan.** Meskipun ditulis oleh banyak penulis dalam jangka waktu ribuan tahun, Alkitab memiliki satu pesan yang konsisten.
 
-2. **Konsistensi dan Keutuhan**
+3. **Dikonfirmasi oleh sejarah dan arkeologi.** Banyak catatan dalam Alkitab telah diverifikasi oleh sejarah dan arkeologi.
 
-   Meskipun ditulis oleh banyak penulis dalam jangka waktu ribuan tahun, Alkitab memiliki satu pesan yang konsisten.
-
-3. **Dikonfirmasi oleh Sejarah dan Arkeologi**
-
-   Banyak catatan dalam Alkitab telah diverifikasi oleh sejarah dan arkeologi.
-
-4. **Kesaksian Para Rasul yang Rela Mati**
-
-   Jika kebangkitan Yesus hanya kebohongan, para rasul tidak akan rela mati demi iman mereka.
+4. **Kesaksian para rasul yang rela mati.** Jika kebangkitan Yesus hanya kebohongan, para rasul tidak akan rela mati demi iman mereka.
 
 ### 7. Dosa Asal dan Kebutuhan Akan Penyelamat
 
