@@ -4,6 +4,7 @@ draft = false
 title = 'Karya Penyelamatan Tuhan: Kasih yang Menyelamatkan Dunia'
 featured_image = "/images/jesus-the-sheperd.jpg"
 featured_image_class = "cover bg-top"
+weight = 1
 +++
 
 Dalam iman Katolik, karya penyelamatan Tuhan merupakan inti dari seluruh sejarah keselamatan manusia. Sejak awal penciptaan, Allah menunjukkan kasih-Nya dengan menciptakan manusia menurut gambar dan rupa-Nya (Kejadian 1:27). Namun, manusia jatuh ke dalam dosa, yang membawa pemisahan dari Allah. Meski demikian, Allah tidak meninggalkan manusia dalam keadaan itu, tetapi merancang suatu rencana penyelamatan yang puncaknya ada dalam Yesus Kristus.
