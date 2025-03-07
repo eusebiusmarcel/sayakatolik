@@ -21,7 +21,7 @@ Yesus sendiri berkata, "Akulah jalan, kebenaran, dan hidup. Tidak ada seorang pu
 
 ### Peran Gereja dalam Karya Keselamatan
 
-Setelah kebangkitan-Nya, Yesus mendirikan Gereja sebagai sarana keselamatan bagi seluruh umat manusia. Gereja berperan sebagai bimbingan dalam peziarahan hidup di dunia ini, karena kepada Petrus dan para rasul, Yesus memberikan wewenang untuk mengajar, menguduskan, dan menggembalakan umat-Nya (Matius 16:18-19). "Apa yang kauikat di dunia ini akan terikat di surga, dan apa yang kaulepas di dunia ini akan terlepas di surga." Dengan demikian, Gereja menjadi tempat di mana manusia dapat menerima rahmat keselamatan melalui sakramen-sakramen, terutama Baptisan dan Ekaristi. Gereja juga dipanggil untuk mewartakan Injil kepada segala bangsa, melanjutkan misi Kristus dalam membawa keselamatan ke seluruh dunia (Matius 28:19-20).
+Setelah kebangkitan-Nya, Yesus mendirikan Gereja sebagai sarana keselamatan bagi seluruh umat manusia. Gereja berperan sebagai bimbingan dalam peziarahan hidup di dunia ini, karena kepada Petrus dan para rasul, Yesus memberikan wewenang untuk mengajar, menguduskan, dan menggembalakan umat-Nya (Matius 16:18-19). "Apa yang kau ikat di dunia ini akan terikat di surga, dan apa yang kaulepas di dunia ini akan terlepas di surga." Dengan demikian, Gereja menjadi tempat di mana manusia dapat menerima rahmat keselamatan melalui sakramen-sakramen, terutama Baptisan dan Ekaristi. Gereja juga dipanggil untuk mewartakan Injil kepada segala bangsa, melanjutkan misi Kristus dalam membawa keselamatan ke seluruh dunia (Matius 28:19-20).
 
 ### Keselamatan sebagai Undangan untuk Hidup Baru
 
