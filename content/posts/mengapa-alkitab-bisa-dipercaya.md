@@ -1,6 +1,6 @@
 +++
 date = '2025-03-05T22:43:50+07:00'
-draft = true
+draft = false
 title = 'Mengapa Alkitab Bisa Dipercaya?'
 featured_image = "/images/reading-bible.jpg"
 +++

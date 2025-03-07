@@ -1,6 +1,6 @@
 +++
 date = '2025-03-07T11:08:39+07:00'
-draft = true
+draft = false
 title = 'Karya Penyelamatan Tuhan: Kasih yang Menyelamatkan Dunia'
 featured_image = "/images/jesus-the-sheperd.jpg"
 featured_image_class = "cover bg-top"
