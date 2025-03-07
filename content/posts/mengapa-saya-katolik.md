@@ -2,7 +2,7 @@
 date = '2025-02-25T00:24:11+07:00'
 draft = false
 title = 'Mengapa Saya Katolik?'
-featured_image = "/images/pexels-pablo-santiago-108389788-9582355.jpg"
+featured_image = "/images/body-of-christ.jpg"
 featured_image_class = "cover bg-0-5"
 weight = 1
 +++
