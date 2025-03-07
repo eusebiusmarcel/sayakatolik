@@ -2,6 +2,7 @@ baseURL = 'https://sayakatolik.com/'
 languageCode = 'id-ID'
 title = 'Saya Katolik'
 theme = 'ananke'
+defaultContentLanguage = "id"
 
 [params]
 custom_css = ["custom.css"]
@@ -11,8 +12,12 @@ favicon = "/images/logo-sm.png"
 [pagination]
 pagerSize = 10
 
-[menus]
-  [[menus.main]]
-    name = 'Home'
+[languages.id]
+contentDir = "content/id"
+languageCode = 'id-ID'
+weight = 1
+[languages.id.menus]
+  [[languages.id.menus.main]]
+    name = 'Beranda'
     pageRef = '/'
     weight = 10
