@@ -8,6 +8,9 @@ custom_css = ["custom.css"]
 site_logo = "/images/logo-sm.png"
 favicon = "/images/logo-sm.png"
 
+[pagination]
+pagerSize = 10
+
 [menus]
   [[menus.main]]
     name = 'Home'
