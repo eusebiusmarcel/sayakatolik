@@ -26,6 +26,10 @@ Meskipun kata "Trinitas" tidak ditemukan dalam Alkitab, konsepnya sangat jelas d
 - Matius 28:19 – Yesus berkata, "Pergilah, jadikanlah semua bangsa murid-Ku dan baptislah mereka dalam nama Bapa dan Putra dan Roh Kudus."
 - 2 Korintus 13:13 – "Kasih karunia Tuhan Yesus Kristus, kasih Allah, dan persekutuan Roh Kudus menyertai kamu sekalian."
 - Kejadian 1:26 – "Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita." Kata "Kita" menunjukkan percakapan di dalam Allah sendiri.
+- Yohanes 1:1-3 – "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah. Segala sesuatu dijadikan oleh Dia dan tanpa Dia tidak ada suatu pun yang telah jadi dari segala yang telah dijadikan."
+- Yohanes 10:30 – Yesus berkata, "Aku dan Bapa adalah satu."
+- Yohanes 14:16-17 – Yesus berbicara tentang Roh Kudus: "Aku akan meminta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia menyertai kamu selama-lamanya, yaitu Roh Kebenaran."
+- Matius 3:16-17 – Saat Yesus dibaptis, Bapa bersuara dari surga dan Roh Kudus turun dalam rupa burung merpati, menunjukkan ketiga Pribadi Allah dalam satu peristiwa.
 
 ### Bagaimana Trinitas Dipahami dalam Tradisi Gereja?
 
