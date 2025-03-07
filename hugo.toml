@@ -7,3 +7,9 @@ theme = 'ananke'
 custom_css = ["custom.css"]
 site_logo = "/images/logo-sm.png"
 favicon = "/images/logo-sm.png"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
