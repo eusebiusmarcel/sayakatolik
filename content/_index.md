@@ -1,7 +1,7 @@
 ---
-title: "Mengapa Katolik?"
+title: "Iman Katolik"
 
-description: "Menelusuri Kebenaran, Menghidupi Iman"
+description: "Mengikuti Yesus, Sang Jalan Kebenaran & Hidup"
 cascade:
   featured_image: "/images/mass-in-church.jpg"
 ---
