@@ -30,9 +30,15 @@ Meskipun terdapat berbagai genre tulisan (sejarah, hukum, puisi, surat), Alkitab
 
 Banyak peristiwa, tempat, dan tokoh dalam Alkitab yang telah dikonfirmasi oleh penelitian arkeologi dan catatan sejarah lainnya:
 
-- Batu Moabite (Moabite Stone) yang ditemukan pada tahun 1868 mengonfirmasi keberadaan Raja Mesha yang disebutkan dalam 2 Raja-Raja 3:4-27.
-- Prasasti Pilatus (Pilate Inscription) ditemukan di Kaisarea Maritima, yang membuktikan keberadaan Pontius Pilatus, gubernur Romawi yang mengadili Yesus (Matius 27:11-26).
-- Kitab-kitab sejarah Romawi dan Yahudi (seperti tulisan sejarawan Flavius Yosefus) juga menyebutkan Yesus sebagai tokoh nyata dalam sejarah.
+- **Prasasti Pilatus** (dibuat sekitar 26-36 M) ditemukan pada 1961 di Kaisarea Maritima, memuat nama "Pontius Pilatus, Prefek Yudea," yang membuktikan keberadaan gubernur Romawi yang mengadili Yesus (Matius 27:11-26).
+
+- **Tulisan Flavius Yosefus** (ditulis sekitar 93-94 M), seorang sejarawan Yahudi abad pertama, menyebut Yesus sebagai guru bijak yang melakukan mukjizat, memiliki banyak pengikut, dan disalibkan atas perintah Pilatus. Referensinya dalam Antiquities of the Jews menjadi salah satu bukti sejarah sekuler tentang Yesus.
+
+- **Gulungan Laut Mati** (ditulis sekitar 250 SM – 68 M) ditemukan di Qumran, berisi salinan kitab-kitab Perjanjian Lama yang hampir identik dengan teks Ibrani modern, membuktikan bahwa Alkitab telah dilestarikan secara akurat selama lebih dari 2.000 tahun.
+
+- **Prasasti Tel Dan** (dibuat sekitar abad ke-9 SM) ditemukan di Israel dan menyebut "Rumah Daud," memberikan bukti arkeologis pertama tentang keberadaan Raja Daud, yang sebelumnya diragukan oleh para skeptis.
+
+- **Batu Moabite (Moabite Stone)** (dibuat sekitar 840 SM) ditemukan pada 1868 di Yordania, mencatat kemenangan Raja Mesha atas Israel, sesuai dengan catatan dalam 2 Raja-Raja 3:4-27 dan menunjukkan interaksi historis antara Moab dan Israel.
 
 Penemuan-penemuan ini mendukung fakta bahwa Alkitab bukan sekadar mitos atau legenda, tetapi memiliki dasar sejarah yang kuat.
 
