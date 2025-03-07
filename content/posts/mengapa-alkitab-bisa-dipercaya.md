@@ -3,6 +3,7 @@ date = '2025-03-05T22:43:50+07:00'
 draft = false
 title = 'Mengapa Alkitab Bisa Dipercaya?'
 featured_image = "/images/reading-bible.jpg"
+weight = 4
 +++
 
 Alkitab adalah kitab suci yang menjadi dasar iman bagi umat Kristiani. Namun, banyak orang meragukan keabsahannya: apakah Alkitab hanya sekadar kumpulan cerita kuno, atau benar-benar dapat dipercaya? Dalam artikel ini, kita akan melihat beberapa alasan mengapa Alkitab memiliki kredibilitas yang kuat.

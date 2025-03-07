@@ -3,6 +3,7 @@ date = '2025-03-07T12:42:33+07:00'
 draft = false
 title = 'Memahami Misteri Trinitas: Satu Allah dalam Tiga Pribadi'
 featured_image = "/images/trinity.jpg"
+weight = 3
 +++
 
 Trinitas adalah salah satu misteri terbesar dalam iman Kristen, yang menyatakan bahwa Allah adalah satu, tetapi dalam tiga Pribadi: Bapa, Putra, dan Roh Kudus. Konsep ini sering kali sulit dipahami, bahkan bagi orang Kristen sendiri. Namun, pemahaman tentang Trinitas sangat penting karena merupakan inti dari iman Katolik.

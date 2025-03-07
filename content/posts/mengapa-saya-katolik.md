@@ -4,7 +4,7 @@ draft = false
 title = 'Mengapa Saya Katolik?'
 featured_image = "/images/body-of-christ.jpg"
 featured_image_class = "cover bg-0-5"
-weight = 1
+weight = 2
 +++
 
 Setiap orang memiliki perjalanan imannya masing-masing. Ada yang lahir sebagai Katolik dan tetap bertahan, ada yang berpindah keyakinan, dan ada pula yang menemukan kembali imannya di Gereja Katolik. Saya sendiri dibesarkan dalam iman Katolik dan terus menemukan alasan yang semakin memperkuat keyakinan saya. Dalam artikel ini, saya ingin berbagi mengapa saya memilih untuk tetap berada dalam Gereja Katolik.
