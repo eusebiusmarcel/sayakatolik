@@ -1,2 +1,21 @@
+:root {
+    --orange-yellow: #ffca6c;
+    --light-taupe: #a68d65;
+    --cosmic-latte: #fff8e8;
+    --gainsboro: #dfe0df;
+}
+
+.body {
+    background-color: var(--gainsboro);
+}
 .bg-50-5 { background-position: 50% 5%; }
 .bg-25-0 { background-position: 25% 0%; }
+
+
+/* .summary:nth-child(odd) {
+    background-color: var(--light-taupe); 
+}
+
+.summary:nth-child(even) {
+    background-color: var(--cosmic-latte);
+} */
