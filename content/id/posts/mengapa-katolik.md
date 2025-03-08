@@ -7,7 +7,7 @@ featured_image_class = "cover bg-center bg-50-5"
 weight = 2
 +++
 
-Yesus Kristus datang ke dunia untuk menyelamatkan manusia dan membuka jalan menuju kehidupan kekal. Ia mendirikan Gereja-Nya sebagai perantara keselamatan, agar setiap orang yang mencari kebenaran dapat menemukan-Nya. Gereja Katolik, dengan ajaran, sakramen, dan suksesi apostoliknya, diyakini sebagai jalan yang ditetapkan oleh Yesus bagi umat manusia untuk memperoleh kehidupan abadi. 
+Yesus Kristus datang ke dunia untuk menyelamatkan manusia dan membuka jalan menuju kehidupan kekal. Ia mendirikan Gereja-Nya sebagai perantara keselamatan, agar setiap orang yang mencari kebenaran dapat menemukan-Nya. Gereja Katolik, dengan ajaran yang terus diwariskan dan penghidupan iman yang tak terputus sejak zaman para rasul, diyakini sebagai jalan yang ditetapkan oleh Yesus bagi umat manusia untuk memperoleh kehidupan abadi.
 
 Artikel ini akan menjelaskan bagaimana Gereja Katolik menjalankan peran ini dan mengapa banyak orang meyakininya sebagai jalan kebenaran dan kehidupan.
 
