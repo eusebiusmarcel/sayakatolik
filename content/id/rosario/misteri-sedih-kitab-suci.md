@@ -20,7 +20,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Peristiwa Sedih Pertama: Yesus berdoa kepada Bapa-Nya di surga dalam sakratul maut
+## Peristiwa Sedih 1: Yesus berdoa kepada Bapa-Nya di surga dalam sakratul maut
 **Buah Rohani:** Dukacita atas Dosa
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Peristiwa Sedih Kedua: Yesus didera
+## Peristiwa Sedih 2: Yesus didera
 **Buah Rohani:** Kemurnian
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Peristiwa Sedih Ketiga: Yesus dimahkotai duri
+## Peristiwa Sedih 3: Yesus dimahkotai duri
 **Buah Rohani:** Keberanian
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Peristiwa Sedih Keempat: Yesus memanggul salib-Nya ke gunung Kalvari
+## Peristiwa Sedih 4: Yesus memanggul salib-Nya ke gunung Kalvari
 **Buah Rohani:** Kesabaran
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Peristiwa Sedih Kelima: Yesus wafat di salib
+## Peristiwa Sedih 5: Yesus wafat di salib
 **Buah Rohani:** Ketekunan
 
 **Bapa Kami**

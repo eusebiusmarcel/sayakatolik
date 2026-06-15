@@ -20,7 +20,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Peristiwa Terang Pertama: Yesus dibaptis di Sungai Yordan
+## Peristiwa Terang 1: Yesus dibaptis di Sungai Yordan
 **Buah Rohani:** Keterbukaan terhadap Roh Kudus
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Peristiwa Terang Kedua: Yesus menyatakan diri-Nya dalam pesta perkawinan di Kana
+## Peristiwa Terang 2: Yesus menyatakan diri-Nya dalam pesta perkawinan di Kana
 **Buah Rohani:** Kepada Yesus melalui Maria
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Peristiwa Terang Ketiga: Yesus memberitakan Kerajaan Allah dan menyerukan pertobatan
+## Peristiwa Terang 3: Yesus memberitakan Kerajaan Allah dan menyerukan pertobatan
 **Buah Rohani:** Kesaksian Kristiani
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Peristiwa Terang Keempat: Yesus menampakkan kemuliaan-Nya
+## Peristiwa Terang 4: Yesus menampakkan kemuliaan-Nya
 **Buah Rohani:** Keberanian Rohani
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Peristiwa Terang Kelima: Yesus menetapkan Ekaristi
+## Peristiwa Terang 5: Yesus menetapkan Ekaristi
 **Buah Rohani:** Kasih kepada Tuhan dalam Ekaristi
 
 **Bapa Kami**

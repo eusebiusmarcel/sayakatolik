@@ -20,7 +20,7 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
-## Peristiwa Mulia Pertama: Yesus bangkit dari antara orang mati
+## Peristiwa Mulia 1: Yesus bangkit dari antara orang mati
 **Buah Rohani:** Iman
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
-## Peristiwa Mulia Kedua: Yesus naik ke surga
+## Peristiwa Mulia 2: Yesus naik ke surga
 **Buah Rohani:** Pengharapan Kristiani
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
-## Peristiwa Mulia Ketiga: Roh Kudus turun atas Para Rasul
+## Peristiwa Mulia 3: Roh Kudus turun atas Para Rasul
 **Buah Rohani:** Karunia Roh Kudus
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
-## Peristiwa Mulia Keempat: Maria diangkat ke surga
+## Peristiwa Mulia 4: Maria diangkat ke surga
 **Buah Rohani:** Kerinduan akan Surga
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
-## Peristiwa Mulia Kelima: Maria dimahkotai di surga
+## Peristiwa Mulia 5: Maria dimahkotai di surga
 **Buah Rohani:** Rahmat Ketekunan Akhir
 
 **Bapa Kami**
