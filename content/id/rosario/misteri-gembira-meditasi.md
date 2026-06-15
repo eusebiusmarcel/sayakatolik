@@ -20,7 +20,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Pertama: Maria Dipilih Menjadi Bunda Allah
+## Misteri Pertama: Maria menerima kabar gembira dari Malaikat Gabriel
 **Buah Rohani:** Kerendahan Hati
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Kedua: Kunjungan Maria kepada Elisabet
+## Misteri Kedua: Maria mengunjungi Elisabet, saudarinya
 **Buah Rohani:** Kasih kepada Sesama
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Ketiga: Kelahiran Tuhan Yesus
+## Misteri Ketiga: Yesus dilahirkan di Bethlehem
 **Buah Rohani:** Kemerdekaan dari Hal Duniawi
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Keempat: Persembahan Yesus di Bait Allah
+## Misteri Keempat: Yesus dipersembahkan dalam Bait Allah
 **Buah Rohani:** Ketaatan
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Kelima: Yesus Diketemukan di Bait Allah
+## Misteri Kelima: Yesus diketemukan dalam Bait Allah
 **Buah Rohani:** Ketekunan
 
 **Bapa Kami**

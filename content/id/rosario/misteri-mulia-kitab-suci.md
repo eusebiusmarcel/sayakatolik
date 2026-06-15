@@ -20,7 +20,7 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Pertama: Yesus Bangkit dari Antara Orang Mati
+## Misteri Pertama: Yesus bangkit dari antara orang mati
 **Buah Rohani:** Iman
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kedua: Yesus Naik ke Surga
+## Misteri Kedua: Yesus naik ke surga
 **Buah Rohani:** Pengharapan
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Ketiga: Turunnya Roh Kudus
+## Misteri Ketiga: Roh Kudus turun atas Para Rasul
 **Buah Rohani:** Kasih kepada Allah
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Keempat: Maria Diangkat ke Surga
+## Misteri Keempat: Maria diangkat ke surga
 **Buah Rohani:** Maria sebagai Bunda Kita
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kelima: Maria Dimahkotai Ratu Surga dan Bumi
+## Misteri Kelima: Maria dimahkotai di surga
 **Buah Rohani:** Maria sebagai Ratu Kita
 
 **Bapa Kami**

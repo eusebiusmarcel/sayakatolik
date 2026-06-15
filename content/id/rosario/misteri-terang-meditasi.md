@@ -20,7 +20,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Misteri Pertama: Pembaptisan Tuhan
+## Misteri Pertama: Yesus dibaptis di Sungai Yordan
 **Buah Rohani:** Keterbukaan terhadap Roh Kudus
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Misteri Kedua: Pernikahan di Kana
+## Misteri Kedua: Yesus menyatakan diri-Nya dalam pesta perkawinan di Kana
 **Buah Rohani:** Kepada Yesus melalui Maria
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Misteri Ketiga: Pewartaan Kerajaan Allah
+## Misteri Ketiga: Yesus memberitakan Kerajaan Allah dan menyerukan pertobatan
 **Buah Rohani:** Kesaksian Kristiani
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Misteri Keempat: Transfigurasi
+## Misteri Keempat: Yesus menampakkan kemuliaan-Nya
 **Buah Rohani:** Keberanian Rohani
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
-## Misteri Kelima: Penetapan Ekaristi
+## Misteri Kelima: Yesus menetapkan Ekaristi
 **Buah Rohani:** Kasih kepada Tuhan dalam Ekaristi
 
 **Bapa Kami**

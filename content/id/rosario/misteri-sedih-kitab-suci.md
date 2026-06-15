@@ -20,7 +20,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Pertama: Doa Yesus di Taman Getsemani
+## Misteri Pertama: Yesus berdoa kepada Bapa-Nya di surga dalam sakratul maut
 **Buah Rohani:** Dukacita atas Dosa
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kedua: Yesus Didera
+## Misteri Kedua: Yesus didera
 **Buah Rohani:** Kemurnian
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Ketiga: Mahkota Duri
+## Misteri Ketiga: Yesus dimahkotai duri
 **Buah Rohani:** Keberanian
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Keempat: Yesus Memanggul Salib
+## Misteri Keempat: Yesus memanggul salib-Nya ke gunung Kalvari
 **Buah Rohani:** Kesabaran
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kelima: Yesus Wafat di Kayu Salib
+## Misteri Kelima: Yesus wafat di salib
 **Buah Rohani:** Ketekunan
 
 **Bapa Kami**
