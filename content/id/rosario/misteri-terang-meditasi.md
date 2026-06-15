@@ -4,7 +4,7 @@ draft = false
 title = 'Misteri Terang – Meditasi'
 +++
 
-*Hari Kamis · [← Doa Rosario](/doa/)*
+*Hari Kamis · [← Doa Rosario](/rosario/)*
 
 ---
 

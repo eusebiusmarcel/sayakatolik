@@ -4,7 +4,7 @@ draft = false
 title = 'Misteri Mulia – Meditasi'
 +++
 
-*Hari Rabu & Minggu · [← Doa Rosario](/doa/)*
+*Hari Rabu & Minggu · [← Doa Rosario](/rosario/)*
 
 ---
 

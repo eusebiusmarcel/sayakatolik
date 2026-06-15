@@ -4,7 +4,7 @@ draft = false
 title = 'Misteri Gembira – Meditasi'
 +++
 
-*Hari Senin & Sabtu · [← Doa Rosario](/doa/)*
+*Hari Senin & Sabtu · [← Doa Rosario](/rosario/)*
 
 ---
 

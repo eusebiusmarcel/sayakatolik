@@ -4,7 +4,7 @@ draft = false
 title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 +++
 
-*Hari Selasa & Jumat · [← Doa Rosario](/doa/)*
+*Hari Selasa & Jumat · [← Doa Rosario](/rosario/)*
 
 ---
 

@@ -18,28 +18,28 @@ Tersedia dua panduan meditasi:
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Gembira | [Meditasi](/doa/misteri-gembira-meditasi/) | [Kitab Suci](/doa/misteri-gembira-kitab-suci/) |
+| Misteri Gembira | [Meditasi](/rosario/misteri-gembira-meditasi/) | [Kitab Suci](/rosario/misteri-gembira-kitab-suci/) |
 
 ## Misteri Terang
 *Hari Kamis*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Terang | [Meditasi](/doa/misteri-terang-meditasi/) | [Kitab Suci](/doa/misteri-terang-kitab-suci/) |
+| Misteri Terang | [Meditasi](/rosario/misteri-terang-meditasi/) | [Kitab Suci](/rosario/misteri-terang-kitab-suci/) |
 
 ## Misteri Sedih
 *Hari Selasa & Jumat*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Sedih | [Meditasi](/doa/misteri-sedih-meditasi/) | [Kitab Suci](/doa/misteri-sedih-kitab-suci/) |
+| Misteri Sedih | [Meditasi](/rosario/misteri-sedih-meditasi/) | [Kitab Suci](/rosario/misteri-sedih-kitab-suci/) |
 
 ## Misteri Mulia
 *Hari Rabu & Minggu*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Mulia | [Meditasi](/doa/misteri-mulia-meditasi/) | [Kitab Suci](/doa/misteri-mulia-kitab-suci/) |
+| Misteri Mulia | [Meditasi](/rosario/misteri-mulia-meditasi/) | [Kitab Suci](/rosario/misteri-mulia-kitab-suci/) |
 
 ---
 
