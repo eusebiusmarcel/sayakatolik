@@ -20,7 +20,7 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
-## Misteri Pertama: Kabar Sukacita
+## Misteri Pertama: Maria Dipilih Menjadi Bunda Allah
 **Buah Rohani:** Kerendahan Hati
 
 **Bapa Kami**

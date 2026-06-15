@@ -104,7 +104,7 @@ title = 'Misteri Sedih – Meditasi'
 
 ---
 
-## Misteri Keempat: Jalan Salib
+## Misteri Keempat: Yesus Memanggul Salib
 **Buah Rohani:** Kesabaran dalam Cobaan
 
 **Bapa Kami**
