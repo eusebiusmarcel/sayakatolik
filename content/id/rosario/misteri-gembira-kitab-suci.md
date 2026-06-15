@@ -42,7 +42,7 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Kemuliaan**
 
-*Doa Yesus:*
+*Doa Fatima:*
 
 > Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
 
@@ -70,7 +70,7 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Kemuliaan**
 
-*Doa Yesus:*
+*Doa Fatima:*
 
 > Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
 
@@ -98,7 +98,7 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Kemuliaan**
 
-*Doa Yesus:*
+*Doa Fatima:*
 
 > Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
 
@@ -126,7 +126,7 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Kemuliaan**
 
-*Doa Yesus:*
+*Doa Fatima:*
 
 > Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
 
@@ -154,7 +154,7 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Kemuliaan**
 
-*Doa Yesus:*
+*Doa Fatima:*
 
 > Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
 
