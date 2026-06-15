@@ -44,7 +44,7 @@ title = 'Peristiwa Sedih – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -72,7 +72,7 @@ title = 'Peristiwa Sedih – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -100,7 +100,7 @@ title = 'Peristiwa Sedih – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -128,7 +128,7 @@ title = 'Peristiwa Sedih – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -156,7 +156,7 @@ title = 'Peristiwa Sedih – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -164,14 +164,14 @@ title = 'Peristiwa Sedih – Meditasi'
 
 **Salam ya Ratu**
 
-> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+> Salam, ya Ratu, Bunda yang berbelas kasih, hidup, hiburan, dan harapan kami. Kami semua memanjatkan permohonan, kami amat susah, mengeluh, mengesah dalam lembah duka ini. Ya Ibunda, ya pelindung kami, limpahkanlah kasih sayangmu yang besar kepada kami. Dan Yesus, Putramu yang terpuji itu, semoga kautunjukkan kepada kami. O Ratu, O Ibu, O Maria, Bunda Kristus.
 
-*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
-*R. Supaya kami layak menerima janji-janji Kristus.*
+*V. Doakanlah kami, ya Santa Bunda Allah.*  
+*R. Supaya kami dapat menikmati janji Kristus.*
 
 **Doa Penutup**
 
-> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
+> Ya Allah, Putra-Mu telah memperoleh bagi kami ganjaran kehidupan kekal melalui hidup, wafat, dan kebangkitan-Nya. Kami mohon, agar dengan merenungkan misteri Rosario Suci Santa Perawan Maria, kami dapat menghayati maknanya dan memperoleh apa yang dijanjikan. Demi Kristus, Tuhan kami. Amin.
 
 ---
 

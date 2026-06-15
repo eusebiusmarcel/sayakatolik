@@ -30,9 +30,9 @@ title = 'Peristiwa Gembira – Meditasi'
 *Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Saat Inkarnasi telah tiba."[^1]
-2. Allah mempersiapkan Maria sejak awal untuk menjadi Bunda Sabda yang Menjelma.[^2]
+2. Allah mempersiapkan Maria sejak awal untuk menjadi Bunda Sang Sabda yang menjelma menjadi manusia.[^2]
 3. "Malaikat Gabriel menyapa: 'Salam, hai engkau yang dikaruniai! Tuhan menyertai engkau.'"[^3]
-4. Maria merasa heran mendengar sapaan itu.[^4]
+4. Maria terkejut mendengar perkataan itu.[^4]
 5. "Malaikat membesarkan hatinya: 'Jangan takut... engkau akan mengandung dan melahirkan seorang Anak Laki-laki.'"[^5]
 6. Maria risau karena ia berniat untuk tetap perawan.[^6]
 7. Malaikat menjelaskan bahwa pembuahan akan terjadi melalui kuasa Roh Kudus.[^7]
@@ -44,7 +44,7 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -60,7 +60,7 @@ title = 'Peristiwa Gembira – Meditasi'
 1. Elisabet, saudari sepupu Maria, mengandung seorang anak di masa tuanya.[^11]
 2. Kasih mendorong Maria untuk mengunjungi Elisabet dalam kebutuhannya.[^12]
 3. Perjalanan ke rumah Elisabet menempuh sekitar seratus dua puluh kilometer selama empat atau lima hari.[^13]
-4. Meskipun melelahkan, perjalanan itu penuh sukacita karena Maria membawa Sabda yang Menjelma.[^14]
+4. Meskipun melelahkan, perjalanan itu penuh sukacita karena Maria membawa Sang Sabda yang menjelma menjadi manusia.[^14]
 5. Yohanes Pembaptis dikuduskan dalam kandungan ibunya ketika Maria memberi salam.[^15]
 6. "Elisabet berseru: 'Diberkatilah engkau di antara semua perempuan dan diberkatilah buah rahimmu.'"[^16]
 7. Elisabet mempertanyakan kelayakannya menyambut Bunda Tuhannya.[^17]
@@ -72,7 +72,7 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -100,7 +100,7 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -113,8 +113,8 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
-1. Sesuai hukum Musa, mereka mempersembahkan Yesus kepada Tuhan di Bait Allah.[^31]
-2. "Menurut hukum, anak laki-laki sulung dari setiap keluarga harus dikuduskan bagi Tuhan."[^32]
+1. Menurut hukum Taurat Musa, Maria dan Yusuf mempersembahkan Yesus kepada Tuhan di Bait Allah.[^31]
+2. Seperti ada tertulis dalam hukum Tuhan: "Semua anak laki-laki sulung harus dikuduskan bagi Allah."[^32]
 3. Maria mempersembahkan Putranya kepada Bapa, lalu menebus-Nya dengan persembahan orang miskin.[^33]
 4. Yesus, meskipun tidak terikat hukum Musa, menaatinya untuk mengajarkan ketaatan.[^34]
 5. Maria, yang dikecualikan dari hukum pemurnian, dengan rendah hati tetap menaatinya.[^35]
@@ -128,7 +128,7 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -156,7 +156,7 @@ title = 'Peristiwa Gembira – Meditasi'
 
 *Doa Fatima:*
 
-> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+> Ya Yesus yang baik, ampunilah dosa-dosa kami. Selamatkanlah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang sangat membutuhkan kerahiman-Mu.
 
 ---
 
@@ -164,14 +164,14 @@ title = 'Peristiwa Gembira – Meditasi'
 
 **Salam ya Ratu**
 
-> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+> Salam, ya Ratu, Bunda yang berbelas kasih, hidup, hiburan, dan harapan kami. Kami semua memanjatkan permohonan, kami amat susah, mengeluh, mengesah dalam lembah duka ini. Ya Ibunda, ya pelindung kami, limpahkanlah kasih sayangmu yang besar kepada kami. Dan Yesus, Putramu yang terpuji itu, semoga kautunjukkan kepada kami. O Ratu, O Ibu, O Maria, Bunda Kristus.
 
-*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
-*R. Supaya kami layak menerima janji-janji Kristus.*
+*V. Doakanlah kami, ya Santa Bunda Allah.*  
+*R. Supaya kami dapat menikmati janji Kristus.*
 
 **Doa Penutup**
 
-> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
+> Ya Allah, Putra-Mu telah memperoleh bagi kami ganjaran kehidupan kekal melalui hidup, wafat, dan kebangkitan-Nya. Kami mohon, agar dengan merenungkan misteri Rosario Suci Santa Perawan Maria, kami dapat menghayati maknanya dan memperoleh apa yang dijanjikan. Demi Kristus, Tuhan kami. Amin.
 
 ---
 
