@@ -1,7 +1,7 @@
 +++
 date = '2026-06-13T00:00:00+07:00'
 draft = false
-title = 'Misteri Mulia – Meditasi'
+title = 'Peristiwa Mulia – Meditasi'
 +++
 
 *Hari Rabu & Minggu · [← Doa Rosario](/rosario/)*

@@ -13,33 +13,33 @@ Tersedia dua panduan meditasi:
 
 ---
 
-## Misteri Gembira
+## Peristiwa Gembira
 *Hari Senin & Sabtu*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Gembira | [Meditasi](/rosario/misteri-gembira-meditasi/) | [Kitab Suci](/rosario/misteri-gembira-kitab-suci/) |
+| Peristiwa Gembira | [Meditasi](/rosario/misteri-gembira-meditasi/) | [Kitab Suci](/rosario/misteri-gembira-kitab-suci/) |
 
-## Misteri Terang
+## Peristiwa Terang
 *Hari Kamis*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Terang | [Meditasi](/rosario/misteri-terang-meditasi/) | [Kitab Suci](/rosario/misteri-terang-kitab-suci/) |
+| Peristiwa Terang | [Meditasi](/rosario/misteri-terang-meditasi/) | [Kitab Suci](/rosario/misteri-terang-kitab-suci/) |
 
-## Misteri Sedih
+## Peristiwa Sedih
 *Hari Selasa & Jumat*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Sedih | [Meditasi](/rosario/misteri-sedih-meditasi/) | [Kitab Suci](/rosario/misteri-sedih-kitab-suci/) |
+| Peristiwa Sedih | [Meditasi](/rosario/misteri-sedih-meditasi/) | [Kitab Suci](/rosario/misteri-sedih-kitab-suci/) |
 
-## Misteri Mulia
+## Peristiwa Mulia
 *Hari Rabu & Minggu*
 
 | | Meditasi | Berdasarkan Kitab Suci |
 |---|---|---|
-| Misteri Mulia | [Meditasi](/rosario/misteri-mulia-meditasi/) | [Kitab Suci](/rosario/misteri-mulia-kitab-suci/) |
+| Peristiwa Mulia | [Meditasi](/rosario/misteri-mulia-meditasi/) | [Kitab Suci](/rosario/misteri-mulia-kitab-suci/) |
 
 ---
 
