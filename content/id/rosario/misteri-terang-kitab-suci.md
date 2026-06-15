@@ -20,7 +20,7 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Pertama: Yesus dibaptis di Sungai Yordan
+## Peristiwa Terang Pertama: Yesus dibaptis di Sungai Yordan
 **Buah Rohani:** Syukur atas Karunia Iman
 
 **Bapa Kami**
@@ -48,7 +48,7 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kedua: Yesus menyatakan diri-Nya dalam pesta perkawinan di Kana
+## Peristiwa Terang Kedua: Yesus menyatakan diri-Nya dalam pesta perkawinan di Kana
 **Buah Rohani:** Kesetiaan
 
 **Bapa Kami**
@@ -76,7 +76,7 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Ketiga: Yesus memberitakan Kerajaan Allah dan menyerukan pertobatan
+## Peristiwa Terang Ketiga: Yesus memberitakan Kerajaan Allah dan menyerukan pertobatan
 **Buah Rohani:** Kesaksian Kristiani
 
 **Bapa Kami**
@@ -104,7 +104,7 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Keempat: Yesus menampakkan kemuliaan-Nya
+## Peristiwa Terang Keempat: Yesus menampakkan kemuliaan-Nya
 **Buah Rohani:** Keberanian Rohani
 
 **Bapa Kami**
@@ -132,7 +132,7 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
-## Misteri Kelima: Yesus menetapkan Ekaristi
+## Peristiwa Terang Kelima: Yesus menetapkan Ekaristi
 **Buah Rohani:** Kasih kepada Tuhan dalam Ekaristi
 
 **Bapa Kami**
