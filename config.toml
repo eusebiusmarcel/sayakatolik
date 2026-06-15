@@ -5,6 +5,7 @@ theme = 'ananke'
 defaultContentLanguage = "id"
 
 [params]
+mainSections = ["posts"]
 custom_css = ["custom.css"]
 site_logo = "/images/logo-sm.png"
 favicon = "/images/logo-sm.png"
