@@ -27,6 +27,8 @@ title = 'Misteri Gembira – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Saat Inkarnasi telah tiba."[^1]
 2. Allah mempersiapkan Maria sejak awal untuk menjadi Bunda Sabda yang Menjelma.[^2]
 3. "Malaikat Gabriel menyapa: 'Salam, hai engkau yang dikaruniai! Tuhan menyertai engkau.'"[^3]
@@ -52,6 +54,8 @@ title = 'Misteri Gembira – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Elisabet, saudari sepupu Maria, mengandung seorang anak di masa tuanya.[^11]
 2. Kasih mendorong Maria untuk mengunjungi Elisabet dalam kebutuhannya.[^12]
@@ -79,6 +83,8 @@ title = 'Misteri Gembira – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yusuf dan Maria berangkat ke Betlehem atas perintah Kaisar Agustus.[^21]
 2. Tidak ada tempat bagi mereka di penginapan ketika Maria akan melahirkan.[^22]
 3. "Dalam keheningan malam, Sang Juru Selamat lahir di sebuah gua, dan Maria tetap perawan."[^23]
@@ -105,6 +111,8 @@ title = 'Misteri Gembira – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Sesuai hukum Musa, mereka mempersembahkan Yesus kepada Tuhan di Bait Allah.[^31]
 2. "Menurut hukum, anak laki-laki sulung dari setiap keluarga harus dikuduskan bagi Tuhan."[^32]
 3. Maria mempersembahkan Putranya kepada Bapa, lalu menebus-Nya dengan persembahan orang miskin.[^33]
@@ -130,6 +138,8 @@ title = 'Misteri Gembira – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Pada usia dua belas tahun, Yesus pergi ke Yerusalem bersama orang tua-Nya untuk merayakan Paskah.[^41]
 2. Setelah pesta berakhir, Yusuf dan Maria berangkat tanpa menyadari bahwa Yesus tidak ikut.[^42]

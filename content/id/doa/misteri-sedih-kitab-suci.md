@@ -27,6 +27,8 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yesus dan para rasul-Nya pergi ke Getsemani untuk berdoa. *(Mat 26:36)*
 2. Bersama Petrus, Yakobus, dan Yohanes, Ia masuk ke taman zaitun. *(Mat 26:37)*
 3. "Hati-Ku sangat sedih, seperti mau mati rasanya." *(Mat 26:38)*
@@ -52,6 +54,8 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Di hadapan Imam Besar Hanas, salah seorang penjaga menampar muka Yesus. *(Yoh 18:22)*
 2. Hanas menyuruh Yesus yang masih terikat dibawa kepada Imam Besar Kayafas. *(Yoh 18:24)*
@@ -79,6 +83,8 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yesus menjawab Pilatus bahwa Ia memang raja, tetapi kerajaan-Nya bukan dari dunia ini. *(Yoh 18:36)*
 2. Para prajurit menganyam mahkota duri dan meletakkannya di kepala-Nya dalam ejekan. *(Mat 27:29)*
 3. Mereka meletakkan sebatang buluh di tangan kanan-Nya sebagai lambang kekuasaan. *(Mat 27:29)*
@@ -105,6 +111,8 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yesus memanggul salib-Nya menuju Kalvari. *(Yoh 19:17)*
 2. "Barangsiapa tidak memikul salibnya dan mengikut Aku, ia tidak dapat menjadi murid-Ku." *(Lk 14:27)*
 3. "Pikullah kuk yang Kupasang... dan jiwamu akan mendapat ketenangan." *(Mat 11:29)*
@@ -130,6 +138,8 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Yesus dipakukan pada salib. *(Lk 23:33)*
 2. Ia berdoa: "Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat." *(Lk 23:34)*

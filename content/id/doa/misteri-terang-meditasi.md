@@ -27,6 +27,8 @@ title = 'Misteri Terang – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yohanes membaptis di sungai Yordan sambil mewartakan baptisan pertobatan.[^1]
 2. "Akulah suara orang yang berseru-seru di padang gurun: Luruskanlah jalan Tuhan."[^2]
 3. "Ia yang datang sesudah aku, lebih berkuasa dari padaku."[^3]
@@ -52,6 +54,8 @@ title = 'Misteri Terang – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Yesus, Bunda-Nya, dan para murid diundang ke pesta pernikahan di Kana.[^11]
 2. Selama pesta, anggur habis.[^12]
@@ -79,6 +83,8 @@ title = 'Misteri Terang – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Bertobatlah, sebab Kerajaan Surga sudah dekat."[^21]
 2. "Kerajaan-Ku bukan dari dunia ini."[^22]
 3. "Jika seseorang tidak dilahirkan dari air dan Roh, ia tidak dapat masuk ke dalam Kerajaan Allah."[^23]
@@ -105,6 +111,8 @@ title = 'Misteri Terang – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yesus membawa Petrus, Yakobus, dan Yohanes ke sebuah gunung yang tinggi untuk berdoa.[^31]
 2. Yesus berubah rupa di hadapan mereka.[^32]
 3. "Wajah-Nya bercahaya seperti matahari dan pakaian-Nya menjadi putih bersinar seperti terang."[^33]
@@ -130,6 +138,8 @@ title = 'Misteri Terang – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Aku sangat rindu makan Paskah ini bersama-sama dengan kamu, sebelum Aku menderita sengsara."[^41]
 2. Yesus mengambil roti dan mengucap berkat: "Ambillah, makanlah, inilah tubuh-Ku."[^42]

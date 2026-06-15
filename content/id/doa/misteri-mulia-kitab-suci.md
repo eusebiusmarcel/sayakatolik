@@ -27,6 +27,8 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Ia sudah bangkit, Ia tidak ada di sini." *(Lk 24:6)*
 2. "Ia menampakkan diri kepada para rasul dan berkata: 'Damai sejahtera bagi kamu.'" *(Yoh 20:19)*
 3. "Ia menampakkan diri kepada lebih dari lima ratus saudara pada satu kali." *(1 Kor 15:6)*
@@ -52,6 +54,8 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Aku pergi kepada Bapa-Ku dan Bapamu." *(Yoh 20:17)*
 2. "Aku pergi ke situ untuk menyediakan tempat bagimu." *(Yoh 14:2)*
@@ -79,6 +83,8 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Para rasul dan Maria berkumpul dan berdoa bersama." *(Kis 2:1)*
 2. "Tiba-tiba turunlah dari langit suatu bunyi seperti tiupan angin keras, memenuhi seluruh rumah." *(Kis 2:2)*
 3. "Lidah-lidah seperti nyala api bertebaran dan hinggap pada mereka masing-masing." *(Kis 2:3)*
@@ -105,6 +111,8 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Engkau tidak membiarkan orang kudus-Mu melihat kebinasaan." *(Mzm 16:10)*
 2. "Engkau adalah kemuliaan Yerusalem." *(Ydt 15:9)*
 3. "Bangkitlah, kekasihku, jelitaku, marilah!" *(Kid 2:10)*
@@ -130,6 +138,8 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Suatu tanda besar tampak di langit: Seorang perempuan berselubungkan matahari." *(Why 12:1)*
 2. "Bulan berada di bawah kakinya dan di atas kepalanya ada sebuah mahkota dari dua belas bintang." *(Why 12:1)*

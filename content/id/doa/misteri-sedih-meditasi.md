@@ -27,6 +27,8 @@ title = 'Misteri Sedih – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Yesus datang bersama murid-murid-Nya ke Getsemani: 'Duduklah di sini, sementara Aku pergi ke sana untuk berdoa.'"[^1]
 2. "Bersama Petrus, Yakobus, dan Yohanes, Yesus berdoa: 'Hati-Ku sangat sedih, seperti mau mati rasanya.'"[^2]
 3. Yesus merasakan dosa seluruh umat manusia dan menanggung kesalahannya atas diri-Nya.[^3]
@@ -52,6 +54,8 @@ title = 'Misteri Sedih – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. Yesus dihadapkan kepada Imam Besar dengan tuduhan palsu, dipukul, dan dihina.[^11]
 2. Para pemimpin Yahudi membawa Yesus ke hadapan Pilatus, satu-satunya yang berkuasa menjatuhkan hukuman mati.[^12]
@@ -79,6 +83,8 @@ title = 'Misteri Sedih – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Pilatus bertanya: "Apakah Engkau raja orang Yahudi?" Yesus menjawab bahwa kerajaan-Nya bukan dari dunia ini.[^21]
 2. Para prajurit memakaikan jubah ungu tua pada Yesus untuk mengejek klaim kerajaan-Nya.[^22]
 3. "Mereka menganyam mahkota duri dan dengan paksa menekannya di atas kepala-Nya."[^23]
@@ -105,6 +111,8 @@ title = 'Misteri Sedih – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Orang yang dihukum mati salib harus memanggul salibnya sendiri menuju tempat hukuman.[^31]
 2. "Penderitaan Yesus sangat berat ketika salib diletakkan di punggung dan bahu-Nya yang sudah memar dan terluka."[^32]
 3. Karena lemah akibat kehilangan darah, lapar, dan kelelahan, Yesus jatuh di bawah salib beberapa kali.[^33]
@@ -130,6 +138,8 @@ title = 'Misteri Sedih – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Tangan dan kaki Yesus dipaku pada salib di hadapan Bunda-Nya yang berdukacita."[^41]
 2. "Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat."[^42]

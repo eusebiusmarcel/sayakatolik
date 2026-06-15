@@ -27,6 +27,8 @@ title = 'Misteri Mulia – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Jenazah Yesus dibaringkan di dalam kubur pada malam Jumat Agung."[^1]
 2. "Jiwa-Nya turun ke alam maut untuk mewartakan kabar keselamatan kepada jiwa-jiwa yang benar."[^2]
 3. "Karena takut jenazah Yesus akan dicuri, para imam kepala menempatkan penjaga di depan kubur."[^3]
@@ -52,6 +54,8 @@ title = 'Misteri Mulia – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Yesus tinggal di bumi selama empat puluh hari setelah kebangkitan-Nya untuk membuktikan bahwa Ia sungguh telah bangkit."[^11]
 2. "Ia mengutus para rasul untuk mewartakan Injil kepada seluruh ciptaan, dan berjanji untuk selalu menyertai mereka."[^12]
@@ -79,6 +83,8 @@ title = 'Misteri Mulia – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Para rasul berkumpul di ruang atas tempat Yesus mengadakan Perjamuan Terakhir."[^21]
 2. "Mereka tekun berdoa bersama Maria, Bunda Yesus."[^22]
 3. "Tiba-tiba turunlah dari langit suatu bunyi seperti tiupan angin keras yang memenuhi seluruh rumah."[^23]
@@ -105,6 +111,8 @@ title = 'Misteri Mulia – Meditasi'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Setelah para rasul berpencar, Bunda Maria tinggal bersama Yohanes, murid yang terkasih."[^31]
 2. "Maria hidup bertahun-tahun di bumi setelah wafat Kristus."[^32]
 3. "Ia menjadi sumber penghiburan, ketenteraman, dan kekuatan bagi para rasul."[^33]
@@ -130,6 +138,8 @@ title = 'Misteri Mulia – Meditasi'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Ketika Maria memasuki surga, seluruh istana surga menyambut dengan penuh sukacita mahakarya ciptaan Allah ini."[^41]
 2. "Maria dimahkotai oleh Putra Ilahinya sebagai Ratu surga dan bumi."[^42]

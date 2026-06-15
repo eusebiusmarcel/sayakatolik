@@ -27,6 +27,8 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Ada suara orang yang berseru-seru di padang gurun." *(Mk 1:3)*
 2. "Yohanes Pembaptis mewartakan pertobatan." *(Mat 3:1–2)*
 3. Yohanes mewartakan Seseorang yang tali kasut-Nya pun ia tidak layak untuk membungkuk dan melepaskannya. *(Mk 1:7)*
@@ -52,6 +54,8 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Terjadilah pesta pernikahan di Kana yang di Galilea." *(Yoh 2:1)*
 2. "Anggur habis. Maria menjadi perantara." *(Yoh 2:3)*
@@ -79,6 +83,8 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. Yesus mewartakan: "Kerajaan Allah sudah dekat. Bertobatlah dan percayalah kepada Injil." *(Mk 1:15)*
 2. "Yesus berkeliling di seluruh Galilea... memberitakan Injil Kerajaan Allah." *(Mat 4:23)*
 3. "Yesus mengajarkan Sabda Bahagia kepada orang banyak." *(Mat 5:1–12)*
@@ -105,6 +111,8 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Yesus membawa Petrus, Yakobus, dan Yohanes ke atas sebuah gunung yang tinggi." *(Mat 17:1)*
 2. "Yesus berubah rupa di hadapan mereka; wajah-Nya bercahaya seperti matahari." *(Mat 17:2)*
 3. "Tiba-tiba tampaklah kepada mereka Musa dan Elia." *(Mk 9:4)*
@@ -130,6 +138,8 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Hari raya Roti Tidak Beragi, yang disebut Paskah, sudah dekat." *(Lk 22:1)*
 2. "Yesus menyuruh murid-murid-Nya mempersiapkan Paskah." *(Mat 26:17–18)*

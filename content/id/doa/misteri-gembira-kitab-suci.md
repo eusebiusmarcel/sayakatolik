@@ -27,6 +27,8 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Melalui ketidaktaatan Adam, dosa masuk ke dalam dunia." *(Rm 5:12)*
 2. "Bapa mengutus Putra-Nya untuk menyelamatkan dunia." *(Yoh 3:17)*
 3. "Malaikat Gabriel diutus kepada seorang perawan bernama Maria." *(Lk 1:26–27)*
@@ -52,6 +54,8 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Maria mengunjungi saudari sepupunya yang sudah tua, Elisabet." *(Lk 1:40)*
 2. "Elisabet sedang mengandung. Namanya Yohanes." *(Lk 1:13)*
@@ -79,6 +83,8 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Di Betlehem akan lahir Dia yang akan memerintah umat-Ku." *(Mi 5:2)*
 2. "Yusuf dan Maria berangkat dari Nazaret ke Betlehem untuk mendaftarkan diri." *(Lk 2:4)*
 3. "Di sana Maria melahirkan Anak Allah." *(Lk 2:7)*
@@ -105,6 +111,8 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 
 **Salam Maria** *(10×)*
 
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
+
 1. "Ketika Bayi Yesus berumur delapan hari, Ia disunat." *(Lk 2:21)*
 2. "Dan orang tua-Nya menamai Dia Yesus." *(Lk 2:21)*
 3. "Nama Yesus adalah satu-satunya nama yang olehnya kita diselamatkan." *(Kis 4:12)*
@@ -130,6 +138,8 @@ title = 'Misteri Gembira – Berdasarkan Kitab Suci'
 **Bapa Kami**
 
 **Salam Maria** *(10×)*
+
+*Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
 1. "Yesus berumur dua belas tahun dan pergi ke Yerusalem bersama Maria dan Yusuf." *(Lk 2:42)*
 2. "Yesus tinggal di Yerusalem. Orang tua-Nya tidak menyadarinya." *(Lk 2:43)*
