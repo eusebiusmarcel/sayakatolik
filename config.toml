@@ -23,5 +23,5 @@ weight = 1
     weight = 10
   [[languages.id.menus.main]]
     name = 'Doa Rosario'
-    pageRef = '/doa'
+    pageRef = '/rosario'
     weight = 20
