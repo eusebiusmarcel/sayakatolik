@@ -10,7 +10,13 @@ title = 'Misteri Terang – Meditasi'
 
 ### Pembukaan
 
-**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+**Aku Percaya** · **Bapa Kami**
+
+*Salam Putri Allah Bapa* · **Salam Maria**  
+*Salam Bunda Allah Putra* · **Salam Maria**  
+*Salam Mempelai Allah Roh Kudus* · **Salam Maria**
+
+**Kemuliaan**
 
 ---
 
