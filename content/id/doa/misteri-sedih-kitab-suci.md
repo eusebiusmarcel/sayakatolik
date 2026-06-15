@@ -8,8 +8,18 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Doa Yesus di Taman Getsemani
 **Buah Rohani:** Dukacita atas Dosa
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus dan para rasul-Nya pergi ke Getsemani untuk berdoa. *(Mat 26:36)*
 2. Bersama Petrus, Yakobus, dan Yohanes, Ia masuk ke taman zaitun. *(Mat 26:37)*
@@ -22,10 +32,20 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 9. "Yesus ditangkap dan dibawa ke rumah Imam Besar." *(Lk 22:54)*
 10. Para murid meninggalkan Dia dan melarikan diri. *(Mat 26:56)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Yesus Didera
 **Buah Rohani:** Kemurnian
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Di hadapan Imam Besar Hanas, salah seorang penjaga menampar muka Yesus. *(Yoh 18:22)*
 2. Hanas menyuruh Yesus yang masih terikat dibawa kepada Imam Besar Kayafas. *(Yoh 18:24)*
@@ -38,10 +58,20 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 9. "Ia tertikam oleh karena pemberontakan kita, Ia diremukkan oleh karena kejahatan kita." *(Yes 53:5)*
 10. "Oleh bilur-bilur-Nya kita menjadi sembuh." *(Yes 53:5)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Mahkota Duri
 **Buah Rohani:** Keberanian
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus menjawab Pilatus bahwa Ia memang raja, tetapi kerajaan-Nya bukan dari dunia ini. *(Yoh 18:36)*
 2. Para prajurit menganyam mahkota duri dan meletakkannya di kepala-Nya dalam ejekan. *(Mat 27:29)*
@@ -54,10 +84,20 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 9. Mereka menjawab: "Kami tidak mempunyai raja selain Kaisar!" *(Yoh 19:15)*
 10. "Dia dianiaya, tetapi dia membiarkan diri ditindas dan tidak membuka mulutnya." *(Yes 53:7)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Yesus Memanggul Salib
 **Buah Rohani:** Kesabaran
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus memanggul salib-Nya menuju Kalvari. *(Yoh 19:17)*
 2. "Barangsiapa tidak memikul salibnya dan mengikut Aku, ia tidak dapat menjadi murid-Ku." *(Lk 14:27)*
@@ -70,10 +110,20 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 9. "Tidak mungkin aku bermegah, selain dalam salib Tuhan kita Yesus Kristus." *(Gal 6:14)*
 10. Orang yang mengikuti dunia adalah "musuh salib Kristus." *(Flp 3:18)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Yesus Wafat di Kayu Salib
 **Buah Rohani:** Ketekunan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus dipakukan pada salib. *(Lk 23:33)*
 2. Ia berdoa: "Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat." *(Lk 23:34)*
@@ -85,6 +135,27 @@ title = 'Misteri Sedih – Berdasarkan Kitab Suci'
 8. "Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya." *(Yoh 15:13)*
 9. Setelah menyelesaikan misi penebusan-Nya, Yesus berseru: "Sudah selesai." *(Yoh 19:30)*
 10. "Ya Bapa, ke dalam tangan-Mu Kuserahkan nyawa-Ku." *(Lk 23:46)*
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

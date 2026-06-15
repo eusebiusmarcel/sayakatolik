@@ -8,8 +8,18 @@ title = 'Misteri Mulia – Meditasi'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Kebangkitan Yesus
 **Buah Rohani:** Iman
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Jenazah Yesus dibaringkan di dalam kubur pada malam Jumat Agung."[^1]
 2. "Jiwa-Nya turun ke alam maut untuk mewartakan kabar keselamatan kepada jiwa-jiwa yang benar."[^2]
@@ -22,10 +32,20 @@ title = 'Misteri Mulia – Meditasi'
 9. "Malam itu Ia menampakkan diri kepada para rasul di balik pintu yang terkunci: 'Damai sejahtera bagi kamu!'"[^9]
 10. "Yesus mengembusi mereka dan memberikan kuasa untuk mengampuni dosa."[^10]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Kenaikan Yesus ke Surga
 **Buah Rohani:** Pengharapan Kristiani
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Yesus tinggal di bumi selama empat puluh hari setelah kebangkitan-Nya untuk membuktikan bahwa Ia sungguh telah bangkit."[^11]
 2. "Ia mengutus para rasul untuk mewartakan Injil kepada seluruh ciptaan, dan berjanji untuk selalu menyertai mereka."[^12]
@@ -38,10 +58,20 @@ title = 'Misteri Mulia – Meditasi'
 9. "Luka-luka di tubuh-Nya yang dimuliakan adalah permohonan tiada henti kepada Bapa demi kita."[^19]
 10. "Para murid meninggalkan Bukit Zaitun dan 'kembali ke Yerusalem dengan sukacita besar.'"[^20]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Pentakosta
 **Buah Rohani:** Karunia Roh Kudus
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Para rasul berkumpul di ruang atas tempat Yesus mengadakan Perjamuan Terakhir."[^21]
 2. "Mereka tekun berdoa bersama Maria, Bunda Yesus."[^22]
@@ -54,10 +84,20 @@ title = 'Misteri Mulia – Meditasi'
 9. "Hari itu Petrus berkhotbah dan membaptis tiga ribu orang."[^29]
 10. "Hari raya Pentakosta adalah hari jadi Gereja, karena pada hari itu Gereja mulai bertumbuh."[^30]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Maria Diangkat ke Surga
 **Buah Rohani:** Kerinduan akan Surga
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Setelah para rasul berpencar, Bunda Maria tinggal bersama Yohanes, murid yang terkasih."[^31]
 2. "Maria hidup bertahun-tahun di bumi setelah wafat Kristus."[^32]
@@ -70,10 +110,20 @@ title = 'Misteri Mulia – Meditasi'
 9. "Kerusakan tubuh adalah akibat dosa asal, yang darinya Maria sepenuhnya dibebaskan."[^39]
 10. "Tubuh seluruh umat manusia, pada penghakiman terakhir, akan dibangkitkan dan disatukan kembali dengan jiwa."[^40]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Penobatan Maria sebagai Ratu Surga dan Bumi
 **Buah Rohani:** Rahmat Ketekunan Akhir
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Ketika Maria memasuki surga, seluruh istana surga menyambut dengan penuh sukacita mahakarya ciptaan Allah ini."[^41]
 2. "Maria dimahkotai oleh Putra Ilahinya sebagai Ratu surga dan bumi."[^42]
@@ -85,6 +135,27 @@ title = 'Misteri Mulia – Meditasi'
 8. "Para malaikat dan orang kudus merindukan kedatangan dia yang tumitnya meremukkan kepala ular."[^48]
 9. "Maria membela perkara kita sebagai Ratu yang perkasa dan Bunda yang penuh kerahiman dan kasih."[^49]
 10. "Suatu tanda besar tampak di langit: Seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya dan sebuah mahkota dari dua belas bintang di atas kepalanya."[^50]
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

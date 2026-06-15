@@ -8,8 +8,18 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Pembaptisan Tuhan
 **Buah Rohani:** Syukur atas Karunia Iman
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Ada suara orang yang berseru-seru di padang gurun." *(Mk 1:3)*
 2. "Yohanes Pembaptis mewartakan pertobatan." *(Mat 3:1–2)*
@@ -22,10 +32,20 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 9. "Satu Tuhan, satu iman, satu baptisan." *(Ef 4:5)*
 10. "Kita telah dikuburkan bersama-sama dengan Dia oleh baptisan... supaya kita juga berjalan dalam hidup yang baru." *(Rm 6:4)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Pesta Pernikahan di Kana
 **Buah Rohani:** Kesetiaan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Terjadilah pesta pernikahan di Kana yang di Galilea." *(Yoh 2:1)*
 2. "Anggur habis. Maria menjadi perantara." *(Yoh 2:3)*
@@ -38,10 +58,20 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 9. "Hai suami, kasihilah istrimu sebagaimana Kristus telah mengasihi jemaat." *(Ef 5:25)*
 10. "Berbahagialah mereka yang diundang ke perjamuan kawin Anak Domba." *(Why 19:9)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Pewartaan Kerajaan Allah dan Seruan Pertobatan
 **Buah Rohani:** Kesaksian Kristiani
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus mewartakan: "Kerajaan Allah sudah dekat. Bertobatlah dan percayalah kepada Injil." *(Mk 1:15)*
 2. "Yesus berkeliling di seluruh Galilea... memberitakan Injil Kerajaan Allah." *(Mat 4:23)*
@@ -54,10 +84,20 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 9. "Yesus mengutus murid-murid-Nya untuk mewartakan Kerajaan Allah dan menyembuhkan orang sakit." *(Lk 9:2)*
 10. "Para rasul mewartakan Kristus yang telah bangkit." *(Kis 2:32)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Transfigurasi
 **Buah Rohani:** Keberanian Rohani
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Yesus membawa Petrus, Yakobus, dan Yohanes ke atas sebuah gunung yang tinggi." *(Mat 17:1)*
 2. "Yesus berubah rupa di hadapan mereka; wajah-Nya bercahaya seperti matahari." *(Mat 17:2)*
@@ -70,10 +110,20 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 9. "Jika kita turut menderita bersama Dia, kita akan turut dipermuliakan bersama-sama dengan Dia." *(1 Pet 4:13–16)*
 10. "Murid-murid bersukacita karena mereka dianggap layak untuk menderita penghinaan demi nama-Nya." *(Kis 5:41)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Penetapan Ekaristi
 **Buah Rohani:** Kasih kepada Tuhan dalam Ekaristi
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Hari raya Roti Tidak Beragi, yang disebut Paskah, sudah dekat." *(Lk 22:1)*
 2. "Yesus menyuruh murid-murid-Nya mempersiapkan Paskah." *(Mat 26:17–18)*
@@ -85,6 +135,27 @@ title = 'Misteri Terang – Berdasarkan Kitab Suci'
 8. "Jikalau kamu tidak makan daging Anak Manusia... kamu tidak mempunyai hidup di dalam dirimu." *(Yoh 6:53)*
 9. "Cawan berkat yang kita berkati adalah persekutuan dengan darah Kristus. Roti yang kita pecah-pecahkan adalah persekutuan dengan tubuh Kristus." *(1 Kor 10:16)*
 10. "Setiap kali kamu makan roti ini dan minum cawan ini, kamu memberitakan kematian Tuhan sampai Ia datang." *(1 Kor 11:26)*
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

@@ -8,8 +8,18 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Yesus Bangkit dari Antara Orang Mati
 **Buah Rohani:** Iman
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Ia sudah bangkit, Ia tidak ada di sini." *(Lk 24:6)*
 2. "Ia menampakkan diri kepada para rasul dan berkata: 'Damai sejahtera bagi kamu.'" *(Yoh 20:19)*
@@ -22,10 +32,20 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 9. "Barangsiapa percaya kepada-Ku, ia tidak akan mati selama-lamanya." *(Yoh 11:26)*
 10. "Aku percaya. Tolonglah aku yang tidak percaya ini!" *(Mk 9:24)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Yesus Naik ke Surga
 **Buah Rohani:** Pengharapan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Aku pergi kepada Bapa-Ku dan Bapamu." *(Yoh 20:17)*
 2. "Aku pergi ke situ untuk menyediakan tempat bagimu." *(Yoh 14:2)*
@@ -38,10 +58,20 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 9. "Yesus naik ke surga, duduk di sebelah kanan Allah." *(Mk 16:19)*
 10. "Dan Aku, apabila Aku ditinggikan dari bumi, Aku akan menarik semua orang datang kepada-Ku." *(Yoh 12:32)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Turunnya Roh Kudus
 **Buah Rohani:** Kasih kepada Allah
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Para rasul dan Maria berkumpul dan berdoa bersama." *(Kis 2:1)*
 2. "Tiba-tiba turunlah dari langit suatu bunyi seperti tiupan angin keras, memenuhi seluruh rumah." *(Kis 2:2)*
@@ -54,10 +84,20 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 9. "Kasihilah seorang akan yang lain." *(Yoh 15:12)*
 10. "Kasihilah musuhmu." *(Mat 5:44)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Maria Diangkat ke Surga
 **Buah Rohani:** Maria sebagai Bunda Kita
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Engkau tidak membiarkan orang kudus-Mu melihat kebinasaan." *(Mzm 16:10)*
 2. "Engkau adalah kemuliaan Yerusalem." *(Ydt 15:9)*
@@ -70,10 +110,20 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 9. "Aku akan datang kembali dan membawa kamu ke tempat-Ku." *(Yoh 14:3)*
 10. "Maka terbukalah Bait Suci Allah yang di surga, dan kelihatanlah tabut perjanjian-Nya." *(Why 11:19)*
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Maria Dimahkotai Ratu Surga dan Bumi
 **Buah Rohani:** Maria sebagai Ratu Kita
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Suatu tanda besar tampak di langit: Seorang perempuan berselubungkan matahari." *(Why 12:1)*
 2. "Bulan berada di bawah kakinya dan di atas kepalanya ada sebuah mahkota dari dua belas bintang." *(Why 12:1)*
@@ -85,6 +135,27 @@ title = 'Misteri Mulia – Berdasarkan Kitab Suci'
 8. "Siapa yang mencari aku akan mendapatkan aku." *(Ams 8:17)*
 9. "Orang yang melayani aku tidak akan kecewa." *(Sir 24:21)*
 10. "Orang yang menemukan aku mendapat kehidupan." *(Ams 8:35)*
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

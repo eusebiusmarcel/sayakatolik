@@ -8,8 +8,18 @@ title = 'Misteri Terang – Meditasi'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Pembaptisan Tuhan
 **Buah Rohani:** Keterbukaan terhadap Roh Kudus
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yohanes membaptis di sungai Yordan sambil mewartakan baptisan pertobatan.[^1]
 2. "Akulah suara orang yang berseru-seru di padang gurun: Luruskanlah jalan Tuhan."[^2]
@@ -22,10 +32,20 @@ title = 'Misteri Terang – Meditasi'
 9. Dalam penampakan surgawi ini, sakramen baptis dilembagakan.[^9]
 10. Tritunggal Allah dinyatakan: suara Bapa terdengar sementara Roh turun atas Sang Putra.[^10]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Pernikahan di Kana
 **Buah Rohani:** Kepada Yesus melalui Maria
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus, Bunda-Nya, dan para murid diundang ke pesta pernikahan di Kana.[^11]
 2. Selama pesta, anggur habis.[^12]
@@ -38,10 +58,20 @@ title = 'Misteri Terang – Meditasi'
 9. Atas permintaan Maria, Yesus melakukan mukjizat pertama-Nya.[^19]
 10. Dengan kehadiran-Nya, perkawinan Kristiani ditinggikan menjadi Sakramen.[^20]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Pewartaan Kerajaan Allah
 **Buah Rohani:** Kesaksian Kristiani
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Bertobatlah, sebab Kerajaan Surga sudah dekat."[^21]
 2. "Kerajaan-Ku bukan dari dunia ini."[^22]
@@ -54,10 +84,20 @@ title = 'Misteri Terang – Meditasi'
 9. "Berbahagialah orang yang dianiaya oleh sebab kebenaran, karena merekalah yang empunya Kerajaan Surga."[^29]
 10. "Engkau adalah Petrus dan di atas batu karang ini Aku akan mendirikan jemaat-Ku... Aku akan memberikan kepadamu kunci Kerajaan Surga."[^30]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Transfigurasi
 **Buah Rohani:** Keberanian Rohani
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus membawa Petrus, Yakobus, dan Yohanes ke sebuah gunung yang tinggi untuk berdoa.[^31]
 2. Yesus berubah rupa di hadapan mereka.[^32]
@@ -70,10 +110,20 @@ title = 'Misteri Terang – Meditasi'
 9. Yesus memesan kepada mereka agar tidak memberitahukan penglihatan itu kepada siapa pun sebelum Ia bangkit dari antara orang mati.[^39]
 10. Kita pun akan melihat Yesus yang dimuliakan pada hari penghakiman terakhir.[^40]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Penetapan Ekaristi
 **Buah Rohani:** Kasih kepada Tuhan dalam Ekaristi
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Aku sangat rindu makan Paskah ini bersama-sama dengan kamu, sebelum Aku menderita sengsara."[^41]
 2. Yesus mengambil roti dan mengucap berkat: "Ambillah, makanlah, inilah tubuh-Ku."[^42]
@@ -85,6 +135,27 @@ title = 'Misteri Terang – Meditasi'
 8. Ekaristi adalah kurban sejauh dipersembahkan, dan sakramen sejauh diterima.[^48]
 9. Dalam Misa kita mempersembahkan diri kepada Allah, dan Allah memberikan diri-Nya kepada kita.[^49]
 10. Misa akan berbuah sesuai dengan seberapa besar kita menyerahkan diri kepada Bapa.[^50]
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

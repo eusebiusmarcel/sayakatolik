@@ -8,8 +8,18 @@ title = 'Misteri Sedih – Meditasi'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Doa di Taman Getsemani
 **Buah Rohani:** Kehendak Allah Terlaksana
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Yesus datang bersama murid-murid-Nya ke Getsemani: 'Duduklah di sini, sementara Aku pergi ke sana untuk berdoa.'"[^1]
 2. "Bersama Petrus, Yakobus, dan Yohanes, Yesus berdoa: 'Hati-Ku sangat sedih, seperti mau mati rasanya.'"[^2]
@@ -22,10 +32,20 @@ title = 'Misteri Sedih – Meditasi'
 9. Yudas mengkhianati Yesus, yang kemudian diikat dengan kejam dan dibawa pergi.[^9]
 10. Melalui kepedihan Yesus di taman ini, kita memohon kerahiman ilahi bagi semua orang.[^10]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Yesus Didera
 **Buah Rohani:** Kemurnian
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yesus dihadapkan kepada Imam Besar dengan tuduhan palsu, dipukul, dan dihina.[^11]
 2. Para pemimpin Yahudi membawa Yesus ke hadapan Pilatus, satu-satunya yang berkuasa menjatuhkan hukuman mati.[^12]
@@ -38,10 +58,20 @@ title = 'Misteri Sedih – Meditasi'
 9. Nubuat Yesaya terpenuhi: "Ia tertikam oleh karena pemberontakan kita, Ia diremukkan oleh karena kejahatan kita."[^19]
 10. Melalui pendeaan Yesus ini, kita memohon kerahiman ilahi bagi seluruh dunia.[^20]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Mahkota Duri
 **Buah Rohani:** Kristus Merajai Hati Kita
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Pilatus bertanya: "Apakah Engkau raja orang Yahudi?" Yesus menjawab bahwa kerajaan-Nya bukan dari dunia ini.[^21]
 2. Para prajurit memakaikan jubah ungu tua pada Yesus untuk mengejek klaim kerajaan-Nya.[^22]
@@ -54,10 +84,20 @@ title = 'Misteri Sedih – Meditasi'
 9. Yesus menanggung penghinaan ini untuk menebus kesombongan manusia.[^29]
 10. Melalui penghinaan ini, kita memohon kerahiman ilahi bagi semua orang.[^30]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Jalan Salib
 **Buah Rohani:** Kesabaran dalam Cobaan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Orang yang dihukum mati salib harus memanggul salibnya sendiri menuju tempat hukuman.[^31]
 2. "Penderitaan Yesus sangat berat ketika salib diletakkan di punggung dan bahu-Nya yang sudah memar dan terluka."[^32]
@@ -70,10 +110,20 @@ title = 'Misteri Sedih – Meditasi'
 9. "Setiap orang yang mau mengikut Aku, ia harus menyangkal dirinya, memikul salibnya dan mengikut Aku."[^39]
 10. Melalui perjalanan menuju Kalvari ini, kita memohon kerahiman ilahi bagi semua orang.[^40]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Penyaliban dan Wafat Yesus
 **Buah Rohani:** Pengampunan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Tangan dan kaki Yesus dipaku pada salib di hadapan Bunda-Nya yang berdukacita."[^41]
 2. "Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat."[^42]
@@ -85,6 +135,27 @@ title = 'Misteri Sedih – Meditasi'
 8. "Ya Bapa, ke dalam tangan-Mu Kuserahkan nyawa-Ku."[^48]
 9. "Lambung Yesus ditikam dengan tombak. Tubuh-Nya diturunkan dan dibaringkan dalam pelukan Bunda-Nya."[^49]
 10. Melalui penyaliban dan wafat Yesus, kita memohon kerahiman ilahi bagi semua orang.[^50]
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 

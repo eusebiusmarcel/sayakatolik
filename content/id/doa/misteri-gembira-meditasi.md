@@ -8,8 +8,18 @@ title = 'Misteri Gembira – Meditasi'
 
 ---
 
+### Pembukaan
+
+**Aku Percaya** · **Bapa Kami** · **Salam Maria** *(3×)* · **Kemuliaan**
+
+---
+
 ## Misteri Pertama: Kabar Sukacita
 **Buah Rohani:** Kerendahan Hati
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. "Saat Inkarnasi telah tiba."[^1]
 2. Allah mempersiapkan Maria sejak awal untuk menjadi Bunda Sabda yang Menjelma.[^2]
@@ -22,10 +32,20 @@ title = 'Misteri Gembira – Meditasi'
 9. "Maria menjawab: 'Sesungguhnya aku ini adalah hamba Tuhan; jadilah padaku menurut perkataanmu itu.'"[^9]
 10. "Firman itu telah menjadi manusia dan diam di antara kita."[^10]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kedua: Kunjungan Maria kepada Elisabet
 **Buah Rohani:** Kasih kepada Sesama
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Elisabet, saudari sepupu Maria, mengandung seorang anak di masa tuanya.[^11]
 2. Kasih mendorong Maria untuk mengunjungi Elisabet dalam kebutuhannya.[^12]
@@ -38,10 +58,20 @@ title = 'Misteri Gembira – Meditasi'
 9. Maria memuliakan Allah dan mengungkapkan sukacita rohaninya dalam Magnificat.[^19]
 10. Maria dengan rendah hati melayani saudarinya selama tiga bulan sampai kelahiran Yohanes.[^20]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Ketiga: Kelahiran Tuhan Yesus
 **Buah Rohani:** Kemerdekaan dari Hal Duniawi
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Yusuf dan Maria berangkat ke Betlehem atas perintah Kaisar Agustus.[^21]
 2. Tidak ada tempat bagi mereka di penginapan ketika Maria akan melahirkan.[^22]
@@ -54,10 +84,20 @@ title = 'Misteri Gembira – Meditasi'
 9. Para gembala datang ke kandang untuk menghormati Bayi Yesus.[^29]
 10. Orang-orang Majus datang untuk menyembah Sang Bayi dan mempersembahkan hadiah.[^30]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Keempat: Persembahan Yesus di Bait Allah
 **Buah Rohani:** Ketaatan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Sesuai hukum Musa, mereka mempersembahkan Yesus kepada Tuhan di Bait Allah.[^31]
 2. "Menurut hukum, anak laki-laki sulung dari setiap keluarga harus dikuduskan bagi Tuhan."[^32]
@@ -70,10 +110,20 @@ title = 'Misteri Gembira – Meditasi'
 9. "Dan suatu pedang akan menembus jiwamu sendiri," demikian Simeon kepada Maria.[^39]
 10. Setelah memenuhi semua kewajiban hukum, mereka kembali ke Nazaret.[^40]
 
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
 ---
 
 ## Misteri Kelima: Yesus Diketemukan di Bait Allah
 **Buah Rohani:** Ketekunan
+
+**Bapa Kami**
+
+**Salam Maria** *(10×)*
 
 1. Pada usia dua belas tahun, Yesus pergi ke Yerusalem bersama orang tua-Nya untuk merayakan Paskah.[^41]
 2. Setelah pesta berakhir, Yusuf dan Maria berangkat tanpa menyadari bahwa Yesus tidak ikut.[^42]
@@ -85,6 +135,27 @@ title = 'Misteri Gembira – Meditasi'
 8. "Yesus: 'Mengapa kamu mencari Aku? Tidakkah kamu tahu, bahwa Aku harus berada di dalam rumah Bapa-Ku?'"[^48]
 9. Yesus kembali bersama mereka ke Nazaret dan tunduk kepada otoritas mereka.[^49]
 10. "Maria menyimpan semua perkara itu di dalam hatinya."[^50]
+
+**Kemuliaan**
+
+*Doa Yesus:*
+
+> Ya Yesus, ampunilah dosa-dosa kami, bebaskanlah kami dari api neraka, bawakanlah semua jiwa ke surga, terutama mereka yang sangat membutuhkan belas kasih-Mu.
+
+---
+
+### Doa Penutup
+
+**Salam ya Ratu**
+
+> Salam ya Ratu, Bunda yang berbelas kasihan; hidup, hiburan, dan pengharapan kami, salam! Kepadamu kami berseru, orang-orang buangan putra-putri Hawa; kepadamu kami mengeluh, menangis, dan meratap di lembah duka ini. Oleh karena itu, ya Pelindung kami, dengan belaskasihmu yang besar, tataplah kami, dan tunjukkanlah kepada kami Yesus, buah kandunganmu yang terpuji. Ya yang murah hati, ya yang pengasih, ya Perawan Maria yang manis.
+
+*V. Berdoalah bagi kami, ya Santa Bunda Allah.*  
+*R. Supaya kami layak menerima janji-janji Kristus.*
+
+**Doa Penutup**
+
+> Ya Allah, Putera-Mu dengan hidup, wafat, dan kebangkitan-Nya telah memberi kami anugerah keselamatan kekal. Kami mohon, semoga kami yang merenungkan misteri-misteri ini dalam Rosario Bunda Maria Terberkati, dapat meneladan apa yang terkandung di dalamnya dan memperoleh apa yang dijanjikannya. Melalui Kristus, Tuhan kami. Amin.
 
 ---
 
