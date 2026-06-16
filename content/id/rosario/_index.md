@@ -5,7 +5,7 @@ title = 'Doa Rosario'
 body_classes = 'avenir bg-near-white rosario'
 +++
 
-Rosario adalah doa meditasi yang mengajak kita merenungkan misteri-misteri kehidupan Yesus dan Maria. Setiap misteri direnungkan sambil mendoakan satu pekan: satu Bapa Kami, sepuluh Salam Maria, dan satu Kemuliaan.
+Rosario adalah doa meditasi yang mengajak kita merenungkan misteri-misteri kehidupan Yesus dan Maria. Setiap misteri direnungkan sambil mendoakan satu Bapa Kami, sepuluh Salam Maria, dan satu Kemuliaan.
 
 Tersedia dua gaya meditasi untuk setiap peristiwa:
 
