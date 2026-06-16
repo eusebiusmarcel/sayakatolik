@@ -2,6 +2,7 @@
 date = '2026-06-13T00:00:00+07:00'
 draft = false
 title = 'Doa Rosario'
+body_classes = 'avenir bg-near-white rosario'
 +++
 
 Rosario adalah doa meditasi yang mengajak kita merenungkan misteri-misteri kehidupan Yesus dan Maria. Setiap misteri direnungkan sambil mendoakan satu pekan: satu Bapa Kami, sepuluh Salam Maria, dan satu Kemuliaan.

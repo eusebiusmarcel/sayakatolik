@@ -11,6 +11,13 @@
 .bg-50-5 { background-position: 50% 5%; }
 .bg-25-0 { background-position: 25% 0%; }
 
+/* Doa Rosario index: drop bullets on the option lists.
+   The numbered renungan are <ol>, so they are unaffected. */
+.rosario article ul {
+    list-style: none;
+    padding-left: 0;
+}
+
 
 /* .summary:nth-child(odd) {
     background-color: var(--light-taupe); 
