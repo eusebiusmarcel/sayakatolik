@@ -34,7 +34,7 @@ title = 'Peristiwa Sedih – Meditasi Naratif'
 3. Yesus merasakan dosa seluruh umat manusia dan menanggung kesalahannya atas diri-Nya.[^3]
 4. Ia memahami murka Bapa yang harus dipuaskan oleh penderitaan-Nya.[^4]
 5. Kecemasan-Nya menjadi begitu hebat hingga keringat-Nya jatuh seperti titik-titik darah ke tanah.[^5]
-6. "Lalu seorang malaikat dari langit menampakkan diri kepada-Nya untuk memberi kekuatan kepada-Nya."[^6]
+6. "Maka seorang malaikat dari langit menampakkan diri kepada-Nya untuk memberi kekuatan kepada-Nya."[^6]
 7. "Ya Bapa-Ku, jikalau mungkin, biarlah cawan ini lalu dari pada-Ku, tetapi janganlah seperti yang Kukehendaki, melainkan seperti yang Engkau kehendaki."[^7]
 8. "Mendapati murid-murid tertidur: 'Tidakkah kamu sanggup berjaga-jaga satu jam dengan Aku?'"[^8]
 9. Yudas mengkhianati Yesus, yang kemudian diikat dengan kejam dan dibawa pergi.[^9]
@@ -66,7 +66,7 @@ title = 'Peristiwa Sedih – Meditasi Naratif'
 7. Anak Domba Allah mempersembahkan penderitaan-Nya sebagai penebus dosa manusia.[^17]
 8. Yesus menanggung siksaan fisik ini terutama untuk menebus dosa-dosa kedagingan.[^18]
 9. Nubuat Yesaya terpenuhi: "Ia tertikam oleh karena pemberontakan kita, Ia diremukkan oleh karena kejahatan kita."[^19]
-10. Melalui pendeaan Yesus ini, kita memohon kerahiman ilahi bagi seluruh dunia.[^20]
+10. Melalui penderaan Yesus ini, kita memohon kerahiman ilahi bagi seluruh dunia.[^20]
 
 **Kemuliaan**
 
