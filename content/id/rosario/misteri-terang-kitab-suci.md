@@ -123,7 +123,7 @@ featured_image_class = "cover bg-center fp-terang"
 6. "Suara dari awan menyatakan tentang Yesus: 'Inilah Anak-Ku yang Kukasihi... Dengarkanlah Dia.'" *(Mat 17:5)*
 7. "Murid-murid sangat ketakutan." *(Mat 17:6)*
 8. "Yesus mendatangi mereka dan berkata: 'Bangunlah dan jangan takut!'" *(Mat 17:7)*
-9. "Jika kita turut menderita bersama Dia, kita akan turut dipermuliakan bersama-sama dengan Dia." *(1 Pet 4:13–16)*
+9. "Jika kita turut menderita bersama Dia, kita akan turut dipermuliakan bersama-sama dengan Dia." *(Rm 8:17)*
 10. "Murid-murid bersukacita karena mereka dianggap layak untuk menderita penghinaan demi nama-Nya." *(Kis 5:41)*
 
 **Kemuliaan**

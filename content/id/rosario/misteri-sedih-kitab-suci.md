@@ -64,7 +64,7 @@ featured_image_class = "cover bg-center fp-sedih"
 3. Mereka mencari kesaksian palsu tentang Yesus untuk dapat menghukum mati Dia. *(Mat 26:59)*
 4. Petrus tiga kali menyangkal bahwa ia murid Yesus. *(Yoh 18:17, 25, 27)*
 5. Yesus dibawa ke hadapan Pilatus, karena hanya Pilatus yang dapat menjatuhkan hukuman mati. *(Yoh 18:31)*
-6. Pilatus tidak menemukan kesalahan apa pun pada Yesus. *(Yoh 18:39)*
+6. Pilatus tidak menemukan kesalahan apa pun pada Yesus. *(Yoh 18:38)*
 7. Untuk menyenangkan orang-orang Yahudi, Pilatus menyuruh Yesus didera. *(Yoh 19:1)*
 8. "Penyakit kitalah yang ditanggungnya, dan kesengsaraan kita yang dipikulnya." *(Yes 53:4)*
 9. "Ia tertikam oleh karena pemberontakan kita, Ia diremukkan oleh karena kejahatan kita." *(Yes 53:5)*

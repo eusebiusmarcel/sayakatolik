@@ -38,7 +38,7 @@ featured_image = "/images/peristiwa-gembira.jpg"
 6. "Maria menyetujui: 'Jadilah padaku menurut perkataanmu itu.'" *(Lk 1:38)*
 7. "Allah Putra menjadi manusia, dalam ketaatan kepada Bapa-Nya." *(Lk 1:35)*
 8. "Oleh ketaatan seorang, banyak orang akan menjadi orang benar." *(Rm 5:19)*
-9. "Maria menjadi Bunda Allah." *(Lk 1:35)*
+9. Maria menjadi Bunda Allah. *(Lk 1:43)*
 10. "Tidak ada sesuatu pun yang mustahil bagi Allah." *(Lk 1:37)*
 
 **Kemuliaan**

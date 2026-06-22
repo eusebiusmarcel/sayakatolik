@@ -87,12 +87,12 @@ featured_image_class = "cover bg-center fp-mulia"
 
 *Ucapkan satu Salam Maria untuk setiap renungan berikut:*
 
-1. "Para rasul dan Maria berkumpul dan berdoa bersama." *(Kis 2:1)*
+1. "Para rasul dan Maria berkumpul dan berdoa bersama." *(Kis 1:14; 2:1)*
 2. "Tiba-tiba turunlah dari langit suatu bunyi seperti tiupan angin keras, memenuhi seluruh rumah." *(Kis 2:2)*
 3. "Lidah-lidah seperti nyala api bertebaran dan hinggap pada mereka masing-masing." *(Kis 2:3)*
 4. "Mereka semua dipenuhi dengan Roh Kudus." *(Kis 2:4)*
 5. "Orang-orang dari berbagai bangsa itu mendengar mereka berkata-kata dalam bahasa mereka sendiri." *(Kis 2:6)*
-6. "Mereka dikuatkan untuk memberitakan Injil tanpa rasa takut." *(Kis 4:19)*
+6. "Mereka dikuatkan untuk memberitakan Injil tanpa rasa takut." *(Kis 4:31)*
 7. "Allah telah membuat Yesus ini menjadi Tuhan dan Kristus." *(Kis 2:36)*
 8. "Kamu semua adalah anak-anak Allah karena iman di dalam Yesus Kristus." *(Gal 3:26)*
 9. "Kasihilah seorang akan yang lain." *(Yoh 15:12)*

@@ -34,7 +34,7 @@ featured_image_class = "cover bg-center fp-sedih"
 1. "Yesus datang bersama murid-murid-Nya ke Getsemani: 'Duduklah di sini, sementara Aku pergi ke sana untuk berdoa.'"[^1]
 2. "Bersama Petrus, Yakobus, dan Yohanes, Yesus berdoa: 'Hati-Ku sangat sedih, seperti mau mati rasanya.'"[^2]
 3. Yesus merasakan dosa seluruh umat manusia dan menanggung kesalahannya atas diri-Nya.[^3]
-4. Ia memahami murka Bapa yang harus dipuaskan oleh penderitaan-Nya.[^4]
+4. Ia memahami betapa besar harga penebusan dosa kita — penderitaan yang harus dipikul-Nya demi mendamaikan kita dengan Bapa.[^4]
 5. Kecemasan-Nya menjadi begitu hebat hingga keringat-Nya jatuh seperti titik-titik darah ke tanah.[^5]
 6. "Maka seorang malaikat dari langit menampakkan diri kepada-Nya untuk memberi kekuatan kepada-Nya."[^6]
 7. "Ya Bapa-Ku, jikalau mungkin, biarlah cawan ini lalu dari pada-Ku, tetapi janganlah seperti yang Kukehendaki, melainkan seperti yang Engkau kehendaki."[^7]
@@ -180,7 +180,7 @@ featured_image_class = "cover bg-center fp-sedih"
 [^1]: Mat 26:36
 [^2]: Mat 26:38
 [^3]: KGK 612; Yes 53:4–6
-[^4]: KGK 612; Rm 3:25
+[^4]: KGK 612-613
 [^5]: Lk 22:44
 [^6]: Lk 22:43
 [^7]: Mat 26:39; Lk 22:42
@@ -194,7 +194,7 @@ featured_image_class = "cover bg-center fp-sedih"
 [^15]: Tradisi/Sejarah. Deskripsi cambuk Romawi (*flagrum*) berasal dari catatan sejarah, bukan dari Kitab Suci maupun Katekismus.
 [^16]: Yoh 19:1
 [^17]: Yes 53:7; Yoh 1:29
-[^18]: Tradisi Devosi. Hubungan antara deaan Yesus dan penebusan dosa-dosa kedagingan secara khusus berasal dari tradisi devosional (antara lain Santo Bernardus), bukan dari teks KGK secara eksplisit.
+[^18]: Tradisi Devosi. Hubungan antara deraan Yesus dan penebusan dosa-dosa kedagingan secara khusus berasal dari tradisi devosional (antara lain Santo Bernardus), bukan dari teks KGK secara eksplisit.
 [^19]: Yes 53:5
 [^20]: KGK 616
 [^21]: Yoh 18:36–37
@@ -208,9 +208,9 @@ featured_image_class = "cover bg-center fp-sedih"
 [^29]: KGK 615; Flp 2:8
 [^30]: KGK 616
 [^31]: Yoh 19:17
-[^32]: Yes 53:4
+[^32]: Tradisi Jalan Salib. Kitab Suci tidak secara eksplisit menggambarkan salib diletakkan di bahu Yesus; detail ini berasal dari tradisi devosional.
 [^33]: Mk 15:21; KGK 618; Tradisi. Kitab Suci tidak menyebut Yesus jatuh secara eksplisit; Mk 15:21 menyiratkan Yesus tidak mampu memikul salib sendiri. Tiga kali jatuh berasal dari Tradisi Jalan Salib.
-[^34]: Lk 2:35; KGK 618
+[^34]: Lk 2:35; Tradisi Jalan Salib
 [^35]: Yes 52:14
 [^36]: Tradisi. Kisah Veronika tidak terdapat dalam Kitab Suci maupun Katekismus; berasal dari tradisi devosional Jalan Salib Barat.
 [^37]: Mk 15:21; Lk 23:26

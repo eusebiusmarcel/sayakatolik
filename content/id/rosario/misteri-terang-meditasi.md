@@ -39,7 +39,7 @@ featured_image_class = "cover bg-center fp-terang"
 6. Meskipun menyatakan diri tidak layak, Yohanes membaptis Yesus di sungai Yordan.[^6]
 7. Setelah baptisan Yesus, suara dari surga bersabda: "Inilah Anak-Ku yang Kukasihi, kepada-Nyalah Aku berkenan."[^7]
 8. Roh Kudus turun atas Yesus dalam rupa burung merpati.[^8]
-9. Dalam penampakan surgawi ini, sakramen baptis dilembagakan.[^9]
+9. Dalam baptisan Yesus ini, sakramen Pembaptisan diprafigurasikan dan air dikuduskan bagi kelahiran kembali kita.[^9]
 10. Tritunggal Allah dinyatakan: suara Bapa terdengar sementara Roh turun atas Sang Putra.[^10]
 
 **Kemuliaan**
@@ -185,7 +185,7 @@ featured_image_class = "cover bg-center fp-terang"
 [^6]: Mat 3:14–15
 [^7]: Mat 3:17
 [^8]: Mat 3:16; Lk 3:22
-[^9]: KGK 1213, 1223–1225
+[^9]: KGK 536, 1223–1225
 [^10]: Mat 3:16–17; KGK 536
 [^11]: Yoh 2:1–2
 [^12]: Yoh 2:3
