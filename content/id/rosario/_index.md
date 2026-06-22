@@ -2,6 +2,7 @@
 date = '2026-06-13T00:00:00+07:00'
 draft = false
 title = 'Doa Rosario'
+featured_image = "/images/rosario.jpg"
 body_classes = 'avenir bg-near-white rosario'
 +++
 

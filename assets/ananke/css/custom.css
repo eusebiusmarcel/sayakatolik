@@ -18,6 +18,15 @@
     padding-left: 0;
 }
 
+/* Banner focal points: these paintings are tall portraits, so the default
+   centered crop hides the subject. Pull the focus to the key figure. */
+/* Index is a list page (site-header.html), which ignores the per-page
+   featured_image_class. Scope its banner focus via the .rosario body class. */
+.rosario header.cover { background-position: 50% 30% !important; } /* Madonna */
+.fp-terang  { background-position: 50% 2%  !important; } /* Christ transfigured (top) */
+.fp-sedih   { background-position: 50% 14% !important; } /* Christ's head */
+.fp-mulia   { background-position: 50% 20% !important; } /* risen Christ (Bloch: face/halo) */
+
 
 /* .summary:nth-child(odd) {
     background-color: var(--light-taupe); 

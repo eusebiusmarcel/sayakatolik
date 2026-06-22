@@ -2,6 +2,8 @@
 date = '2026-06-13T00:00:00+07:00'
 draft = false
 title = 'Peristiwa Terang – Meditasi Naratif'
+featured_image = "/images/peristiwa-terang.jpg"
+featured_image_class = "cover bg-center fp-terang"
 +++
 
 *Hari Kamis · [← Doa Rosario](/rosario/)*

@@ -2,6 +2,8 @@
 date = '2026-06-13T00:00:00+07:00'
 draft = false
 title = 'Peristiwa Sedih – Meditasi Kitab Suci'
+featured_image = "/images/peristiwa-sedih.jpg"
+featured_image_class = "cover bg-center fp-sedih"
 +++
 
 *Hari Selasa & Jumat · [← Doa Rosario](/rosario/)*
