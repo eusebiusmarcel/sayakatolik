@@ -26,3 +26,13 @@ gh api -X PUT repos/eusebiusmarcel/sayakatolik/pages -f build_type=workflow   # 
 ```
 
 The custom domain (`cname`) is stored separately and survives the switch.
+
+## Local preview
+
+Preview with `hugo server -D --renderToMemory`. **Do not** run a production
+`hugo --minify` build while previewing: `config.toml`'s `baseURL` is the production
+domain, so a production build writes absolute `https://sayakatolik.com/...` URLs (and
+fingerprinted asset names) into the tracked `public/`, and a disk-serving dev server
+then serves those — making not-yet-deployed images/CSS appear blank. Serving from
+memory (`--renderToMemory`) keeps preview independent of `public/`. Rebuild `public/`
+with `hugo --minify` only as the **last step before deploy**.
