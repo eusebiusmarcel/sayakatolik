@@ -105,3 +105,13 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.3] 'Liber de Causis' is never attributed to 'sang Filsuf' unless the Latin does so; the 1920 English does it in I q.3 a.8.
 - [asal: STh I q.3] Psalms on imankatolik.or.id merge the title into v.1 (English numbering): Vulg. 33:16 = Mzm 34:15, Vulg. 33:6 = Mzm 34:5. Job: Vulg. 40:4 = Ayb 40:9, because Vulgate Job 39 has 35 verses.
 - [asal: STh I q.3] Istilah-seragam rows keyed to a location still have to match the Latin: I q.3 a1 ad 4 has 'immobilitas', not 'immutabilitas', so 'ketidakberubahan' is not applied there.
+- [asal: STh I q.11] With the unified terms, 'dalam arti tertentu' belongs to secundum quid only. Render quodammodo and aliquo modo as 'dengan cara tertentu', because the two occur in the same sentence (a1 ad 2).
+- [asal: STh I q.11] 'Ipsa' (the things themselves) and the English 'in itself' must not be rendered 'pada dirinya', which is reserved for per se; never place 'pada dirinya' next to 'secara mutlak'.
+- [asal: STh I q.11] In paired conditionals ('si ... erit ...; si vero e converso ...'), keep both protases as 'jika'. Do not turn the first into a statement of possibility, because that breaks the symmetry of the argument.
+- [asal: STh I q.11] The 1920 English renders 'nobis autem unus Deus' (1 Cor 8:6) as 'Our God is one'. Translate the Latin ('bagi kita ada satu Allah'), and do not supply an author the Latin does not name ('subdit').
+- [asal: STh I q.10] The 1920 English drops minor premises of objections (a2 obj 1: 'Sed aeternitas est aliquid factum'). Check that every Sed/autem step of each syllogism is present.
+- [asal: STh I q.10] When an objection proves its point from a word in a Scripture quotation (aevum in Sir 1:1 Vulg. and 3 Esdras; tempora aeterna in Rm 16:25), render that word with the article's technical term and in the Latin number (plural), and mark the quotation (Vulg.) if the phrase is Vulgate-only.
+- [asal: STh I q.10] Time is numerus motus, not mensura: the English slips into 'measure' of before and after. Keep 'bilangan' for numerus throughout q.10.
+- [asal: STh I q.10] Check the scope of limiting phrases like 'quantum ad eorum naturam pertinet' (a5 resp): the English attaches them to the wrong clause, which can shift doctrine on the angels.
+- [asal: STh I q.10] 'Quod tanto est simplicius, quanto prius' = the more prior, the simpler. Tanto ... quanto correlatives must not become 'the nearer to the first'.
+- [asal: STh I q.10] Psalm references: Catholic (imankatolik) numbering = Hebrew verse minus one for one-verse titles, and ayat.json texts confirm it (Mzm 75:5 = Heb 75:6; Mzm 80:16 = Heb 80:17). So Vulg. 75:5 → Mzm 76:4 and Vulg. 80:16 → Mzm 81:15, but always re-check with ayat.py.

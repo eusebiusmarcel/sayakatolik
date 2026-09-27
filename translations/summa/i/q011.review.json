@@ -1,0 +1,298 @@
+{
+  "findings": [
+    {
+      "at": "a1.ad2",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Sed tamen si sit indivisum simpliciter; vel quia ... vel quia ... huiusmodi erit unum simpliciter, et multa secundum quid",
+      "current": "Namun, sesuatu dapat tidak terbagi secara mutlak, entah karena ... Dalam hal demikian, sesuatu itu \"satu\" secara mutlak dan \"banyak\" secara relatif.",
+      "suggested": "Namun, jika sesuatu tidak terbagi secara mutlak, entah karena ... entah karena ..., maka sesuatu itu \"satu\" secara mutlak dan \"banyak\" dalam arti tertentu.",
+      "why": "The Latin is a conditional ('si ... erit') that pairs with the following 'si vero ... e converso'; the translation turned it into a statement of possibility and broke the parallel.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad2",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "quod est divisum numero, est indivisum secundum speciem ... sicut quod est unum subiecto et multa secundum accidentia",
+      "current": "dapat tidak terbagi dalam spesies ... seperti apa yang satu dalam subjek dapat memiliki banyak aksiden",
+      "suggested": "tidak terbagi dalam spesies ... seperti apa yang satu dalam subjek dan banyak menurut aksiden-aksidennya",
+      "why": "The Latin is indicative in both places; the English added 'may'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad2; a2.ad1",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "secundum quid",
+      "current": "secara relatif / bersifat relatif (9x)",
+      "suggested": "dalam arti tertentu",
+      "why": "Unified terms (secundum quid → dalam arti tertentu); 'relatif' is reserved for relatio.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad2; a2.obj1; a3.respondeo[2]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "aliquo modo / quodammodo",
+      "current": "dalam arti tertentu",
+      "suggested": "dengan cara tertentu",
+      "why": "Pelajaran q.5: quodammodo → 'dengan cara tertentu'; 'dalam arti tertentu' is now reserved for secundum quid, and the two appear side by side in a1 ad 2.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ideo non est nugatio cum dicitur ens unum, quia unum addit aliquid secundum rationem supra ens",
+      "current": "Tidak menyusul bahwa sia-sia mengatakan ... sebab \"satu\" menambahkan suatu pengertian pada \"sesuatu yang ada\".",
+      "suggested": "Tidak ada pengulangan yang sia-sia bila dikatakan bahwa \"sesuatu yang ada\" itu \"satu\", sebab \"satu\" menambahkan sesuatu menurut pengertian pada \"sesuatu yang ada\".",
+      "why": "The Latin denies the tautology outright rather than saying 'it does not follow', and 'aliquid secundum rationem' means a merely conceptual addition, which answers the realist addition of obj. 1–3.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ens, quod circuit omnia genera",
+      "current": "yang meresapi semua genus",
+      "suggested": "yang melingkupi semua genus",
+      "why": "'Circuit' means 'goes around, encompasses' (being transcends the genera); 'penetrates' is the English.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "addat rem aliquam supra substantiam entis",
+      "current": "pada substansi hal-hal yang ada",
+      "suggested": "pada substansi \"sesuatu yang ada\"",
+      "why": "Latin 'entis' is singular and repeats the formula of the preceding clause; the English 'beings' breaks the parallel.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.obj1; a2.ad1; a3.obj2; a3.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "praedicari de / praedicatur de",
+      "current": "dipredikatkan pada (yaitu dikatakan tentang)",
+      "suggested": "dikatakan tentang",
+      "why": "Unified terms: praedicari de → 'dikatakan tentang' (q11 listed, about 7x).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.obj4",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ut privatio habitui",
+      "current": "habitus (yaitu dimilikinya sesuatu itu)",
+      "suggested": "habitus (keadaan memiliki)",
+      "why": "Unified terms §C fix the gloss for habitus as the opposite of privation.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.sed_contra",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quorum rationes sunt oppositae, ipsa sunt opposita",
+      "current": "pada dirinya juga saling berlawanan",
+      "suggested": "hal-hal itu sendiri juga saling berlawanan",
+      "why": "'Ipsa' only means 'the things themselves'; 'pada dirinya' is reserved for per se (pelajaran q.7, q.8).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "talis est constitutio continui ex suis partibus",
+      "current": "susunan suatu hal yang bersinambung",
+      "suggested": "susunan sesuatu yang kontinu (bersambung tanpa putus)",
+      "why": "Unified terms: continuum → 'yang kontinu', with the gloss on first use.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.ad4",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "non simpliciter, sed secundum rationem nostrae apprehensionis",
+      "current": "bukan secara mutlak pada dirinya",
+      "suggested": "bukan secara mutlak",
+      "why": "The English 'in itself' is not in the Latin, and putting 'pada dirinya' next to 'secara mutlak' merges per se with simpliciter.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.ad4",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "divisa non intelligimus habere rationem multitudinis",
+      "current": "kita tidak memahami",
+      "suggested": "kita tidak mengerti",
+      "why": "Unified terms: intelligere → 'mengerti'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.ad4",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "et sic secundo apprehendimus divisionem",
+      "current": "kita menangkap keterbagian sebagai akibatnya",
+      "suggested": "yang kedua kita tangkap ialah keterbagian",
+      "why": "The Latin is about the order of apprehension (secondly), not about causal consequence; the ordinal belongs to the sequence ens, divisio, unum, multitudo.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "illud unde aliquod singulare est hoc aliquid, nullo modo est multis communicabile ... multis communicari potest ... non potest communicari nisi uni tantum",
+      "current": "sesuatu yang tunggal ... dimiliki bersama oleh banyak individu ... hanya dapat dimiliki oleh satu individu",
+      "suggested": "suatu hal individual ... dapat dibagikan kepada banyak individu ... hanya dapat dibagikan kepada satu individu saja",
+      "why": "Unified terms: singulare → 'hal individual' ('tunggal' clashes with unicus), communicabile → 'dapat dibagikan'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "ita non possent esse plures homines",
+      "current": "tidak mungkin ada banyak manusia dengan cara itu",
+      "suggested": "tidak mungkin ada banyak manusia",
+      "why": "'In that way' is the English's addition and weakens the conclusion the argument transfers to God.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[1]; a3.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ex infinitate eius perfectionis; principium infinitum; infinitus",
+      "current": "ketidakterhinggaan / tidak terhingga (3x)",
+      "suggested": "ketakterbatasan / tak terbatas",
+      "why": "Unified terms §B: infinitum → 'tak terbatas'; 'tak terhingga' is kept only for the regress in a1 ad 1.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.respondeo[1]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "quasi ab ipsa coacti veritate",
+      "current": "terdesak oleh kebenaran",
+      "suggested": "terdesak oleh kebenaran itu sendiri",
+      "why": "The English drops the intensifier 'ipsa'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[2]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "cum igitur illud quod est primum, sit perfectissimum et per se, non per accidens",
+      "current": "adalah yang paling sempurna, dan paling sempurna pada dirinya (per se), bukan secara aksidental",
+      "suggested": "adalah yang paling sempurna dan bersifat pada dirinya, bukan secara aksidental",
+      "why": "'Per se, non per accidens' qualifies the first as a per se cause (answering 'per se unius unum est causa'), not its perfection; the Latin in brackets also breaks gaya-bahasa §1 (removed in the previous sentence too).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad1",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "qui multos deos colebant",
+      "current": "menyembah banyak dewa",
+      "suggested": "menyembah banyak allah",
+      "why": "Unified terms: dii → 'allah' (the reply turns on the same word as the objection's 'banyak allah').",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.ad1",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "Unde subdit, nobis autem unus Deus, et cetera.",
+      "current": "Karena itu, sang Rasul (Paulus) menambahkan: \"Namun, bagi kita ada satu Allah,\" ... (1Kor 8:6)",
+      "suggested": "Karena itu, di situ ditambahkan: \"Namun, bagi kita ada satu Allah,\" ... (1Kor 8:6)",
+      "why": "The Latin names no author ('subdit'); the quotation itself is correct against the Latin (not the English 'Our God is one'), and the reference 1Kor 8:6 matches the verse text.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "sed solum de his quae habent esse in materia ... quae habent esse in materia, sed sunt secundum rationem a materia abstracta",
+      "current": "hanya pada hal-hal material ... yang keberadaannya bersifat material dan hanya dalam pengertian diabstraksikan dari materi",
+      "suggested": "hanya tentang hal-hal yang memiliki keberadaan dalam materi ... yang memiliki keberadaan dalam materi, tetapi menurut pengertian diabstraksikan dari materi",
+      "why": "Thomas's contrast is 'esse in materia' against 'secundum esse non dependet a materia'; the English 'only' is not in the Latin.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[4]; a4.respondeo",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "utrum sit maxime unus; Deus est maxime unus",
+      "current": "satu dalam tingkat yang paling tinggi",
+      "suggested": "paling sungguh satu",
+      "why": "Same Latin as the a4 title and body ('maxime unus' → 'paling sungguh satu', parallel to 'maxime ens'); the English varied the phrase.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.obj1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "privatio non recipit magis et minus. Ergo Deus non dicitur magis unus quam alia quae sunt unum",
+      "current": "kekurangan tidak dapat lebih besar atau lebih kecil. Jadi, Allah tidak lebih sungguh \"satu\" daripada hal-hal lain yang disebut \"satu\"",
+      "suggested": "kekurangan tidak mengenal lebih dan kurang. Jadi, Allah tidak disebut lebih sungguh \"satu\" daripada hal-hal lain yang satu",
+      "why": "Same formula as ad 1 ('non recipit magis et minus'), and 'dicitur' belongs to God, not to the other things.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.obj3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quod est per essentiam bonum ... per essentiam suam unum ... unum per suam essentiam ... Deus igitur non est magis unum quam alia entia",
+      "current": "baik secara esensial ... satu secara esensial ... seperti dikatakan sang Filsuf (Aristoteles) ... daripada hal yang ada mana pun",
+      "suggested": "baik karena esensinya ... satu karena esensinya ... seperti dikatakan sang Filsuf ... daripada hal-hal lain yang ada",
+      "why": "'Per essentiam' means 'by its essence', parallel to 'per suam substantiam' in ad 3; the '(Aristoteles)' gloss was repeated after its first use in a2 ad 1 (pelajaran q.2).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.ad1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "etiam ipsa privativa dicuntur secundum magis et minus",
+      "current": "kekurangan pun dapat dipandang dari segi lebih dan kurang",
+      "suggested": "hal-hal yang dikatakan melalui kekurangan pun dikatakan menurut lebih dan kurang",
+      "why": "The Latin is indicative ('dicuntur'), with privative terms as the subject; the English added a modal and changed the subject.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.11] With the unified terms, 'dalam arti tertentu' belongs to secundum quid only. Render quodammodo and aliquo modo as 'dengan cara tertentu', because the two occur in the same sentence (a1 ad 2).",
+    "[asal: STh I q.11] 'Ipsa' (the things themselves) and the English 'in itself' must not be rendered 'pada dirinya', which is reserved for per se; never place 'pada dirinya' next to 'secara mutlak'.",
+    "[asal: STh I q.11] In paired conditionals ('si ... erit ...; si vero e converso ...'), keep both protases as 'jika'. Do not turn the first into a statement of possibility, because that breaks the symmetry of the argument.",
+    "[asal: STh I q.11] The 1920 English renders 'nobis autem unus Deus' (1 Cor 8:6) as 'Our God is one'. Translate the Latin ('bagi kita ada satu Allah'), and do not supply an author the Latin does not name ('subdit')."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

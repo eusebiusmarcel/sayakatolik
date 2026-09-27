@@ -109,5 +109,27 @@
       "minor": 11
     },
     "open_findings": 0
+  },
+  "i/q010": {
+    "status": "ai-reviewed",
+    "source_sha256": "09d5476a0462cce791ce06f9d1af0bb9582c9f055abe4e5103a4facdefa57394",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 21,
+      "major": 19
+    },
+    "open_findings": 0
+  },
+  "i/q011": {
+    "status": "ai-reviewed",
+    "source_sha256": "43db97a8c033c261b4d41435a67cf94d5a06fabe01aad2de45d7c15ca74880dc",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 1,
+      "minor": 25
+    },
+    "open_findings": 0
   }
 }
