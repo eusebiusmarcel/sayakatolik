@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <article class="summa-page mw7 center ph3 pv4">
+    {{ with .Parent }}{{ if ne .Kind "home" }}
+      <aside class="b helvetica tracked ttu f6 summa-crumbs"><a href="{{ .RelPermalink }}">{{ .Title }}</a></aside>
+    {{ end }}{{ end }}
+    <h1 class="f2 athelas mt3">{{ .Title }}</h1>
+    <div class="lh-copy serif f4 mid-gray nested-links">{{ .Content }}</div>
+
+    {{ with .Sections.ByWeight }}
+      <ul class="summa-list">
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            <span class="mid-gray f6">· {{ len .RegularPages }} bagian sudah diterjemahkan</span></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ with .RegularPages.ByWeight }}
+      <ul class="summa-list">
+        {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}
+      </ul>
+    {{ end }}
+  </article>
+{{ end }}

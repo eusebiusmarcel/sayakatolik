@@ -65,6 +65,11 @@ parallel, but a question's own steps never do.
    - Append its `glossary_proposals` to `docs/summa/glosarium-usulan.md`.
    - **Never edit `glosarium.md` yourself**: only the owner approves terms.
 
+7. **Render.** Run `python3 tools/summa/render.py <pars> <range>`. It writes the Hugo pages
+   under `content/id/summa/<pars>/`, but only for questions whose manifest status is
+   `ai-reviewed` or later. Never edit those pages by hand. Preview with
+   `hugo server -D --renderToMemory` (see CLAUDE.md).
+
 At the end, report a table: question, status, open findings, and new glossary
 proposals. Ask the owner to spot-check questions tagged `needs-human` first.
 

@@ -26,3 +26,13 @@ weight = 1
     name = 'Doa Rosario'
     pageRef = '/rosario'
     weight = 20
+  [[languages.id.menus.main]]
+    name = 'Summa Theologiae'
+    pageRef = '/summa'
+    weight = 30
+# Summa: anchors on paragraphs ({#a1-ob1}) and an article-level table of contents
+[markup.goldmark.parser.attribute]
+  block = true
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 2
