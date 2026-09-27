@@ -1,0 +1,287 @@
+{
+  "findings": [
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Quia vero infinito convenire videtur quod ubique et in omnibus sit",
+      "current": "Karena jelaslah bahwa berada di mana-mana dan dalam segala sesuatu termasuk ciri dari yang tidak terhingga",
+      "suggested": "Karena tampaknya berada di mana-mana dan dalam segala sesuatu termasuk ciri dari yang tak terbatas",
+      "why": "'Videtur' is 'seems', not the English 'evidently', and unified terms §B: infinitum → tak terbatas.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj1",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "secundum illud Psalmi, excelsus super omnes gentes dominus",
+      "current": "(Mzm 112:4)",
+      "suggested": "(Mzm 113:4; Vulg. 112:4)",
+      "why": "Catholic-Bible Mzm 112:4 is a different verse; the quoted text is Mzm 113:4 (Vulg. 112:4).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.obj3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "tanto ad magis distans eius actio procedit ... ad ea etiam quae ab ipso distant",
+      "current": "makin luas jangkauan tindakannya ... dapat menjangkau hal-hal yang jauh",
+      "suggested": "makin jauh jangkauan tindakannya ... dapat menjangkau bahkan hal-hal yang jauh",
+      "why": "The argument turns on distance ('distans'), and 'etiam' was dropped.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj4; a1.ad4",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "Daemones res aliquae sunt / inquantum sunt res quaedam",
+      "current": "setan-setan adalah sesuatu yang ada / sejauh mereka adalah sesuatu yang ada",
+      "suggested": "setan-setan adalah hal-hal tertentu / sejauh mereka adalah hal-hal tertentu",
+      "why": "The Latin is 'res', not 'ens'; 'sesuatu yang ada' is the approved glossary term for ens.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.sed_contra",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "omnia opera nostra operatus es in nobis, domine",
+      "current": "\"Tuhan … Engkau telah mengerjakan segala pekerjaan kami di dalam [Vulg.: 'bagi'] kami.\"",
+      "suggested": "\"Engkau telah mengerjakan segala pekerjaan kami di dalam [Vulg.: 'bagi'] kami, ya Tuhan.\"",
+      "why": "Thomas's text has no ellipsis; the vocative 'domine' stands at the end, and the ellipsis wrongly implies an omission. Reference Yes 26:12 is correct.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Oportet enim omne agens coniungi ... motum et movens oportet esse simul ... et intime",
+      "current": "suatu pelaku mesti bersatu ... mesti bersatu ... secara paling mendalam",
+      "suggested": "setiap pelaku mesti bersatu ... mesti berada bersama ... secara mendalam",
+      "why": "'Omne' is universal; 'simul' means together (co-present), not united; 'intime' is positive, not superlative.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad2; a1.ad3",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "per quandam similitudinem corporalium / per dissimilitudinem naturae vel gratiae",
+      "current": "kemiripan / ketidakmiripannya",
+      "suggested": "keserupaan / ketidakserupaannya",
+      "why": "Unified terms §D: similitudo → keserupaan (the table names a1 ad 3 explicitly).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ad maximam virtutem Dei pertinet ... quasi in se illud Deum non habeat",
+      "current": "termasuk kebesaran kuasa Allah ... seolah-olah sesuatu itu dapat ada tanpa Allah di dalamnya",
+      "suggested": "termasuk kuasa Allah yang teramat besar ... seolah-olah sesuatu itu tidak memiliki Allah di dalam dirinya",
+      "why": "The superlative 'maximam' was lost, and the English added a modal ('could be without') to an indicative clause.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad4",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "in Daemonibus intelligitur et natura ... In rebus autem quae nominant naturam non deformatam, absolute dicendum est Deum esse.",
+      "current": "Dalam setan-setan terdapat kodrat mereka ... tentang hal-hal yang kodratnya tidak cacat",
+      "suggested": "Dalam setan-setan dipahami baik kodrat mereka ... tentang hal-hal yang namanya menunjuk kodrat yang tidak cacat",
+      "why": "The reply is about what the name 'demons' signifies ('intelligitur', 'quae nominant'), which is why the qualification is linguistic; the English turned it into a statement about things.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.obj2; a2.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "unum indivisibile actionis vel motus / indivisibile est duplex",
+      "current": "satu bagian yang tak terbagi / hal yang tak terbagi",
+      "suggested": "satu hal yang tidak dapat dibagi / hal yang tidak dapat dibagi",
+      "why": "Unified terms §B: indivisibile → tidak dapat dibagi; 'bagian' is an English addition and contradicts ad 2, where the indivisible is a term, not a part.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Tale igitur indivisibile non applicatur ad continuum sicut aliquid eius",
+      "current": "Hal tak terbagi semacam ini tidak termasuk dalam yang kontinu sebagai bagiannya",
+      "suggested": "Jadi, hal yang tidak dapat dibagi semacam ini tidak dikenakan pada yang kontinu sebagai sesuatu dari yang kontinu itu",
+      "why": "'Applicatur' is 'is applied to', and 'igitur' was dropped; the gloss for continuum was also standardized to '(bersambung tanpa putus)'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ut dans eis esse et virtutem et operationem",
+      "current": "keberadaan, kuasa, dan kegiatan",
+      "suggested": "keberadaan, daya, dan kegiatan",
+      "why": "Unified terms §D: the virtus of creatures → daya; 'kuasa' is reserved for God.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.title; a3.obj1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "utrum Deus sit ubique per essentiam et potentiam et praesentiam / male assignentur modi ... per essentiam, potentiam et praesentiam",
+      "current": "esensi, kehadiran, dan kuasa-Nya / cara Allah berada ... esensi, kehadiran, dan kuasa",
+      "suggested": "esensi, kuasa, dan kehadiran-Nya / cara-cara Allah berada ... esensi, kuasa, dan kehadiran",
+      "why": "Titles follow the Latin (pelajaran q.1); the Latin order is essence, power, presence, and 'modi' is plural.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.obj2; a3.obj3; a3.ad3; a3.ad4",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "idem est esse Deum in omnibus per essentiam et praesentiam / Deus sit in rebus / nec per potentiam / agens esse in altero / facit Deum esse in aliquo",
+      "current": "kehadiran Allah ... melalui esensi dan melalui kehadiran / Allah hadir dalam / Ia pun tidak hadir melalui kuasa-Nya / dapat dikatakan hadir pada / membuat Allah hadir dalam",
+      "suggested": "Allah berada dalam segala sesuatu melalui esensi dan melalui kehadiran adalah hal yang sama / ada dalam / tidak ada dalam segala sesuatu melalui kuasa-Nya / dikatakan ada dalam / membuat Allah ada dalam",
+      "why": "The Latin says 'esse in'; rendering it 'hadir' blurs the generic 'being in' with 'praesentia', which is one of the three modes this article distinguishes.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.sed_contra",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Sed contra est quod Gregorius dicit, super Cant. Cantic., quod ... tamen familiari modo dicitur esse in aliquibus per gratiam",
+      "current": "sebuah glosa (catatan penafsiran) atas Kidung Agung (5) mengatakan ... Ia dikatakan hadir secara lebih akrab ...",
+      "suggested": "Gregorius berkata, dalam uraiannya atas Kidung Agung, bahwa ... dengan cara yang akrab Ia dikatakan berada ...",
+      "why": "The Latin attributes the authority to Gregory, not to 'a gloss'; the comparative 'lebih' is not in 'familiari modo', and 'esse' is 'berada', not 'hadir'. The bracketed note was adjusted to point to Hom. viii in Ezech.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[0]; a3.respondeo[3]; a4.sed_contra",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "rationali creatura / primas creaturas / creaturam dicere spiritum sanctum",
+      "current": "makhluk berakal budi / makhluk-makhluk pertama / makhluk ciptaan",
+      "suggested": "ciptaan berakal budi / ciptaan-ciptaan pertama / ciptaan",
+      "why": "Unified terms §E: creatura → ciptaan.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.respondeo[1]; a3.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quae in prospectu ipsius sunt ... qui tamen non est / quod tamen distat ab eo",
+      "current": "di bawah pengawasannya ... orang itu mungkin tidak berada / hal itu mungkin jauh",
+      "suggested": "dalam jangkauan pandangannya ... orang itu tidak berada / hal itu jauh darinya",
+      "why": "'Prospectus' is sight or view, not supervision, and 'mungkin' is an English modal on indicative verbs.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[4]; a3.ad1",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "ut causa essendi, sicut dictum est",
+      "current": "sebagai sebab keberadaan mereka.",
+      "suggested": "sebagai sebab keberadaan mereka, seperti telah dikatakan.",
+      "why": "The English drops the back-reference twice (pelajaran q.1).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad2",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "Et ideo oportuit duos modos poni, scilicet per essentiam, et praesentiam.",
+      "current": "dua cara kehadiran itu perlu disebut",
+      "suggested": "dua cara itu perlu ditetapkan",
+      "why": "'Of presence' is an English addition; the two modes are essence and presence, so calling both 'modes of presence' confuses the distinction.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "de ratione scientiae et voluntatis est ... de ratione potentiae est",
+      "current": "Pengetahuan dan kehendak menuntut ... Adapun kuasa adalah prinsip",
+      "suggested": "Termasuk pengertian pengetahuan dan kehendak bahwa ... Adapun termasuk pengertian kuasa bahwa kuasa adalah prinsip",
+      "why": "'De ratione' means 'belongs to the notion of' (pelajaran q.2; unified terms ratio → pengertian).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.obj2",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "totum universum est constitutum in numero, ut patet Sap. XI",
+      "current": "(Keb 11:21)",
+      "suggested": "(Keb 11:20; Vulg. 11:21)",
+      "why": "The Catholic-Bible Keb 11:21 is a different verse; 'omnia in mensura et numero et pondere' is Keb 11:20 (Vulg. 11:21).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "prooemium[0]; a4.obj4; a4.ad4; a4.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "infinito / corpus infinitum / infinita",
+      "current": "tidak terhingga / tak terhingga",
+      "suggested": "tak terbatas",
+      "why": "Unified terms §B name q.8's four occurrences explicitly.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.obj6",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quia successive videt etiam totum caelum",
+      "current": "sebab dengan serangkaian pandangan ia mencakup seluruh bentangan langit dalam penglihatannya",
+      "suggested": "sebab secara berturut-turut ia bahkan melihat seluruh langit",
+      "why": "The English paraphrase drops 'etiam' and replaces 'videt' with 'comprehends'; unified terms: successive → berturut-turut.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[0]; a4.ad2; a4.ad3",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "esse ubique primo et per se ... Esse autem ubique per se dico ... Per se igitur convenit ... Nec iterum per se",
+      "current": "secara primer dan secara mutlak / ada di mana-mana secara mutlak",
+      "suggested": "secara primer dan pada dirinya / ada di mana-mana pada dirinya",
+      "why": "The Latin is 'per se' opposed to 'per accidens'; 'secara mutlak' is the unified term for simpliciter, so the English 'absolutely' collapses the per se/simpliciter distinction.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.ad1",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "sed non secundum idem esse",
+      "current": "tetapi tidak menurut cara berada yang sama",
+      "suggested": "tetapi tidak menurut keberadaan yang sama",
+      "why": "Thomas means that the universal and prime matter are not everywhere by one and the same esse (unlike God); the English 'mode of existence' changes the point.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.8] 'Per se' yang dipasangkan dengan 'per accidens' atau 'primo' diterjemahkan 'pada dirinya', walaupun teks Inggris menulis 'absolutely'; 'secara mutlak' hanya untuk simpliciter/absolute.",
+    "[asal: STh I q.8] Dalam traktat kehadiran Allah, 'esse in' diterjemahkan 'ada/berada dalam', bukan 'hadir'; 'hadir/kehadiran' disisihkan untuk praesens/praesentia, salah satu dari tiga cara (esensi, kuasa, kehadiran).",
+    "[asal: STh I q.8] Periksa atribusi otoritas pada Latin: teks Inggris 1920 kadang mengganti nama pengarang dengan 'a gloss' (a3 sed contra: Latin 'Gregorius dicit').",
+    "[asal: STh I q.8] 'Res' (res aliquae, res quaedam) jangan diterjemahkan 'sesuatu yang ada', yang disisihkan untuk ens; pakai 'hal/hal-hal tertentu'."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

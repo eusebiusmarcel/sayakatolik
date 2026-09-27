@@ -1,0 +1,321 @@
+{
+  "findings": [
+    {
+      "at": "a4.respondeo[0-2]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "multitudinem actu infinitam per se ... infinita per se ... requiritur per se ... sive per se, sive per accidens",
+      "current": "tak terbatas secara mutlak ... suatu kejamakan mutlak tertentu ... baik secara mutlak maupun secara aksidental",
+      "suggested": "tak terbatas pada dirinya ... pada dirinya memerlukan suatu kejamakan tertentu ... baik pada dirinya maupun secara aksidental",
+      "why": "The article turns on per se / per accidens; the English 'absolutely' merges per se with simpliciter (which a2 uses in a different sense), so the glossary term 'pada dirinya' is restored in all four places.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[1]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "quando non requiritur ad aliquid infinitas multitudinis, sed accidit ita esse",
+      "current": "bila keberadaannya sebagai kejamakan tidak diperlukan, melainkan bersifat aksidental",
+      "suggested": "bila ketakterbatasan kejamakan itu tidak diperlukan bagi sesuatu, tetapi kebetulan saja demikian",
+      "why": "What is not required is the infinity of the multitude, not its existence as a multitude; the definition must mirror the per se definition ('quando requiritur ad aliquid ut multitudo infinita sit'), which was also corrected.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad[2]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "terminus quantitatis est sicut forma ipsius, cuius signum est, quod figura, quae consistit in terminatione quantitatis, est quaedam forma circa quantitatem. Unde infinitum quod competit quantitati, est infinitum quod se tenet ex parte materiae, et tale infinitum non attribuitur Deo",
+      "current": "Kuantitas dibatasi oleh formanya. Hal ini tampak dari kenyataan bahwa bangun ... Oleh karena itu, ketakterbatasan kuantitas adalah ketakterbatasan materi, dan ketakterbatasan semacam itu tidak dapat dikenakan pada Allah",
+      "suggested": "Batas kuantitas adalah semacam forma baginya. Tandanya ialah bahwa bangun ... merupakan semacam forma pada kuantitas. Oleh karena itu, ketakterbatasan yang layak bagi kuantitas adalah ketakterbatasan yang berada di pihak materi, dan ketakterbatasan semacam itu tidak dikenakan pada Allah",
+      "why": "Thomas says the boundary of quantity is like its form (so lack of boundary lies on the side of matter), not that quantity is bounded by its form; 'dapat' was an added modal on the indicative 'non attribuitur'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.sed_contra",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "infinitum non potest esse ex principio aliquo",
+      "current": "yang tak terbatas tidak dapat memiliki awal",
+      "suggested": "yang tak terbatas tidak dapat berasal dari suatu asas",
+      "why": "'Ex principio' means 'from a source', which the minor ('est ex Deo sicut ex primo principio') requires; the English 'beginning' makes it temporal and breaks the syllogism.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.obj[2]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "cuiuslibet speciei possibile est esse aliquod individuum in actu",
+      "current": "setiap individu dari spesies mana pun mungkin menjadi aktual",
+      "suggested": "untuk setiap spesies mungkin ada suatu individu yang aktual",
+      "why": "The premise is that each species can have some actual individual (so infinite species yield infinite actual figures); the English makes it about every individual.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj[1]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "quia habet rationem partis et materiae, ut dicitur in III Physic.",
+      "current": "seperti dikatakan sang Filsuf (Aristoteles); alasannya, yang tak terbatas memiliki bagian-bagian dan materi",
+      "suggested": "karena ia memiliki pengertian bagian dan materi, sebagaimana dikatakan dalam Phys. iii",
+      "why": "The infinite has the character (ratio) of a part and of matter, i.e. it is incomplete, not 'has parts and matter'; the separate 'as the Philosopher says' is an English addition (the gloss 'Aristoteles' moved to obj. 2).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.sed_contra",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "Sap. XI, omnia in pondere, numero et mensura disposuisti",
+      "current": "\"Engkau telah mengatur segala sesuatu menurut ukuran, bilangan, dan timbangan\" (Keb 11:21)",
+      "suggested": "\"Engkau telah mengatur segala sesuatu menurut bobot, bilangan, dan ukuran\" (Keb 11:20; Vulg. 11:21)",
+      "why": "The Catholic Keb 11:21 is a different verse (ayat.json); the quoted clause is Keb 11:20 (Vulg. 11:21). Thomas's order here is pondus-numerus-mensura, and the unified term for pondus is 'bobot'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ut ex superioribus patet",
+      "current": "(q. 4, a. 1, keb. 3)",
+      "suggested": "(q. 4, a. 1, jawaban atas keb. 3)",
+      "why": "The English 'Obj. 3' is wrong: the thesis that esse is the most formal (actualitas omnium, etiam formarum) is in q.4 a.1 ad 3.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "est enim quasi materia non habens formam ... sed magis per eam eius amplitudo contrahitur",
+      "current": "sebab materi yang tak terbatas itu seakan-akan materi tanpa forma ... tetapi justru dipersempit oleh materi",
+      "suggested": "sebab yang tak terbatas dalam arti itu seakan-akan materi yang tidak memiliki forma ... tetapi justru keluasannya dipersempit oleh materi",
+      "why": "The subject of 'est quasi materia' is the infinite so understood, and it is the form's amplitude that is contracted.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.ad[3]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ex hoc ipso quod esse Dei est per se subsistens ... distinguitur ab omnibus aliis, et alia removentur ab eo",
+      "current": "Kenyataan bahwa ada Allah berdiri sendiri ... menunjukkan bahwa Ia berbeda dari semua hal lain",
+      "suggested": "Justru karena ada Allah berdiri sendiri ... Ia berbeda dari semua hal lain",
+      "why": "'Ex hoc ipso' gives the ground of the distinction (God is distinct by his subsisting esse, not by limitation), not merely a sign of it.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "attribuitur enim Deo quod sit ubique",
+      "current": "sebab Allah ada di mana-mana",
+      "suggested": "sebab kepada Allah dikenakan sifat bahwa Ia ada di mana-mana",
+      "why": "The English drops 'attribuitur'; Thomas links the attribute of ubiquity to infinity, which is why the two topics are joined.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[3]; a3.title",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "utrum aliquid possit esse infinitum secundum magnitudinem",
+      "current": "dalam besarannya (ukurannya); title: Apakah besaran yang tak terbatas secara aktual dapat ada?",
+      "suggested": "dalam besarannya; title: Apakah ada sesuatu yang dapat tak terbatas secara aktual dalam besarannya?",
+      "why": "Unified terms row B remove 'ukuran' (reserved for mensura, which occurs in a4 sed contra); the title follows the Latin wording (pelajaran q.1).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo; a2.ad[3]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "secundum quid",
+      "current": "secara relatif (5x)",
+      "suggested": "dalam arti tertentu",
+      "why": "Unified terms row E: secundum quid → 'dalam arti tertentu'; 'relatif' is reserved for relatio.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "materia eius est terminata per formam ... necesse est quod ipsum eius esse sit receptum et contractum",
+      "current": "materinya ditentukan oleh forma ... Karena itu, keberadaannya diterima dan dipersempit",
+      "suggested": "materinya dibatasi oleh forma ... Karena itu, keberadaannya itu sendiri mesti diterima dan dipersempit",
+      "why": "'Terminata' belongs to the finis/finitum pair the article argues from, and the English dropped 'necesse est'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.ad[1]; a3.obj[2]; a3.obj[4]; a3.ad[2]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "contra rationem facti / magnitudinis / temporis et motus / cuiuslibet speciei",
+      "current": "bertentangan dengan hakikat ... (9x)",
+      "suggested": "bertentangan dengan pengertian ...",
+      "why": "Unified terms row A: ratio → 'pengertian'; 'hakikat' is reserved for essentia.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.obj[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "abstrahentium non est mendacium",
+      "current": "\"pada hal-hal abstrak tidak ada dusta\"",
+      "suggested": "\"orang yang mengabstraksi tidak berdusta\"",
+      "why": "'Abstrahentium' is a genitive participle (of those who abstract), not abstract things.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.obj[3]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "contraria nata sunt fieri circa idem",
+      "current": "hal-hal yang berlawanan menyangkut satu hal yang sama",
+      "suggested": "hal-hal yang berlawanan menurut kodratnya menyangkut satu hal yang sama",
+      "why": "'Nata sunt' (naturally apt) was dropped by the English.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.obj[4]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "unumquodque indivisibile signatum",
+      "current": "setiap unsur tak terbagi yang tertentu",
+      "suggested": "setiap unsur tertentu yang tidak dapat dibagi",
+      "why": "Unified terms row B: indivisibile → 'tidak dapat dibagi' (q7 a3 obj. 4 named explicitly).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "non tamen esset infinitum secundum essentiam, quia essentia sua esset terminata ad aliquam speciem per formam, et ad aliquod individuum per materiam. Et ideo, habito ex praemissis quod nulla creatura ... utrum aliquid creatum sit infinitum",
+      "current": "tetap tidak dapat tak terbatas ... dan dipersempit menjadi individu oleh materinya. ... dengan bertolak dari premis-premis ini bahwa tidak ada makhluk ciptaan ... apakah ada makhluk ciptaan yang dapat tak terbatas",
+      "suggested": "tetap tidak akan tak terbatas ... dan pada suatu individu oleh materinya. ... setelah ditetapkan dari uraian sebelumnya bahwa tidak ada ciptaan ... apakah ada sesuatu yang diciptakan yang tak terbatas",
+      "why": "Added modals removed (esset, sit), one verb 'terminata' governs both clauses, 'ex praemissis' refers back to a.2, and creatura → 'ciptaan' (unified terms).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[2]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "habet determinatam quantitatem et in maius et in minus",
+      "current": "memiliki kuantitas tertentu, lebih besar atau lebih kecil",
+      "suggested": "memiliki kuantitas yang tertentu, baik ke arah yang lebih besar maupun ke arah yang lebih kecil",
+      "why": "Thomas means limits in both directions (a maximum and a minimum), not an alternative.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[3]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "est enim figura, quae termino vel terminis comprehenditur",
+      "current": "sebab bangun dibatasi oleh suatu batas atau tepi",
+      "suggested": "sebab bangun adalah apa yang dilingkupi oleh satu batas atau beberapa batas",
+      "why": "This is Euclid's definition of figure; 'termino vel terminis' is singular/plural of the same word, not two different things.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "sed indiget accipere aliquam lineam finitam actu, a qua possit subtrahi quantum necesse est",
+      "current": "Ia mengambil suatu garis ..., lalu dari garis itu ia mengurangkan sepanjang yang ia perlukan",
+      "suggested": "Ia hanya perlu mengambil suatu garis ..., yang darinya dapat dikurangkan sepanjang yang diperlukan",
+      "why": "Restores 'indiget' and the modal 'possit': the geometer needs a finite line from which any required length can be taken.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad[2]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "magnitudinis bicubitae vel tricubitae, sive circularis vel triangularis",
+      "current": "besaran dua hasta atau tiga hasta, baik yang berbentuk lingkaran maupun segitiga",
+      "suggested": "besaran dua hasta atau tiga hasta, atau besaran yang berbentuk lingkaran atau segitiga",
+      "why": "'Sive' adds further species, not a qualification of the two-/three-cubit ones. 'Dua hasta/tiga hasta' (bicubitus/tricubitus) is correct and kept.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.ad[4]; a4.ad[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "successive",
+      "current": "secara berurutan (3x)",
+      "suggested": "secara berturut-turut",
+      "why": "Unified terms row B (q7 a3 ad 4 and a4 ad 1 named explicitly).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.obj[3]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "adhuc possunt fieri alia multa",
+      "current": "masih mungkin ada banyak hal lain",
+      "suggested": "masih dapat dibuat banyak hal lain",
+      "why": "'Fieri' means 'be made', which prepares a.4's answer that all created things fall under the Creator's intention.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "cum non sit infinita pertransire",
+      "current": "mustahil melintasi perantara yang tak terbatas",
+      "suggested": "mustahil melintasi hal-hal yang tak terbatas",
+      "why": "The Latin has no 'medium'; it is the infinite series itself that cannot be traversed.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "in operatione fabri ... opus fabrile ... posuerunt quod possibile est esse actu multitudinem infinitam per accidens",
+      "current": "seorang tukang kayu ... pekerjaan pertukangan itu ... bisa ada kejamakan yang tak terbatas secara aksidental",
+      "suggested": "seorang tukang ... pekerjaan tukang itu ... bisa ada secara aktual kejamakan yang tak terbatas secara aksidental",
+      "why": "'Faber' with a hammer is a craftsman/smith, not specifically a carpenter; 'actu' was dropped, yet the whole dispute is about actual infinity.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[2]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "omnem multitudinem oportet esse in aliqua specie ... sub aliqua certa intentione creantis ... in divisione continui",
+      "current": "setiap macam kejamakan ... suatu maksud yang jelas ... dalam pembagian yang kontinu",
+      "suggested": "setiap kejamakan ... suatu maksud tertentu ... dalam pembagian sesuatu yang kontinu",
+      "why": "'Certa intentione' pairs with 'certo numero' (definite, not 'clear'); 'pembagian yang kontinu' reads as 'continuous division' instead of dividing the continuum.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.7] The English 1920 renders 'per se' as 'absolutely' (a.4: multitudo infinita per se). Keep 'pada dirinya' for per se and 'secara mutlak' for simpliciter; the two pairs (per se/per accidens and simpliciter/secundum quid) must never share a word.",
+    "[asal: STh I q.7] 'Ex principio' / 'ex Deo sicut ex primo principio' means 'berasal dari suatu asas', not 'memiliki awal'; the English 'beginning' wrongly makes the argument temporal.",
+    "[asal: STh I q.7] 'Terminus quantitatis est sicut forma' (the boundary is quasi-form): check English sentences that turn a predicate noun into a passive verb ('is terminated by its form'), because they reverse the dependency.",
+    "[asal: STh I q.7] Keb 11:21 Vulg. ('omnia in mensura/pondere, numero ...') = Keb 11:20 in the Catholic Bible; cite as (Keb 11:20; Vulg. 11:21) and follow Thomas's order of the three words in each place he quotes it.",
+    "[asal: STh I q.7] 'Abstrahentium non est mendacium' is about those who abstract, not abstract things."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

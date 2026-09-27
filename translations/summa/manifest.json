@@ -32,5 +32,82 @@
       "critical": 2
     },
     "open_findings": 0
+  },
+  "i/q003": {
+    "status": "ai-reviewed",
+    "source_sha256": "7a643bf542beebda532529842f34f7796fd7c7fa7df3abc1a4ff34e4b2355d1d",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 36,
+      "major": 25,
+      "critical": 1
+    },
+    "open_findings": 0
+  },
+  "i/q004": {
+    "status": "ai-reviewed",
+    "source_sha256": "7c000d752c14e55c5a2bba86f540b423aa4f0894c2dc5016c1aa87fe831133b5",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 1,
+      "minor": 12
+    },
+    "open_findings": 0
+  },
+  "i/q005": {
+    "status": "ai-reviewed",
+    "source_sha256": "3950ecc111d2dad66818d43d95967b9ef0b9ec694e998d07bd577d23ab591cc7",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 37,
+      "major": 16
+    },
+    "open_findings": 0
+  },
+  "i/q006": {
+    "status": "ai-reviewed",
+    "source_sha256": "7ae221c7236595ce9d4a90d541b7e5821c611e7dbee584b79466a464463ff9f8",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 19,
+      "major": 2
+    },
+    "open_findings": 2
+  },
+  "i/q007": {
+    "status": "ai-reviewed",
+    "source_sha256": "9335489530c269711d73097be128d1aec28d5b1787d796bc771b791c2941157b",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 7,
+      "minor": 21
+    },
+    "open_findings": 0
+  },
+  "i/q008": {
+    "status": "ai-reviewed",
+    "source_sha256": "6e93a54ee5899ab72f5d88ff09b98cfb0c0923746e39d3bf074e8e1720c822f8",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 19,
+      "major": 6
+    },
+    "open_findings": 0
+  },
+  "i/q009": {
+    "status": "ai-reviewed",
+    "source_sha256": "be37b6f199d5e0376f5c1dad76f9ac07732db5749231022f10a5937ea45270c3",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "minor": 11
+    },
+    "open_findings": 0
   }
 }

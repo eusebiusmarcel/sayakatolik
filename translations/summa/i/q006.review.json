@@ -1,0 +1,243 @@
+{
+  "findings": [
+    {
+      "at": "prooemium[1]; a1.title",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "utrum esse bonum conveniat Deo",
+      "current": "Apakah kebaikan ada pada Allah? / Apakah Allah baik?",
+      "suggested": "Apakah sifat baik ada pada Allah?",
+      "why": "Titles follow the Latin (pelajaran q.1), and the Latin question is about 'esse bonum', as the objections and respondeo show.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj1; a1.ad1",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "Ratio enim boni consistit in modo, specie et ordine",
+      "current": "hakikat kebaikan terletak pada ukuran, rupa, dan tatanan",
+      "suggested": "pengertian kebaikan terletak pada takaran (takaran yang semestinya), spesies, dan tatanan",
+      "why": "Unified terms §A (ratio → pengertian) and §C (modus, species, ordo → takaran, spesies, tatanan; 'ukuran' is reserved for mensura).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Perfectio autem et forma effectus est quaedam similitudo agentis",
+      "current": "kesempurnaan dan forma suatu akibat terletak pada suatu keserupaan dengan pelakunya",
+      "suggested": "kesempurnaan dan forma suatu akibat adalah suatu keserupaan dengan pelakunya",
+      "why": "The Latin identifies the two ('est'); the English 'consist in' weakens that.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[0]; a1.ad1; a2.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "habet rationem boni / ratio boni et appetibilis / rationem boni causati / rationem boni habet",
+      "current": "hakikat kebaikan / hakikat apa yang layak diinginkan",
+      "suggested": "pengertian kebaikan / pengertian apa yang layak diinginkan",
+      "why": "Unified terms §A: ratio → pengertian; 'hakikat' is reserved for essentia.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ut eius similitudo participetur",
+      "current": "partisipasi (keikutsertaan)",
+      "suggested": "partisipasi (mengambil bagian dalam apa yang dimiliki sepenuhnya oleh yang lain)",
+      "why": "Unified terms §D: the gloss is standardized.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad2; a2.ad1; a3.respondeo; a3.ad2; a3.ad3",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "creaturae rationalis / ad creaturas / in creatura / nulli creato / rei creatae / res creata",
+      "current": "makhluk (ciptaan)",
+      "suggested": "ciptaan",
+      "why": "Unified terms §E: creatura → 'ciptaan'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.obj2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "sicut summum calidum in comparatione ad omnia calida",
+      "current": "panas tertinggi dikatakan dalam perbandingan dengan semua panas yang lain",
+      "suggested": "hal yang panas tertinggi dikatakan demikian dalam perbandingan dengan semua hal yang panas",
+      "why": "'Calidum' is the hot thing, not heat, and 'lain' is not in the Latin.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.sed_contra",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quod purgatissimis mentibus cernitur",
+      "current": "yang ditangkap oleh budi yang paling murni",
+      "suggested": "yang dipandang oleh budi yang paling dimurnikan",
+      "why": "'Purgatissimis' means most purified, not most pure, and 'cernitur' is seeing (unified terms reserve 'menangkap' for apprehendere). The reference 'De Trin. i' correctly follows the Latin 'I de Trin.' against the English 'ii'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "agente univoco / neque in ratione speciei, nec in ratione generis / causa aequivoca",
+      "current": "(pelaku yang sejenis dengan akibatnya) / baik dalam spesies maupun dalam genus / (sebab yang tidak sejenis dengan akibatnya)",
+      "suggested": "(pelaku yang sama spesiesnya dengan akibatnya) / baik dalam pengertian spesies maupun dalam pengertian genus / (sebab yang tidak sama spesiesnya dengan akibatnya)",
+      "why": "'Sejenis' blurs the species/genus distinction that this sentence draws; the gloss now matches q.4 a.2, and ratio → pengertian.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.ad2",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "quasi unumquodque bonum ab omnibus appetatur",
+      "current": "setiap jenis hal yang baik",
+      "suggested": "setiap hal yang baik",
+      "why": "'Jenis' (the English 'every kind of') is not in the Latin.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.sed_contra",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "bona per participationem",
+      "current": "baik karena partisipasi",
+      "suggested": "baik melalui partisipasi",
+      "why": "Unified terms §D name this exact spot.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "secundum quod in suo esse constituitur",
+      "current": "sejauh hal itu dikukuhkan dalam keberadaannya sendiri",
+      "suggested": "sejauh hal itu dibentuk dalam keberadaannya sendiri",
+      "why": "'Constituitur' means is constituted, not confirmed or strengthened.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.ad1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "unum non importat rationem perfectionis, sed indivisionis tantum",
+      "current": "Pengertian \"satu\" tidak mencakup kesempurnaan, tetapi hanya ketakterbagian",
+      "suggested": "\"Satu\" tidak mengandung pengertian kesempurnaan, tetapi hanya pengertian ketidakterbagian",
+      "why": "'Ratio' belongs to perfection and indivision, not to 'one', and unified terms §B: indivisio → ketidakterbagian.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quia ea est aliquid bonum",
+      "current": "karena melaluinya sesuatu menjadi baik",
+      "suggested": "karena melaluinya sesuatu itu baik",
+      "why": "The Latin 'est' states that the thing is good; 'menjadi' implies a change that the Latin does not.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "aliquid ab extrinseco denominari",
+      "current": "penamaan ekstrinsik (penamaan berdasarkan sesuatu di luar hal yang dinamai)",
+      "suggested": "penamaan ekstrinsik (penamaan dari sesuatu di luar hal itu)",
+      "why": "Unified terms §C give the standard gloss.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "species rerum naturalium separatas per se subsistentes",
+      "current": "ide-ide terpisah tentang hal-hal kodrati yang berdiri sendiri",
+      "suggested": "ide-ide terpisah bagi hal-hal kodrati, yang berdiri sendiri pada dirinya",
+      "why": "'Subsistentes' qualifies the separate species; as written, 'yang berdiri sendiri' attached to the natural things.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "per modum cuiusdam assimilationis, licet remote et deficienter",
+      "current": "melalui suatu penyerupaan yang jauh dan tidak sempurna",
+      "suggested": "melalui suatu penyerupaan, meskipun penyerupaan itu jauh dan tidak sempurna",
+      "why": "The concessive 'licet' was lost.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[2]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "similitudine divinae bonitatis sibi inhaerente, quae est formaliter sua bonitas",
+      "current": "karena keserupaan dengan kebaikan ilahi yang melekat padanya, yang secara formal adalah kebaikannya sendiri",
+      "suggested": "karena keserupaan dengan kebaikan ilahi, yaitu keserupaan yang melekat padanya, yang secara formal adalah kebaikannya sendiri",
+      "why": "The Indonesian could be read as saying that the divine goodness itself inheres in the creature and is formally its goodness, a pantheistic reading that Thomas rejects here; in the Latin it is the likeness that inheres.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.respondeo[2]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "sicut primo principio exemplari, effectivo et finali totius bonitatis",
+      "current": "baik sebagai teladan (prinsip eksemplar), sebagai sebab efisien, maupun sebagai tujuan (prinsip final)",
+      "suggested": "baik sebagai prinsip eksemplar (teladan asli yang ditiru), sebagai prinsip efisien, maupun sebagai prinsip final",
+      "why": "Unified terms §C put 'eksemplar' first with the standard gloss; Thomas uses the single noun 'principium' for all three. I also changed 'berdasarkan kebaikan ilahi' to 'karena kebaikan ilahi' to match the title for 'bonitate divina'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a4.respondeo[0]",
+      "severity": "major",
+      "type": "addition",
+      "latin": "Hoc autem quod est per se bonum et per se unum, ponebat esse summum Deum, a quo omnia dicuntur bona per modum participationis.",
+      "current": "Apa yang demikian merupakan ada pada dirinya dan satu pada dirinya itu dikatakannya sebagai kebaikan tertinggi. Selain itu, karena setiap hal yang ada itu baik ... ia menyebut Allah baik pada dirinya, yang darinya segala sesuatu disebut baik melalui partisipasi.",
+      "suggested": "(no change; the owner or coordinator should decide)",
+      "why": "The Wikisource Latin appears to have an eye-skip (per se [ens ... per se] bonum). The Leonine reading, which the 1920 English follows, is 'Hoc autem quod est per se ens et per se unum, ponebat esse summum bonum. Et quia bonum convertitur cum ente, sicut et unum, ipsum per se bonum dicebat esse Deum...'; I kept the fuller text, which the argument needs.",
+      "fixed": false,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a4.respondeo[1]",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "quod est aliquod unum per essentiam suam bonum, quod dicimus Deum",
+      "current": "ada sesuatu yang pertama, yang secara esensial ada dan secara esensial baik, yang kita sebut Allah",
+      "suggested": "(no change; the owner or coordinator should decide)",
+      "why": "The Leonine text reads 'aliquid primum quod per suam essentiam est ens et bonum', which the next sentence ('A primo ... per suam essentiam ente et bono') presupposes; the Wikisource reading looks defective, so the translation was kept.",
+      "fixed": false,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.6] Dalam kalimat 'keserupaan dengan X yang melekat padanya', anak kalimat 'yang' mudah melekat pada X. Bila X adalah Allah atau sifat ilahi, ulangi nomina kepalanya ('yaitu keserupaan yang ...') agar sifat ilahi tidak terbaca melekat secara formal pada ciptaan.",
+    "[asal: STh I q.6] 'ratio X' juga dipakai untuk pengertian predikat abstrak ('ratio perfectionis', 'ratio indivisionis', 'ratio speciei'). 'Pengertian' melekat pada X, bukan pada subjek kalimat.",
+    "[asal: STh I q.6] 'Pelaku/sebab univok' diberi uraian '(sama spesiesnya dengan akibatnya)', bukan 'sejenis', karena Thomas membedakan kesamaan spesies dari kesamaan genus.",
+    "[asal: STh I q.6] Teks Latin Wikisource kadang cacat (eye-skip). Bila teks Inggris 1920 mengikuti bacaan Leonina yang lebih lengkap dan argumennya membutuhkan bacaan itu, jangan memotong terjemahan demi Wikisource; laporkan sebagai temuan dengan fixed: false."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

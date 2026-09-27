@@ -24,24 +24,24 @@
     },
     {
       "at": "articles[0].objections[2][0]",
-      "ref": "Ayb 40:4",
+      "ref": "Ayb 40:9",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=40&a1=4&a2=4",
-      "text": "[4] \"Sesungguhnya, aku ini terlalu hina; jawab apakah yang dapat kuberikan kepada-Mu? Mulutku kututup dengan tangan."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=40&a1=9&a2=9",
+      "text": "[9] Apakah lenganmu seperti lengan Allah, dan dapatkah engkau mengguntur seperti Dia?"
     },
     {
       "at": "articles[0].objections[2][0]",
-      "ref": "Mzm 33:16",
+      "ref": "Mzm 34:15",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=33&a1=16&a2=16",
-      "text": "[16] Seorang raja tidak akan selamat oleh besarnya kuasa; seorang pahlawan tidak akan tertolong oleh besarnya kekuatan."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=34&a1=15&a2=15",
+      "text": "[15] Mata TUHAN tertuju kepada orang-orang benar, dan telinga-Nya kepada teriak mereka minta tolong;"
     },
     {
       "at": "articles[0].objections[2][0]",
-      "ref": "Mzm 117:16",
-      "status": "tidak-ditemukan",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=117&a1=16&a2=16",
-      "text": ""
+      "ref": "Mzm 118:16",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=118&a1=16&a2=16",
+      "text": "[16] tangan kanan TUHAN berkuasa meninggikan, tangan kanan TUHAN melakukan keperkasaan!\""
     },
     {
       "at": "articles[0].objections[3][0]",
@@ -59,10 +59,10 @@
     },
     {
       "at": "articles[0].objections[4][0]",
-      "ref": "Mzm 33:6",
+      "ref": "Mzm 34:5",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=33&a1=6&a2=6",
-      "text": "[6] Oleh firman TUHAN langit telah dijadikan, oleh nafas dari mulut-Nya segala tentaranya."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=34&a1=5&a2=5",
+      "text": "[5] Tujukanlah pandanganmu kepada-Nya, maka mukamu akan berseri-seri, dan tidak akan malu tersipu-sipu."
     },
     {
       "at": "articles[0].objections[4][0]",
@@ -94,10 +94,10 @@
     },
     {
       "at": "articles[1].objections[1][0]",
-      "ref": "Mzm 105:40",
+      "ref": "Mzm 106:40",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=105&a1=40&a2=40",
-      "text": "[40] Mereka meminta, maka didatangkan-Nya burung puyuh, dan dengan roti dari langit dikenyangkan-Nya mereka."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=106&a1=40&a2=40",
+      "text": "[40] Maka menyalalah murka TUHAN terhadap umat-Nya, dan Ia jijik kepada milik-Nya sendiri."
     },
     {
       "at": "articles[2].sed_contra[0]",

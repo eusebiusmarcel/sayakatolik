@@ -1,0 +1,155 @@
+{
+  "findings": [
+    {
+      "at": "a1.ad[3]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "non autem ut illud cui competit esse",
+      "current": "bukan sebagai sesuatu yang ada",
+      "suggested": "bukan sebagai sesuatu yang memiliki keberadaan itu",
+      "why": "Latin contrasts esse as received with the subject to which esse belongs; 'sesuatu yang ada' is the glossary rendering of ens and blurs the esse/ens distinction the reply rests on (English 'that which exists').",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.obj[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Perfectum enim dicitur quasi totaliter factum",
+      "current": "sebab kita menyebut sesuatu sempurna jika ia sudah dibuat secara lengkap",
+      "suggested": "sebab sesuatu disebut sempurna seakan-akan ia sudah dibuat secara lengkap",
+      "why": "The objection is etymological (per-factum, 'quasi'), not a condition ('jika'); ad 1 answers exactly this naming by 'transumitur'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Deus autem ponitur primum principium, non materiale, sed in genere causae efficientis",
+      "current": "Adapun Allah adalah prinsip pertama, bukan dalam tatanan materi",
+      "suggested": "Adapun Allah diakui sebagai prinsip pertama, bukan prinsip material, melainkan dalam tatanan sebab efisien",
+      "why": "'ponitur' marks a posited premise, and 'non materiale' qualifies the principle, contrasting with the ancients' 'principium materiale'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "non posset ei aliquid deesse de virtute caloris",
+      "current": "tidak ada sedikit pun dari daya panas yang kurang padanya",
+      "suggested": "tidak mungkin ada sedikit pun dari daya panas yang kurang padanya",
+      "why": "The modal 'posset' carries the argument's necessity and is paralleled by 'potest ei deesse' about God in the next sentence.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "secundum hoc enim aliqua perfecta sunt, quod aliquo modo esse habent",
+      "current": "sebab segala sesuatu sempurna justru sejauh ia memiliki keberadaan",
+      "suggested": "sebab hal-hal sempurna justru sejauh memiliki keberadaan",
+      "why": "'aliqua' is indefinite; turning it into 'segala sesuatu' adds a universal quantifier (pelajaran q.1).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "totum in seipso uniformiter esse praeaccipit",
+      "current": "merangkum seluruh keberadaan dalam diri-Nya",
+      "suggested": "sudah lebih dahulu merangkum seluruh keberadaan dalam diri-Nya",
+      "why": "'prae-accipit' carries the pre-possession that the whole article argues (praehabet, praeexistere); the English 'embraces' drops it.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "illa quae sunt a Deo, assimilantur ei inquantum sunt entia; sicut ipsum esse est commune omnibus",
+      "current": "semua ciptaan, sejauh semuanya merupakan hal-hal yang ada ...; sebagaimana keberadaan itu umum",
+      "suggested": "hal-hal yang berasal dari Allah, sejauh semuanya merupakan hal-hal yang ada ...; sebagaimana keberadaan itu sendiri umum",
+      "why": "Thomas grounds the likeness in the fact that these things come from God as agent ('a Deo'), and 'ipsum esse' is esse itself.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "secundum aliqualem analogiam",
+      "current": "menurut semacam analogi",
+      "suggested": "menurut semacam analogi (dalam arti yang sebagian sama, menurut suatu hubungan)",
+      "why": "The unified terms require the standard gloss at the first occurrence of 'analogi' in a question.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.obj[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "quae dicuntur dii participative",
+      "current": "disebut allah karena partisipasi (yaitu karena mengambil bagian dalam keilahian)",
+      "suggested": "disebut allah melalui partisipasi (mengambil bagian dalam apa yang dimiliki sepenuhnya oleh yang lain)",
+      "why": "Unified term row D ('melalui partisipasi' plus the standard gloss); this also applies at a3 ad 3.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.ad[3]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "prout scilicet Deus est ens per essentiam, et alia per participationem",
+      "current": "sejauh Allah adalah yang ada menurut esensi-Nya, sedangkan hal-hal lain adalah hal-hal yang ada karena partisipasi",
+      "suggested": "yaitu sejauh Allah adalah yang ada melalui esensi-Nya, sedangkan hal-hal lain adalah hal-hal yang ada melalui partisipasi",
+      "why": "The unified term is 'melalui partisipasi'; the parallel 'per essentiam' now takes the same preposition, so the contrast stays visible.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "prooemium[4]; a3.title; a3.obj[1-4]; a3.ad[2-4]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "creatura / creaturae",
+      "current": "makhluk ciptaan",
+      "suggested": "ciptaan",
+      "why": "Unified term row E: creatura → 'ciptaan' (about 13 occurrences replaced; 'makhluk hidup' for vivens in a2 is kept).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.sed_contra[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "faciamus hominem ad imaginem et similitudinem nostram",
+      "current": "menurut gambar dan keserupaan Kita\" (Kej 1:26)",
+      "suggested": "menurut citra dan keserupaan Kita\" (Kej 1:26, Vulg.)",
+      "why": "Unified term row D: imago → 'citra', and Kej 1:26 is marked Vulg. because the argument rests on 'similitudo', where the TB has 'rupa'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a3.ad[4]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "dicimus enim quod imago sit similis homini",
+      "current": "sebuah gambar serupa dengan seorang manusia",
+      "suggested": "sebuah citra serupa dengan seorang manusia",
+      "why": "Unified term row D names q4 a3 ad 4 explicitly: imago → 'citra'.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.4] 'Illud cui competit esse' (the subject that has esse) must not be rendered 'sesuatu yang ada', which is the glossary term for ens; keep the esse/ens distinction visible: 'sesuatu yang memiliki keberadaan itu'.",
+    "[asal: STh I q.4] The English 1920 flattens the prae- compounds from Dionysius (praehabet, praeaccipit, praeexistere) into 'embraces'/'contains'. Keep 'sudah lebih dahulu ...' every time, because the argument of a.2 is about pre-existence in the cause.",
+    "[asal: STh I q.4] Check the English proper names against the Latin: in a.1 the English has 'Leucippus' where the Latin has 'Speusippus'.",
+    "[asal: STh I q.4] 'Quasi' in an etymological definition (perfectum quasi totaliter factum) gives the sense of a name. Render it 'disebut ... seakan-akan', not as a condition with 'jika'."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

@@ -3,10 +3,10 @@
   "refs": [
     {
       "at": "articles[0].objections[0][0]",
-      "ref": "Mzm 112:4",
+      "ref": "Mzm 113:4",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=112&a1=4&a2=4",
-      "text": "[4] Di dalam gelap terbit terang bagi orang benar; pengasih dan penyayang orang yang adil."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=113&a1=4&a2=4",
+      "text": "[4] TUHAN tinggi mengatasi segala bangsa, kemuliaan-Nya mengatasi langit."
     },
     {
       "at": "articles[0].objections[3][0]",
@@ -31,10 +31,10 @@
     },
     {
       "at": "articles[3].objections[1][0]",
-      "ref": "Keb 11:21",
+      "ref": "Keb 11:20",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=11&a1=21&a2=21",
-      "text": "[21] Memang bertindak yang sesuai dengan besarnya kekuasaan-Mu senantiasa ada dalam kemampuan-Mu, dan siapa gerangan dapat bertahan terhadap kekuatan lengan-Mu?"
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=11&a1=20&a2=20",
+      "text": "[20] Tetapi tanpa binatang semacam itupun mereka dapat jatuh binasa karena satu tiupan saja, sambil dikejar-kejar oleh keadilan serta ditiup-tiupkan oleh nafas kekuasaan-Mu. Akan tetapi segala-galanya telah Kauatur menurut ukuran, jumlah dan timbangan."
     }
   ]
 }
