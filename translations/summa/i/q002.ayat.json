@@ -1,0 +1,47 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].objections[2][0]",
+      "ref": "Yoh 14:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=14&a1=6&a2=6",
+      "text": "[6] Kata Yesus kepadanya: \"Akulah jalan dan kebenaran dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku."
+    },
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "Mzm 53:1",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=53&a1=1&a2=1",
+      "text": "[1] Untuk pemimpin biduan. Menurut lagu: Mahalat. Nyanyian pengajaran Daud. Orang bebal berkata dalam hatinya: \"Tidak ada Allah!\" Busuk dan jijik kecurangan mereka, tidak ada yang berbuat baik."
+    },
+    {
+      "at": "articles[1].objections[0][0]",
+      "ref": "Ibr 11:1",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ibr&b=11&a1=1&a2=1",
+      "text": "[1] Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita lihat."
+    },
+    {
+      "at": "articles[1].sed_contra[0]",
+      "ref": "Rm 1:20",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=1&a1=20&a2=20",
+      "text": "[20] Sebab apa yang tidak nampak dari pada-Nya, yaitu kekuatan-Nya yang kekal dan keilahian-Nya, dapat nampak kepada pikiran dari karya-Nya sejak dunia diciptakan, sehingga mereka tidak dapat berdalih."
+    },
+    {
+      "at": "articles[1].replies[0].paras[0]",
+      "ref": "Rm 1:19–20",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=1&a1=19&a2=20",
+      "text": "[19] Karena apa yang dapat mereka ketahui tentang Allah nyata bagi mereka, sebab Allah telah menyatakannya kepada mereka. [20] Sebab apa yang tidak nampak dari pada-Nya, yaitu kekuatan-Nya yang kekal dan keilahian-Nya, dapat nampak kepada pikiran dari karya-Nya sejak dunia diciptakan, sehingga mereka tidak dapat berdalih."
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "Kel 3:14",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kel&b=3&a1=14&a2=14",
+      "text": "[14] Firman Allah kepada Musa: \"AKU ADALAH AKU.\" Lagi firman-Nya: \"Beginilah kaukatakan kepada orang Israel itu: AKULAH AKU telah mengutus aku kepadamu.\""
+    }
+  ]
+}

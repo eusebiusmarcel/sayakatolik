@@ -18,8 +18,9 @@ jelas**. Jangan hanya dipindahkan kata demi kata.
 > ✗ "yang benar itu dapat dipertukarkan (konvertibel) dengan pengada"
 > ✓ "setiap hal yang ada itu benar, dan setiap hal yang benar itu ada"
 
-Istilah Latin boleh dicantumkan dalam kurung sesudah uraiannya, pada kemunculan
-pertama di satu halaman, jika istilah itu penting bagi pembaca yang ingin mendalami.
+**Jangan menambahkan istilah Latin dalam kurung** (mis. "(*ens*)", "(*quod maxime est*)")
+kecuali teks Inggris 1920 juga mencantumkannya (mis. "[scientiam]"). Keputusan pemilik,
+2026-09-28. Pembaca umum tidak memerlukannya; uraian yang jelas sudah cukup.
 
 ## 2. Kata sambung dan awal kalimat
 

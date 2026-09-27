@@ -1,0 +1,201 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].objections[0][0]",
+      "ref": "Sir 3:21",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=sir&b=3&a1=21&a2=21",
+      "text": "[21] Apa yang terlalu sukar bagimu jangan kaucari, dan apa yang melampaui kemampuanmu jangan kauselidiki."
+    },
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "2Tim 3:16",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=2tim&b=3&a1=16&a2=16",
+      "text": "[16] Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran."
+    },
+    {
+      "at": "articles[0].respondeo[0]",
+      "ref": "Yes 64:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=64&a1=4&a2=4",
+      "text": "[4] Tidak ada telinga yang mendengar, dan tidak ada mata yang melihat seorang allah yang bertindak bagi orang yang menanti-nantikan dia; hanya Engkau yang berbuat demikian."
+    },
+    {
+      "at": "articles[0].replies[0].paras[0]",
+      "ref": "Sir 3:23",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=sir&b=3&a1=23&a2=23",
+      "text": "[23] Jangan bersusah payah mengenai apa yang di luar bidang pekerjaanmu, karena apa .yang dinyatakan kepadamu sudah terlalu luas untuk akal insani."
+    },
+    {
+      "at": "articles[1].objections[0][0]",
+      "ref": "2Tes 3:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=2tes&b=3&a1=2&a2=2",
+      "text": "[2] dan supaya kami terlepas dari para pengacau dan orang-orang jahat, sebab bukan semua orang beroleh iman."
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "Keb 10:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=10&a1=10&a2=10",
+      "text": "[10] Kebijaksanaan memperlihatkan kerajaan Allah kepadanya, dan memberi dia pengetahuan tentang hal-hal yang kudus; membuatnya sejahtera sebagai hasil jerih payahnya."
+    },
+    {
+      "at": "articles[3].objections[0][0]",
+      "ref": "Yak 1:22",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yak&b=1&a1=22&a2=22",
+      "text": "[22] Tetapi hendaklah kamu menjadi pelaku firman dan bukan hanya pendengar saja; sebab jika tidak demikian kamu menipu diri sendiri."
+    },
+    {
+      "at": "articles[4].sed_contra[0]",
+      "ref": "Ams 9:3",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ams&b=9&a1=3&a2=3",
+      "text": "[3] Pelayan-pelayan perempuan telah disuruhnya berseru-seru di atas tempat-tempat yang tinggi di kota:"
+    },
+    {
+      "at": "articles[5].objections[2][0]",
+      "ref": "Yes 11:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=11&a1=2&a2=2",
+      "text": "[2] Roh TUHAN akan ada padanya, roh hikmat dan pengertian, roh nasihat dan keperkasaan, roh pengenalan dan takut akan TUHAN;"
+    },
+    {
+      "at": "articles[5].sed_contra[0]",
+      "ref": "Ul 4:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ul&b=4&a1=6&a2=6",
+      "text": "[6] Lakukanlah itu dengan setia, sebab itulah yang akan menjadi kebijaksanaanmu dan akal budimu di mata bangsa-bangsa yang pada waktu mendengar segala ketetapan ini akan berkata: Memang bangsa yang besar ini adalah umat yang bijaksana dan berakal budi."
+    },
+    {
+      "at": "articles[5].respondeo[0]",
+      "ref": "1Kor 3:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=3&a1=10&a2=10",
+      "text": "[10] Sesuai dengan kasih karunia Allah, yang dianugerahkan kepadaku, aku sebagai seorang ahli bangunan yang cakap telah meletakkan dasar, dan orang lain membangun terus di atasnya. Tetapi tiap-tiap orang harus memperhatikan, bagaimana ia harus membangun di atasnya."
+    },
+    {
+      "at": "articles[5].respondeo[0]",
+      "ref": "Ams 10:23",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ams&b=10&a1=23&a2=23",
+      "text": "[23] Berlaku cemar adalah kegemaran orang bebal, sebagaimana melakukan hikmat bagi orang yang pandai."
+    },
+    {
+      "at": "articles[5].respondeo[0]",
+      "ref": "Rm 1:19",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=1&a1=19&a2=19",
+      "text": "[19] Karena apa yang dapat mereka ketahui tentang Allah nyata bagi mereka, sebab Allah telah menyatakannya kepada mereka."
+    },
+    {
+      "at": "articles[5].replies[1].paras[0]",
+      "ref": "2Kor 10:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=2kor&b=10&a1=4&a2=4",
+      "text": "[4] karena senjata kami dalam perjuangan bukanlah senjata duniawi, melainkan senjata yang diperlengkapi dengan kuasa Allah, yang sanggup untuk meruntuhkan benteng-benteng."
+    },
+    {
+      "at": "articles[5].replies[2].paras[0]",
+      "ref": "1Kor 2:15",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=2&a1=15&a2=15",
+      "text": "[15] Tetapi manusia rohani menilai segala sesuatu, tetapi ia sendiri tidak dinilai oleh orang lain."
+    },
+    {
+      "at": "articles[7].objections[0][0]",
+      "ref": "Yoh 20:31",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=20&a1=31&a2=31",
+      "text": "[31] tetapi semua yang tercantum di sini telah dicatat, supaya kamu percaya, bahwa Yesuslah Mesias, Anak Allah, dan supaya kamu oleh imanmu memperoleh hidup dalam nama-Nya."
+    },
+    {
+      "at": "articles[7].sed_contra[0]",
+      "ref": "Tit 1:9",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=tit&b=1&a1=9&a2=9",
+      "text": "[9] dan berpegang kepada perkataan yang benar, yang sesuai dengan ajaran yang sehat, supaya ia sanggup menasihati orang berdasarkan ajaran itu dan sanggup meyakinkan penentang-penentangnya."
+    },
+    {
+      "at": "articles[7].respondeo[0]",
+      "ref": "1Kor 15",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=15",
+      "text": "(pasal 15 ada)"
+    },
+    {
+      "at": "articles[7].replies[1].paras[0]",
+      "ref": "2Kor 10:5",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=2kor&b=10&a1=5&a2=5",
+      "text": "[5] Kami mematahkan setiap siasat orang dan merubuhkan setiap kubu yang dibangun oleh keangkuhan manusia untuk menentang pengenalan akan Allah. Kami menawan segala pikiran dan menaklukkannya kepada Kristus,"
+    },
+    {
+      "at": "articles[7].replies[1].paras[0]",
+      "ref": "Kis 17:28",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kis&b=17&a1=28&a2=28",
+      "text": "[28] Sebab di dalam Dia kita hidup, kita bergerak, kita ada, seperti yang telah juga dikatakan oleh pujangga-pujanggamu: Sebab kita ini dari keturunan Allah juga."
+    },
+    {
+      "at": "articles[8].objections[1][0]",
+      "ref": "Sir 24:31",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=sir&b=24&a1=31&a2=31",
+      "text": "[31] Pikirku: \"Aku hendak menyirami kebunku, dan hendak mengairi segala petakku.\" Tetapi tiba-tiba selokanku menjadi sungai, dan sungai itu menjadi laut;"
+    },
+    {
+      "at": "articles[8].objections[1][0]",
+      "ref": "Sir 24:22",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=sir&b=24&a1=22&a2=22",
+      "text": "[22] Barangsiapa mendengarkan daku tidak akan dikecewakan, dan yang bekerja dengan daku tidak akan berdosa.\""
+    },
+    {
+      "at": "articles[8].sed_contra[0]",
+      "ref": "Hos 12:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=hos&b=12&a1=10&a2=10",
+      "text": "[10] Aku berbicara kepada para nabi dan banyak kali memberi penglihatan dan memberi perumpamaan dengan perantaraan para nabi."
+    },
+    {
+      "at": "articles[8].respondeo[0]",
+      "ref": "Rm 1:14",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=1&a1=14&a2=14",
+      "text": "[14] Aku berhutang baik kepada orang Yunani, maupun kepada orang bukan Yunani, baik kepada orang terpelajar, maupun kepada orang tidak terpelajar."
+    },
+    {
+      "at": "articles[8].replies[1].paras[0]",
+      "ref": "Mat 7:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=7&a1=6&a2=6",
+      "text": "[6] \"Jangan kamu memberikan barang yang kudus kepada anjing dan jangan kamu melemparkan mutiaramu kepada babi, supaya jangan diinjak-injaknya dengan kakinya, lalu ia berbalik mengoyak kamu.\""
+    },
+    {
+      "at": "articles[9].respondeo[0]",
+      "ref": "Ibr 7",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ibr&b=7",
+      "text": "(pasal 7, 1 ayat)"
+    },
+    {
+      "at": "articles[9].respondeo[0]",
+      "ref": "Ibr 10:1",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ibr&b=10&a1=1&a2=1",
+      "text": "[1] Di dalam hukum Taurat hanya terdapat bayangan saja dari keselamatan yang akan datang, dan bukan hakekat dari keselamatan itu sendiri. Karena itu dengan korban yang sama, yang setiap tahun terus-menerus dipersembahkan, hukum Taurat tidak mungkin menyempurnakan mereka yang datang mengambil bagian di dalamnya."
+    },
+    {
+      "at": "articles[9].replies[1].paras[0]",
+      "ref": "Mat 19:8",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=19&a1=8&a2=8",
+      "text": "[8] Kata Yesus kepada mereka: \"Karena ketegaran hatimu Musa mengizinkan kamu menceraikan isterimu, tetapi sejak semula tidaklah demikian."
+    }
+  ]
+}

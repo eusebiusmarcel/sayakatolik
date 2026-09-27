@@ -64,6 +64,37 @@ Report only real problems. Do not rewrite for taste. Readability is the language
 editor's job (`summa-editor`), so leave style to them unless it causes ambiguity about
 the meaning.
 
+## Koreksi mode (the default since 2026-09-28)
+
+The translation was made from the 1920 English, which is the base text, so it follows
+the English wording and structure. Your job is to **correct its meaning against the
+Latin**:
+
+1. Go unit by unit, Latin against Indonesian (the English paragraphs may divide a unit
+   differently from the Latin; compare by content).
+2. Where the Indonesian departs from the Latin **in meaning** (content, logic, scope,
+   modality, negation, the sense of a term, a Scripture or authority reference, or TB
+   verse numbering), **fix it directly in the translation JSON**.
+   - Keep the translator's wording and sentence shape as far as the correct meaning
+     allows.
+   - Do not polish style.
+   - Do not add Latin in brackets (gaya-bahasa §1).
+   - Keep the English paragraph count and the §A formulas.
+2a. **Scripture references:** read `qNNN.ayat.json` (the verse text of each reference in
+   the Indonesian Catholic Bible, for checking only). Where the verse text does not
+   match what Thomas quotes, fix the reference. Use the Catholic Bible's numbering, with
+   the Vulgate number in brackets where it differs; if the passage exists only in the
+   Vulgate, mark it "(Vulg.)" with a "bdk." reference. **Never replace Thomas's wording
+   with the TB text.**
+3. Most of these errors come from the 1920 English itself. That is expected, and the
+   Latin wins.
+4. Add a *Catatan redaksi* to `editorial_notes` only where ADR §5 requires one.
+5. Log every change in `qNNN.review.json`, in the usual findings schema. Add
+   `"fixed": true` and `"sumber_kesalahan": "inggris" | "penerjemah"` to each finding.
+   Set the verdict to `"pass"` once everything is fixed.
+
+The coordinator runs lint afterwards; you have no shell.
+
 ## Delta mode
 
 When asked to review **edits** (`qNNN.edits.json`), check only those edits. For each

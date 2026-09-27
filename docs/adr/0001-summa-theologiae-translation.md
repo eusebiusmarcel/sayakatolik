@@ -32,10 +32,23 @@ Wikisource parts; or (b) OCR the public-domain Leonine or Marietti scans on
 archive.org, which is much more work and error-prone. This does not block the release
 order until II-II (step 4 of §6).
 
-**The Latin is the authority.** The English is a cross-check and a reference. It is not
-a second source to translate from. It is known to contain errors (for example, I q.1 a.1
-cites "Isa. 66:4" where the Latin has *Isaiae LXIV*), and it divides some articles
-differently from the Leonine text.
+**Revised 2026-09-28: the English is the base text, and the Latin is the authority
+for meaning.** The pilot first translated from the Latin. An experiment on I q.1–2 then
+compared that with a direct translation from the 1920 English:
+
+- The owner found the English-based text **clearer Indonesian**.
+- A Latin comparison found **84 meaning differences**. The Latin-based text was more
+  faithful in 80 of them, and 86 of the 90 errors in the English-based text were
+  inherited from the 1920 English itself. The worst example is I q.2 a.1 obj. 3, where
+  *concedit veritatem esse* ("admits that truth exists") had become "admits that truth
+  does **not** exist". Scripture references were also wrong (Yes 66:4 for 64:4).
+
+**Decision (owner):**
+- Wording, paragraphing and formulas follow the **English base text**.
+- A Latin **meaning correction** fixes every place where the English departs from the
+  Latin in meaning, and only those places.
+- The Latin is never shown on the site, and no Latin terms are added in brackets unless
+  the English has them.
 
 Other Indonesian translations are never used as input.
 
@@ -60,18 +73,18 @@ manifest from translate-book, the Opus reviewer that checks for "no invented con
 from senshinji, and the human-approved glossary and decision log from
 translation-workbench.
 
-1. **Translator** (Sonnet): Latin → Indonesian, with the English as a reference,
-   following `docs/summa/glosarium.md` and `docs/summa/pelajaran.md`.
-2. **Reviewer** (Opus, fresh context): compares the Indonesian against the Latin
-   paragraph by paragraph. It reports omissions, additions, glossary violations,
-   doctrinal drift, and Scripture that wasn't handled correctly.
-3. **Revision**, then a **language edit** by a separate Opus editor (`summa-editor`).
-   It first reads the Indonesian alone, as a general reader would, and then checks each
-   change against the Latin, following `docs/summa/gaya-bahasa.md`. A reviewer in delta
-   mode then checks only the edited sentences. Added 2026-09-27 after the pilot: the
-   owner found the pilot text faithful but full of Latin calques.
-   Then **lint**: checks that the structure counts match the Latin and
-   that glossary terms are used consistently.
+1. **Translator** (Opus): English (1920) → Indonesian, following
+   `docs/summa/glosarium.md`, `gaya-bahasa.md` and `pelajaran.md`. It does not read
+   the Latin. (Before 2026-09-28: Sonnet, from the Latin.)
+2. **Latin corrector** (Opus, fresh context; `summa-reviewer` in *koreksi* mode):
+   compares the Indonesian with the Latin unit by unit. It fixes **only meaning**:
+   content, logic, scope, modality, negation, a term's sense, and Scripture references
+   and their TB numbering. It keeps the translator's wording and style wherever the
+   meaning is right, and logs every change in `qNNN.review.json`.
+3. **Language edit** (`summa-editor`): only when the corrector's changes read
+   awkwardly, or when the owner flags style.
+   Then **lint**: checks that the structure mirrors the English, the §A formulas are
+   used, and no Latin glosses were added.
 4. `translations/summa/manifest.json` records, for each question, its status
    (`draft` → `ai-reviewed` → `spot-checked`), the source hash and the glossary version.
    A glossary change flags exactly which questions need translating again.
@@ -81,21 +94,38 @@ Nothing enters the glossary until the owner approves it.
 
 ### 4. Scripture
 
-Thomas quotes the Vulgate, often from memory, and his argument sometimes depends on
-the Vulgate's wording. Rules:
+Thomas quotes the Vulgate, often from memory, and his argument sometimes depends on its
+wording. For example, Yes 64:4 is cited for "what You have prepared for those who
+**love** You", where the TB reads "…bagi orang yang **menanti-nantikan** dia", and the
+argument in I q.13 a.11 rests on Kel 3:14 "He who **is**", where the TB reads "AKU
+ADALAH AKU". Quoting the TB would break such arguments.
 
-- References follow TB book names and **TB (Hebrew) Psalm numbering**, with the
-  Vulgate number in brackets: *Mzm 51:6 (Vulg. 50:8)*.
-- Where Thomas's argument depends on the Vulgate's wording, translate his Latin
-  literally and mark it "(Vulg.)".
+**Decision (owner, 2026-09-28): quotations are translated from Thomas's text, and never
+from the TB.** Each quotation is rendered from the English base text, and the Latin
+corrector makes sure its meaning matches Thomas's Latin. The TB wording is never
+pasted in. (Before this, on 2026-09-28, the owner had briefly asked for TB wording. It
+was set aside for the reasons above and because of LAI's non-commercial limit of
+**1,000 verses** without written permission, which the Summa far exceeds; see the
+[LAI policy](https://www.alkitab.or.id/tentang-kami/penggunaan-teks).)
 
-**LAI quotation limit.** The [LAI text-use policy](https://www.alkitab.or.id/tentang-kami/penggunaan-teks)
-allows non-commercial quotation of up to **1,000 verses** (and never a whole book)
-without written permission. The Summa quotes far more than that. **Decision
-(2026-09-27): every Scripture quotation is translated from Thomas's own Latin**, with
-the TB reference given, and TB wording is never pasted in. This keeps us well within
-LAI's terms and follows the text Thomas actually argued from. We will not ask LAI for
-permission.
+**References and links.**
+- References use TB book abbreviations and the **numbering of the Indonesian Catholic
+  Bible** (TB with the Deuterocanonical books), with the Vulgate number in brackets
+  where it differs, joined by a semicolon inside one bracket: *(Mzm 53:1; Vulg. 52:2)*,
+  *(Sir 3:21; Vulg. 3:22)*. The Vulgate count follows the Clementine edition, which
+  numbers a psalm's title as verse 1. Always check the verse text with `ayat.py`; never
+  convert Psalm numbers by formula.
+- A quotation found only in the Vulgate is marked "(Vulg.)", with a "bdk." reference
+  to the nearest verse.
+- On the site, each reference is a **link to the verse on
+  [imankatolik.or.id](https://www.imankatolik.or.id/alkitab.php)**, which has the full
+  Catholic canon, e.g. `alkitab.php?k=sir&b=3&a1=21&a2=21`. Readers see the familiar
+  TB text in one click, and linking is not quoting.
+- `tools/summa/ayat.py` checks every reference against that site and saves the verse
+  text **for checking only**. The Latin corrector compares that text with Thomas's
+  quotation and fixes the reference where it points at the wrong verse. (The check
+  showed that "Mzm 53:2" had to be Mzm 53:1, and that the Catholic Sir 24:31 is a
+  different verse from Thomas's Vulgate Sir 24:31.)
 
 ### 5. Doctrine and editorial notes
 

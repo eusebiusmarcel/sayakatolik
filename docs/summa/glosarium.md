@@ -1,8 +1,8 @@
 # Glosarium Summa Theologiae (Latin → Indonesia)
 
-**Versi:** 0.2 (sebagian besar masih usulan)
+**Versi:** 0.3 (sebagian besar masih usulan)
 
-**Riwayat:** 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
+**Riwayat:** 0.3 (2026-09-28): teks Inggris 1920 menjadi teks dasar; rumus §A mengikuti bahasa Inggris; tanpa istilah Latin dalam kurung (keputusan pemilik). 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
 **Aturan:** penerjemah WAJIB memakai padanan berstatus `disetujui`. Istilah berstatus
 `usulan` boleh dipakai dalam pilot, tetapi setiap perubahannya menaikkan versi glosarium
 dan menandai ulang pertanyaan yang terdampak (lihat ADR 0001 §3). Hanya pemilik situs
@@ -14,20 +14,22 @@ diverifikasi** terhadap teks KGK Indonesia dan harus dicek sebelum disetujui.
 
 ## A. Rumus struktural artikel
 
-Rumus ini dipakai persis sama di setiap artikel.
+Rumus ini **mengikuti teks Inggris 1920**, yang menjadi teks dasar (ADR 0001 §1;
+keputusan pemilik, 2026-09-28), dan dipakai persis sama di setiap artikel. Label yang
+tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 
-| Latin | English (Dominican) | Indonesia | Status |
-|---|---|---|---|
-| Quaestio | Question | Pertanyaan | usulan |
-| Articulus | Article | Artikel | usulan |
-| Prooemium | (introduction) | Pengantar | usulan |
-| Ad primum sic proceditur. Videtur quod … | Objection 1: It seems that … | **Keberatan 1.** Tampaknya … | usulan |
-| Praeterea, … | Obj. 2: Further, … | **Keberatan 2.** Selanjutnya, … | usulan |
-| Sed contra … | *On the contrary,* … | **Sebaliknya,** … | usulan |
-| Respondeo dicendum quod … | *I answer that,* … | **Aku menjawab:** harus dikatakan bahwa … | usulan ("Aku" sudah diputuskan, §E.1) |
-| Ad primum ergo dicendum quod … | Reply Obj. 1: … | **Jawaban atas keberatan 1.** Harus dikatakan bahwa … | usulan |
-| Et per hoc patet responsio ad … | This suffices for the reply to … | Dengan demikian jelaslah jawaban atas keberatan … | usulan |
-| ut supra dictum est (q. 2, a. 3) | as stated above (Q. 2, A. 3) | sebagaimana telah dikatakan di atas (q. 2, a. 3) | usulan |
+| English (Dominican) | Indonesia | Status |
+|---|---|---|
+| Question | Pertanyaan | usulan |
+| Article | Artikel | usulan |
+| (introduction) | Pengantar | usulan |
+| Objection 1: It seems that … | **Keberatan 1:** Tampaknya … | **disetujui** |
+| Obj. 2: Further, … | **Keberatan 2:** Selanjutnya, … | **disetujui** |
+| *On the contrary,* … | **Sebaliknya,** … | **disetujui** |
+| *I answer that,* … | **Aku menjawab bahwa** … | **disetujui** |
+| Reply Obj. 1: … | **Jawaban atas Keberatan 1:** … (langsung isinya, tanpa "harus dikatakan bahwa") | **disetujui** |
+| This suffices for the reply to … | Dengan ini cukuplah jawaban atas … | usulan |
+| as stated above (Q. 2, A. 3) | sebagaimana telah dikatakan di atas (q. 2, a. 3) | usulan |
 
 ## B. Allah, Tritunggal, Kristus
 
@@ -55,7 +57,7 @@ Rumus ini dipakai persis sama di setiap artikel.
 
 | Latin | English | Indonesia | Catatan | Status |
 |---|---|---|---|---|
-| ens | being | sesuatu yang ada (jamak: hal-hal yang ada) | Pada kemunculan pertama di satu halaman: "sesuatu yang ada (*ens*)". *Non ens* → "yang tidak ada". Jangan pakai "pengada". | **disetujui** |
+| ens | being | sesuatu yang ada (jamak: hal-hal yang ada) | Tanpa istilah Latin dalam kurung. *Non ens* → "yang tidak ada". Jangan pakai "pengada". | **disetujui** |
 | esse | being / existence | ada (keberadaan) | *Deum esse* → "adanya Allah"; *ipsum esse subsistens* → "Ada itu sendiri yang berdiri sendiri (*ipsum esse subsistens*)" | usulan |
 | actus / potentia | act / potentiality | aktus / potensi | | usulan |
 | substantia / accidens | substance / accident | substansi / aksiden | | usulan |

@@ -1,0 +1,338 @@
+{
+  "findings": [
+    {
+      "at": "a1.replies[2]",
+      "severity": "critical",
+      "type": "mistranslation",
+      "latin": "Nec potest argui quod sit in re, nisi daretur quod sit in re aliquid quo maius cogitari non potest",
+      "current": "Dan tidak dapat diperdebatkan bahwa ia ada dalam kenyataan, kecuali diandaikan bahwa dalam kenyataan ada sesuatu ...",
+      "suggested": "Dan tidak dapat disimpulkan (dengan argumen) bahwa ia ada dalam kenyataan, kecuali diterima bahwa dalam kenyataan ada sesuatu ...",
+      "why": "'Tidak dapat diperdebatkan bahwa ia ada' reads in Indonesian as 'it is indisputable that it exists', which reverses Thomas's point that the existence cannot be inferred from the name alone."
+    },
+    {
+      "at": "a1.objections[1]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Significatur enim hoc nomine id quo maius significari non potest",
+      "current": "Sebab dengan nama ini ditandakan sesuatu yang daripadanya tidak dapat dipikirkan sesuatu yang lebih besar",
+      "suggested": "Sebab dengan nama ini ditandakan sesuatu yang daripadanya tidak dapat ditandakan sesuatu yang lebih besar",
+      "why": "The Latin of the objection has 'significari', not 'cogitari'; the translation follows the English 'conceived' instead of the Latin authority (ad 2 does have 'cogitari' and is rendered correctly there)."
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "ut homo est animal, nam animal est de ratione hominis",
+      "current": "seperti \"manusia adalah makhluk hidup\" (animal), sebab \"makhluk hidup\" termasuk pengertian \"manusia\"",
+      "suggested": "seperti \"manusia adalah hewan\" (animal), sebab \"hewan\" termasuk pengertian \"manusia\"",
+      "why": "'Animal' is the proximate genus of man (sentient living body); 'makhluk hidup' corresponds to 'vivens', a higher genus that includes plants, so the logical example is changed."
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "quorum termini sunt quaedam communia quae nullus ignorat",
+      "current": "yang istilah-istilahnya adalah hal-hal umum yang tidak diragukan siapa pun",
+      "suggested": "yang istilah-istilahnya adalah hal-hal umum yang diketahui semua orang (yang tak seorang pun tidak mengetahuinya)",
+      "why": "'Ignorare' means 'not to know', not 'to doubt'; the whole article turns on whether the terms are known, and the same verb is correctly rendered 'tidak mengetahui' a few lines later."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Hic autem non est procedere in infinitum",
+      "current": "Tetapi dalam hal ini tidak boleh maju sampai tak terhingga",
+      "suggested": "Tetapi dalam hal ini tidak mungkin berlanjut sampai tak terhingga",
+      "why": "'Non est procedere' expresses impossibility, not prohibition; 'tidak boleh' turns a logical impossibility into a rule and is inconsistent with the parallel 'non est possibile ... procedatur' rendered 'tidak mungkin' in the Second and Third Ways."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Secunda via est ex ratione causae efficientis",
+      "current": "Jalan kedua diambil dari alasan sebab efisien",
+      "suggested": "Jalan kedua diambil dari pengertian (hakikat) sebab efisien",
+      "why": "Here 'ratio' means the notion or nature of efficient causality, not a 'reason'; 'alasan' is the ratio-as-reason/notion confusion the glossary warns about."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "si igitur nihil fuit ens, impossibile fuit quod aliquid inciperet esse",
+      "current": "jadi, jika tidak ada satu pun pengada yang pernah ada, mustahil ada sesuatu yang mulai ada",
+      "suggested": "jadi, jika (pada waktu itu) tidak ada satu pun pengada, mustahil ada sesuatu yang mulai ada",
+      "why": "'Pernah' ('ever') changes the hypothesis from 'at some time nothing was' (aliquando nihil fuit) to 'no being ever existed', which alters the logic of the Third Way."
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "qui, secundum quod homo, via est nobis tendendi in Deum",
+      "current": "adalah jalan bagi kami untuk menuju Allah",
+      "suggested": "adalah jalan bagi kita untuk menuju Allah",
+      "why": "'Nobis' here means all people, the reader included; the exclusive 'kami' wrongly narrows Christ's being the Way to the authors. The authorial 'kami' in 'kami akan membahas' is fine."
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "de his quae ad operationem ipsius pertinent, scilicet de scientia et de voluntate et potentia",
+      "current": "hal-hal yang menyangkut karya-Nya",
+      "suggested": "hal-hal yang menyangkut kegiatan-Nya (operatio)",
+      "why": "'Karya' suggests works outside God, but the items listed (knowledge, will, power) are God's operations; 'kegiatan/operasi' is more precise."
+    },
+    {
+      "at": "a1.objections[0]; a1.replies[0]; a3.objections[1]; a3.replies[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "naturaliter inest / naturaliter desiderat / principium quod est natura / natura ... operetur",
+      "current": "secara alami ... ; asas yang disebut alam (natura); alam bertindak",
+      "suggested": "secara kodrati ... ; asas yang adalah kodrat (natura); kodrat bertindak",
+      "why": "The glossary gives natura → kodrat, and the same text already uses 'kodrati' for 'naturalis' (akal budi kodrati, pengetahuan kodrati); 'alam' shifts nature-as-intrinsic-principle toward 'the natural world'."
+    },
+    {
+      "at": "a1.objections[1]; a1.replies[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "in re et intellectu ... in intellectu tantum; in apprehensione intellectus",
+      "current": "dalam kenyataan dan dalam akal budi ... hanya ada dalam akal budi saja; dalam tangkapan akal budi",
+      "suggested": "dalam kenyataan dan dalam intelek ... hanya dalam intelek saja; dalam tangkapan intelek",
+      "why": "The glossary gives intellectus → 'intelek (akal budi)' and ratio → 'akal (budi)'; here 'akal budi' also renders ratio and rationalis, which collapses the distinction."
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ut ens et non ens",
+      "current": "seperti \"yang-ada\" dan \"yang-tidak-ada\"",
+      "suggested": "seperti \"pengada\" dan \"bukan-pengada\"",
+      "why": "The glossary gives ens → pengada, kept distinct from esse → ada; the translation itself uses 'pengada' for ens in a.3."
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "magis nota quoad nos, et minus nota quoad naturam, scilicet per effectus",
+      "current": "lebih dikenal bagi kita, meskipun kurang dikenal menurut kodratnya, yaitu melalui akibat-akibatnya",
+      "suggested": "lebih dikenal bagi kita, meskipun kurang dikenal menurut tatanan kodrat, yaitu melalui akibat-akibat",
+      "why": "'Quoad naturam' is the order of nature as opposed to 'quoad nos', not the 'nature' of some antecedent; the ambiguous '-nya' also leaves unclear whose effects are meant."
+    },
+    {
+      "at": "a1.replies[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "esse in rerum natura ... quod non est datum a ponentibus Deum non esse",
+      "current": "ada dalam kenyataan alam semesta ... padahal hal itu tidak diandaikan oleh mereka",
+      "suggested": "ada dalam kenyataan ... padahal hal itu tidak diterima (tidak diakui) oleh mereka",
+      "why": "'In rerum natura' is an idiom for 'in reality' ('alam semesta' is extra), and 'datum' means 'conceded', not 'supposed'."
+    },
+    {
+      "at": "a1.replies[2]; a2.replies[0]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "Ad tertium dicendum quod veritatem esse ... / Ad primum ergo dicendum quod Deum esse ...",
+      "current": "Harus dikatakan bahwa bahwa kebenaran ada ... / Harus dikatakan bahwa bahwa Allah ada ...",
+      "suggested": "Harus dikatakan bahwa adanya kebenaran secara umum ... / Harus dikatakan bahwa adanya Allah, dan hal-hal semacam itu ...",
+      "why": "'Bahwa bahwa' is ungrammatical in Indonesian; nominalizing with 'adanya' keeps the formula intact."
+    },
+    {
+      "at": "a1.sed_contra[0]; a2.objections[0]; a2.objections[1]; a2.sed_contra[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "philosophum / apostolum / Damascenus",
+      "current": "sang Filsuf (Aristoteles) [a.1 twice]; sang Rasul (Paulus) [a.2 twice]; Yohanes dari Damsyik (Damascenus) [a.1 and a.2]",
+      "suggested": "Give the parenthetical only at the first occurrence on the page (the question): a1.objections[1] for Aristoteles, a2.objections[0] for Paulus, a1.objections[0] for Damascenus",
+      "why": "Glossary §E.2 says 'saat pertama muncul di satu halaman', and one page is one question (ADR §6), not one article."
+    },
+    {
+      "at": "a1.sed_contra[0]",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "secundum illud Psalmi LII",
+      "current": "(Mzm 53:2; Vulg. 52:2)",
+      "suggested": "(Mzm 53:2 (Vulg. 52:2))",
+      "why": "The reference is correct (TB 53:2 = Vulg. 52:2, with the title counted as v.1), but ADR §4 prescribes the form 'Mzm 51:6 (Vulg. 50:8)'."
+    },
+    {
+      "at": "a2.sed_contra[0]",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur",
+      "current": "\"Hal-hal Allah yang tidak tampak, dapat dilihat dengan pikiran melalui apa yang telah dijadikan\"",
+      "suggested": "\"Hal-hal yang tidak kelihatan dari Allah, dipahami melalui apa yang telah dijadikan, tampak dengan jelas\"",
+      "why": "The Latin is indicative ('are clearly seen'); the added modal 'dapat' and the phrase 'dengan pikiran' echo the TB ('dapat nampak kepada pikiran') rather than Thomas's Latin."
+    },
+    {
+      "at": "a3.sed_contra[0]",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "ex persona Dei, ego sum qui sum",
+      "current": "\"Akulah Aku yang ada\" (Kel 3:14)",
+      "suggested": "\"Aku adalah Dia yang ada\" (Kel 3:14, Vulg.)",
+      "why": "The argument depends on the Vulgate's 'qui sum' (being), which differs from the TB's 'AKU ADALAH AKU', so ADR §4 requires the '(Vulg.)' mark; 'qui sum' is more exactly 'Dia yang ada'."
+    },
+    {
+      "at": "a2.objections[1]; a2.replies[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "medium demonstrationis est quod quid est",
+      "current": "medium pembuktian adalah hakikat sesuatu (quod quid est)",
+      "suggested": "term tengah pembuktian adalah apa sesuatu itu (quod quid est)",
+      "why": "'Medium' is the logical middle term ('term tengah'); and 'hakikat' is already the parenthetical gloss for essentia in the glossary, so using it for 'quod quid est' blurs two entries."
+    },
+    {
+      "at": "a3.objections[1]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "quod potest compleri per pauciora principia, non fit per plura ... possunt compleri per alia principia",
+      "current": "apa yang dapat dilaksanakan melalui asas-asas yang lebih sedikit ... dapat dilaksanakan melalui asas-asas lain",
+      "suggested": "apa yang dapat terlaksana (dijelaskan) melalui asas-asas yang lebih sedikit ... dapat terlaksana melalui asas-asas lain",
+      "why": "'Dilaksanakan' implies an agent carrying out a task, which is odd for natural phenomena explained by principles."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quia moventia secunda non movent nisi per hoc quod sunt mota a primo movente",
+      "current": "sebab penggerak-penggerak kedua tidak menggerakkan",
+      "suggested": "sebab penggerak-penggerak sekunder (yang kemudian) tidak menggerakkan",
+      "why": "'Secunda' means 'secondary' (subordinate) movers, not the numerically 'second' one."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Ergo est necesse ponere aliquam causam efficientem primam ... Ergo necesse est ponere aliquid quod sit per se necessarium",
+      "current": "Maka, perlu mengandaikan adanya suatu sebab efisien pertama ... Maka, perlu mengandaikan adanya sesuatu yang niscaya",
+      "suggested": "Maka, mesti diakui adanya suatu sebab efisien pertama ... Maka, mesti diakui adanya sesuatu yang niscaya",
+      "why": "'Necesse est' is logical necessity ('perlu' is weaker), and 'ponere' means 'to posit/affirm' rather than 'to suppose hypothetically'. This matters at the conclusion of a demonstration."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "cum quaedam inveniantur generari et corrumpi",
+      "current": "ada hal-hal yang ditemukan mengalami kejadian dan kebinasaan",
+      "suggested": "ada hal-hal yang ditemukan dilahirkan (dihasilkan) dan binasa",
+      "why": "'Kejadian' in Indonesian means 'event/occurrence' and does not clearly convey coming-to-be (generatio)."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "causam suae necessitatis ... causa necessitatis aliis",
+      "current": "kenisayaannya / kenisayaan",
+      "suggested": "keniscayaannya / keniscayaan",
+      "why": "This is a misspelling: the KBBI form is 'keniscayaan', from 'niscaya'. It occurs four times."
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "secundum quod appropinquant diversimode ad aliquid quod maxime est",
+      "current": "mendekati sesuatu yang paling ada dalam kadar itu",
+      "suggested": "mendekati sesuatu yang secara maksimal ada (yang paling ada)",
+      "why": "'Dalam kadar itu' is an interpretive addition not in the Latin; the Fourth Way's 'maxime est' should be left as open as Thomas wrote it."
+    },
+    {
+      "at": "a3.replies[0]",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "ut bene faceret etiam de malo",
+      "current": "sehingga dapat mendatangkan kebaikan bahkan dari kejahatan sekalipun",
+      "suggested": "sehingga Ia mendatangkan kebaikan bahkan dari kejahatan sekalipun",
+      "why": "The Latin says God does bring good out of evil, not merely that He can; the modal 'dapat' is added."
+    },
+    {
+      "stage": "edit",
+      "at": "a3.respondeo[0] (jalan 1)",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Impossibile est ergo quod, secundum idem et eodem modo, aliquid sit movens et motum, vel quod moveat seipsum.",
+      "current": "Maka, tidak mungkin sesuatu menjadi penggerak sekaligus yang digerakkan menurut segi yang sama dan dengan cara yang sama, atau menggerakkan dirinya sendiri.",
+      "suggested": "Maka, menurut segi yang sama dan dengan cara yang sama, tidak mungkin sesuatu menjadi penggerak sekaligus yang digerakkan, atau menggerakkan dirinya sendiri.",
+      "why": "The edit moved the qualifier after the first disjunct, so 'atau menggerakkan dirinya sendiri' reads as absolutely impossible, while in the Latin 'secundum idem et eodem modo' governs both disjuncts (a thing can move itself in different respects, one part moving another). FIXED in the translation."
+    },
+    {
+      "stage": "edit",
+      "at": "a1.replies[2] (ad 2)",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "non tamen propter hoc sequitur quod intelligat id quod significatur per nomen, esse in rerum natura; sed in apprehensione intellectus tantum.",
+      "current": "Orang itu hanya memahami bahwa hal itu ada dalam tangkapan intelek.",
+      "suggested": "Yang menyusul hanyalah bahwa orang itu memahami hal itu ada dalam tangkapan intelek.",
+      "why": "Splitting the sentence turned the elliptical 'sed ... tantum' (still governed by 'sequitur') into a plain factual claim about the hearer; the fix keeps the split but restores 'what follows is only'. FIXED in the translation."
+    },
+    {
+      "stage": "edit",
+      "at": "a3.respondeo[0] (jalan 4), needs_translator",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "secundum quod appropinquant diversimode ad aliquid quod maxime est, sicut magis calidum est, quod magis appropinquat maxime calido",
+      "current": "mendekati sesuatu yang secara maksimal ada (yang paling ada).",
+      "suggested": "mendekati sesuatu yang memiliki sifat yang bersangkutan pada tingkat tertinggi (quod maxime est).",
+      "why": "The editor is right: the parallel 'maxime calido' shows that 'est' is elliptical for the quality being compared, and 'maxime ens' is derived only afterwards ('et per consequens maxime ens ... quae sunt maxime vera sunt maxime entia'), so reading 'paling ada' here assumes the conclusion. This supersedes the earlier review suggestion. FIXED in the translation, with a translator note."
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.2] 'Nec potest argui quod ...' / 'argui' = 'disimpulkan/dibuktikan dengan argumen', JANGAN 'diperdebatkan': 'tidak dapat diperdebatkan' dalam bahasa Indonesia berarti 'tak terbantahkan' dan membalik makna.",
+    "[asal: STh I q.2] 'Non est procedere in infinitum' dan 'non est possibile quod procedatur in infinitum' menyatakan kemustahilan logis: terjemahkan 'tidak mungkin berlanjut sampai tak terhingga', bukan 'tidak boleh'.",
+    "[asal: STh I q.2] 'Necesse est ponere' = 'mesti diakui/diterima adanya', bukan 'perlu mengandaikan'; 'necesse est' adalah keharusan logis, 'perlu' terlalu lemah.",
+    "[asal: STh I q.2] 'Ratio' dalam frasa 'ex ratione X' / 'de ratione X' / 'in ratione subiecti' berarti pengertian/hakikat X, bukan 'alasan'.",
+    "[asal: STh I q.2] 'Animal' sebagai genus manusia = 'hewan'; 'makhluk hidup' adalah padanan 'vivens'. Jangan ganti genus dalam contoh logika.",
+    "[asal: STh I q.2] Terjemahkan kata Latin yang tertulis walaupun teks Inggris berbeda (mis. 'significari' vs 'conceived'): bahasa Latin adalah otoritas.",
+    "[asal: STh I q.2] 'Naturaliter' dan 'natura' sebagai prinsip intrinsik diterjemahkan dengan 'kodrati/kodrat' (glosarium §B), bukan 'alami/alam'; konsisten dengan 'naturalis' = 'kodrati'.",
+    "[asal: STh I q.2] Keterangan dalam kurung untuk sang Filsuf, sang Rasul, dan Yohanes dari Damsyik hanya diberi pada kemunculan pertama dalam SATU PERTANYAAN (satu halaman), bukan per artikel.",
+    "[asal: STh I q.2] Kutipan yang argumennya bergantung pada kata-kata Vulgata (mis. Kel 3:14 'ego sum qui sum', yang berbeda dari TB 'AKU ADALAH AKU') wajib diberi tanda '(Vulg.)'.",
+    "[asal: STh I q.2] Jangan menambah modal 'dapat' pada kutipan Kitab Suci atau kalimat Thomas yang berbentuk indikatif (conspiciuntur, bene faceret); waspadai rumusan TB yang ikut terbawa.",
+    "[asal: STh I q.2] Hindari 'bahwa bahwa' setelah rumus 'Harus dikatakan bahwa'; nominalkan dengan 'adanya ...' (Deum esse → 'adanya Allah').",
+    "[asal: STh I q.2, tahap edit] Saat memecah atau menyusun ulang kalimat, keterangan yang di Latin diletakkan di depan dan menaungi beberapa anak kalimat (mis. 'secundum idem et eodem modo ... vel ...') harus tetap di depan agar cakupannya tidak menyempit ke satu anak kalimat saja.",
+    "[asal: STh I q.2, tahap edit] Anak kalimat elips yang masih dikuasai verba utama ('non sequitur quod ... sed ... tantum') tidak boleh dijadikan pernyataan faktual yang berdiri sendiri; pertahankan 'yang menyusul hanyalah ...'.",
+    "[asal: STh I q.2, tahap edit] 'Quod maxime est' dalam argumen gradasi: bila contoh sejajarnya menyebut sifat ('maxime calido'), 'est' adalah elips untuk sifat yang dibandingkan; jangan diterjemahkan 'paling ada' jika 'maxime ens' baru disimpulkan sesudahnya."
+  ],
+  "glossary_proposals": [
+    {
+      "latin": "per se notum",
+      "indonesia": "diketahui dengan sendirinya",
+      "alasan": "Istilah kunci di I q.2 a.1 dan di banyak tempat lain; harus dibedakan dari 'per se' umum (= pada dirinya). Terjemahan ini sudah memakainya secara konsisten.",
+      "rujukan": "STh I q.2 a.1"
+    },
+    {
+      "latin": "secundum se / quoad nos",
+      "indonesia": "pada dirinya sendiri / bagi kita",
+      "alasan": "Pasangan distingsi baku yang dipakai berulang (a.1, a.2).",
+      "rujukan": "STh I q.2 a.1–2"
+    },
+    {
+      "latin": "quod quid est",
+      "indonesia": "apa sesuatu itu (quod quid est)",
+      "alasan": "Usulan penerjemah 'hakikat' bertabrakan dengan glosarium §B yang memakai 'hakikat' sebagai keterangan untuk essentia.",
+      "rujukan": "STh I q.2 a.2 ob.2, ad 2"
+    },
+    {
+      "latin": "medium (demonstrationis)",
+      "indonesia": "term tengah",
+      "alasan": "Istilah logika silogistik yang baku dalam buku logika berbahasa Indonesia; 'medium' tidak bermakna logis dalam bahasa Indonesia.",
+      "rujukan": "STh I q.2 a.2 ob.2, ad 2"
+    },
+    {
+      "latin": "demonstratio propter quid / demonstratio quia",
+      "indonesia": "pembuktian propter quid (dari sebab) / pembuktian quia (dari akibat)",
+      "alasan": "Perlu padanan tetap; saat ini dalam satu paragraf bercampur 'pembuktian' dan 'demonstrasi'.",
+      "rujukan": "STh I q.2 a.2 co."
+    },
+    {
+      "latin": "animal (genus)",
+      "indonesia": "hewan",
+      "alasan": "Membedakan animal dari vivens (makhluk hidup) di pohon Porfirius.",
+      "rujukan": "STh I q.2 a.1 co."
+    },
+    {
+      "latin": "gubernatio (rerum)",
+      "indonesia": "pengaturan (usulan penerjemah) — pemilik perlu memutuskan apakah 'pemerintahan (ilahi)' lebih sesuai dengan KGK",
+      "alasan": "Penerjemah membedakannya dengan tepat dari providentia; padanannya harus tetap sebelum mencapai I q.103.",
+      "rujukan": "STh I q.2 a.3 (via quinta); I q.103; KGK 302–303 `cek`"
+    }
+  ],
+  "verdict": "revise"
+}

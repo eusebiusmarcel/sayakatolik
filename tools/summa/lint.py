@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Check an Indonesian Summa translation against its Latin source.
+"""Check an Indonesian Summa translation against its source (English base text).
 
     python3 tools/summa/lint.py i 2
 
-Checks: the structure mirrors the Latin, no empty paragraphs, the fixed formulas are
+Checks: the structure mirrors the English base text, no empty paragraphs, the fixed formulas are
 used, labels are left to the renderer, the source hash and glossary version are current,
 and no Latin paragraph was left untranslated. Exits non-zero on any failure.
 """
@@ -40,44 +40,54 @@ def lint(pars, q):
             errs.append(f"editorial_notes[{i}]: must be {{at, text: 'Catatan redaksi: …'}}; "
                         "internal notes belong in translator_notes")
 
-    def same_shape(where, la, idn):
-        if len(la) != len(idn):
-            errs.append(f"{where}: {len(la)} Latin paragraphs, {len(idn)} Indonesian")
+    def same_shape(where, en, idn):
+        if len(en) != len(idn):
+            errs.append(f"{where}: {len(en)} English paragraphs, {len(idn)} Indonesian")
         for i, p in enumerate(idn):
             if not p.strip():
                 errs.append(f"{where}[{i}]: empty")
 
-    same_shape("prooemium", src["prooemium"]["la"], tr.get("prooemium", []))
+    # The English (1920) is the base text: structure and formulas follow it (ADR 0001 §1).
+    same_shape("prooemium", src["prooemium"]["en"], tr.get("prooemium", []))
 
-    la_arts = {a["a"]: a["la"] for a in src["articles"]}
+    en_arts = {a["a"]: a["en"] for a in src["articles"]}
     tr_arts = {a["a"]: a for a in tr.get("articles", [])}
-    if set(la_arts) != set(tr_arts):
-        errs.append(f"articles: Latin {sorted(la_arts)}, Indonesian {sorted(tr_arts)}")
+    if set(en_arts) != set(tr_arts):
+        errs.append(f"articles: English {sorted(en_arts)}, Indonesian {sorted(tr_arts)}")
 
-    for n in sorted(set(la_arts) & set(tr_arts)):
-        L, T, w = la_arts[n], tr_arts[n], f"a{n}"
+    for n in sorted(set(en_arts) & set(tr_arts)):
+        E, T, w = en_arts[n], tr_arts[n], f"a{n}"
         if not T.get("title", "").endswith("?"):
             errs.append(f"{w}.title: should be a question ending in '?'")
-        if len(L["objections"]) != len(T.get("objections", [])):
-            errs.append(f"{w}: {len(L['objections'])} objections, {len(T.get('objections', []))} translated")
-        for i, (lo, to) in enumerate(zip(L["objections"], T.get("objections", []))):
-            same_shape(f"{w}.objections[{i}]", lo, to)
+        if len(E["objections"]) != len(T.get("objections", [])):
+            errs.append(f"{w}: {len(E['objections'])} objections, {len(T.get('objections', []))} translated")
+        for i, (eo, to) in enumerate(zip(E["objections"], T.get("objections", []))):
+            same_shape(f"{w}.objections[{i}]", eo, to)
             if to and re.match(r"^\*{0,2}Keberatan", to[0]):
                 errs.append(f"{w}.objections[{i}]: remove the label, the renderer adds it")
-        same_shape(f"{w}.sed_contra", L["sed_contra"], T.get("sed_contra", []))
-        same_shape(f"{w}.respondeo", L["respondeo"], T.get("respondeo", []))
+        same_shape(f"{w}.sed_contra", E["sed_contra"], T.get("sed_contra", []))
+        same_shape(f"{w}.respondeo", E["respondeo"], T.get("respondeo", []))
         if T.get("sed_contra") and not T["sed_contra"][0].startswith("Sebaliknya"):
             errs.append(f"{w}.sed_contra: must start with 'Sebaliknya' (glossary §A)")
-        if T.get("respondeo") and not T["respondeo"][0].startswith("Aku menjawab"):
-            errs.append(f"{w}.respondeo: must start with 'Aku menjawab' (glossary §A)")
-        la_r = [r["n"] for r in L["replies"]]
+        if T.get("respondeo") and not T["respondeo"][0].startswith("Aku menjawab bahwa"):
+            errs.append(f"{w}.respondeo: must start with 'Aku menjawab bahwa' (glossary §A)")
+        en_r = [r["n"] for r in E["replies"]]
         tr_r = [r.get("n") for r in T.get("replies", [])]
-        if la_r != tr_r:
-            errs.append(f"{w}.replies: Latin {la_r}, Indonesian {tr_r}")
-        for lr, trr in zip(L["replies"], T.get("replies", [])):
-            same_shape(f"{w}.replies{lr['n']}", lr["la"], trr.get("paras", []))
-            if trr.get("paras") and re.match(r"^\*{0,2}Jawaban atas", trr["paras"][0]):
-                errs.append(f"{w}.replies{lr['n']}: remove the label, the renderer adds it")
+        if en_r != tr_r:
+            errs.append(f"{w}.replies: English {en_r}, Indonesian {tr_r}")
+        for er, trr in zip(E["replies"], T.get("replies", [])):
+            same_shape(f"{w}.replies{er['n']}", er["en"], trr.get("paras", []))
+            if trr.get("paras") and re.match(r"^\*{0,2}(Jawaban atas|Harus dikatakan bahwa)", trr["paras"][0]):
+                errs.append(f"{w}.replies{er['n']}: start with the reply itself; the renderer adds "
+                            "'Jawaban atas Keberatan N:' (glossary §A)")
+
+    # Latin glosses the English does not have (gaya-bahasa §1)
+    text = json.dumps(tr.get("articles", []) + tr.get("prooemium", []), ensure_ascii=False)
+    en_text = json.dumps(src["articles"] + [src["prooemium"]["en"]], ensure_ascii=False)
+    for m in re.finditer(r"\(\*?([a-z]+(?: [a-z]+){0,3})\*?\)", text):
+        w = m.group(1)
+        if re.search(r"\b(?:est|esse|ens|quod|quid|ratio|actus|sensus|per|se|maxime|notum)\b", w) and w not in en_text:
+            errs.append(f"Latin gloss not in the English: ({w}), remove it (gaya-bahasa §1)")
 
     # Latin left untranslated: long runs of common Latin function words
     text = json.dumps(tr, ensure_ascii=False)

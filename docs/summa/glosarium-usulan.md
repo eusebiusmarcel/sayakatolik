@@ -19,3 +19,8 @@ Diisi otomatis dari review. Pemilik situs memindahkan istilah yang disetujui ke
 | probabilis / demonstratio / fallacia | probabel / demonstrasi / sesat pikir | Istilah logika skolastik yang menentukan tingkat kepastian sebuah argumen; 'mungkin' dan 'kekeliruan' mengaburkannya. | — | STh I q.1 |
 | auctoritas | otoritas | Dipakai untuk locus ab auctoritate dan auctoritates Scripturae/philosophorum. | — | STh I q.1 |
 | ordinare (sapientis est ordinare) | mengatur | Dalam definisi hikmat (I q.1 a.6) kata ini menyambung objection, respondeo dan ad 1; variasi seperti 'mengarahkan' memutus argumen. Di luar konteks hikmat, 'ordinare ad finem' boleh 'mengarahkan kepada tujuan'. | STh I q.1 a.6 | STh I q.1 |
+| ratio (in ratione subiecti) | pengertian | The 1920 English renders it 'essence'; this confirms the pelajaran rule and could go into glosarium §C as a worked example. | STh I q.2 a.1 co. | STh I q.2 |
+| subiectum (scientiae) | pokok bahasan | Dibedakan dari obiectum (potentiae/habitus) → objek, sesuai analogi di STh I q.1 a.7. Rumusan ini lebih jelas bagi pembaca awam daripada 'subjek', dan sejalan dengan prooemium Inggris ('subject-matter'). | STh I q.1 a.7 | STh I q.1 |
+| revelabile / divinitus revelabilia | yang dapat diwahyukan (secara ilahi) | Konsep kunci objek formal ajaran suci; bahasa Inggris 1920 menghapusnya. | STh I q.1 a.3 | STh I q.1 |
+| littera (Scripturae) | rumusan teks | Dibedakan dari vox/verbum ('kata'); lihat a10 ad 1. | STh I q.1 a.10 | STh I q.1 |
+| infusio / infusus | pencurahan / dicurahkan | Dibedakan dari inspiratio (ilham); istilah teknis untuk karunia dan kebajikan yang dicurahkan. | KGK 1266, 1813 `cek` | STh I q.1 |

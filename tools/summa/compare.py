@@ -110,7 +110,8 @@ def question(pars, q, with_en_translation=False):
         fobj = fa.get("objections", [])
         for i, o in enumerate(ta["objections"]):
             en = E["objections"][i] if i < len(E["objections"]) else ["(tidak ada padanan di edisi Inggris)"]
-            out.append(u(f"a{n_a}.objections[{i}]", f"Keberatan {i + 1}", o, en, L["objections"][i],
+            out.append(u(f"a{n_a}.objections[{i}]", f"Keberatan {i + 1}", o, en,
+                         L["objections"][i] if i < len(L["objections"]) else ["(tidak ada padanan terpisah di Latin)"],
                          fobj[i] if i < len(fobj) else []))
         for i in range(len(ta["objections"]), len(E["objections"])):
             out.append(u(f"a{n_a}.objections[{i}]", f"(EN obj. {i + 1})", [], E["objections"][i], [],
@@ -121,11 +122,13 @@ def question(pars, q, with_en_translation=False):
                      fa.get("respondeo", [])))
         en_replies = {tuple(r["n"]): r["en"] for r in E["replies"]}
         fe_replies = {tuple(r["n"]): r["paras"] for r in fa.get("replies", [])}
-        for tr_r, la_r in zip(ta["replies"], L["replies"]):
+        la_by_n = {tuple(r["n"]): r["la"] for r in L["replies"]}
+        for tr_r in ta["replies"]:
             n = tuple(tr_r["n"])
+            la_r = {"la": la_by_n.get(n, ["(tidak ada padanan terpisah di Latin)"])}
             en = en_replies.pop(n, ["(tidak ada padanan terpisah di edisi Inggris)"])
             key = f"a{n_a}.replies[{','.join(map(str, n))}]"
-            out.append(u(key, f"Jawaban {', '.join(map(str, n))}", tr_r["paras"], en, la_r["la"],
+            out.append(u(key, f"Jawaban atas Keberatan {', '.join(map(str, n))}", tr_r["paras"], en, la_r["la"],
                          fe_replies.pop(n, [])))
         for n, en in en_replies.items():
             out.append(u(f"a{n_a}.replies[{','.join(map(str, n))}]", f"(EN reply {', '.join(map(str, n))})",

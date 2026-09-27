@@ -22,7 +22,6 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.1] Periksa setiap kutipan terhadap TB untuk memastikan tidak ada frasa TB yang tersalin kata demi kata (di q.1: 2Tim 3:16, 2Kor 10:5, 2Tes 3:2). Terjemahkan dari Latin Thomas.
 - [asal: STh I q.1] Perhatikan vokatif dalam kutipan (misalnya 'Deus' dalam Yes 64:4 Vulg.). Kata itu tidak boleh berubah menjadi objek kalimat.
 - [asal: STh I q.1] intellectus diterjemahkan 'intelek' dan ratio 'akal budi', terutama bila menyangkut Allah, karena Allah tidak bernalar secara diskursif. Bila ratio berarti argumen atau penalaran, terjemahkan 'argumen'.
-- [asal: STh I q.1] Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → dapat dipertukarkan.
 - [asal: STh I q.1] Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu.
 - [asal: STh I q.1] Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → diuraikan sesuai glosarium 0.2.
 - [asal: STh I q.1] Saat memecah kalimat 'Et ideo/Unde, cum A, B': penghubung sebab-akibat hanya menguasai B. Jangan menaruh 'Oleh karena itu' di depan A lalu 'tetapi B'; pakai 'Oleh karena itu, meskipun/karena A, B'.
@@ -48,3 +47,19 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.2] 'sicut patet per philosophum' → 'sebagaimana dijelaskan/dikatakan sang Filsuf', bukan 'tampak jelas melalui'.
 - [asal: STh I q.2] 'maxime ens' → 'paling sungguh ada (maxime ens)'; 'entia' → 'hal-hal yang ada'.
 - [asal: STh I q.2] Istilah logika yang asing (mis. 'term tengah') boleh diberi uraian singkat dalam kurung pada kemunculan pertama.
+- [asal: STh I q.2] Koreksi dari teks Inggris 1920: waspadai modal yang ditambahkan Inggris ('must', 'could have been', 'it is possible', 'cannot') pada verba Latin indikatif (cognoscitur, fuit, procedatur, tendunt); hapus modalnya.
+- [asal: STh I q.2] Inggris 1920 sering menghapus rujukan otoritas yang pendek (et I Poster., ut dicitur Rom. I, ut in eodem libro dicitur, ut postea ostendetur, ut patet per apostolum); cocokkan setiap otoritas Latin dengan teks Indonesia.
+- [asal: STh I q.2] Dalam Jalan Pertama, 'movere' adalah verba aktif (menggerakkan), bukan 'gerak'; dalam Jalan Kedua, 'ultimum' adalah akibat terakhir, bukan 'sebab terakhir'.
+- [asal: STh I q.2] Jalan Ketiga: 'omnia quae sunt, talia esse' = 'segala sesuatu yang ada bersifat demikian (kontingen)', bukan 'selalu ada'.
+- [asal: STh I q.2] 'Cognitio' pada Jalan Kelima = 'pengetahuan', bukan 'intelek'; 'intelligens' baru muncul pada kesimpulan.
+- [asal: STh I q.2] 'Ex persona Dei' = Allah sendiri yang berbicara; jangan 'atas nama Allah'.
+- [asal: STh I q.2] Nomor ayat Mazmur: jangan menurunkan nomor ayat Alkitab Katolik dari nomor Vulgata dengan rumus. Alkitab Katolik (imankatolik.or.id) tidak menghitung judul Mazmur sebagai ayat, sedangkan Vulgata Latin menghitungnya; cek teks ayat di qNNN.ayat.json.
+- [asal: STh I q.1] subiectum scientiae → 'pokok bahasan', obiectum potentiae/habitus → 'objek'. Jangan menyamakan keduanya: a7 respondeo bertumpu pada analogi proporsional di antara keduanya. Teks Inggris 1920 memakai 'object' untuk keduanya.
+- [asal: STh I q.1] revelabile / divinitus revelabilia → 'yang dapat diwahyukan (secara ilahi)', bukan 'yang telah diwahyukan'. Bahasa Inggris menghapus modalitas ini, yang menentukan cakupan objek formal ajaran suci.
+- [asal: STh I q.1] accipere a (menerima dari) jangan diterjemahkan 'bergantung pada' (Inggris 'depend upon'), sebab a5 ad 2 justru membedakan 'menerima' dari 'bergantung'.
+- [asal: STh I q.1] Dalam teks berbasis Inggris, periksa setiap 'doctrina' yang oleh bahasa Inggris menjadi 'knowledge'/'science'. Sacra doctrina tetap 'ajaran suci', dan puisi adalah 'doctrina infima', bukan 'ilmu'.
+- [asal: STh I q.1] Hosea 11-14: TB mengikuti penomoran Ibrani (Vulg./Inggris Hos 11:12 = TB 12:1; Hos 12:10 Vulg. = TB 12:11). Tulis nomor TB dengan nomor Vulgata dalam kurung, seperti untuk Mazmur.
+- [asal: STh I q.1] Teks Inggris sering menghapus 'ut dictum est / ut iam dictum est / secundum quod dictum est' dan atribusi sumber (Boethius, sang Filsuf, X Ethic., Magnus orator). Periksa dan pulihkan setiap rujukan balik dan atribusi.
+- [asal: STh I q.1] Teks Inggris sering menambah modal ('can', 'must', 'may') dan pembatas ('only', 'principally', 'mainly') pada kalimat Latin indikatif, dan menghapus 'magis' atau superlatif. Kata-kata kecil ini harus dicek satu per satu.
+- [asal: STh I q.1] 'Secundum proprietatem' (a9 ad 3) → 'dalam arti yang sebenarnya', bukan 'harfiah', agar tidak bertabrakan dengan a10 ad 3 (makna kiasan termasuk makna harfiah).
+- [asal: STh I q.1] Nomor ayat TB/Katolik tidak pernah dihitung dengan rumus dari Vulgata (termasuk Hosea dan Mazmur); selalu cocokkan isi ayat lewat tools/summa/ayat.py.

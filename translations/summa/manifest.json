@@ -2,23 +2,23 @@
   "i/q001": {
     "status": "ai-reviewed",
     "source_sha256": "142b8cc052aae949a17714e30392ce684a502524c926c94fb683cfdb1d3423b9",
-    "glossary_version": "0.2",
-    "reviewed_at": "2026-09-27",
+    "glossary_version": "0.3",
+    "reviewed_at": "2026-09-28",
     "review_findings": {
-      "major": 11,
-      "minor": 35
+      "minor": 24,
+      "major": 54
     },
     "open_findings": 0
   },
   "i/q002": {
     "status": "ai-reviewed",
     "source_sha256": "064056c99efa15e9c502b020289be54612813f62ff54f1debb2476888d9479de",
-    "glossary_version": "0.2",
-    "reviewed_at": "2026-09-27",
+    "glossary_version": "0.3",
+    "reviewed_at": "2026-09-28",
     "review_findings": {
-      "critical": 1,
-      "major": 8,
-      "minor": 21
+      "minor": 20,
+      "major": 18,
+      "critical": 2
     },
     "open_findings": 0
   }

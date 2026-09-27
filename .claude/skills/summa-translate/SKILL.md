@@ -1,12 +1,12 @@
 ---
 name: summa-translate
-description: Translate questions of Aquinas's Summa Theologiae from Latin into Indonesian for sayakatolik.com, with a fresh-context theological review. Use when asked to translate, re-translate or review Summa questions, e.g. "/summa-translate i 1-2" or "terjemahkan STh I-II q.3".
+description: Translate questions of Aquinas's Summa Theologiae into Indonesian for sayakatolik.com, from the 1920 English base text with a Latin meaning correction. Use when asked to translate, re-translate or review Summa questions, e.g. "/summa-translate i 1-2" or "terjemahkan STh I-II q.3".
 ---
 
 # summa-translate
 
-Translates the Summa **one question at a time**: Latin is the source, the English
-Dominican translation is a reference only. Policy lives in
+Translates the Summa **one question at a time**. The 1920 English Dominican translation
+is the base text for wording and structure; the Latin is the authority for meaning. Policy lives in
 `docs/adr/0001-summa-theologiae-translation.md`. Read it once per session.
 
 **Arguments:** `<pars> <range>`, where pars is `i`, `i-ii`, `ii-ii` or `iii`, and the
@@ -17,7 +17,7 @@ already up to date.
 
 | Path | Role |
 |---|---|
-| `sources/summa/<pars>/qNNN.json` | Latin units and English reference, from `tools/summa/ingest.py` |
+| `sources/summa/<pars>/qNNN.json` | English base text and Latin, from `tools/summa/ingest.py` |
 | `docs/summa/glosarium.md` | Terminology: binding. Its version is on line 3. |
 | `docs/summa/pelajaran.md` | Lessons from past reviews: binding |
 | `docs/summa/gaya-bahasa.md` | Indonesian style guide for general readers: binding |
@@ -38,23 +38,24 @@ parallel, but a question's own steps never do.
      Latin gaps are fixed by hand from a Leonine scan, never guessed.
    - Skip the question if the manifest shows the same `source_sha256` and glossary
      version with status `ai-reviewed` or later (unless `--force`).
-2. **Translate.** Spawn the `summa-translator` agent with the source path and the
-   output path. It writes `translations/summa/<pars>/qNNN.json`.
+2. **Translate.** Spawn the `summa-translator` agent (Opus) with the source path and
+   the output path. It translates the English and writes
+   `translations/summa/<pars>/qNNN.json`.
 3. **Lint.** Run `python3 tools/summa/lint.py <pars> <q>`. On failure, send the lint
    output back to the translator agent (SendMessage) and lint again, at most twice.
-4. **Review.** Spawn a **new** `summa-reviewer` agent. It never sees the translator's
-   reasoning, only the files. It writes `qNNN.review.json`.
-5. **Revise.** If the review has any `major` or `critical` findings, send them to the
-   translator agent to fix, then lint again. If a `critical` finding is still open after
-   one revision, set the status to `needs-human` and move on.
-5a. **Edit the language.** Spawn a **new** `summa-editor` agent. It makes the
-   Indonesian readable for general readers (`docs/summa/gaya-bahasa.md`), edits the
-   translation in place, and writes `qNNN.edits.json`. It never writes `editorial_notes`. Send any `needs_translator`
-   items to the translator agent.
-5b. **Check the edits.** Spawn a **new** `summa-reviewer` in *delta mode*: it checks
-   only the edits in `qNNN.edits.json` against the Latin, and appends any findings to
-   `qNNN.review.json` with `"stage": "edit"`. It reverts or fixes an edit that changed
-   the meaning. Lint again.
+3a. **Check references.** Run `python3 tools/summa/ayat.py <pars> <q>`. It writes
+   `qNNN.ayat.json` with each Scripture reference's link and verse text (for checking
+   only; never quoted).
+4. **Correct against the Latin.** Spawn a **new** `summa-reviewer` in *koreksi mode*,
+   and give it `qNNN.ayat.json` so it can check each reference against the verse text.
+   It fixes every departure from the Latin in meaning directly in the translation,
+   keeps the wording otherwise, and logs each fix in `qNNN.review.json`. Then run lint and
+   `ayat.py` again, and send any failures back to the same reviewer.
+   If it reports a `critical` finding it could not resolve, set the status to
+   `needs-human`.
+5. **Language edit (optional).** Only if the owner flagged the style, or the
+   corrector's fixes read awkwardly: spawn `summa-editor`, then `summa-reviewer` in
+   *delta mode* on its `qNNN.edits.json`, then lint.
 6. **Record.** Run `python3 tools/summa/record.py <pars> <q> <status> [open_findings]`.
    It does the following:
    - Update the manifest entry:
@@ -69,27 +70,27 @@ proposals. Ask the owner to spot-check questions tagged `needs-human` first.
 
 ## Output schema (`translations/summa/<pars>/qNNN.json`)
 
-The Latin structure is mirrored exactly: the same number of articles, objections,
+The **English** structure is mirrored exactly: the same number of articles, objections,
 paragraphs per unit, and replies with the same `n`.
 
 ```json
 {
   "pars": "I", "q": 2,
-  "source_sha256": "<from source>", "glossary_version": "0.1",
-  "title": "Apakah Allah Ada",
+  "source_sha256": "<from source>", "glossary_version": "0.3",
+  "title": "Adanya Allah",
   "prooemium": ["…"],
   "articles": [{
     "a": 3,
     "title": "Apakah Allah ada?",
     "objections": [["Tampaknya Allah tidak ada. …"], ["Selanjutnya, …"]],
     "sed_contra": ["Sebaliknya, …"],
-    "respondeo": ["Aku menjawab: harus dikatakan bahwa …", "…"],
-    "replies": [{"n": [1], "paras": ["Harus dikatakan bahwa …"]}]
+    "respondeo": ["Aku menjawab bahwa …", "…"],
+    "replies": [{"n": [1], "paras": ["(langsung isi jawabannya) …"]}]
   }],
   "editorial_notes": [{"at": "a3.respondeo", "text": "Catatan redaksi: …"}],
   "translator_notes": ["short notes for the reviewer, not published"]
 }
 ```
 
-The renderer (Phase 4) adds the labels **Keberatan N.** and **Jawaban atas keberatan N.**,
+The renderer (Phase 4) adds the labels **Keberatan N:** and **Jawaban atas Keberatan N:**,
 so the paragraphs never contain them.
