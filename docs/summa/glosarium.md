@@ -1,8 +1,8 @@
 # Glosarium Summa Theologiae (Latin → Indonesia)
 
-**Versi:** 0.3 (sebagian besar masih usulan)
+**Versi:** 0.4 (sebagian besar masih usulan)
 
-**Riwayat:** 0.3 (2026-09-28): teks Inggris 1920 menjadi teks dasar; rumus §A mengikuti bahasa Inggris; tanpa istilah Latin dalam kurung (keputusan pemilik). 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
+**Riwayat:** 0.4 (2026-09-28): subiectum, articulus fidei, littera, infusio, gubernatio disetujui (rekomendasi, pemilik tidak keberatan). 0.3 (2026-09-28): teks Inggris 1920 menjadi teks dasar; rumus §A mengikuti bahasa Inggris; tanpa istilah Latin dalam kurung (keputusan pemilik). 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
 **Aturan:** penerjemah WAJIB memakai padanan berstatus `disetujui`. Istilah berstatus
 `usulan` boleh dipakai dalam pilot, tetapi setiap perubahannya menaikkan versi glosarium
 dan menandai ulang pertanyaan yang terdampak (lihat ADR 0001 §3). Hanya pemilik situs
@@ -51,6 +51,7 @@ tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 | unio hypostatica | hypostatic union | persatuan hipostatis | KGK 468 `cek` | usulan |
 | providentia | providence | penyelenggaraan ilahi | KGK 302 | usulan |
 | praedestinatio | predestination | predestinasi | KGK 600 | usulan |
+| gubernatio (rerum) | governance (of the world) | pengaturan (Allah mengatur dunia); bedakan dari providentia = penyelenggaraan ilahi | KGK 302 ("mengatur melalui penyelenggaraan-Nya") | **disetujui** |
 | creatio | creation | penciptaan | KGK | usulan |
 
 ## C. Istilah filsafat skolastik
@@ -77,6 +78,8 @@ tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 | passio | passion | nafsu (passio) | KGK 1763 `cek` | usulan |
 | habitus | habit | habitus | bukan "kebiasaan" biasa | usulan |
 | scientia (ilmu demonstratif) | science | ilmu | bedakan dari karunia *scientia* (§D) | usulan |
+| subiectum (scientiae) | subject-matter (teks Inggris kadang menulis "object") | pokok bahasan; bedakan dari obiectum = objek | STh I q.1 a.7 | **disetujui** |
+| littera (Scripturae) | the letter of Scripture (teks Inggris menulis "word") | rumusan teks | STh I q.1 a.10 (bukan "kata") | **disetujui** |
 | synderesis | synderesis | sinderesis | | usulan |
 | conscientia | conscience | hati nurani | KGK 1776 | usulan |
 
@@ -100,6 +103,8 @@ tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 | sacramentum | sacrament | sakramen | KGK | usulan |
 | baptismus / confirmatio / Eucharistia / paenitentia / extrema unctio / ordo / matrimonium | | Pembaptisan / Penguatan / Ekaristi / Tobat / Pengurapan Orang Sakit / Tahbisan / Perkawinan | KGK 1113 `cek` | usulan |
 | transubstantiatio | transubstantiation | transubstansiasi | KGK 1376 | usulan |
+| articulus fidei | article of faith | artikel iman | KGK (bagian Syahadat disebut "Artikel") | **disetujui** |
+| infusio / infusus | infusion / infused (di I q.1 a.6 teks Inggris menulis "inspiration") | pencurahan / dicurahkan | bedakan dari inspiratio (ilham) | **disetujui** |
 | sacra doctrina | sacred doctrine | ajaran suci | | usulan |
 | Ecclesia | Church | Gereja | | usulan |
 

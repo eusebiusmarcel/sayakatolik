@@ -59,7 +59,7 @@ def main():
     for p in review.get("glossary_proposals", []):
         cell = lambda s: str(s or "").replace("|", "/").replace("\n", " ")
         if f"| {cell(p.get('latin'))} |" not in props:
-            rows.append(f"| {cell(p.get('latin'))} | {cell(p.get('indonesia'))} | {cell(p.get('alasan'))} "
+            rows.append(f"| {cell(p.get('latin'))} | {cell(p.get('english'))} | {cell(p.get('indonesia'))} | {cell(p.get('alasan'))} "
                         f"| {cell(p.get('rujukan'))} | {ref} |\n")
     if rows:
         props_path.write_text(props.rstrip("\n") + "\n" + "".join(rows))

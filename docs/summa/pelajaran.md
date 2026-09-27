@@ -63,3 +63,9 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.1] Teks Inggris sering menambah modal ('can', 'must', 'may') dan pembatas ('only', 'principally', 'mainly') pada kalimat Latin indikatif, dan menghapus 'magis' atau superlatif. Kata-kata kecil ini harus dicek satu per satu.
 - [asal: STh I q.1] 'Secundum proprietatem' (a9 ad 3) → 'dalam arti yang sebenarnya', bukan 'harfiah', agar tidak bertabrakan dengan a10 ad 3 (makna kiasan termasuk makna harfiah).
 - [asal: STh I q.1] Nomor ayat TB/Katolik tidak pernah dihitung dengan rumus dari Vulgata (termasuk Hosea dan Mazmur); selalu cocokkan isi ayat lewat tools/summa/ayat.py.
+- [asal: STh I q.1] Pelajaran.md memuat dua aturan yang bertentangan tentang convertitur (baris 'dapat dipertukarkan' vs. 'diuraikan sesuai glosarium 0.2'). Glosarium §C (disetujui) yang berlaku; baris yang lama sebaiknya dihapus.
+- [asal: STh I q.0] Prolog I: 'huius doctrinae' dan 'sacra doctrina' → 'ajaran suci (ini)', bukan 'ilmu suci' dari 'this (Sacred) Science' bahasa Inggris; istilah ini harus sama dengan yang membuka q.1.
+- [asal: STh I q.0] Bentuk jamak pengarang Thomas (nostrae intentionis, consideravimus, tentabimus) di prolog → 'kami'; 'Aku menjawab' hanya rumus respondeo.
+- [asal: STh I q.0] Catholicae veritatis doctor bersifat umum/tak tentu ('seorang pengajar kebenaran Katolik'), bukan 'the Master' yang definit.
+- [asal: STh I q.0] Ordo disciplinae = urutan pengajaran/belajar; librorum expositio = penafsiran/komentar atas teks, bukan 'rencana buku'; auditores = pendengar, bukan pembaca.
+- [asal: STh I q.0] Bahasa Inggris 1920 melemahkan intensifier dan frasa devosional (plurimum → 'not seldom'; cum confidentia divini auxilii → 'by God's help'); periksa terhadap Latin.

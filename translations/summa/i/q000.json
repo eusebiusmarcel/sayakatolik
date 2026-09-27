@@ -1,0 +1,22 @@
+{
+  "pars": "I",
+  "q": 0,
+  "source_sha256": "fbde4197b9e024f6e7206f5eb106a253fec3514d9577d2e2d58370255dd4b42d",
+  "glossary_version": "0.4",
+  "title": "Prolog",
+  "prooemium": [
+    "Seorang pengajar kebenaran Katolik tidak hanya wajib mengajar mereka yang sudah maju, tetapi juga mendidik para pemula, sesuai dengan kata sang Rasul (Paulus): \"Seperti kepada anak-anak kecil dalam Kristus, aku memberi kamu susu untuk diminum, bukan makanan padat\" (1Kor 3:1-2). Oleh karena itu, dalam karya ini kami bermaksud membahas segala sesuatu yang termasuk dalam agama Kristen dengan cara yang sesuai untuk mengajar para pemula. Kami memperhatikan bahwa para pemula dalam ajaran suci ini sangat terhambat oleh apa yang telah ditulis oleh berbagai pengarang. Hal itu terjadi sebagian karena bertambah banyaknya pertanyaan, artikel, dan argumen yang tidak berguna; sebagian lagi karena hal-hal yang perlu mereka ketahui tidak diajarkan menurut urutan pengajaran, tetapi menurut tuntutan penafsiran buku-buku atau menurut kesempatan berdisputasi yang kebetulan muncul; dan sebagian pula karena pengulangan yang sering atas hal-hal yang sama menimbulkan kejenuhan dan kebingungan dalam benak para pendengar.",
+    "Maka, sambil berusaha menghindari kekurangan-kekurangan ini dan kekurangan lain yang serupa, kami akan mencoba, dengan penuh kepercayaan akan pertolongan ilahi, menguraikan segala sesuatu yang termasuk dalam ajaran suci sesingkat dan sejelas yang dimungkinkan oleh materinya sendiri."
+  ],
+  "articles": [],
+  "editorial_notes": [],
+  "translator_notes": [
+    "'huius doctrinae' (par. 1) → 'ajaran suci ini' (gaya-bahasa §3) dan 'ad sacram doctrinam' (par. 2) → 'ajaran suci', mengikuti bahasa Latin (bahasa Inggris: 'this Science', 'this Sacred Science'), agar pembaca melihat istilah yang sama yang dipakai q.1.",
+    "Thomas berbicara dengan bentuk jamak pengarang (nostrae intentionis, consideravimus, tentabimus); dipertahankan sebagai 'kami' (bukan 'aku' seperti rumus respondeo, glosarium §E.1). Dikonfirmasi peninjau.",
+    "ISTILAH BARU: Catholicae veritatis doctor → pengajar kebenaran Katolik (umum, tak tentu; bukan sebutan 'sang Guru' untuk Petrus Lombardus).",
+    "'escam' dalam 1Kor 3:2 → 'makanan padat'; rumusan TB tidak disalin.",
+    "'ordo disciplinae' → 'urutan pengajaran' (urutan pedagogis sebuah ilmu), bukan 'pokok bahasan', agar tidak bertabrakan dengan subiectum = pokok bahasan (glosarium §C).",
+    "'librorum expositio' → 'penafsiran buku-buku': yang dimaksud ialah komentar atas teks (Kitab Suci, Sentensi), bukan 'rencana buku' seperti dalam bahasa Inggris.",
+    "Periode panjang di par. 1 dipecah menjadi beberapa kalimat (gaya-bahasa §4); 'Quia ... propositum est' dijadikan 'Oleh karena itu, ... kami bermaksud' agar tidak memulai kalimat dengan 'Karena'."
+  ]
+}

@@ -50,7 +50,7 @@ Write `translations/summa/<pars>/qNNN.review.json`:
     "why": "one sentence"
   }],
   "lessons": ["general, reusable rules learned from this question (Indonesian or English)"],
-  "glossary_proposals": [{"latin": "", "indonesia": "", "alasan": "", "rujukan": ""}],
+  "glossary_proposals": [{"latin": "", "english": "the 1920 English word (the owner reads English, not Latin)", "indonesia": "", "alasan": "", "rujukan": ""}],
   "verdict": "pass | revise"
 }
 ```

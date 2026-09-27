@@ -334,6 +334,29 @@ def merge(pars, qn, la, en):
     return doc, errors, notes
 
 
+def ingest_prologue(pars, cfg, en_text):
+    """Write sources/summa/<pars>/q000.json: the part's prologue, with no articles."""
+    title = f"Summa Theologiae/{cfg['la_title']}/Prooemium"
+    url = "https://la.wikisource.org/w/index.php?" + urllib.parse.urlencode({"title": title, "action": "raw"})
+    la_paras = [re.sub(r"^Summa theologiae, pr\.\s*", "", p) for p in la_paragraphs(clean_wikitext(
+        fetch(url, f"la/{pars}/q000.wiki")))]
+    body = gutenberg_body(en_text).replace("\r", "")
+    heads = list(re.finditer(r"^PROLOGUE\s*$", body, re.M))
+    if not heads or not la_paras:
+        print(f"{pars} q.0: prologue not found", file=sys.stderr)
+        return 1
+    en_paras = paragraphs(re.split(r"_{20,}", body[heads[-1].end():])[0])
+    doc = {"pars": cfg["en_id"], "q": 0, "title_en": "PROLOGUE",
+           "prooemium": {"la": la_paras, "en": en_paras}, "articles": []}
+    doc["source_sha256"] = sha(json.dumps(doc, ensure_ascii=False, sort_keys=True))
+    doc["errors"], doc["notes"] = [], []
+    doc["sources"] = {"la": url.replace("&action=raw", ""), "en": f"https://www.gutenberg.org/ebooks/{cfg['gutenberg']}"}
+    out = OUT / pars / "q000.json"
+    out.write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{pars} q.0 (prologue): la {len(la_paras)} / en {len(en_paras)} paragraphs, OK")
+    return 0
+
+
 def main():
     if len(sys.argv) != 3 or sys.argv[1] not in PARTES:
         sys.exit(__doc__)
@@ -350,6 +373,9 @@ def main():
 
     failed = 0
     for qn in qs:
+        if qn == 0:  # q.0 = the part's prologue (for Part I, the prologue of the whole Summa)
+            failed += ingest_prologue(pars, cfg, en_text)
+            continue
         title = f"Summa Theologiae/{cfg['la_title']}/Quaestio {roman(qn)}"
         url = "https://la.wikisource.org/w/index.php?" + urllib.parse.urlencode(
             {"title": title, "action": "raw"})

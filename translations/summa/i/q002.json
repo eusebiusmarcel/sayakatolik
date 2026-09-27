@@ -2,7 +2,7 @@
   "pars": "I",
   "q": 2,
   "source_sha256": "064056c99efa15e9c502b020289be54612813f62ff54f1debb2476888d9479de",
-  "glossary_version": "0.3",
+  "glossary_version": "0.4",
   "title": "Adanya Allah",
   "prooemium": [
     "Tujuan utama ajaran suci ialah mengajarkan pengetahuan tentang Allah, bukan hanya sebagaimana Ia ada dalam diri-Nya sendiri, melainkan juga sebagaimana Ia adalah asas dan tujuan akhir segala sesuatu, terutama makhluk berakal budi, seperti sudah jelas dari apa yang telah dikatakan. Oleh karena itu, dalam upaya menguraikan ajaran suci ini, kita akan membahas:",
@@ -75,7 +75,7 @@
       "title": "Apakah dapat dibuktikan bahwa Allah ada?",
       "objections": [
         [
-          "Tampaknya adanya Allah tidak dapat dibuktikan, sebab adanya Allah adalah suatu pasal iman. Akan tetapi, apa yang termasuk iman tidak dapat dibuktikan, sebab demonstrasi menghasilkan pengetahuan ilmiah, sedangkan iman menyangkut hal-hal yang tidak kelihatan, seperti dikatakan sang Rasul (Paulus) (Ibr 11:1). Jadi, tidak dapat dibuktikan bahwa Allah ada."
+          "Tampaknya adanya Allah tidak dapat dibuktikan, sebab adanya Allah adalah suatu artikel iman. Akan tetapi, apa yang termasuk iman tidak dapat dibuktikan, sebab demonstrasi menghasilkan pengetahuan ilmiah, sedangkan iman menyangkut hal-hal yang tidak kelihatan, seperti dikatakan sang Rasul (Paulus) (Ibr 11:1). Jadi, tidak dapat dibuktikan bahwa Allah ada."
         ],
         [
           "Selanjutnya, esensi adalah term tengah dalam demonstrasi (yaitu istilah penghubung yang mengaitkan kedua premis dalam penalaran). Akan tetapi, kita tidak dapat mengetahui apa esensi Allah itu, melainkan hanya apa Ia bukan, seperti dikatakan Yohanes dari Damsyik (De Fide Orth. i, 4). Jadi, kita tidak dapat membuktikan bahwa Allah ada."
@@ -96,7 +96,7 @@
             1
           ],
           "paras": [
-            "Adanya Allah dan kebenaran-kebenaran lain semacam itu tentang Allah, yang dapat diketahui oleh akal budi kodrati, seperti dikatakan dalam Rm 1:19–20, bukanlah pasal-pasal iman, melainkan pengantar menuju pasal-pasal iman, sebab iman mengandaikan pengetahuan kodrati, sebagaimana rahmat mengandaikan kodrat, dan kesempurnaan mengandaikan sesuatu yang dapat disempurnakan. Meskipun demikian, tidak ada yang menghalangi seseorang yang tidak mampu memahami suatu pembuktian untuk menerima sebagai perkara iman sesuatu yang pada dirinya dapat diketahui secara ilmiah dan dibuktikan."
+            "Adanya Allah dan kebenaran-kebenaran lain semacam itu tentang Allah, yang dapat diketahui oleh akal budi kodrati, seperti dikatakan dalam Rm 1:19–20, bukanlah artikel-artikel iman, melainkan pengantar menuju artikel-artikel iman, sebab iman mengandaikan pengetahuan kodrati, sebagaimana rahmat mengandaikan kodrat, dan kesempurnaan mengandaikan sesuatu yang dapat disempurnakan. Meskipun demikian, tidak ada yang menghalangi seseorang yang tidak mampu memahami suatu pembuktian untuk menerima sebagai perkara iman sesuatu yang pada dirinya dapat diketahui secara ilmiah dan dibuktikan."
           ]
         },
         {
@@ -160,5 +160,7 @@
     }
   ],
   "editorial_notes": [],
-  "translator_notes": []
+  "translator_notes": [
+    "Glosarium 0.4: 'pasal iman' → 'artikel iman' (articulus fidei, disetujui)."
+  ]
 }

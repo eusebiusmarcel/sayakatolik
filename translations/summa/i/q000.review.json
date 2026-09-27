@@ -1,0 +1,108 @@
+{
+  "findings": [
+    {
+      "at": "prooemium[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Consideravimus namque huius doctrinae novitios ... plurimum impediri",
+      "current": "para pelajar ilmu suci ini tidak jarang terhambat",
+      "suggested": "para pemula dalam ajaran suci ini sangat terhambat",
+      "why": "Novitios means beginners (continuing the incipientes theme), doctrina is 'ajaran' (pelajaran q.1), and plurimum ('very greatly') is weakened by the English 'not seldom'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "in his quae a diversis conscripta sunt",
+      "current": "oleh apa yang mereka temukan dalam tulisan para pengarang lain",
+      "suggested": "oleh apa yang telah ditulis oleh berbagai pengarang",
+      "why": "The Latin says 'various authors'; 'what they found' and 'other' are English additions.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "non traduntur secundum ordinem disciplinae, sed secundum quod requirebat librorum expositio, vel secundum quod se praebebat occasio disputandi",
+      "current": "tidak diajarkan menurut urutan materi yang dipelajari, tetapi menurut tuntutan rencana buku atau menurut kesempatan berargumen yang kebetulan muncul",
+      "suggested": "tidak diajarkan menurut urutan pengajaran, tetapi menurut tuntutan penafsiran buku-buku atau menurut kesempatan berdisputasi yang kebetulan muncul",
+      "why": "Ordo disciplinae is the pedagogical order of learning, and librorum expositio is commentary on set texts, not 'the plan of the book' (the English error); disputandi refers to the scholastic disputation.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "eorundem frequens repetitio et fastidium et confusionem generabat in animis auditorum",
+      "current": "pengulangan yang terlalu sering menimbulkan kejenuhan dan kebingungan dalam benak para pembaca",
+      "suggested": "pengulangan yang sering atas hal-hal yang sama menimbulkan kejenuhan dan kebingungan dalam benak para pendengar",
+      "why": "Eorundem ('of the same things') was omitted, and auditorum means hearers (school instruction), not 'readers'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "in hoc opere",
+      "current": "dalam buku ini",
+      "suggested": "dalam karya ini",
+      "why": "Opus is the work as a whole; 'buku' also blurs the contrast with librorum (the books commented on).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[1]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "Haec igitur ... evitare studentes",
+      "current": "Sambil berusaha menghindari",
+      "suggested": "Maka, sambil berusaha menghindari",
+      "why": "The inferential igitur, which ties the resolve to the listed defects, was dropped.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[1]",
+      "severity": "major",
+      "type": "omission",
+      "latin": "cum confidentia divini auxilii",
+      "current": "dengan pertolongan Allah",
+      "suggested": "dengan penuh kepercayaan akan pertolongan ilahi",
+      "why": "Confidentia (trust in divine help) was dropped by the English 'by God's help'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "prooemium[1]",
+      "severity": "major",
+      "type": "glossary",
+      "latin": "ea quae ad sacram doctrinam pertinent",
+      "current": "segala sesuatu yang tercakup dalam ilmu suci ini",
+      "suggested": "segala sesuatu yang termasuk dalam ajaran suci",
+      "why": "Sacra doctrina is 'ajaran suci' (glosarium; pelajaran q.1), the term that q.1 opens with and that its 'ini' refers back to; the Latin has no demonstrative here.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "Prolog I: 'huius doctrinae' dan 'sacra doctrina' → 'ajaran suci (ini)', bukan 'ilmu suci' dari 'this (Sacred) Science' bahasa Inggris; istilah ini harus sama dengan yang membuka q.1.",
+    "Bentuk jamak pengarang Thomas (nostrae intentionis, consideravimus, tentabimus) di prolog → 'kami'; 'Aku menjawab' hanya rumus respondeo.",
+    "Catholicae veritatis doctor bersifat umum/tak tentu ('seorang pengajar kebenaran Katolik'), bukan 'the Master' yang definit.",
+    "Ordo disciplinae = urutan pengajaran/belajar; librorum expositio = penafsiran/komentar atas teks, bukan 'rencana buku'; auditores = pendengar, bukan pembaca.",
+    "Bahasa Inggris 1920 melemahkan intensifier dan frasa devosional (plurimum → 'not seldom'; cum confidentia divini auxilii → 'by God's help'); periksa terhadap Latin."
+  ],
+  "glossary_proposals": [
+    {
+      "latin": "ordo disciplinae",
+      "indonesia": "urutan pengajaran",
+      "alasan": "Istilah pedagogis skolastik; dibedakan dari subiectum (pokok bahasan) dan dari 'materi'.",
+      "rujukan": "STh I prol."
+    }
+  ],
+  "verdict": "pass"
+}

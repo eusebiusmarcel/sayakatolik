@@ -1,8 +1,19 @@
 {
+  "i/q000": {
+    "status": "ai-reviewed",
+    "source_sha256": "fbde4197b9e024f6e7206f5eb106a253fec3514d9577d2e2d58370255dd4b42d",
+    "glossary_version": "0.4",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 5,
+      "minor": 3
+    },
+    "open_findings": 0
+  },
   "i/q001": {
     "status": "ai-reviewed",
     "source_sha256": "142b8cc052aae949a17714e30392ce684a502524c926c94fb683cfdb1d3423b9",
-    "glossary_version": "0.3",
+    "glossary_version": "0.4",
     "reviewed_at": "2026-09-28",
     "review_findings": {
       "minor": 24,
@@ -13,7 +24,7 @@
   "i/q002": {
     "status": "ai-reviewed",
     "source_sha256": "064056c99efa15e9c502b020289be54612813f62ff54f1debb2476888d9479de",
-    "glossary_version": "0.3",
+    "glossary_version": "0.4",
     "reviewed_at": "2026-09-28",
     "review_findings": {
       "minor": 20,
