@@ -1,0 +1,386 @@
+{
+  "findings": [
+    {
+      "at": "a1.respondeo[1]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "oculus non vidit Deus absque te, quae praeparasti diligentibus te",
+      "current": "\"Mata tidak pernah melihat Allah selain Engkau, yang telah menyediakan bagi mereka yang mengasihi Engkau\" (Yes 64:4)",
+      "suggested": "\"Mata tidak pernah melihat, ya Allah, selain Engkau, apa yang telah Kausediakan bagi mereka yang mengasihi Engkau\" (Yes 64:4)",
+      "why": "Deus is a vocative and quae is the object (the things God prepared); the current text makes God the object of seeing and drops what was prepared, which is exactly the point Thomas cites the verse for (an end that exceeds reason)."
+    },
+    {
+      "at": "a1.obj1",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "Eccli. III, altiora te ne quaesieris",
+      "current": "(Sir 3:22)",
+      "suggested": "(Sir 3:21; Vulg. 3:22)",
+      "why": "The TB Deuterokanonika follows the Greek versification, where this line is 3:21; 3:22 is the Vulgate number (the English reference copies it), so apply the ADR §4 'TB number (Vulg. n)' pattern here as for the Psalms."
+    },
+    {
+      "at": "a1.ad1",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "ibidem subditur, plurima supra sensum hominum ostensa sunt tibi",
+      "current": "(Sir 3:25)",
+      "suggested": "(Sir 3:23; Vulg. 3:25)",
+      "why": "In the Greek/TB versification this line is Sir 3:23; 3:25 is the Vulgate number."
+    },
+    {
+      "at": "a9.obj2",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "Eccli. XXIV, qui elucidant me, vitam aeternam habebunt",
+      "current": "\"Mereka yang menerangiku akan beroleh hidup kekal\" (Sir 24:31)",
+      "suggested": "\"Mereka yang menjelaskan aku akan memperoleh hidup kekal\" (Sir 24:31 Vulg.; bagian ini tidak ada dalam TB, bdk. Sir 24:22)",
+      "why": "This clause is a Vulgate-only addition with no counterpart in the Greek/TB Sirach (whose chapter ends at 24:22), so a bare 'Sir 24:31' sends readers to a TB verse that does not exist; 'menerangiku' also suggests 'illuminate me', whereas elucidare here means to explain, matching manifestatoribus."
+    },
+    {
+      "at": "a1.sed_contra",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, ad erudiendum ad iustitiam",
+      "current": "\"Segala tulisan yang diilhami Allah bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan, untuk mendidik dalam kebenaran\" (2Tim 3:16)",
+      "suggested": "\"Seluruh Kitab Suci yang diilhamkan Allah berguna untuk mengajar, untuk menyanggah, untuk menegur, dan untuk mendidik dalam keadilan\" (2Tim 3:16)",
+      "why": "The current text is almost word for word the TB, which ADR §4 forbids; it also renders iustitia as 'kebenaran' and 'Scriptura' as 'tulisan', which weakens the link to the next sentence ('Kitab Suci yang diilhami Allah')."
+    },
+    {
+      "at": "a8.ad2",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "in captivitatem redigentes omnem intellectum in obsequium Christi",
+      "current": "\"Kami menawan segala pikiran dan menaklukkannya kepada Kristus\" (2Kor 10:5)",
+      "suggested": "\"Kami menawan setiap akal budi untuk taat kepada Kristus\" (2Kor 10:5)",
+      "why": "The current text is verbatim TB (ADR §4); the Latin 'in obsequium' echoes Thomas's 'obsequitur caritati' just before, and the translation should keep that link (reason serving faith)."
+    },
+    {
+      "at": "a3.sed_contra",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "de ea loquitur sicut de una scientia, dicitur enim Sap. X, dedit illi scientiam sanctorum",
+      "current": "\"Ia memberinya pengetahuan tentang hal-hal kudus\" (Keb 10:10)",
+      "suggested": "\"Ia memberinya ilmu tentang hal-hal kudus\" (Keb 10:10, Vulg.)",
+      "why": "The argument depends on the Vulgate word scientia (one 'ilmu'); 'pengetahuan', which is also close to the TB wording, breaks the proof, so ADR §4 requires a literal rendering marked (Vulg.) (Keb 10:10 is the correct TB number)."
+    },
+    {
+      "at": "a6.respondeo[1]",
+      "severity": "major",
+      "type": "scripture",
+      "latin": "ut sapiens architector fundamentum posui",
+      "current": "\"Sebagai ahli bangunan yang bijaksana aku telah meletakkan dasar\" (1Kor 3:10)",
+      "suggested": "\"Sebagai arsitek yang berhikmat aku telah meletakkan dasar\" (1Kor 3:10)",
+      "why": "The verse is cited because of 'sapiens architector', which the same sentence has just rendered 'berhikmat dan arsitek'; 'bijaksana' is the word used two sentences later for prudens, so the proof-text now seems to support prudence instead of wisdom."
+    },
+    {
+      "at": "a2.obj1",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "non enim omnium est fides",
+      "current": "\"bukan semua orang beroleh iman\" (2Tes 3:2)",
+      "suggested": "\"sebab iman bukanlah milik semua orang\" (2Tes 3:2)",
+      "why": "The current phrase is verbatim TB; ADR §4 requires translating from Thomas's Latin."
+    },
+    {
+      "at": "a8.sed_contra",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "et eos qui contradicunt arguere",
+      "current": "dan meyakinkan orang yang menentangnya",
+      "suggested": "dan menyanggah orang-orang yang membantah",
+      "why": "Arguere here means to refute; this is the word that makes the verse evidence that sacred doctrine is argumentativa, and 'meyakinkan' (a TB echo) loses that."
+    },
+    {
+      "at": "a10.respondeo[1]",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "Sicut enim dicit apostolus, ad Hebr. VII, lex vetus figura est novae legis",
+      "current": "sebagaimana dikatakan sang Rasul (Ibr 7), Hukum Lama adalah lambang Hukum Baru",
+      "suggested": "sebagaimana dikatakan sang Rasul (Ibr 7; bdk. Ibr 10:1), Hukum Lama adalah lambang (figura) Hukum Baru",
+      "why": "The Latin (the authority) reads Hebr. VII and should be kept; but Thomas is paraphrasing, and the closest wording is Heb 10:1 ('umbra futurorum bonorum', also 8:5), so add 'bdk.' rather than silently replacing the chapter as the English does."
+    },
+    {
+      "at": "a10.respondeo[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "qui omnia simul suo intellectu comprehendit",
+      "current": "yang dengan akal budi-Nya mencakup segala sesuatu sekaligus",
+      "suggested": "yang dengan intelek-Nya mencakup segala sesuatu sekaligus",
+      "why": "The glossary distinguishes intellectus (intelek) from ratio (akal budi); discursive reason is not attributed to God (cf. I q.14 a.7), so 'intelek' is required here."
+    },
+    {
+      "at": "a2.respondeo[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "ex principiis notis lumine naturali intellectus",
+      "current": "dengan cahaya akal budi kodrati",
+      "suggested": "dengan cahaya kodrati intelek",
+      "why": "The glossary maps intellectus to 'intelek (akal budi)' and ratio to 'akal budi'; the translation turns every intellectus into 'akal budi' (also a5.ad1 'debilitatem intellectus nostri' and a5.ad2 'defectum intellectus nostri'), so the distinction is lost."
+    },
+    {
+      "at": "a8.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quasi extraneis argumentis, et probabilibus ... quasi arguendo ex propriis, sed probabiliter",
+      "current": "sebagai argumen dari luar dan yang bersifat mungkin ... tetapi hanya secara mungkin",
+      "suggested": "sebagai argumen dari luar dan yang hanya probabel ... tetapi hanya secara probabel",
+      "why": "Probabilis is the technical 'probable' (persuasive but not demonstrative), contrasted with 'ex necessitate'; 'mungkin' means merely possible."
+    },
+    {
+      "at": "a10.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "per voces significatur aliquid proprie, et aliquid figurative",
+      "current": "melalui kata-kata ditandakan sesuatu secara khas dan sesuatu secara figuratif",
+      "suggested": "melalui kata-kata ditandakan sesuatu dalam arti sebenarnya (proprie) dan sesuatu secara figuratif",
+      "why": "Here proprie is the opposite of figurative (the proper, non-figurative meaning); 'secara khas' means 'characteristically' and obscures the contrast."
+    },
+    {
+      "at": "a1.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "diversa ratio cognoscibilis diversitatem scientiarum inducit",
+      "current": "perbedaan cara mengenal sesuatu menimbulkan perbedaan ilmu",
+      "suggested": "perbedaan aspek (ratio) keterketahuan sesuatu menimbulkan perbedaan ilmu",
+      "why": "Ratio cognoscibilis is the formal aspect on the side of the knowable object (the same notion the translator elsewhere renders 'aspek formal'), not the subject's way of knowing."
+    },
+    {
+      "at": "a1.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "astrologus",
+      "current": "ahli perbintangan",
+      "suggested": "ahli astronomi",
+      "why": "In Thomas, astrologus is the mathematical astronomer; in current Indonesian 'ahli perbintangan' suggests horoscope astrology."
+    },
+    {
+      "at": "a1.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "differt secundum genus",
+      "current": "berbeda menurut jenisnya",
+      "suggested": "berbeda menurut genus",
+      "why": "The glossary fixes genus → genus; 'jenis' blurs genus and species (the same applies in a3.obj1 'unius generis subiecti' → 'satu jenis subjek')."
+    },
+    {
+      "at": "a1.obj2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "verum, quod cum ente convertitur",
+      "current": "yang benar itu setara dengan pengada",
+      "suggested": "yang benar itu dapat dipertukarkan (konvertibel) dengan pengada",
+      "why": "Convertitur is the technical convertibility of the transcendentals, and 'setara' (equal in rank) does not express it."
+    },
+    {
+      "at": "a3.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "velut quaedam impressio divinae scientiae",
+      "current": "semacam cerminan ilmu ilahi",
+      "suggested": "semacam meterai (cetakan) ilmu ilahi",
+      "why": "Impressio is the image of a seal's imprint, not a mirror reflection."
+    },
+    {
+      "at": "a6.ad2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "vel per aliquam rationem naturalem probantur in aliqua alia scientia",
+      "current": "entah dibuktikan melalui suatu akal budi kodrati dalam ilmu lain",
+      "suggested": "entah dibuktikan melalui suatu argumen kodrati dalam ilmu lain",
+      "why": "Here ratio means an argument or reasoning, not the faculty of reason ('suatu akal budi' reads oddly)."
+    },
+    {
+      "at": "a6.ad2",
+      "severity": "minor",
+      "type": "style",
+      "latin": "totum condemnatur ut falsum",
+      "current": "semuanya dihukum sebagai salah",
+      "suggested": "semuanya ditolak sebagai salah",
+      "why": "'Dihukum' implies punishing a person; the sense is that a proposition is rejected or condemned as false."
+    },
+    {
+      "at": "a7.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "ex principiis huius scientiae, quae sunt articuli fidei, quae est de Deo",
+      "current": "yaitu artikel-artikel iman, yang berkenaan dengan Allah",
+      "suggested": "yaitu artikel-artikel iman, sedangkan iman itu berkenaan dengan Allah",
+      "why": "The singular 'quae est' refers to fides, not to the articles; the argument is that faith itself is about God."
+    },
+    {
+      "at": "a8.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "impossibile autem sit de vero demonstrari contrarium ... non esse demonstrationes, sed solubilia argumenta",
+      "current": "mustahil kebalikan dari yang benar dibuktikan secara sah ... bukanlah pembuktian-pembuktian yang benar",
+      "suggested": "mustahil kebalikan dari yang benar didemonstrasikan ... bukanlah demonstrasi (pembuktian niscaya)",
+      "why": "Demonstratio is the technical term for a strict syllogistic proof; 'pembuktian yang benar' adds a qualifier that is not in the Latin and loses the term."
+    },
+    {
+      "at": "a9.obj3",
+      "severity": "minor",
+      "type": "style",
+      "latin": "et non ex infimis. Quod tamen in Scripturis frequenter invenitur.",
+      "current": "bukan dari yang paling rendah. Namun hal itulah yang justru sering ditemukan dalam Kitab Suci.",
+      "suggested": "bukan dari yang paling rendah. Namun pengambilan dari ciptaan yang paling rendah itulah yang justru sering ditemukan dalam Kitab Suci.",
+      "why": "'Hal itulah' is ambiguous and can be read as referring to the use of higher creatures, which reverses the objection's point."
+    },
+    {
+      "at": "a9.sed_contra",
+      "severity": "minor",
+      "type": "scripture",
+      "latin": "in manibus prophetarum assimilatus sum",
+      "current": "dan melalui tangan para nabi Aku telah memakai perumpamaan",
+      "suggested": "dan melalui tangan para nabi Aku telah menyatakan diri dalam keserupaan-keserupaan",
+      "why": "The current text follows the English; the Latin 'assimilatus sum' (I was likened) is the basis for 'tradere sub similitudine' in the next sentence."
+    },
+    {
+      "at": "a9.respondeo[1]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "I cap. caelestis hierarchiae",
+      "current": "*De Coel. Hier.* I bab 1",
+      "suggested": "*De Coel. Hier.* bab 1",
+      "why": "The chapter number is given twice ('I' and 'bab 1'); keep the same form as a9.ad3 ('bab 2')."
+    },
+    {
+      "at": "a6.ad3",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "et Dionysius dicit, II cap. de divinis nominibus",
+      "current": "dan Dionisius berkata",
+      "suggested": "dan Dionisius (Pseudo-Dionisius dari Areopagus) berkata",
+      "why": "Glossary §E.2 requires the full name in brackets at the first mention on a page, and this is Dionysius's first appearance in q.1."
+    },
+    {
+      "at": "a10.obj1",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "sub una littera ... aliquae fallaciae assignantur ... absque omni fallacia",
+      "current": "di bawah satu bunyi kata ... kekeliruan-kekeliruan tertentu ... tanpa kekeliruan apa pun",
+      "suggested": "di bawah satu rumusan teks (littera) ... sesat-sesat pikir (fallacia) tertentu ... tanpa sesat pikir apa pun",
+      "why": "Littera is the written text of a passage, not the 'sound' of a word; fallacia is the logical fallacy (of multiplicity), which should be kept distinct from error ('kekeliruan', used elsewhere for error); the same 'bunyi kata' problem recurs in a10 obj1 end, respondeo and the title."
+    },
+    {
+      "at": "a10.ad2",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "ponens in tertio suarum sententiarum solum tres sensus",
+      "current": "dengan menetapkan dalam bukunya yang ketiga hanya tiga makna",
+      "suggested": "dengan menetapkan dalam buku ketiga *Sententiae*-nya hanya tiga makna",
+      "why": "The work named in the Latin (his Sentences) is omitted."
+    },
+    {
+      "at": "a9.ad3",
+      "severity": "minor",
+      "type": "style",
+      "latin": "quod posset esse dubium",
+      "current": "sesuatu yang dapat menjadi ragu-ragu",
+      "suggested": "sesuatu yang dapat diragukan",
+      "why": "'Ragu-ragu' describes a person, not a proposition, so the phrase is ungrammatical."
+    },
+    {
+      "at": "a1.ad1",
+      "severity": "minor",
+      "type": "style",
+      "latin": "Et in huiusmodi sacra doctrina consistit",
+      "current": "Dan dalam hal semacam inilah ajaran suci terdiri",
+      "suggested": "Dan dalam hal-hal semacam inilah ajaran suci berada",
+      "why": "In standard Indonesian 'terdiri' needs 'atas/dari', so the sentence is ungrammatical."
+    },
+    {
+      "at": "a1.respondeo[1]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "quod ei nota fierent quaedam per revelationem divinam",
+      "current": "hal-hal tertentu ... dibuat diketahui olehnya melalui wahyu ilahi",
+      "suggested": "hal-hal tertentu ... diberitahukan kepadanya melalui wahyu ilahi",
+      "why": "'Dibuat diketahui' is a calque and not natural Indonesian."
+    },
+    {
+      "at": "a2.respondeo[1]",
+      "severity": "minor",
+      "type": "style",
+      "latin": "quae scilicet est scientia Dei et beatorum",
+      "current": "yaitu ilmu Allah dan para kaum bahagia",
+      "suggested": "yaitu ilmu Allah dan para kudus yang berbahagia di surga",
+      "why": "'Para kaum' is redundant and 'kaum bahagia' is not established Catholic diction for the beati."
+    },
+    {
+      "at": "a2.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "sicut perspectiva procedit ex principiis notificatis per geometriam",
+      "current": "seperti ilmu perspektif berjalan dari prinsip-prinsip",
+      "suggested": "seperti ilmu optik (perspectiva) berjalan dari prinsip-prinsip",
+      "why": "Medieval perspectiva is optics; to an Indonesian reader 'ilmu perspektif' suggests drawing technique."
+    },
+    {
+      "at": "a2.obj2",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "scientia non est singularium ... tractat de singularibus",
+      "current": "ilmu tidak berkenaan dengan hal-hal khusus ... membahas hal-hal khusus",
+      "suggested": "ilmu tidak berkenaan dengan hal-hal singular (individual) ... membahas hal-hal singular",
+      "why": "The scholastic contrast is singular against universal; 'khusus' (special or particular) blurs it (also in a2.ad2)."
+    },
+    {
+      "at": "a4.sed_contra",
+      "severity": "minor",
+      "type": "style",
+      "latin": "Sacra autem doctrina est principaliter de Deo, cuius magis homines sunt opera",
+      "current": "berkenaan dengan Allah, yang justru manusia menjadi karya-Nya",
+      "suggested": "berkenaan dengan Allah, yang justru menjadikan manusia karya-Nya",
+      "why": "The current relative clause is ungrammatical in Indonesian."
+    }
+  ],
+  "lessons": [
+    "Kitab deuterokanonika: TB Deuterokanonika memakai penomoran ayat Yunani, bukan Vulgata. Tulis nomor TB dengan nomor Vulgata dalam kurung, misalnya Sir 3:21 (Vulg. 3:22), seperti aturan Mazmur di ADR §4. Ayat yang hanya ada dalam Vulgata (misalnya Sir 24:31 'qui elucidant me') ditandai 'Vulg.' dan diberi keterangan bahwa ayat itu tidak ada dalam TB.",
+    "Jangan percaya begitu saja pada rujukan Inggris. Periksa bab di Latin, tetapi pertahankan rujukan Latin bila Thomas memparafrasekan, lalu tambahkan 'bdk.' ke ayat yang paling dekat (misalnya Ibr 7; bdk. Ibr 10:1).",
+    "Bila sebuah kutipan Kitab Suci dipakai sebagai bukti karena satu kata Latin (scientia, sapiens, arguere, similitudo), kata itu harus diterjemahkan dengan istilah Indonesia yang sama seperti dalam argumen Thomas, dan ditandai (Vulg.) bila perlu. Jangan memakai padanan TB yang memutus hubungan itu.",
+    "Periksa setiap kutipan terhadap TB untuk memastikan tidak ada frasa TB yang tersalin kata demi kata (di q.1: 2Tim 3:16, 2Kor 10:5, 2Tes 3:2). Terjemahkan dari Latin Thomas.",
+    "Perhatikan vokatif dalam kutipan (misalnya 'Deus' dalam Yes 64:4 Vulg.). Kata itu tidak boleh berubah menjadi objek kalimat.",
+    "intellectus diterjemahkan 'intelek' dan ratio 'akal budi', terutama bila menyangkut Allah, karena Allah tidak bernalar secara diskursif. Bila ratio berarti argumen atau penalaran, terjemahkan 'argumen'.",
+    "Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → dapat dipertukarkan.",
+    "Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu."
+  ],
+  "glossary_proposals": [
+    {
+      "latin": "articulus fidei",
+      "indonesia": "artikel iman",
+      "alasan": "Dipakai konsisten di seluruh q.1 sebagai istilah teknis untuk prinsip-prinsip sacra doctrina",
+      "rujukan": "KGK/Kompendium `cek` (pastikan KGK Indonesia tidak memakai 'pasal iman')"
+    },
+    {
+      "latin": "potentia (daya jiwa, facultas)",
+      "indonesia": "daya",
+      "alasan": "Glosarium §C hanya memuat potentia sebagai lawan actus (potensi). Dalam q.1 a3, a7 potentia berarti daya atau kemampuan jiwa, dan penerjemah tepat memakai 'daya'. Makna ini perlu dicatat agar kedua makna tidak tercampur.",
+      "rujukan": "—"
+    },
+    {
+      "latin": "ratio formalis (obiecti)",
+      "indonesia": "aspek formal (objek)",
+      "alasan": "Membedakan objek material dan objek formal suatu daya atau ilmu. Dipakai di a3, a4 dan a7.",
+      "rujukan": "—"
+    },
+    {
+      "latin": "sensus litteralis/historicus, allegoricus, moralis/tropologicus, anagogicus, spiritualis",
+      "indonesia": "makna harfiah/historis, alegoris, moral/tropologis, anagogis, rohani",
+      "alasan": "Istilah baku eksegesis Katolik.",
+      "rujukan": "KGK 115–119 `cek`"
+    },
+    {
+      "latin": "probabilis / demonstratio / fallacia",
+      "indonesia": "probabel / demonstrasi / sesat pikir",
+      "alasan": "Istilah logika skolastik yang menentukan tingkat kepastian sebuah argumen; 'mungkin' dan 'kekeliruan' mengaburkannya.",
+      "rujukan": "—"
+    },
+    {
+      "latin": "auctoritas",
+      "indonesia": "otoritas",
+      "alasan": "Dipakai untuk locus ab auctoritate dan auctoritates Scripturae/philosophorum.",
+      "rujukan": "—"
+    }
+  ],
+  "verdict": "revise"
+}

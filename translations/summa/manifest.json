@@ -1,0 +1,25 @@
+{
+  "i/q001": {
+    "status": "ai-reviewed",
+    "source_sha256": "142b8cc052aae949a17714e30392ce684a502524c926c94fb683cfdb1d3423b9",
+    "glossary_version": "0.1",
+    "reviewed_at": "2026-09-27",
+    "review_findings": {
+      "major": 8,
+      "minor": 29
+    },
+    "open_findings": 0
+  },
+  "i/q002": {
+    "status": "ai-reviewed",
+    "source_sha256": "064056c99efa15e9c502b020289be54612813f62ff54f1debb2476888d9479de",
+    "glossary_version": "0.1",
+    "reviewed_at": "2026-09-27",
+    "review_findings": {
+      "critical": 1,
+      "major": 6,
+      "minor": 20
+    },
+    "open_findings": 0
+  }
+}

@@ -45,7 +45,8 @@ parallel, but a question's own steps never do.
 5. **Revise.** If the review has any `major` or `critical` findings, send them to the
    translator agent to fix, then lint again. If a `critical` finding is still open after
    one revision, set the status to `needs-human` and move on.
-6. **Record.**
+6. **Record.** Run `python3 tools/summa/record.py <pars> <q> <status> [open_findings]`.
+   It does the following:
    - Update the manifest entry:
      `{status: "ai-reviewed" | "needs-human", source_sha256, glossary_version, reviewed_at, open_findings}`.
    - Append the reviewer's `lessons` to `docs/summa/pelajaran.md`, skipping any lesson
