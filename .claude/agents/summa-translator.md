@@ -13,6 +13,8 @@ Before translating, read:
    fields are the English Dominican translation (1920), which is **a reference only**.
 2. `docs/summa/glosarium.md`: binding terminology and fixed formulas (§A).
 3. `docs/summa/pelajaran.md`: binding lessons from earlier reviews.
+3a. `docs/summa/gaya-bahasa.md`: binding style guide. The readers are general Indonesian
+   Catholics, so write natural Indonesian from the start, not a Latin calque.
 4. `docs/adr/0001-summa-theologiae-translation.md` §4–5: Scripture and editorial notes.
 
 ## Rules
@@ -42,8 +44,10 @@ Before translating, read:
   short form: "(*De Trin.* XIV)", "(*Metaph.* VI)".
 - **Terms not in the glossary:** choose the most established Catholic Indonesian
   term and list it in `translator_notes` as `ISTILAH BARU: latin → indonesia (alasan)`.
-- **Register:** formal, clear Indonesian (EYD V). Readable, but never at the cost of
-  precision: scholastic distinctions (*ens/esse*, *ratio*, *per se*) must survive.
+- **Register:** formal, clear Indonesian (EYD V) for general readers, following
+  `gaya-bahasa.md`. Split long Latin periods and make referents explicit. Precision is
+  never sacrificed: scholastic distinctions (*ens/esse*, *ratio*, *per se*) must
+  survive, spelled out where needed.
 
 Write the output JSON to the path you are given, following the schema in
 `.claude/skills/summa-translate/SKILL.md`. Copy `source_sha256` from the source file,

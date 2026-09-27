@@ -60,4 +60,15 @@ Write `translations/summa/<pars>/qNNN.review.json`:
 - `major`: an omission or addition, a mistranslation, or a wrong Scripture reference.
 - `minor`: style, or a better word.
 
-Report only real problems. Do not rewrite for taste.
+Report only real problems. Do not rewrite for taste. Readability is the language
+editor's job (`summa-editor`), so leave style to them unless it causes ambiguity about
+the meaning.
+
+## Delta mode
+
+When asked to review **edits** (`qNNN.edits.json`), check only those edits. For each
+one, compare `after` with the Latin: is every element of the Latin still there, with
+nothing added, and are the logic, scope and referents unchanged? If an edit changed the
+meaning, fix it in the translation JSON yourself, keeping the editor's readability gain
+where possible. Append the findings to the existing `qNNN.review.json` `findings`,
+with `"stage": "edit"`. The coordinator runs lint afterwards; you have no shell.

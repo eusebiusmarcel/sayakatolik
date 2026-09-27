@@ -35,6 +35,10 @@ def lint(pars, q):
         errs.append(f"glossary_version {tr.get('glossary_version')} != {glossary_version()}")
     if not tr.get("title"):
         errs.append("question title missing")
+    for i, n in enumerate(tr.get("editorial_notes", [])):  # published as "Catatan redaksi"
+        if not (isinstance(n, dict) and n.get("at") and str(n.get("text", "")).startswith("Catatan redaksi")):
+            errs.append(f"editorial_notes[{i}]: must be {{at, text: 'Catatan redaksi: …'}}; "
+                        "internal notes belong in translator_notes")
 
     def same_shape(where, la, idn):
         if len(la) != len(idn):

@@ -46,7 +46,9 @@ def main():
 
     lessons_path = ROOT / "docs/summa/pelajaran.md"
     existing = lessons_path.read_text()
-    lessons = [re.sub(r"^\[asal:[^\]]*\]\s*", "", l.strip()) for l in review.get("lessons", [])]
+    edits_path = Path(f"{base}.edits.json")
+    style = json.loads(edits_path.read_text()).get("style_lessons", []) if edits_path.exists() else []
+    lessons = [re.sub(r"^\[asal:[^\]]*\]\s*", "", l.strip()) for l in review.get("lessons", []) + style]
     new = [l for l in lessons if l and l not in existing]
     if new:
         lessons_path.write_text(existing.rstrip("\n") + "\n" + "".join(f"- [asal: {ref}] {l}\n" for l in new))

@@ -1,0 +1,443 @@
+{
+  "glossary_version": "0.2",
+  "edits": [
+    {
+      "at": "title",
+      "before": "Hakikat dan Cakupan Ajaran Suci",
+      "after": "Hakikat dan cakupan ajaran suci",
+      "latin": "(prooemium) de ipsa sacra doctrina, qualis sit, et ad quae se extendat",
+      "why": "title case"
+    },
+    {
+      "at": "prooemium[0]",
+      "before": "Dan agar maksud kita tercakup dalam batas-batas tertentu, perlu pertama-tama diselidiki tentang ajaran suci itu sendiri: apa hakikatnya, dan sejauh mana cakupannya. … Pertama, tentang perlunya ajaran ini. … Kesepuluh, apakah Kitab Suci ajaran ini harus diuraikan menurut beberapa makna.",
+      "after": "Agar maksud kita tetap berada dalam batas-batas tertentu, pertama-tama perlu diselidiki ajaran suci itu sendiri: apa hakikatnya dan sejauh mana cakupannya. … Pertama, tentang perlunya ajaran suci ini. … Kesepuluh, apakah Kitab Suci, yang menjadi dasar ajaran suci ini, harus diuraikan menurut beberapa makna.",
+      "latin": "Et ut intentio nostra sub aliquibus certis limitibus comprehendatur, necessarium est primo investigare de ipsa sacra doctrina, qualis sit, et ad quae se extendat. … Primo, de necessitate huius doctrinae. … Decimo, utrum Scriptura sacra huius doctrinae sit secundum plures sensus exponenda.",
+      "why": "calque 'Dan' (Et links to the general prologue; there is no previous sentence to join, so it is dropped) | unclear referent ('Kitab Suci ajaran ini', 'ajaran ini'; style §3)"
+    },
+    {"at": "a1.title", "before": "Apakah, Selain Ilmu-Ilmu Filsafat, Diperlukan Ajaran Lain?", "after": "Apakah, selain ilmu-ilmu filsafat, diperlukan ajaran lain?", "latin": "(praeter philosophicas disciplinas, aliam doctrinam haberi)", "why": "title case"},
+    {"at": "a2.title", "before": "Apakah Ajaran Suci Merupakan Ilmu?", "after": "Apakah ajaran suci merupakan ilmu?", "latin": "(utrum sit scientia)", "why": "title case"},
+    {"at": "a3.title", "before": "Apakah Ajaran Suci Adalah Satu Ilmu?", "after": "Apakah ajaran suci adalah satu ilmu?", "latin": "(utrum sit una vel plures)", "why": "title case"},
+    {"at": "a4.title", "before": "Apakah Ajaran Suci Merupakan Ilmu Praktis?", "after": "Apakah ajaran suci merupakan ilmu praktis?", "latin": "(utrum sit speculativa vel practica)", "why": "title case"},
+    {"at": "a5.title", "before": "Apakah Ajaran Suci Lebih Luhur daripada Ilmu-Ilmu Lain?", "after": "Apakah ajaran suci lebih luhur daripada ilmu-ilmu lain?", "latin": "(de comparatione eius ad alias scientias)", "why": "title case"},
+    {"at": "a6.title", "before": "Apakah Ajaran Ini Sama dengan Hikmat?", "after": "Apakah ajaran suci ini sama dengan hikmat?", "latin": "(utrum sit sapientia; a6: haec doctrina)", "why": "title case | unclear referent ('ajaran ini' in a standalone title)"},
+    {"at": "a7.title", "before": "Apakah Allah Adalah Subjek Ilmu Ini?", "after": "Apakah Allah adalah subjek ilmu suci ini?", "latin": "(quid sit subiectum eius; a7: subiectum huius scientiae)", "why": "title case | unclear referent ('ilmu ini' in a standalone title)"},
+    {"at": "a8.title", "before": "Apakah Ajaran Suci Bersifat Argumentatif?", "after": "Apakah ajaran suci bersifat argumentatif?", "latin": "(utrum sit argumentativa)", "why": "title case"},
+    {"at": "a9.title", "before": "Apakah Kitab Suci Harus Memakai Metafora?", "after": "Apakah Kitab Suci harus memakai metafora?", "latin": "(utrum uti debeat metaphoricis vel symbolicis locutionibus)", "why": "title case"},
+    {"at": "a10.title", "before": "Apakah dalam Kitab Suci Satu Rumusan Teks Dapat Memiliki Beberapa Makna?", "after": "Apakah dalam Kitab Suci satu rumusan teks dapat memiliki beberapa makna?", "latin": "(utrum Scriptura sacra … sit secundum plures sensus exponenda)", "why": "title case"},
+
+    {
+      "at": "a1.objections[0][0]",
+      "before": "Tampaknya tidak perlu ada ajaran lain di samping ilmu-ilmu filsafat. Sebab manusia tidak boleh berusaha … Tetapi hal-hal yang tunduk pada akal budi sudah cukup diajarkan dalam ilmu-ilmu filsafat.",
+      "after": "Tampaknya tidak perlu ada ajaran lain di samping ilmu-ilmu filsafat, sebab manusia tidak boleh berusaha … Akan tetapi, hal-hal yang tunduk pada akal budi sudah cukup diajarkan dalam ilmu-ilmu filsafat.",
+      "latin": "Videtur quod non sit necessarium … Ad ea enim quae supra rationem sunt, homo non debet conari … Sed ea quae rationi subduntur, sufficienter traduntur in philosophicis disciplinis.",
+      "why": "calque 'Sebab' (enim joined to previous sentence) | calque 'Tetapi' (Sed → 'Akan tetapi')"
+    },
+    {
+      "at": "a1.objections[1][0]",
+      "before": "Selanjutnya, ajaran hanya dapat berkenaan dengan pengada, sebab tidak ada yang dapat diketahui kecuali yang benar, dan yang benar itu dapat dipertukarkan (konvertibel) dengan pengada. Tetapi semua pengada dibahas dalam ilmu-ilmu filsafat, termasuk Allah sendiri, sehingga sebagian filsafat disebut teologi, atau ilmu ilahi, sebagaimana tampak jelas pada sang Filsuf (Aristoteles) dalam *Metaph.* VI.",
+      "after": "Selanjutnya, ajaran hanya dapat berkenaan dengan sesuatu yang ada (*ens*), sebab tidak ada yang dapat diketahui kecuali yang benar, sedangkan setiap hal yang ada itu benar, dan setiap hal yang benar itu ada. Namun semua hal yang ada dibahas dalam ilmu-ilmu filsafat, termasuk Allah sendiri. Itulah sebabnya sebagian filsafat disebut teologi, atau ilmu ilahi, sebagaimana tampak jelas pada sang Filsuf (Aristoteles) dalam *Metaph.* VI.",
+      "latin": "Praeterea, doctrina non potest esse nisi de ente, nihil enim scitur nisi verum, quod cum ente convertitur. Sed de omnibus entibus tractatur in philosophicis disciplinis, et etiam de Deo, unde quaedam pars philosophiae dicitur theologia, sive scientia divina, ut patet per philosophum in VI Metaphys.",
+      "why": "glossary 0.2 (ens → 'sesuatu yang ada', first occurrence with (*ens*); entia → 'hal yang ada'; convertitur spelled out per §C, both disetujui) | calque 'Tetapi' | split long sentence"
+    },
+    {
+      "at": "a1.sed_contra[0]",
+      "before": "Tetapi Kitab Suci yang diilhami Allah bukanlah bagian dari ilmu-ilmu filsafat, …",
+      "after": "Adapun Kitab Suci yang diilhami Allah bukanlah bagian dari ilmu-ilmu filsafat, …",
+      "latin": "Scriptura autem divinitus inspirata non pertinet ad philosophicas disciplinas …",
+      "why": "calque 'Tetapi' (autem, not sed)"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "before": "Namun tujuan itu harus lebih dahulu diketahui oleh manusia, yang harus mengarahkan maksud dan tindakan mereka kepada tujuan itu. Maka demi keselamatannya, perlu bagi manusia bahwa hal-hal tertentu yang melampaui akal budi manusia diberitahukan kepadanya melalui wahyu ilahi. Bahkan untuk hal-hal tentang Allah yang dapat diselidiki oleh akal budi manusia, perlu juga manusia diajar melalui wahyu ilahi. Sebab kebenaran tentang Allah yang diselidiki dengan akal budi hanya akan sampai kepada manusia lewat sedikit orang, dalam waktu yang lama, dan bercampur dengan banyak kekeliruan, padahal seluruh keselamatan manusia, yang terletak dalam Allah, bergantung pada pengenalan akan kebenaran itu. Maka agar keselamatan sampai kepada manusia dengan lebih layak dan lebih pasti, perlu manusia diajar tentang hal-hal ilahi melalui wahyu ilahi. Maka perlu, di samping ilmu-ilmu filsafat yang diselidiki dengan akal budi, ada ajaran suci yang diperoleh melalui wahyu.",
+      "after": "Adapun tujuan itu harus lebih dahulu diketahui oleh manusia, yang harus mengarahkan maksud dan tindakannya kepada tujuan itu. Oleh karena itu, demi keselamatannya, manusia perlu diberi tahu melalui wahyu ilahi tentang hal-hal tertentu yang melampaui akal budi manusia. Bahkan untuk hal-hal tentang Allah yang dapat diselidiki oleh akal budi manusia, manusia juga perlu diajar melalui wahyu ilahi. Alasannya, kebenaran tentang Allah yang diselidiki dengan akal budi hanya akan sampai kepada manusia lewat sedikit orang, dalam waktu yang lama, dan bercampur dengan banyak kekeliruan. Padahal seluruh keselamatan manusia, yang terletak dalam Allah, bergantung pada pengenalan akan kebenaran itu. Jadi, agar keselamatan sampai kepada manusia dengan lebih layak dan lebih pasti, manusia perlu diajar tentang hal-hal ilahi melalui wahyu ilahi. Oleh karena itu, di samping ilmu-ilmu filsafat yang diselidiki dengan akal budi, perlu ada ajaran suci yang diperoleh melalui wahyu.",
+      "latin": "Finem autem oportet esse praecognitum hominibus, qui suas intentiones et actiones debent ordinare in finem. Unde necessarium fuit homini ad salutem, quod ei nota fierent quaedam per revelationem divinam, quae rationem humanam excedunt. Ad ea etiam quae de Deo ratione humana investigari possunt, necessarium fuit hominem instrui revelatione divina. Quia veritas de Deo, per rationem investigata, a paucis, et per longum tempus, et cum admixtione multorum errorum, homini proveniret, a cuius tamen veritatis cognitione dependet tota hominis salus, quae in Deo est. Ut igitur salus hominibus et convenientius et certius proveniat, necessarium fuit quod de divinis per divinam revelationem instruantur. Necessarium igitur fuit, praeter philosophicas disciplinas, quae per rationem investigantur, sacram doctrinam per revelationem haberi.",
+      "why": "calque 'Sebab' (Quia → 'Alasannya,') | split long sentence | 'Maka' three times in a row varied (style §2) | 'manusia … mereka' agreement fixed | autem: 'Namun' implied a contrast → 'Adapun'"
+    },
+    {
+      "at": "a1.replies1[0]",
+      "before": "Dan dalam hal-hal semacam inilah ajaran suci berada.",
+      "after": "Dalam hal-hal semacam inilah ajaran suci berada.",
+      "latin": "Et in huiusmodi sacra doctrina consistit.",
+      "why": "calque 'Dan'"
+    },
+    {
+      "at": "a1.replies2[0]",
+      "before": "Harus dikatakan bahwa perbedaan aspek (ratio) keterketahuan sesuatu menimbulkan perbedaan ilmu. Sebab ahli astronomi dan ahli ilmu alam sama-sama membuktikan kesimpulan yang sama, misalnya bahwa bumi itu bulat, tetapi ahli astronomi membuktikannya melalui sarana matematis, yakni yang diabstraksikan dari materi, sedangkan ahli ilmu alam membuktikannya melalui sarana yang mempertimbangkan materi. Maka tidak ada yang menghalangi … Maka teologi yang termasuk ajaran suci …",
+      "after": "Harus dikatakan bahwa perbedaan aspek (ratio) yang membuat sesuatu dapat diketahui menimbulkan perbedaan ilmu. Hal itu tampak pada ahli astronomi dan ahli ilmu alam: keduanya membuktikan kesimpulan yang sama, misalnya bahwa bumi itu bulat. Akan tetapi, ahli astronomi membuktikannya melalui sarana matematis, yakni yang diabstraksikan dari materi, sedangkan ahli ilmu alam membuktikannya melalui sarana yang mempertimbangkan materi. Oleh karena itu, tidak ada yang menghalangi … Jadi, teologi yang termasuk ajaran suci …",
+      "latin": "Ad secundum dicendum quod diversa ratio cognoscibilis diversitatem scientiarum inducit. Eandem enim conclusionem demonstrat astrologus et naturalis, puta quod terra est rotunda, sed astrologus per medium mathematicum, idest a materia abstractum; naturalis autem per medium circa materiam consideratum. Unde nihil prohibet … Unde theologia …",
+      "why": "diction ('keterketahuan') | calque 'Sebab' | split long sentence | repeated 'Maka' varied"
+    },
+
+    {
+      "at": "a2.objections[0][0]",
+      "before": "Tampaknya ajaran suci bukanlah ilmu. Sebab setiap ilmu berjalan dari prinsip-prinsip yang diketahui dengan sendirinya (per se). Tetapi ajaran suci berjalan dari artikel-artikel iman, yang tidak diketahui dengan sendirinya, sebab tidak diakui oleh semua orang; sebab \"iman bukanlah milik semua orang\" (2Tes 3:2).",
+      "after": "Tampaknya ajaran suci bukanlah ilmu, sebab setiap ilmu berjalan dari prinsip-prinsip yang diketahui dengan sendirinya (per se). Namun ajaran suci berjalan dari artikel-artikel iman, yang tidak diketahui dengan sendirinya karena tidak diakui oleh semua orang; memang, seperti tertulis, \"iman bukanlah milik semua orang\" (2Tes 3:2).",
+      "latin": "Videtur quod sacra doctrina non sit scientia. Omnis enim scientia procedit ex principiis per se notis. Sed sacra doctrina procedit ex articulis fidei, qui non sunt per se noti, cum non ab omnibus concedantur, non enim omnium est fides, ut dicitur II Thessalon. III.",
+      "why": "calque 'Sebab' | calque 'Tetapi' | triple 'sebab' varied (quote text unchanged)"
+    },
+    {
+      "at": "a2.objections[1][0]",
+      "before": "Tetapi ajaran suci membahas hal-hal singular, …",
+      "after": "Namun ajaran suci membahas hal-hal singular, …",
+      "latin": "Sed sacra doctrina tractat de singularibus, …",
+      "why": "calque 'Tetapi'"
+    },
+    {
+      "at": "a2.sed_contra[0]",
+      "before": "Sebaliknya, Agustinus berkata dalam *De Trin.* XIV, bahwa kepada ilmu ini semata-mata dikaitkan hal yang olehnya iman yang menyelamatkan dilahirkan, dipelihara, dipertahankan, dan diperkuat. Tetapi hal ini tidak berlaku bagi ilmu mana pun kecuali ajaran suci.",
+      "after": "Sebaliknya, Agustinus berkata dalam *De Trin.* XIV bahwa yang dikaitkan dengan ilmu ini hanyalah hal yang melaluinya iman yang menyelamatkan dilahirkan, dipelihara, dipertahankan, dan diperkuat. Adapun hal itu tidak berlaku bagi ilmu mana pun kecuali ajaran suci.",
+      "latin": "Sed contra est quod Augustinus dicit, XIV de Trinitate, huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur. Hoc autem ad nullam scientiam pertinet nisi ad sacram doctrinam.",
+      "why": "diction (inverted Latin order 'kepada ilmu ini semata-mata dikaitkan hal yang olehnya') | calque 'Tetapi' (autem)"
+    },
+    {
+      "at": "a2.replies1[0]",
+      "before": "Harus dikatakan bahwa prinsip-prinsip ilmu apa pun, entah diketahui dengan sendirinya, entah dikembalikan kepada pengetahuan ilmu yang lebih tinggi. Dan demikianlah prinsip-prinsip ajaran suci, sebagaimana telah dikatakan.",
+      "after": "Harus dikatakan bahwa prinsip-prinsip ilmu apa pun entah diketahui dengan sendirinya, entah dikembalikan kepada pengetahuan ilmu yang lebih tinggi. Prinsip-prinsip ajaran suci pun demikian, sebagaimana telah dikatakan.",
+      "latin": "… principia cuiuslibet scientiae vel sunt nota per se, vel reducuntur ad notitiam superioris scientiae. Et talia sunt principia sacrae doctrinae, ut dictum est.",
+      "why": "calque 'Dan' | stray comma between subject and predicate"
+    },
+    {
+      "at": "a2.replies2[0]",
+      "before": "… maupun untuk menyatakan otoritas orang-orang yang melaluinya wahyu ilahi sampai kepada kita, yang menjadi dasar Kitab Suci atau ajaran suci.",
+      "after": "… maupun untuk menyatakan otoritas orang-orang yang melaluinya wahyu ilahi sampai kepada kita. Di atas wahyu itulah Kitab Suci, atau ajaran suci, didasarkan.",
+      "latin": "… tum etiam ad declarandum auctoritatem virorum per quos ad nos revelatio divina processit, super quam fundatur sacra Scriptura seu doctrina.",
+      "why": "unclear referent ('yang' could attach to 'orang-orang'; super quam = revelatio) | split long sentence"
+    },
+
+    {
+      "at": "a3.objections[0][0]",
+      "before": "Tampaknya ajaran suci bukanlah satu ilmu. Sebab menurut sang Filsuf … Tetapi Sang Pencipta dan ciptaan …",
+      "after": "Tampaknya ajaran suci bukanlah satu ilmu, sebab menurut sang Filsuf … Namun Sang Pencipta dan ciptaan …",
+      "latin": "Videtur quod sacra doctrina non sit una scientia. Quia secundum philosophum … Creator autem et creatura …",
+      "why": "calque 'Sebab' | calque 'Tetapi'"
+    },
+    {
+      "at": "a3.objections[1][0]",
+      "before": "Tetapi hal-hal semacam ini termasuk ilmu-ilmu filsafat yang berlainan.",
+      "after": "Akan tetapi, hal-hal semacam ini termasuk ilmu-ilmu filsafat yang berlainan.",
+      "latin": "Huiusmodi autem ad diversas scientias philosophicas pertinent.",
+      "why": "calque 'Tetapi'"
+    },
+    {
+      "at": "a3.sed_contra[0]",
+      "before": "Sebaliknya, Kitab Suci berbicara tentangnya sebagai satu ilmu, …",
+      "after": "Sebaliknya, Kitab Suci berbicara tentang ajaran suci sebagai satu ilmu, …",
+      "latin": "Sed contra est quod sacra Scriptura de ea loquitur sicut de una scientia, …",
+      "why": "unclear referent ('-nya' = sacra doctrina)"
+    },
+    {
+      "at": "a3.respondeo[0]",
+      "before": "Sebab kesatuan suatu daya atau habitus harus dipertimbangkan menurut objeknya, bukan menurut segi materialnya, melainkan menurut aspek formal objek itu; misalnya manusia, keledai, dan batu bersesuaian dalam satu aspek formal, yakni berwarna, yang menjadi objek penglihatan. Maka karena Kitab Suci mempertimbangkan … Maka semuanya tercakup dalam ajaran suci sebagai satu ilmu.",
+      "after": "Alasannya, kesatuan suatu daya atau habitus harus dipertimbangkan menurut objeknya, tetapi bukan menurut segi material objek itu, melainkan menurut aspek formalnya. Misalnya, manusia, keledai, dan batu bersesuaian dalam satu aspek formal, yakni berwarna, yang menjadi objek penglihatan. Karena Kitab Suci mempertimbangkan … Oleh sebab itu, semuanya tercakup dalam ajaran suci sebagai satu ilmu.",
+      "latin": "Est enim unitas potentiae et habitus consideranda secundum obiectum, non quidem materialiter, sed secundum rationem formalem obiecti, puta homo, asinus et lapis conveniunt in una formali ratione colorati, quod est obiectum visus. Quia igitur sacra Scriptura … Et ideo comprehenduntur sub sacra doctrina sicut sub scientia una.",
+      "why": "calque 'Sebab' | split long sentence | 'Maka karena … Maka' repetition"
+    },
+    {
+      "at": "a3.replies2[0]",
+      "before": "Seperti objek indra bersama adalah yang dapat diindra, yang mencakup di dalamnya yang dapat dilihat dan yang dapat didengar; maka indra bersama, meskipun satu daya, meluas kepada seluruh objek kelima indra. Demikian pula, … yakni sejauh dapat diwahyukan Allah, sehingga ajaran suci menjadi semacam meterai (cetakan) ilmu ilahi, yang satu dan sederhana bagi segala sesuatu.",
+      "after": "Misalnya, objek indra bersama adalah yang dapat diindra, yang mencakup yang dapat dilihat dan yang dapat didengar. Maka indra bersama, meskipun satu daya, meluas kepada seluruh objek kelima indra. Demikian pula, … yakni sejauh dapat diwahyukan Allah. Dengan demikian, ajaran suci menjadi semacam meterai (cetakan) ilmu ilahi, yang satu dan sederhana bagi segala sesuatu.",
+      "latin": "Sicut obiectum sensus communis est sensibile, quod comprehendit sub se visibile et audibile, unde sensus communis, cum sit una potentia, extendit se ad omnia obiecta quinque sensuum. Et similiter … inquantum scilicet sunt divinitus revelabilia, ut sic sacra doctrina sit velut quaedam impressio divinae scientiae, quae est una et simplex omnium.",
+      "why": "split long sentence | sentence-initial 'Seperti' fragment"
+    },
+
+    {
+      "at": "a4.objections[0][0]",
+      "before": "Tampaknya ajaran suci adalah ilmu praktis. Sebab tujuan ilmu praktis adalah perbuatan, menurut sang Filsuf dalam *Metaph.* II. Tetapi ajaran suci diarahkan kepada perbuatan, …",
+      "after": "Tampaknya ajaran suci adalah ilmu praktis, sebab menurut sang Filsuf dalam *Metaph.* II, tujuan ilmu praktis adalah perbuatan. Adapun ajaran suci diarahkan kepada perbuatan, …",
+      "latin": "Videtur quod sacra doctrina sit scientia practica. Finis enim practicae est operatio, secundum philosophum in II Metaphys. Sacra autem doctrina ad operationem ordinatur, …",
+      "why": "calque 'Sebab' | calque 'Tetapi' (autem)"
+    },
+    {
+      "at": "a4.objections[1][0]",
+      "before": "Tetapi hukum termasuk ilmu moral, yang merupakan ilmu praktis.",
+      "after": "Adapun hukum termasuk ilmu moral, yang merupakan ilmu praktis.",
+      "latin": "Lex autem pertinet ad scientiam moralem, quae est scientia practica.",
+      "why": "calque 'Tetapi' (autem)"
+    },
+    {
+      "at": "a4.sed_contra[0]",
+      "before": "Tetapi ajaran suci secara pokok berkenaan dengan Allah, yang justru menjadikan manusia karya-Nya.",
+      "after": "Adapun ajaran suci secara pokok berkenaan dengan Allah, dan manusia justru adalah karya-Nya.",
+      "latin": "Sacra autem doctrina est principaliter de Deo, cuius magis homines sunt opera.",
+      "why": "calque 'Tetapi' (autem) | diction (cuius … opera: humans are His works, not 'Allah makes humans His works')"
+    },
+    {
+      "at": "a4.respondeo[0]",
+      "before": "Aku menjawab: harus dikatakan bahwa ajaran suci, sebagaimana telah dikatakan, yang satu adanya, meluas kepada hal-hal yang termasuk berbagai ilmu filsafat, karena aspek formal yang diperhatikannya pada hal-hal yang berlainan itu, yakni sejauh dapat diketahui dengan cahaya ilahi. … sebab ia secara pokok berurusan dengan hal-hal ilahi, dan bukan pertama-tama dengan tindakan manusia; ia berurusan dengan tindakan manusia sejauh melaluinya manusia diarahkan kepada pengenalan Allah yang sempurna, yang di dalamnya terletak kebahagiaan abadi.",
+      "after": "Aku menjawab: harus dikatakan bahwa ajaran suci, yang adalah satu ilmu, sebagaimana telah dikatakan, meluas kepada hal-hal yang termasuk berbagai ilmu filsafat. Hal itu karena aspek formal yang diperhatikannya pada hal-hal yang berlainan itu, yakni sejauh hal-hal itu dapat diketahui dengan cahaya ilahi. … sebab ia secara pokok berurusan dengan hal-hal ilahi, dan bukan pertama-tama dengan tindakan manusia. Tindakan manusia dibahasnya sejauh melaluinya manusia diarahkan kepada pengenalan Allah yang sempurna, yang di dalamnya terletak kebahagiaan abadi.",
+      "latin": "Respondeo dicendum quod sacra doctrina, ut dictum est, una existens, se extendit ad ea quae pertinent ad diversas scientias philosophicas, propter rationem formalem quam in diversis attendit, scilicet prout sunt divino lumine cognoscibilia. … quia principalius agit de rebus divinis quam de actibus humanis; de quibus agit secundum quod per eos ordinatur homo ad perfectam Dei cognitionem, in qua aeterna beatitudo consistit.",
+      "why": "split long sentence | diction ('yang satu adanya' after a parenthesis) | unclear referent ('ia' twice)"
+    },
+
+    {
+      "at": "a5.objections[0][0]",
+      "before": "Tampaknya ajaran suci tidak lebih luhur daripada ilmu-ilmu lain. Sebab kepastian termasuk keluhuran suatu ilmu. Tetapi ilmu-ilmu lain, …",
+      "after": "Tampaknya ajaran suci tidak lebih luhur daripada ilmu-ilmu lain, sebab kepastian termasuk keluhuran suatu ilmu. Namun ilmu-ilmu lain, …",
+      "latin": "Videtur quod sacra doctrina non sit dignior aliis scientiis. Certitudo enim pertinet ad dignitatem scientiae. Sed aliae scientiae, …",
+      "why": "calque 'Sebab' | calque 'Tetapi'"
+    },
+    {
+      "at": "a5.objections[1][0]",
+      "before": "Tetapi ajaran suci menerima sesuatu dari ilmu-ilmu filsafat, sebab Hieronimus berkata dalam suratnya kepada Magnus, orator kota Roma, bahwa para pengajar kuno begitu memenuhi kitab-kitab mereka dengan ajaran dan pendapat para filsuf, sehingga tidak dapat diketahui mana yang lebih patut dikagumi di dalamnya, pengetahuan duniawi mereka atau pengetahuan mereka akan Kitab Suci.",
+      "after": "Namun ajaran suci menerima sesuatu dari ilmu-ilmu filsafat. Hal itu tampak dari perkataan Hieronimus dalam suratnya kepada Magnus, orator kota Roma: para pengajar kuno begitu memenuhi kitab-kitab mereka dengan ajaran dan pendapat para filsuf, sehingga orang tidak tahu mana yang lebih patut dikagumi di dalamnya, pengetahuan duniawi mereka atau pengetahuan mereka akan Kitab Suci.",
+      "latin": "Sed sacra doctrina accipit aliquid a philosophicis disciplinis, dicit enim Hieronymus in epistola ad magnum oratorem urbis Romae, quod doctores antiqui intantum philosophorum doctrinis atque sententiis suos resperserunt libros, ut nescias quid in illis prius admirari debeas, eruditionem saeculi, an scientiam Scripturarum.",
+      "why": "calque 'Tetapi' | split long sentence"
+    },
+    {
+      "at": "a5.sed_contra[0]",
+      "before": "Sebaliknya, ilmu-ilmu lain disebut hamba-hamba ilmu ini, …",
+      "after": "Sebaliknya, ilmu-ilmu lain disebut hamba-hamba ilmu suci ini, …",
+      "latin": "Sed contra est quod aliae scientiae dicuntur ancillae huius, …",
+      "why": "unclear referent (style §3: haec scientia → 'ilmu suci ini')"
+    },
+    {
+      "at": "a5.respondeo[0]",
+      "before": "Aku menjawab: harus dikatakan bahwa karena ilmu ini, dalam satu segi bersifat spekulatif, dan dalam segi lain bersifat praktis, ia melampaui semua ilmu lain, baik yang spekulatif maupun yang praktis. Sebab di antara ilmu-ilmu spekulatif, satu dikatakan lebih luhur daripada yang lain, baik karena kepastiannya, maupun karena keluhuran bahannya. Dan dalam kedua hal itu, ilmu ini melampaui ilmu-ilmu spekulatif lainnya. Menurut kepastiannya, sebab ilmu-ilmu lain memperoleh kepastian dari cahaya akal budi manusia yang kodrati, yang dapat keliru, sedangkan ilmu ini memperoleh kepastian dari cahaya ilmu ilahi, yang tidak dapat tertipu. Menurut keluhuran bahannya, sebab ilmu ini secara pokok berkenaan dengan hal-hal yang, karena keluhurannya, melampaui akal budi, sedangkan ilmu-ilmu lain hanya mempertimbangkan hal-hal yang tunduk pada akal budi. Di antara ilmu-ilmu praktis, yang lebih luhur adalah yang diarahkan kepada tujuan yang lebih jauh, seperti ilmu politik lebih luhur daripada ilmu militer, sebab kebaikan tentara diarahkan kepada kebaikan negara. Adapun tujuan ajaran ini, sejauh bersifat praktis, adalah kebahagiaan abadi, yang kepadanya, sebagai tujuan terakhir, diarahkan segala tujuan ilmu-ilmu praktis yang lain. Maka jelaslah, menurut segala seginya, ajaran ini lebih luhur daripada ilmu-ilmu lain.",
+      "after": "Aku menjawab: harus dikatakan bahwa ilmu suci ini dalam satu segi bersifat spekulatif, dan dalam segi lain bersifat praktis. Karena itu, ia melampaui semua ilmu lain, baik yang spekulatif maupun yang praktis. Di antara ilmu-ilmu spekulatif, satu ilmu dikatakan lebih luhur daripada yang lain, baik karena kepastiannya, maupun karena keluhuran bahannya. Dalam kedua hal itu, ilmu suci ini melampaui ilmu-ilmu spekulatif lainnya. Ia unggul dalam kepastian, karena ilmu-ilmu lain memperoleh kepastian dari cahaya akal budi manusia yang kodrati, yang dapat keliru, sedangkan ilmu suci ini memperoleh kepastian dari cahaya ilmu ilahi, yang tidak dapat tertipu. Ia unggul pula dalam keluhuran bahan, karena ilmu suci ini secara pokok berkenaan dengan hal-hal yang, karena keluhurannya, melampaui akal budi, sedangkan ilmu-ilmu lain hanya mempertimbangkan hal-hal yang tunduk pada akal budi. Di antara ilmu-ilmu praktis, yang lebih luhur adalah ilmu yang diarahkan kepada tujuan yang lebih jauh. Misalnya, ilmu politik lebih luhur daripada ilmu militer, sebab kebaikan tentara diarahkan kepada kebaikan negara. Adapun tujuan ajaran suci ini, sejauh bersifat praktis, adalah kebahagiaan abadi. Kepada kebahagiaan abadi itulah, sebagai tujuan terakhir, diarahkan segala tujuan ilmu-ilmu praktis yang lain. Maka jelaslah, menurut segala seginya, ajaran suci ini lebih luhur daripada ilmu-ilmu lain.",
+      "latin": "Respondeo dicendum quod, cum ista scientia quantum ad aliquid sit speculativa, et quantum ad aliquid sit practica, omnes alias transcendit tam speculativas quam practicas. Speculativarum enim scientiarum una altera dignior dicitur, tum propter certitudinem, tum propter dignitatem materiae. Et quantum ad utrumque, haec scientia alias speculativas scientias excedit. Secundum certitudinem quidem, quia … Secundum dignitatem vero materiae, quia … Practicarum vero scientiarum illa dignior est, quae ad ulteriorem finem ordinatur, sicut civilis militari, nam bonum exercitus ad bonum civitatis ordinatur. Finis autem huius doctrinae inquantum est practica, est beatitudo aeterna, ad quam sicut ad ultimum finem ordinantur omnes alii fines scientiarum practicarum. Unde manifestum est, secundum omnem modum, eam digniorem esse aliis.",
+      "why": "calque 'Dan' | calque 'Sebab' | split long sentence | fragments 'Menurut kepastiannya, sebab …' made full sentences ('unggul' = excedit of the previous sentence) | unclear referent ('ilmu ini'/'ajaran ini' → 'ilmu suci ini'/'ajaran suci ini')"
+    },
+    {
+      "at": "a5.replies1[0]",
+      "before": "… karena kelemahan intelek kita, yang berhadapan dengan hal-hal yang paling nyata dari alam sebagaimana mata burung hantu berhadapan dengan cahaya matahari, seperti dikatakan dalam *Metaph.* II.",
+      "after": "… karena kelemahan intelek kita. Seperti dikatakan dalam *Metaph.* II, intelek kita berhadapan dengan hal-hal yang paling nyata dari alam sebagaimana mata burung hantu berhadapan dengan cahaya matahari.",
+      "latin": "… propter debilitatem intellectus nostri, qui se habet ad manifestissima naturae, sicut oculus noctuae ad lumen solis, sicut dicitur in II Metaphys.",
+      "why": "split long sentence"
+    },
+    {
+      "at": "a5.replies2[0]",
+      "before": "Sebab ilmu ini tidak menerima prinsip-prinsipnya dari ilmu-ilmu lain, … Dan hal ini, yakni bahwa ilmu ini memakainya demikian, bukan karena kekurangan atau ketidakcukupan ilmu ini, melainkan karena kekurangan intelek kita, yang dari hal-hal yang diketahui melalui akal budi kodrati (yang darinya ilmu-ilmu lain berjalan) lebih mudah dituntun kepada hal-hal yang melampaui akal budi, yang diajarkan dalam ilmu ini.",
+      "after": "Alasannya, ilmu ini tidak menerima prinsip-prinsipnya dari ilmu-ilmu lain, … Adapun kenyataan bahwa ilmu ini memakai ilmu-ilmu lain dengan cara demikian bukan disebabkan oleh kekurangan atau ketidakcukupannya, melainkan oleh kekurangan intelek kita. Dari hal-hal yang diketahui melalui akal budi kodrati (yang menjadi titik tolak ilmu-ilmu lain), intelek kita lebih mudah dituntun kepada hal-hal yang melampaui akal budi, yang diajarkan dalam ilmu ini.",
+      "latin": "Non enim accipit sua principia ab aliis scientiis, … Et hoc ipsum quod sic utitur eis, non est propter defectum vel insufficientiam eius, sed propter defectum intellectus nostri; qui ex his quae per naturalem rationem (ex qua procedunt aliae scientiae) cognoscuntur, facilius manuducitur in ea quae sunt supra rationem, quae in hac scientia traduntur.",
+      "why": "calque 'Sebab' | calque 'Dan' | split long sentence | unclear referent ('memakainya')"
+    },
+
+    {
+      "at": "a6.objections[0][0]",
+      "before": "Tampaknya ajaran ini bukanlah hikmat. Sebab tidak ada ajaran yang mengandaikan prinsip-prinsipnya dari sumber lain yang layak menyandang nama hikmat, sebab tugas orang berhikmat ialah mengatur, dan bukan diatur (*Metaph.* I). Tetapi ajaran ini mengandaikan prinsip-prinsipnya dari sumber lain, sebagaimana tampak jelas dari yang telah dikatakan. Maka ajaran ini bukanlah hikmat.",
+      "after": "Tampaknya ajaran suci ini bukanlah hikmat. Alasannya, tidak ada ajaran yang layak menyandang nama hikmat jika ajaran itu mengandaikan prinsip-prinsipnya dari sumber lain, sebab tugas orang berhikmat ialah mengatur, dan bukan diatur (*Metaph.* I). Namun ajaran suci ini mengandaikan prinsip-prinsipnya dari sumber lain, sebagaimana tampak jelas dari yang telah dikatakan. Maka ajaran suci ini bukanlah hikmat.",
+      "latin": "Videtur quod haec doctrina non sit sapientia. Nulla enim doctrina quae supponit sua principia aliunde, digna est nomine sapientiae, quia sapientis est ordinare, et non ordinari (I Metaphys.). Sed haec doctrina supponit principia sua aliunde, ut ex dictis patet. Ergo haec doctrina non est sapientia.",
+      "why": "calque 'Sebab' | calque 'Tetapi' | unclear referent ('ajaran ini'; also 'sumber lain yang layak' read as if the source were worthy)"
+    },
+    {
+      "at": "a6.objections[1][0]",
+      "before": "Tetapi ajaran ini tidak membuktikan prinsip-prinsip ilmu-ilmu lain. Maka ajaran ini bukanlah hikmat.",
+      "after": "Namun ajaran suci ini tidak membuktikan prinsip-prinsip ilmu-ilmu lain. Maka ajaran suci ini bukanlah hikmat.",
+      "latin": "Sed haec doctrina non probat principia aliarum scientiarum. Ergo non est sapientia.",
+      "why": "calque 'Tetapi' | unclear referent"
+    },
+    {
+      "at": "a6.objections[2][0]",
+      "before": "Selanjutnya, ajaran ini diperoleh melalui belajar. Sedangkan hikmat diperoleh melalui pencurahan, sehingga ia dihitung di antara ketujuh karunia Roh Kudus, sebagaimana tampak dalam Yes 11:2. Maka ajaran ini bukanlah hikmat.",
+      "after": "Selanjutnya, ajaran suci ini diperoleh melalui belajar, sedangkan hikmat diperoleh melalui pencurahan. Karena itu, hikmat dihitung di antara ketujuh karunia Roh Kudus, sebagaimana tampak dalam Yes 11:2. Maka ajaran suci ini bukanlah hikmat.",
+      "latin": "Praeterea, haec doctrina per studium acquiritur. Sapientia autem per infusionem habetur, unde inter septem dona spiritus sancti connumeratur, ut patet Isaiae XI. Ergo haec doctrina non est sapientia.",
+      "why": "calque 'Sedangkan' as sentence start | unclear referent ('ia', 'ajaran ini')"
+    },
+    {
+      "at": "a6.respondeo[0]",
+      "before": "Aku menjawab: harus dikatakan bahwa ajaran ini adalah hikmat yang paling utama di antara segala hikmat manusiawi, bukan hanya dalam satu jenis tertentu, melainkan secara mutlak. Sebab tugas orang berhikmat adalah mengatur dan menilai, sedangkan penilaian atas hal-hal yang lebih rendah diperoleh melalui sebab yang lebih tinggi; maka dalam setiap jenis, orang yang disebut berhikmat adalah orang yang mempertimbangkan sebab tertinggi jenis itu. Seperti dalam bidang bangunan, ahli yang menyusun bentuk rumah disebut berhikmat dan arsitek, dibandingkan dengan tukang-tukang yang lebih rendah, yang mengolah kayu atau menyiapkan batu; maka tertulis, … Dan lagi, dalam bidang seluruh kehidupan manusia, orang yang bijaksana disebut berhikmat, sejauh ia mengatur tindakan-tindakan manusiawi kepada tujuan yang semestinya; maka tertulis, … Maka orang yang mempertimbangkan secara mutlak sebab tertinggi dari seluruh semesta, yaitu Allah, paling patut disebut berhikmat; sehingga hikmat pun dikatakan sebagai pengenalan akan hal-hal ilahi, sebagaimana tampak jelas pada Agustinus dalam *De Trin.* XII. Adapun ajaran suci membahas Allah secara paling khas sejauh Ia adalah sebab tertinggi, bukan hanya sejauh dapat diketahui melalui ciptaan (…), tetapi juga sejauh diketahui oleh diri-Nya sendiri saja, dan dikomunikasikan kepada yang lain melalui wahyu.",
+      "after": "Aku menjawab: harus dikatakan bahwa ajaran suci ini adalah hikmat yang paling utama di antara segala hikmat manusiawi, bukan hanya dalam satu bidang tertentu, melainkan secara mutlak. Hal itu karena tugas orang berhikmat adalah mengatur dan menilai, sedangkan penilaian atas hal-hal yang lebih rendah diperoleh melalui sebab yang lebih tinggi. Karena itu, dalam setiap bidang, orang yang disebut berhikmat adalah orang yang mempertimbangkan sebab tertinggi bidang itu. Misalnya, dalam bidang bangunan, ahli yang menyusun bentuk rumah disebut berhikmat dan arsitek, dibandingkan dengan tukang-tukang yang lebih rendah, yang mengolah kayu atau menyiapkan batu. Karena itu tertulis, … Demikian pula, dalam bidang seluruh kehidupan manusia, orang yang bijaksana disebut berhikmat, sejauh ia mengarahkan tindakan-tindakan manusiawi kepada tujuan yang semestinya. Karena itu tertulis, … Maka orang yang mempertimbangkan secara mutlak sebab tertinggi dari seluruh semesta, yaitu Allah, paling patut disebut berhikmat. Itulah sebabnya hikmat juga dikatakan sebagai pengenalan akan hal-hal ilahi, sebagaimana tampak jelas pada Agustinus dalam *De Trin.* XII. Adapun ajaran suci membahas Allah secara paling khas sejauh Ia adalah sebab tertinggi. Ajaran suci membahas-Nya bukan hanya menyangkut apa yang dapat diketahui melalui ciptaan (…), tetapi juga menyangkut apa yang hanya diketahui oleh-Nya sendiri tentang diri-Nya, dan yang dikomunikasikan kepada yang lain melalui wahyu.",
+      "latin": "Respondeo dicendum quod haec doctrina maxime sapientia est inter omnes sapientias humanas, non quidem in aliquo genere tantum, sed simpliciter. Cum enim sapientis sit ordinare et iudicare, iudicium autem per altiorem causam de inferioribus habeatur; ille sapiens dicitur in unoquoque genere, qui considerat causam altissimam illius generis. Ut in genere aedificii, … unde dicitur I Cor. III, … Et rursus, in genere totius humanae vitae, prudens sapiens dicitur, inquantum ordinat humanos actus ad debitum finem, unde dicitur Prov. X, … Ille igitur qui considerat simpliciter altissimam causam totius universi, quae Deus est, maxime sapiens dicitur, unde et sapientia dicitur esse divinorum cognitio, ut patet per Augustinum, XII de Trinitate. Sacra autem doctrina propriissime determinat de Deo secundum quod est altissima causa, quia non solum quantum ad illud quod est per creaturas cognoscibile (…); sed etiam quantum ad id quod notum est sibi soli de seipso, et aliis per revelationem communicatum.",
+      "why": "unclear referent ('ajaran ini') | calque 'Sebab' | calque 'Dan' ('Dan lagi' → 'Demikian pula') | sentence-initial 'Seperti' | split long sentence | 'jenis'/'bidang' for genus (non-technical sense here) made consistent | 'quantum ad id quod notum est sibi soli de seipso' rendered closer ('apa yang hanya diketahui oleh-Nya sendiri tentang diri-Nya') | Scripture quotes and references unchanged"
+    },
+    {
+      "at": "a6.replies2[0]",
+      "before": "… melainkan hanya untuk menilainya; sebab apa pun yang ditemukan dalam ilmu-ilmu lain yang bertentangan dengan kebenaran ilmu ini, semuanya ditolak sebagai salah; maka tertulis, …",
+      "after": "… melainkan hanya untuk menilainya: apa pun yang ditemukan dalam ilmu-ilmu lain yang bertentangan dengan kebenaran ilmu ini ditolak seluruhnya sebagai salah. Karena itu tertulis, …",
+      "latin": "… sed solum iudicare de eis, quidquid enim in aliis scientiis invenitur veritati huius scientiae repugnans, totum condemnatur ut falsum, unde dicitur II Cor. X, …",
+      "why": "split long sentence"
+    },
+    {
+      "at": "a6.replies3[0]",
+      "before": "Sebab seseorang dapat menilai, pertama, dengan cara kecenderungan, seperti orang yang memiliki habitus kebajikan menilai dengan benar hal-hal yang harus dilakukan sesuai kebajikan itu, sejauh ia condong kepadanya; maka dikatakan dalam *Ethic.* X bahwa … \"Manusia rohani menilai segala sesuatu\" (1Kor 2:15), dan Dionisius (Pseudo-Dionisius dari Areopagus) berkata dalam *De Div. Nom.* II, bahwa Hierotheus … Adapun cara kedua dalam menilai termasuk ajaran ini, …",
+      "after": "Pertama, seseorang dapat menilai dengan cara kecenderungan. Misalnya, orang yang memiliki habitus kebajikan menilai dengan benar hal-hal yang harus dilakukan sesuai kebajikan itu, sejauh ia condong kepadanya. Karena itu dikatakan dalam *Ethic.* X bahwa … \"Manusia rohani menilai segala sesuatu\" (1Kor 2:15). Demikian pula Dionisius (Pseudo-Dionisius dari Areopagus) berkata dalam *De Div. Nom.* II bahwa Hierotheus … Adapun cara kedua dalam menilai termasuk ajaran suci ini, …",
+      "latin": "Contingit enim aliquem iudicare, uno modo per modum inclinationis, sicut qui habet habitum virtutis, recte iudicat de his quae sunt secundum virtutem agenda, inquantum ad illa inclinatur, unde et in X Ethic. dicitur quod … spiritualis homo iudicat omnia, etc., et Dionysius dicit, … Secundus autem modus iudicandi pertinet ad hanc doctrinam, …",
+      "why": "calque 'Sebab' | split long sentence | unclear referent ('ajaran ini')"
+    },
+
+    {
+      "at": "a7.objections[0][0]",
+      "before": "Tampaknya Allah bukanlah subjek ilmu ini. Sebab dalam ilmu apa pun perlu diandaikan lebih dahulu apa hakikat subjeknya, menurut sang Filsuf dalam *Anal. Post.* I. Tetapi ilmu ini tidak mengandaikan apa hakikat Allah, …",
+      "after": "Tampaknya Allah bukanlah subjek ilmu ini, sebab menurut sang Filsuf dalam *Anal. Post.* I, dalam ilmu apa pun perlu diandaikan lebih dahulu apa hakikat subjeknya. Namun ilmu ini tidak mengandaikan apa hakikat Allah, …",
+      "latin": "Videtur quod Deus non sit subiectum huius scientiae. In qualibet enim scientia oportet supponere de subiecto quid est, secundum philosophum in I Poster. Sed haec scientia non supponit de Deo quid est, …",
+      "why": "calque 'Sebab' | calque 'Tetapi'"
+    },
+    {
+      "at": "a7.objections[1][0]",
+      "before": "Tetapi dalam Kitab Suci dibahas banyak hal lain selain Allah, misalnya ciptaan, dan tingkah laku manusia.",
+      "after": "Namun dalam Kitab Suci dibahas banyak hal lain selain Allah, misalnya ciptaan dan tingkah laku manusia.",
+      "latin": "Sed in sacra Scriptura determinatur de multis aliis quam de Deo, puta de creaturis, et de moribus hominum.",
+      "why": "calque 'Tetapi'"
+    },
+    {
+      "at": "a7.sed_contra[0]",
+      "before": "Tetapi dalam ilmu ini dibicarakan tentang Allah, sebab ilmu ini disebut teologi, …",
+      "after": "Namun ilmu ini membicarakan Allah, sebab ilmu ini disebut teologi, …",
+      "latin": "Sed in hac scientia fit sermo de Deo, dicitur enim theologia, …",
+      "why": "calque 'Tetapi' | passive 'dibicarakan tentang' made active"
+    },
+    {
+      "at": "a7.respondeo[0]",
+      "before": "Sebab hubungan antara subjek dan ilmu … sejauh keduanya berwarna; maka yang berwarna adalah objek khas penglihatan. … yaitu artikel-artikel iman, sedangkan iman itu berkenaan dengan Allah; dan subjek prinsip-prinsip serta subjek seluruh ilmu adalah sama, sebab … Namun ada sebagian orang yang, karena memperhatikan hal-hal yang dibahas dalam ilmu ini, dan bukan aspek yang menjadi dasar pembahasannya, menetapkan subjek ilmu ini secara lain, entah sebagai \"hal-hal dan tanda-tanda\"; entah sebagai \"karya-karya pemulihan\"; entah sebagai \"seluruh Kristus\", yakni kepala dan anggota-anggota-Nya. Sebab semua hal itu memang dibahas dalam ilmu ini, tetapi menurut keterarahannya kepada Allah.",
+      "after": "Alasannya, hubungan antara subjek dan ilmu … Misalnya, manusia dan batu dikaitkan dengan penglihatan sejauh keduanya berwarna; karena itu, yang berwarna adalah objek khas penglihatan. … yaitu artikel-artikel iman, dan iman itu berkenaan dengan Allah. Adapun subjek prinsip-prinsip dan subjek seluruh ilmu adalah sama, sebab … Namun sebagian orang menetapkan subjek ilmu ini secara lain, karena mereka memperhatikan hal-hal yang dibahas dalam ilmu ini, dan bukan aspek yang menjadi dasar pembahasannya. Mereka menetapkannya entah sebagai \"hal-hal dan tanda-tanda\", entah sebagai \"karya-karya pemulihan\", entah sebagai \"seluruh Kristus\", yakni kepala dan anggota-anggota-Nya. Semua hal itu memang dibahas dalam ilmu ini, tetapi menurut keterarahannya kepada Allah.",
+      "latin": "Sic enim se habet subiectum ad scientiam, … sicut homo et lapis referuntur ad visum inquantum sunt colorata, unde coloratum est proprium obiectum visus. … quae sunt articuli fidei, quae est de Deo, idem autem est subiectum principiorum et totius scientiae, cum … Quidam vero, attendentes ad ea quae in ista scientia tractantur, et non ad rationem secundum quam considerantur, assignaverunt aliter subiectum huius scientiae, vel res et signa; vel opera reparationis; vel totum Christum, idest caput et membra. De omnibus enim istis tractatur in ista scientia, sed secundum ordinem ad Deum.",
+      "why": "calque 'Sebab' (×2) | split long sentence ('ada sebagian orang yang, karena …, menetapkan' held the verb too long)"
+    },
+    {
+      "at": "a7.replies1[0]",
+      "before": "… namun dalam ajaran ini kita memakai akibat-Nya, … untuk hal-hal tentang Allah yang dipertimbangkan dalam ajaran ini; …",
+      "after": "… namun dalam ajaran suci ini kita memakai akibat-Nya, … untuk hal-hal tentang Allah yang dipertimbangkan dalam ajaran suci ini; …",
+      "latin": "… utimur tamen eius effectu, in hac doctrina, … ad ea quae de Deo in hac doctrina considerantur, …",
+      "why": "unclear referent (style §3)"
+    },
+
+    {
+      "at": "a8.objections[0][0]",
+      "before": "Tampaknya ajaran ini tidak bersifat argumentatif. Sebab Ambrosius berkata dalam *De Fide Cath.* I, \"Singkirkanlah argumen-argumen, di mana yang dicari adalah iman.\" Tetapi dalam ajaran ini terutama iman yang dicari; maka tertulis, …",
+      "after": "Tampaknya ajaran suci ini tidak bersifat argumentatif, sebab Ambrosius berkata dalam *De Fide Cath.* I, \"Singkirkanlah argumen-argumen ketika yang dicari adalah iman.\" Namun dalam ajaran suci ini, yang terutama dicari adalah iman; karena itu tertulis, …",
+      "latin": "Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, tolle argumenta, ubi fides quaeritur. Sed in hac doctrina praecipue fides quaeritur, unde dicitur Ioan. XX, …",
+      "why": "calque 'Sebab' | calque 'Tetapi' | unclear referent | 'di mana' as connective (style §5; patristic quote, not Scripture)"
+    },
+    {
+      "at": "a8.objections[1][0]",
+      "before": "Selanjutnya, jika ajaran ini bersifat argumentatif, … \"Iman tidak mempunyai jasa, di mana akal budi manusia memberikan pembuktian.\"",
+      "after": "Selanjutnya, jika ajaran suci ini bersifat argumentatif, … \"Iman tidak mempunyai jasa bila akal budi manusia memberikan pembuktian.\"",
+      "latin": "Praeterea, si sit argumentativa, … fides non habet meritum, ubi humana ratio praebet experimentum.",
+      "why": "unclear referent | 'di mana' as connective (style §5; patristic quote)"
+    },
+    {
+      "at": "a8.respondeo[0]",
+      "before": "Aku menjawab: harus dikatakan bahwa sebagaimana ilmu-ilmu lain tidak berargumentasi untuk membuktikan prinsip-prinsipnya sendiri, melainkan berargumentasi dari prinsip-prinsipnya untuk menunjukkan hal-hal lain dalam ilmu itu sendiri; demikian pula ajaran ini tidak berargumentasi untuk membuktikan prinsip-prinsipnya sendiri, yaitu artikel-artikel iman, melainkan berjalan darinya untuk menunjukkan sesuatu yang lain; seperti sang Rasul (Paulus) dalam 1Kor 15 berargumentasi dari kebangkitan Kristus untuk membuktikan kebangkitan umum. Namun perlu dipertimbangkan bahwa dalam ilmu-ilmu filsafat, ilmu-ilmu yang lebih rendah tidak membuktikan prinsip-prinsipnya sendiri, dan tidak berdebat melawan orang yang menyangkal prinsip-prinsip itu, melainkan menyerahkan hal itu kepada ilmu yang lebih tinggi; sedangkan yang tertinggi di antaranya, yakni metafisika, berdebat melawan orang yang menyangkal prinsip-prinsipnya, jika lawan bicara mengakui sesuatu; tetapi jika ia tidak mengakui apa pun, ilmu itu tidak dapat berdebat dengannya, meskipun masih dapat menjawab alasan-alasannya. Maka Kitab Suci, karena tidak memiliki ilmu yang lebih tinggi di atasnya, berdebat dengan orang yang menyangkal prinsip-prinsipnya, yakni dengan berargumentasi, jika lawan bicara mengakui sesuatu dari hal-hal yang diperoleh melalui wahyu ilahi; seperti kita berdebat melawan kaum bidah dengan otoritas-otoritas ajaran suci, dan melawan orang yang menyangkal satu artikel iman dengan artikel iman yang lain. Tetapi jika lawan bicara sama sekali tidak percaya kepada apa pun dari hal-hal yang diwahyukan Allah, tidak ada lagi jalan untuk membuktikan artikel-artikel iman dengan alasan-alasan, melainkan hanya untuk menjawab alasan-alasan yang mungkin diajukannya melawan iman. Sebab karena iman berpijak pada kebenaran yang tak dapat keliru, dan karena mustahil kebalikan dari yang benar didemonstrasikan, jelaslah bahwa bukti-bukti yang diajukan melawan iman bukanlah demonstrasi (pembuktian niscaya), melainkan alasan-alasan yang dapat dipecahkan.",
+      "after": "Aku menjawab: harus dikatakan bahwa ilmu-ilmu lain tidak berargumentasi untuk membuktikan prinsip-prinsipnya sendiri, melainkan berargumentasi dari prinsip-prinsipnya untuk menunjukkan hal-hal lain dalam ilmu itu sendiri. Demikian pula ajaran suci ini tidak berargumentasi untuk membuktikan prinsip-prinsipnya sendiri, yaitu artikel-artikel iman, melainkan berjalan dari prinsip-prinsip itu untuk menunjukkan sesuatu yang lain. Misalnya, sang Rasul (Paulus) dalam 1Kor 15 berargumentasi dari kebangkitan Kristus untuk membuktikan kebangkitan umum. Namun dalam ilmu-ilmu filsafat perlu dipertimbangkan hal berikut. Ilmu-ilmu yang lebih rendah tidak membuktikan prinsip-prinsipnya sendiri, dan tidak berdebat melawan orang yang menyangkal prinsip-prinsip itu, melainkan menyerahkan hal itu kepada ilmu yang lebih tinggi. Adapun ilmu yang tertinggi di antaranya, yakni metafisika, berdebat melawan orang yang menyangkal prinsip-prinsipnya, jika lawan bicara itu mengakui sesuatu. Jika ia tidak mengakui apa pun, metafisika tidak dapat berdebat dengannya, meskipun masih dapat menjawab alasan-alasannya. Oleh karena itu, Kitab Suci, karena tidak memiliki ilmu yang lebih tinggi di atasnya, berdebat dengan orang yang menyangkal prinsip-prinsipnya. Ia melakukannya dengan berargumentasi, jika lawan bicara mengakui sesuatu dari hal-hal yang diperoleh melalui wahyu ilahi. Misalnya, kita berdebat melawan kaum bidah dengan otoritas-otoritas ajaran suci, dan melawan orang yang menyangkal satu artikel iman dengan artikel iman yang lain. Namun jika lawan bicara sama sekali tidak percaya kepada apa pun dari hal-hal yang diwahyukan Allah, tidak ada lagi jalan untuk membuktikan artikel-artikel iman dengan alasan-alasan. Yang tersisa hanyalah menjawab alasan-alasan yang mungkin diajukannya melawan iman. Alasannya, iman berpijak pada kebenaran yang tak dapat keliru, sedangkan kebalikan dari yang benar mustahil didemonstrasikan. Maka jelaslah bahwa bukti-bukti yang diajukan melawan iman bukanlah demonstrasi (pembuktian niscaya), melainkan alasan-alasan yang dapat dipecahkan.",
+      "latin": "Respondeo dicendum quod, sicut aliae scientiae non argumentantur ad sua principia probanda, sed ex principiis argumentantur ad ostendendum alia in ipsis scientiis; ita haec doctrina non argumentatur ad sua principia probanda, quae sunt articuli fidei; sed ex eis procedit ad aliquid aliud ostendendum; sicut apostolus, I ad Cor. XV, … Sed tamen considerandum est in scientiis philosophicis, quod inferiores scientiae nec probant sua principia, nec contra negantem principia disputant, sed hoc relinquunt superiori scientiae, suprema vero inter eas, scilicet metaphysica, disputat contra negantem sua principia, si adversarius aliquid concedit, si autem nihil concedit, non potest cum eo disputare, potest tamen solvere rationes ipsius. Unde sacra Scriptura, cum non habeat superiorem, disputat cum negante sua principia, argumentando quidem, si adversarius aliquid concedat eorum quae per divinam revelationem habentur; sicut per auctoritates sacrae doctrinae disputamus contra haereticos, et per unum articulum contra negantes alium. Si vero adversarius nihil credat eorum quae divinitus revelantur, non remanet amplius via ad probandum articulos fidei per rationes, sed ad solvendum rationes, si quas inducit, contra fidem. Cum enim fides infallibili veritati innitatur, impossibile autem sit de vero demonstrari contrarium, manifestum est probationes quae contra fidem inducuntur, non esse demonstrationes, sed solubilia argumenta.",
+      "why": "split long sentence (paragraph was 5 sentences of 40–70 words; now 14) | calque 'Tetapi' | calque 'Sebab karena …, dan karena …' | unclear referent ('ajaran ini', 'darinya', 'ilmu itu' → metafisika)"
+    },
+    {
+      "at": "a8.replies1[0]",
+      "before": "… namun ajaran ini berargumentasi dari artikel-artikel iman …",
+      "after": "… namun ajaran suci ini berargumentasi dari artikel-artikel iman …",
+      "latin": "… tamen ex articulis fidei haec doctrina ad alia argumentatur, …",
+      "why": "unclear referent"
+    },
+    {
+      "at": "a8.replies2[0]",
+      "before": "Harus dikatakan bahwa berargumentasi dari otoritas adalah cara yang paling khas bagi ajaran ini, sebab prinsip-prinsip ajaran ini diperoleh melalui wahyu, sehingga perlu dipercayai otoritas mereka yang kepadanya wahyu itu diberikan. Hal ini tidak mengurangi keluhuran ajaran ini, sebab sekalipun dalil dari otoritas yang berdasar pada akal budi manusia adalah dalil yang paling lemah, dalil dari otoritas yang berdasar pada wahyu ilahi adalah dalil yang paling kuat. … untuk memperjelas hal-hal lain yang diajarkan dalam ajaran ini. Sebab karena rahmat tidak menghapus kodrat, … Dari sinilah ajaran suci juga memakai otoritas para filsuf, di mana mereka dapat mengenal kebenaran melalui akal budi kodrati; seperti Paulus dalam Kis 17:28 mengutip perkataan Aratus, … Sedangkan otoritas para pengajar Gereja yang lain dipakainya … Sebab iman kita berpijak pada wahyu yang diberikan kepada para rasul dan nabi, yang menulis kitab-kitab kanonik, dan bukan pada wahyu, seandainya ada, yang diberikan kepada para pengajar lain.",
+      "after": "Harus dikatakan bahwa berargumentasi dari otoritas adalah cara yang paling khas bagi ajaran suci ini, sebab prinsip-prinsipnya diperoleh melalui wahyu. Karena itu, otoritas orang-orang yang menerima wahyu itu perlu dipercayai. Hal ini tidak mengurangi keluhuran ajaran suci ini. Memang, dalil dari otoritas yang berdasar pada akal budi manusia adalah dalil yang paling lemah, tetapi dalil dari otoritas yang berdasar pada wahyu ilahi adalah dalil yang paling kuat. … untuk memperjelas hal-hal lain yang diajarkan di dalamnya. Karena rahmat tidak menghapus kodrat, … Karena itu pula ajaran suci memakai otoritas para filsuf dalam hal-hal yang kebenarannya dapat mereka kenal melalui akal budi kodrati. Misalnya, Paulus dalam Kis 17:28 mengutip perkataan Aratus, … Otoritas para pengajar Gereja yang lain dipakainya … Hal itu karena iman kita berpijak pada wahyu yang diberikan kepada para rasul dan nabi, yang menulis kitab-kitab kanonik, dan bukan pada wahyu yang diberikan kepada para pengajar lain, seandainya wahyu semacam itu ada.",
+      "latin": "Ad secundum dicendum quod argumentari ex auctoritate est maxime proprium huius doctrinae, eo quod principia huius doctrinae per revelationem habentur, et sic oportet quod credatur auctoritati eorum quibus revelatio facta est. Nec hoc derogat dignitati huius doctrinae, nam licet locus ab auctoritate quae fundatur super ratione humana, sit infirmissimus; locus tamen ab auctoritate quae fundatur super revelatione divina, est efficacissimus. … sed ad manifestandum aliqua alia quae traduntur in hac doctrina. Cum enim gratia non tollat naturam, … Et inde est quod etiam auctoritatibus philosophorum sacra doctrina utitur, ubi per rationem naturalem veritatem cognoscere potuerunt; sicut Paulus, actuum XVII, … Auctoritatibus autem aliorum doctorum Ecclesiae, … Innititur enim fides nostra revelationi apostolis et prophetis factae, qui canonicos libros scripserunt, non autem revelationi, si qua fuit aliis doctoribus facta.",
+      "why": "unclear referent ('ajaran ini' ×4) | split long sentence | calque 'Sebab' (×2) | calque 'Sedangkan' | 'di mana' as connective (style §5) | Scripture and Augustine quotes unchanged"
+    },
+
+    {
+      "at": "a9.objections[0][0]",
+      "before": "Tampaknya Kitab Suci tidak sepatutnya memakai metafora. Sebab apa yang khas bagi ajaran yang paling rendah tampaknya tidak sesuai dengan ilmu ini, … Maka memakai kemiripan-kemiripan semacam itu tidak sesuai dengan ilmu ini.",
+      "after": "Tampaknya Kitab Suci tidak sepatutnya memakai metafora, sebab apa yang khas bagi ajaran yang paling rendah tampaknya tidak sesuai dengan ilmu suci ini, … Maka memakai kemiripan-kemiripan semacam itu tidak sesuai dengan ilmu suci ini.",
+      "latin": "Videtur quod sacra Scriptura non debeat uti metaphoris. Illud enim quod est proprium infimae doctrinae, non videtur competere huic scientiae, … Ergo huiusmodi similitudinibus uti, non est conveniens huic scientiae.",
+      "why": "calque 'Sebab' | unclear referent"
+    },
+    {
+      "at": "a9.objections[1][0]",
+      "before": "Selanjutnya, ajaran ini tampaknya … Tetapi melalui kemiripan-kemiripan semacam itu kebenaran justru disembunyikan. Maka tidak sesuai bagi ajaran ini untuk …",
+      "after": "Selanjutnya, ajaran suci ini tampaknya … Namun melalui kemiripan-kemiripan semacam itu kebenaran justru disembunyikan. Maka tidak sesuai bagi ajaran suci ini untuk …",
+      "latin": "Praeterea, haec doctrina videtur … Sed per huiusmodi similitudines veritas occultatur. Non ergo competit huic doctrinae …",
+      "why": "unclear referent | calque 'Tetapi'"
+    },
+    {
+      "at": "a9.respondeo[0]",
+      "before": "Sebab Allah menyelenggarakan segala sesuatu … Adapun sudah kodrat manusia … Sudah sesuai pula bagi Kitab Suci, yang diajukan kepada semua orang tanpa kecuali (sesuai dengan yang tertulis, \"Aku berutang baik kepada orang bijak maupun kepada orang bodoh\" [Rm 1:14]), agar hal-hal rohani diajukan di bawah kemiripan benda-benda jasmani, supaya sekurang-kurangnya dengan cara demikian orang-orang yang sederhana pun dapat memahaminya, yakni mereka yang tidak mampu memahami hal-hal yang dapat dipahami akal budi menurut dirinya sendiri.",
+      "after": "Hal itu karena Allah menyelenggarakan segala sesuatu … Adapun sudah menjadi kodrat manusia … Selain itu, Kitab Suci diajukan kepada semua orang tanpa kecuali, sesuai dengan yang tertulis, \"Aku berutang baik kepada orang bijak maupun kepada orang bodoh\" (Rm 1:14). Karena itu, sudah sesuai pula bagi Kitab Suci agar hal-hal rohani diajukan di bawah kemiripan benda-benda jasmani. Dengan demikian, sekurang-kurangnya dengan cara itu orang-orang sederhana pun dapat memahami Kitab Suci, yakni mereka yang tidak mampu memahami hal-hal yang dapat dipahami akal budi menurut dirinya sendiri.",
+      "latin": "Deus enim omnibus providet secundum quod competit eorum naturae. Est autem naturale homini … Convenit etiam sacrae Scripturae, quae communiter omnibus proponitur (secundum illud ad Rom. I, sapientibus et insipientibus debitor sum), ut spiritualia sub similitudinibus corporalium proponantur; ut saltem vel sic rudes eam capiant, qui ad intelligibilia secundum se capienda non sunt idonei.",
+      "why": "calque 'Sebab' | split long sentence (parenthesised quotation lifted out; quote text and reference unchanged) | unclear referent ('-nya' = eam = Kitab Suci)"
+    },
+    {
+      "at": "a9.replies1[0]",
+      "before": "Tetapi ajaran suci memakai metafora demi keperluan dan kegunaannya, …",
+      "after": "Namun ajaran suci memakai metafora demi keperluan dan kegunaannya, …",
+      "latin": "Sed sacra doctrina utitur metaphoris propter necessitatem et utilitatem, …",
+      "why": "calque 'Tetapi'"
+    },
+    {
+      "at": "a9.replies2[0]",
+      "before": "Harus dikatakan bahwa sinar wahyu ilahi tidak dihancurkan oleh lambang-lambang yang dapat diindra yang menyelubunginya, sebagaimana dikatakan Dionisius, melainkan tetap tinggal dalam kebenarannya sendiri; sehingga budi orang-orang yang menerima wahyu itu tidak dibiarkan berhenti pada kemiripan-kemiripan itu saja, melainkan diangkat kepada pengenalan akan hal-hal yang dapat dipahami akal budi; dan melalui mereka yang menerima wahyu itu, orang lain pun diajar tentang hal-hal ini. … maupun sebagai perlindungan terhadap ejekan orang-orang yang tidak beriman, tentang siapa dikatakan, \"Jangan berikan yang kudus kepada anjing\" (Mat 7:6).",
+      "after": "Harus dikatakan bahwa, sebagaimana dikatakan Dionisius, sinar wahyu ilahi tidak dihancurkan oleh lambang-lambang yang dapat diindra yang menyelubunginya, melainkan tetap tinggal dalam kebenarannya sendiri. Sinar itu tidak membiarkan budi orang-orang yang menerima wahyu berhenti pada kemiripan-kemiripan itu saja, melainkan mengangkatnya kepada pengenalan akan hal-hal yang dapat dipahami akal budi. Selain itu, melalui mereka yang menerima wahyu itu, orang lain pun diajar tentang hal-hal ini. … maupun sebagai perlindungan terhadap ejekan orang-orang yang tidak beriman. Tentang mereka dikatakan, \"Jangan berikan yang kudus kepada anjing\" (Mat 7:6).",
+      "latin": "Ad secundum dicendum quod radius divinae revelationis non destruitur propter figuras sensibiles quibus circumvelatur, ut dicit Dionysius, sed remanet in sua veritate; ut mentes quibus fit revelatio, non permittat in similitudinibus permanere, sed elevet eas ad cognitionem intelligibilium; et per eos quibus revelatio facta est, alii etiam circa haec instruantur. … et contra irrisiones infidelium, de quibus dicitur, Matth. VII, nolite sanctum dare canibus.",
+      "why": "split long sentence | unclear referent (subject of permittat/elevet is radius: passive made active with 'Sinar itu') | calque 'tentang siapa'"
+    },
+    {
+      "at": "a9.replies3[0]",
+      "before": "Dan hal ini karena tiga alasan. Pertama, sebab dengan demikian budi manusia lebih terbebas dari kekeliruan. Sebab menjadi jelas bahwa hal-hal itu tidak dikatakan tentang hal-hal ilahi menurut sifatnya yang sebenarnya, sesuatu yang dapat diragukan seandainya hal-hal ilahi digambarkan di bawah lambang benda-benda yang mulia, terutama bagi mereka yang tidak dapat membayangkan sesuatu yang lebih mulia selain benda-benda itu sendiri. Kedua, sebab cara ini … Sebab yang lebih dinyatakan kepada kita tentang Dia adalah apa yang bukan diri-Nya, daripada apa yang menjadi diri-Nya; maka kemiripan-kemiripan … Ketiga, sebab dengan cara demikian …",
+      "after": "Hal ini karena tiga alasan. Pertama, karena dengan demikian budi manusia lebih terbebas dari kekeliruan. Jelaslah bahwa gambaran-gambaran itu tidak dikatakan tentang hal-hal ilahi menurut sifatnya yang sebenarnya. Hal itu dapat diragukan seandainya hal-hal ilahi digambarkan di bawah lambang benda-benda yang mulia, terutama oleh mereka yang tidak dapat membayangkan sesuatu yang lebih mulia daripada benda-benda jasmani. Kedua, karena cara ini … Tentang Allah, yang lebih dinyatakan kepada kita adalah apa yang bukan diri-Nya, daripada apa yang menjadi diri-Nya. Karena itu, kemiripan-kemiripan … Ketiga, karena dengan cara demikian …",
+      "latin": "Et hoc propter tria. Primo, quia per hoc magis liberatur humanus animus ab errore. Manifestum enim apparet quod haec secundum proprietatem non dicuntur de divinis, quod posset esse dubium, si sub figuris nobilium corporum describerentur divina; maxime apud illos qui nihil aliud a corporibus nobilius excogitare noverunt. Secundo, quia … Magis enim manifestatur nobis de ipso quid non est, quam quid est, et ideo … Tertio, quia …",
+      "why": "calque 'Dan' | calque 'Sebab' (×2) | split long sentence | unclear referent ('hal-hal itu' next to 'hal-hal ilahi'; haec = the lowly figures; 'benda-benda itu sendiri' = corpora)"
+    },
+
+    {
+      "at": "a10.objections[0][0]",
+      "before": "Sebab kemajemukan makna dalam satu bagian Kitab Suci menimbulkan kebingungan dan penyesatan, serta merusak ketegasan berargumentasi, sehingga dari proposisi-proposisi yang majemuk tidak dapat dihasilkan argumentasi yang sah, melainkan menurut hal ini timbullah sesat-sesat pikir (fallacia) tertentu. Tetapi Kitab Suci harus ampuh …",
+      "after": "Alasannya, kemajemukan makna dalam satu bagian Kitab Suci menimbulkan kebingungan dan penyesatan, serta merusak ketegasan berargumentasi. Itulah sebabnya dari proposisi-proposisi yang bermakna majemuk tidak dapat dihasilkan argumentasi yang sah; justru atas dasar kemajemukan itulah digolongkan sejumlah sesat pikir (fallacia). Namun Kitab Suci harus ampuh …",
+      "latin": "Multiplicitas enim sensuum in una Scriptura parit confusionem et deceptionem, et tollit arguendi firmitatem, unde ex multiplicibus propositionibus non procedit argumentatio, sed secundum hoc aliquae fallaciae assignantur. Sacra autem Scriptura debet esse efficax …",
+      "why": "calque 'Sebab' | calque 'Tetapi' | split long sentence | unclear referent ('menurut hal ini' → 'atas dasar kemajemukan itu'; assignantur = are classified)"
+    },
+    {
+      "at": "a10.respondeo[0]",
+      "before": "Aku menjawab: harus dikatakan bahwa pengarang Kitab Suci adalah Allah, yang berkuasa bukan hanya menyesuaikan kata-kata … melainkan juga hal-hal itu sendiri. Maka karena dalam segala ilmu kata-kata itu menandakan sesuatu, ilmu ini memiliki keistimewaan bahwa hal-hal yang ditandakan oleh kata-kata itu sendiri juga menandakan sesuatu yang lain. … Sedangkan penandaan yang olehnya hal-hal yang ditandakan oleh kata-kata itu kembali menandakan hal-hal lain, disebut makna rohani; yang berdasar pada makna harfiah, dan mengandaikannya. Makna rohani ini sendiri terbagi menjadi tiga. Sebab sebagaimana dikatakan sang Rasul (Ibr 7; bdk. Ibr 10:1), Hukum Lama adalah lambang (figura) Hukum Baru, dan Hukum Baru sendiri, seperti dikatakan Dionisius dalam *De Eccl. Hier.*, adalah lambang kemuliaan yang akan datang; dan dalam Hukum Baru pun, hal-hal yang dikerjakan oleh Sang Kepala adalah tanda hal-hal yang harus kita kerjakan. Maka sejauh hal-hal Hukum Lama menandakan hal-hal Hukum Baru, itulah makna alegoris; sejauh hal-hal yang dikerjakan dalam Kristus, atau yang menandakan Kristus, menjadi tanda hal-hal yang harus kita kerjakan, itulah makna moral; sejauh hal-hal itu menandakan apa yang ada dalam kemuliaan abadi, itulah makna anagogis. Dan karena makna harfiah adalah makna yang dimaksudkan oleh pengarangnya, sedangkan pengarang Kitab Suci adalah Allah, yang dengan intelek-Nya mencakup segala sesuatu sekaligus, tidaklah janggal, sebagaimana dikatakan Agustinus dalam *Confess.* XII, bahwa dalam satu rumusan teks Kitab Suci, bahkan menurut makna harfiahnya sendiri, terdapat beberapa makna.",
+      "after": "Aku menjawab: harus dikatakan bahwa pengarang Kitab Suci adalah Allah. Allah berkuasa bukan hanya menyesuaikan kata-kata … melainkan juga hal-hal itu sendiri. Oleh karena itu, dalam segala ilmu kata-kata menandakan sesuatu, tetapi ilmu suci ini memiliki keistimewaan: hal-hal yang ditandakan oleh kata-kata itu sendiri juga menandakan sesuatu yang lain. … Penandaan ketika hal-hal yang ditandakan oleh kata-kata itu kembali menandakan hal-hal lain disebut makna rohani. Makna rohani berdasar pada makna harfiah dan mengandaikannya. Makna rohani ini sendiri terbagi menjadi tiga. Alasannya, sebagaimana dikatakan sang Rasul (Ibr 7; bdk. Ibr 10:1), Hukum Lama adalah lambang (figura) Hukum Baru. Hukum Baru sendiri, seperti dikatakan Dionisius dalam *De Eccl. Hier.*, adalah lambang kemuliaan yang akan datang. Selain itu, dalam Hukum Baru pun, hal-hal yang dikerjakan oleh Sang Kepala adalah tanda hal-hal yang harus kita kerjakan. Maka sejauh hal-hal Hukum Lama menandakan hal-hal Hukum Baru, itulah makna alegoris. Sejauh hal-hal yang dikerjakan dalam Kristus, atau yang menandakan Kristus, menjadi tanda hal-hal yang harus kita kerjakan, itulah makna moral. Sejauh hal-hal itu menandakan apa yang ada dalam kemuliaan abadi, itulah makna anagogis. Makna harfiah adalah makna yang dimaksudkan oleh pengarangnya, sedangkan pengarang Kitab Suci adalah Allah, yang dengan intelek-Nya mencakup segala sesuatu sekaligus. Karena itu, sebagaimana dikatakan Agustinus dalam *Confess.* XII, tidaklah janggal bila dalam satu rumusan teks Kitab Suci, bahkan menurut makna harfiahnya sendiri, terdapat beberapa makna.",
+      "latin": "Respondeo dicendum quod auctor sacrae Scripturae est Deus, in cuius potestate est ut non solum voces ad significandum accommodet (…), sed etiam res ipsas. Et ideo, cum in omnibus scientiis voces significent, hoc habet proprium ista scientia, quod ipsae res significatae per voces, etiam significant aliquid. … Illa vero significatio qua res significatae per voces, iterum res alias significant, dicitur sensus spiritualis; qui super litteralem fundatur, et eum supponit. Hic autem sensus spiritualis trifariam dividitur. Sicut enim dicit apostolus, ad Hebr. VII, lex vetus figura est novae legis, et ipsa nova lex, ut dicit Dionysius in ecclesiastica hierarchia, est figura futurae gloriae, in nova etiam lege, ea quae in capite sunt gesta, sunt signa eorum quae nos agere debemus. Secundum ergo quod … est sensus allegoricus, secundum vero quod … est sensus moralis, prout vero … est sensus anagogicus. Quia vero sensus litteralis est, quem auctor intendit, auctor autem sacrae Scripturae Deus est, qui omnia simul suo intellectu comprehendit, non est inconveniens, ut dicit Augustinus XII confessionum, si etiam secundum litteralem sensum in una littera Scripturae plures sint sensus.",
+      "why": "calque 'Dan' | calque 'Sebab' | calque 'Sedangkan' | split long sentence | unclear referent ('ilmu ini' → 'ilmu suci ini') | Scripture reference unchanged"
+    },
+    {
+      "at": "a10.replies1[0]",
+      "before": "… sebab segala makna berdasar pada satu makna, yaitu makna harfiah; dan hanya dari makna itulah argumentasi dapat ditarik, … Namun dengan demikian tidak ada sesuatu pun yang hilang dari Kitab Suci, sebab tidak ada yang perlu bagi iman yang tercakup dalam makna rohani, yang tidak diajarkan Kitab Suci di suatu tempat secara jelas melalui makna harfiahnya.",
+      "after": "… sebab segala makna berdasar pada satu makna, yaitu makna harfiah. Hanya dari makna harfiah itulah argumentasi dapat ditarik, … Namun karena itu tidak ada sesuatu pun yang hilang dari Kitab Suci, sebab segala hal yang perlu bagi iman dan tercakup dalam makna rohani, di suatu tempat diajarkan Kitab Suci secara jelas melalui makna harfiahnya.",
+      "latin": "… cum omnes sensus fundentur super unum, scilicet litteralem; ex quo solo potest trahi argumentum, … Non tamen ex hoc aliquid deperit sacrae Scripturae, quia nihil sub spirituali sensu continetur fidei necessarium, quod Scriptura per litteralem sensum alicubi manifeste non tradat.",
+      "why": "split long sentence | double negative with stacked 'yang' clauses (nihil … quod non = segala … ) | 'dengan demikian' → 'karena itu' (ex hoc)"
+    },
+    {
+      "at": "a10.replies2[0]",
+      "before": "Sebab sejarah, sebagaimana dijelaskan Agustinus sendiri, terjadi ketika sesuatu diajukan secara sederhana; sebab-musabab terjadi ketika …(Mat 19:8); sedangkan kesesuaian terjadi ketika … Adapun di antara keempat hal itu, hanya alegori …",
+      "after": "Menurut penjelasan Agustinus sendiri, sejarah terjadi ketika sesuatu diajukan secara sederhana. Sebab-musabab terjadi ketika … (Mat 19:8). Adapun kesesuaian terjadi ketika … Di antara keempat hal itu, hanya alegori …",
+      "latin": "Nam historia est, ut ipse Augustinus exponit, cum simpliciter aliquid proponitur, aetiologia vero, cum causa dicti assignatur, sicut … Matt. XIX, analogia vero est, cum … Sola autem allegoria, inter illa quatuor, …",
+      "why": "calque 'Sebab' (Nam) | split long sentence"
+    },
+    {
+      "at": "a10.replies3[0]",
+      "before": "… dan sesuatu secara figuratif; dan makna harfiah bukanlah lambang itu sendiri, melainkan hal yang dilambangkan. Sebab ketika Kitab Suci menyebut \"lengan Allah\", …",
+      "after": "… dan sesuatu secara figuratif. Makna harfiah bukanlah lambang itu sendiri, melainkan hal yang dilambangkan. Misalnya, ketika Kitab Suci menyebut \"lengan Allah\", …",
+      "latin": "… et aliquid figurative; nec est litteralis sensus ipsa figura, sed id quod est figuratum. Non enim cum Scriptura nominat Dei brachium, …",
+      "why": "calque 'Sebab' | split long sentence"
+    },
+    {
+      "at": "glossary_version",
+      "before": "0.1",
+      "after": "0.2",
+      "latin": "",
+      "why": "glossary 0.2"
+    }
+  ],
+  "needs_translator": [
+    {
+      "at": "a3.respondeo[0]",
+      "problem": "'Kitab Suci mempertimbangkan segala sesuatu sejauh diwahyukan Allah': the Latin has 'aliqua' (things/certain things), not 'omnia'. 'segala sesuatu' overstates the premise; the 'omnia' belongs only to the conclusion ('omnia quaecumque sunt divinitus revelabilia'). I left it unchanged because it is a fidelity point, not a readability one.",
+      "latin": "Quia igitur sacra Scriptura considerat aliqua secundum quod sunt divinitus revelata, secundum quod dictum est, omnia quaecumque sunt divinitus revelabilia, communicant in una ratione formali obiecti huius scientiae."
+    },
+    {
+      "at": "a6.title",
+      "problem": "'sama dengan hikmat' follows the English title ('the same as wisdom'). The Latin (prooemium 'utrum sit sapientia'; a6 obj. 'haec doctrina non sit sapientia') asks simply whether this doctrine *is* wisdom. Suggest 'Apakah ajaran suci ini adalah hikmat?'. I kept it pending the translator's decision.",
+      "latin": "Sexto, utrum sit sapientia."
+    },
+    {
+      "at": "a2.sed_contra[0]",
+      "problem": "'fides saluberrima' (superlative, 'the most wholesome/saving faith') is rendered as a plain 'iman yang menyelamatkan'. This is minor, but the superlative is lost.",
+      "latin": "huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur."
+    }
+  ],
+  "style_lessons": [
+    "Dalam keberatan, 'Tampaknya …' dan kalimat *enim* sesudahnya digabung dengan koma + 'sebab'; premis minor *Sed* → 'Namun'/'Akan tetapi', dan *autem* → 'Adapun' (bukan 'Tetapi', yang terasa kontras padahal Latinnya hanya melanjutkan).",
+    "*Enim* yang membuka kalimat baru → 'Alasannya, …' atau 'Hal itu karena …'; *enim* yang memberi contoh → 'Misalnya, …'.",
+    "*Haec doctrina*/*haec scientia* selalu 'ajaran suci ini'/'ilmu suci ini' pada kemunculan pertama di setiap bagian dan di setiap judul; dalam satu kalimat yang sudah jelas boleh diganti '-nya'.",
+    "*Unde … Unde … igitur* berurutan: variasikan 'Maka', 'Oleh karena itu', 'Jadi', 'Karena itu'.",
+    "Kutipan Kitab Suci yang ditaruh dalam kurung di tengah periode panjang boleh diangkat menjadi kalimat sendiri ('Selain itu, … sesuai dengan yang tertulis, \"…\" (Rm 1:14). Karena itu, …'), asalkan teks kutipan dan rujukannya tidak diubah.",
+    "'di mana' dalam kutipan patristik (bukan Kitab Suci) → 'ketika'/'bila'.",
+    "*In aliquo genere* dalam arti non-teknis ('dalam suatu bidang') → 'bidang', bukan 'jenis' atau 'genus'; 'genus' dipakai hanya untuk istilah logika (a1 ad 2, a3 keb. 1)."
+  ]
+}

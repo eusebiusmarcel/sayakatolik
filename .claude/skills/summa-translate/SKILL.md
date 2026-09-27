@@ -20,6 +20,8 @@ already up to date.
 | `sources/summa/<pars>/qNNN.json` | Latin units and English reference, from `tools/summa/ingest.py` |
 | `docs/summa/glosarium.md` | Terminology: binding. Its version is on line 3. |
 | `docs/summa/pelajaran.md` | Lessons from past reviews: binding |
+| `docs/summa/gaya-bahasa.md` | Indonesian style guide for general readers: binding |
+| `translations/summa/<pars>/qNNN.edits.json` | Language editor's changes, for the delta review |
 | `translations/summa/<pars>/qNNN.json` | Output: the Indonesian translation |
 | `translations/summa/<pars>/qNNN.review.json` | Reviewer findings |
 | `translations/summa/manifest.json` | Status per question |
@@ -45,12 +47,20 @@ parallel, but a question's own steps never do.
 5. **Revise.** If the review has any `major` or `critical` findings, send them to the
    translator agent to fix, then lint again. If a `critical` finding is still open after
    one revision, set the status to `needs-human` and move on.
+5a. **Edit the language.** Spawn a **new** `summa-editor` agent. It makes the
+   Indonesian readable for general readers (`docs/summa/gaya-bahasa.md`), edits the
+   translation in place, and writes `qNNN.edits.json`. It never writes `editorial_notes`. Send any `needs_translator`
+   items to the translator agent.
+5b. **Check the edits.** Spawn a **new** `summa-reviewer` in *delta mode*: it checks
+   only the edits in `qNNN.edits.json` against the Latin, and appends any findings to
+   `qNNN.review.json` with `"stage": "edit"`. It reverts or fixes an edit that changed
+   the meaning. Lint again.
 6. **Record.** Run `python3 tools/summa/record.py <pars> <q> <status> [open_findings]`.
    It does the following:
    - Update the manifest entry:
      `{status: "ai-reviewed" | "needs-human", source_sha256, glossary_version, reviewed_at, open_findings}`.
-   - Append the reviewer's `lessons` to `docs/summa/pelajaran.md`, skipping any lesson
-     already there.
+   - Append the reviewer's `lessons` and the editor's `style_lessons` to
+     `docs/summa/pelajaran.md`, skipping any lesson already there.
    - Append its `glossary_proposals` to `docs/summa/glosarium-usulan.md`.
    - **Never edit `glosarium.md` yourself**: only the owner approves terms.
 

@@ -65,7 +65,12 @@ translation-workbench.
 2. **Reviewer** (Opus, fresh context): compares the Indonesian against the Latin
    paragraph by paragraph. It reports omissions, additions, glossary violations,
    doctrinal drift, and Scripture that wasn't handled correctly.
-3. **Revision**, then **lint**: checks that the structure counts match the Latin and
+3. **Revision**, then a **language edit** by a separate Opus editor (`summa-editor`).
+   It first reads the Indonesian alone, as a general reader would, and then checks each
+   change against the Latin, following `docs/summa/gaya-bahasa.md`. A reviewer in delta
+   mode then checks only the edited sentences. Added 2026-09-27 after the pilot: the
+   owner found the pilot text faithful but full of Latin calques.
+   Then **lint**: checks that the structure counts match the Latin and
    that glossary terms are used consistently.
 4. `translations/summa/manifest.json` records, for each question, its status
    (`draft` → `ai-reviewed` → `spot-checked`), the source hash and the glossary version.

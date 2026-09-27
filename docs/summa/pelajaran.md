@@ -24,3 +24,27 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.1] intellectus diterjemahkan 'intelek' dan ratio 'akal budi', terutama bila menyangkut Allah, karena Allah tidak bernalar secara diskursif. Bila ratio berarti argumen atau penalaran, terjemahkan 'argumen'.
 - [asal: STh I q.1] Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → dapat dipertukarkan.
 - [asal: STh I q.1] Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu.
+- [asal: STh I q.1] Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → diuraikan sesuai glosarium 0.2.
+- [asal: STh I q.1] Saat memecah kalimat 'Et ideo/Unde, cum A, B': penghubung sebab-akibat hanya menguasai B. Jangan menaruh 'Oleh karena itu' di depan A lalu 'tetapi B'; pakai 'Oleh karena itu, meskipun/karena A, B'.
+- [asal: STh I q.1] Saat memecah kalimat, periksa bahwa 'quia', 'ut' konsekutif/final, dan 'enim' tidak hilang begitu saja; bila kalimat baru dimulai, tandai hubungannya ('Hal itu karena …', 'Dengan demikian, …').
+- [asal: STh I q.1] Negasi dengan 'ex hoc' (non tamen ex hoc …) harus menguasai sebabnya: 'hal itu tidak membuat …', bukan 'karena itu tidak …', yang membalik logika.
+- [asal: STh I q.1] Kata kunci yang diulang Thomas untuk menyambung argumen (ordinare → 'mengatur' dalam definisi orang berhikmat) tidak boleh divariasikan penyunting demi gaya.
+- [asal: STh I q.1] Judul artikel diterjemahkan dari rumusan Latin (prooemium dan isi artikel), bukan dari judul Inggris (mis. 'utrum sit sapientia' → 'merupakan hikmat', bukan 'sama dengan hikmat').
+- [asal: STh I q.1] Kata tak tentu Latin (aliqua, quaedam) jangan dijadikan 'segala sesuatu'; kuantor universal sering hanya ada pada kesimpulan.
+- [asal: STh I q.1] Dalam keberatan, 'Tampaknya …' dan kalimat *enim* sesudahnya digabung dengan koma + 'sebab'; premis minor *Sed* → 'Namun'/'Akan tetapi', dan *autem* → 'Adapun' (bukan 'Tetapi', yang terasa kontras padahal Latinnya hanya melanjutkan).
+- [asal: STh I q.1] *Enim* yang membuka kalimat baru → 'Alasannya, …' atau 'Hal itu karena …'; *enim* yang memberi contoh → 'Misalnya, …'.
+- [asal: STh I q.1] *Haec doctrina*/*haec scientia* selalu 'ajaran suci ini'/'ilmu suci ini' pada kemunculan pertama di setiap bagian dan di setiap judul; dalam satu kalimat yang sudah jelas boleh diganti '-nya'.
+- [asal: STh I q.1] *Unde … Unde … igitur* berurutan: variasikan 'Maka', 'Oleh karena itu', 'Jadi', 'Karena itu'.
+- [asal: STh I q.1] Kutipan Kitab Suci yang ditaruh dalam kurung di tengah periode panjang boleh diangkat menjadi kalimat sendiri ('Selain itu, … sesuai dengan yang tertulis, "…" (Rm 1:14). Karena itu, …'), asalkan teks kutipan dan rujukannya tidak diubah.
+- [asal: STh I q.1] 'di mana' dalam kutipan patristik (bukan Kitab Suci) → 'ketika'/'bila'.
+- [asal: STh I q.1] *In aliquo genere* dalam arti non-teknis ('dalam suatu bidang') → 'bidang', bukan 'jenis' atau 'genus'; 'genus' dipakai hanya untuk istilah logika (a1 ad 2, a3 keb. 1).
+- [asal: STh I q.2] Saat memecah atau menyusun ulang kalimat, keterangan yang di Latin diletakkan di depan dan menaungi beberapa anak kalimat (mis. 'secundum idem et eodem modo ... vel ...') harus tetap di depan agar cakupannya tidak menyempit ke satu anak kalimat saja.
+- [asal: STh I q.2] Anak kalimat elips yang masih dikuasai verba utama ('non sequitur quod ... sed ... tantum') tidak boleh dijadikan pernyataan faktual yang berdiri sendiri; pertahankan 'yang menyusul hanyalah ...'.
+- [asal: STh I q.2] 'Quod maxime est' dalam argumen gradasi: bila contoh sejajarnya menyebut sifat ('maxime calido'), 'est' adalah elips untuk sifat yang dibandingkan; jangan diterjemahkan 'paling ada' jika 'maxime ens' baru disimpulkan sesudahnya.
+- [asal: STh I q.2] Deum esse diterjemahkan 'adanya Allah', bukan 'bahwa Allah ada itu', kecuali bila Latin memang anak kalimat (mis. 'dapat dibuktikan bahwa Allah ada').
+- [asal: STh I q.2] Enim/quia di awal kalimat → 'Alasannya, …' atau 'Hal itu karena …'; bila kalimatnya pendek, gabungkan saja dengan kalimat sebelumnya memakai ', sebab …'.
+- [asal: STh I q.2] Dalam silogisme keberatan: premis minor dengan 'Sed' → 'Akan tetapi,'; premis dengan 'autem' → 'Padahal' atau tanpa kata sambung.
+- [asal: STh I q.2] 'nomen Deus' → 'nama "Allah"'; tidak perlu 'nama "Allah" ini'.
+- [asal: STh I q.2] 'sicut patet per philosophum' → 'sebagaimana dijelaskan/dikatakan sang Filsuf', bukan 'tampak jelas melalui'.
+- [asal: STh I q.2] 'maxime ens' → 'paling sungguh ada (maxime ens)'; 'entia' → 'hal-hal yang ada'.
+- [asal: STh I q.2] Istilah logika yang asing (mis. 'term tengah') boleh diberi uraian singkat dalam kurung pada kemunculan pertama.

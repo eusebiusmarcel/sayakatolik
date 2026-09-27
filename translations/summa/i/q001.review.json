@@ -332,6 +332,96 @@
       "current": "berkenaan dengan Allah, yang justru manusia menjadi karya-Nya",
       "suggested": "berkenaan dengan Allah, yang justru menjadikan manusia karya-Nya",
       "why": "The current relative clause is ungrammatical in Indonesian."
+    },
+    {
+      "stage": "edit",
+      "at": "a10.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Et ideo, cum in omnibus scientiis voces significent, hoc habet proprium ista scientia, quod ipsae res significatae per voces, etiam significant aliquid.",
+      "current": "Oleh karena itu, dalam segala ilmu kata-kata menandakan sesuatu, tetapi ilmu suci ini memiliki keistimewaan: …",
+      "suggested": "Oleh karena itu, meskipun dalam segala ilmu kata-kata menandakan sesuatu, ilmu suci ini memiliki keistimewaan: …",
+      "why": "The split made 'Oleh karena itu' govern the cum-clause (as if words signify in every science because God is the author), whereas 'Et ideo' governs only the main clause (this science's property); the concessive 'meskipun' restores the scope (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a10.replies1[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Non tamen ex hoc aliquid deperit sacrae Scripturae",
+      "current": "Namun karena itu tidak ada sesuatu pun yang hilang dari Kitab Suci",
+      "suggested": "Namun hal itu tidak membuat sesuatu pun hilang dari Kitab Suci",
+      "why": "The negation governs 'ex hoc' (nothing is lost on account of this restriction); 'karena itu tidak ada … yang hilang' reads as if the restriction were the cause of nothing being lost (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a6.respondeo[0]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "Sacra autem doctrina propriissime determinat de Deo secundum quod est altissima causa, quia non solum quantum ad illud …",
+      "current": "… sejauh Ia adalah sebab tertinggi. Ajaran suci membahas-Nya bukan hanya menyangkut …",
+      "suggested": "… sejauh Ia adalah sebab tertinggi. Hal itu karena ajaran suci membahas-Nya bukan hanya menyangkut …",
+      "why": "When the sentence was split, 'quia' (the reason why it treats God as the highest cause) was not rendered, so the second sentence reads as a mere restatement (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a6.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "prudens sapiens dicitur, inquantum ordinat humanos actus ad debitum finem",
+      "current": "sejauh ia mengarahkan tindakan-tindakan manusiawi kepada tujuan yang semestinya",
+      "suggested": "sejauh ia mengatur tindakan-tindakan manusiawi kepada tujuan yang semestinya",
+      "why": "The editor changed 'mengatur' to 'mengarahkan' without a stated reason; the argument depends on 'ordinat' echoing 'sapientis est ordinare' (= 'mengatur') two sentences earlier, which is why the prudent man is called wise (reverted in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a9.replies2[0]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "sed remanet in sua veritate; ut mentes quibus fit revelatio, non permittat in similitudinibus permanere, sed elevet eas",
+      "current": "… tetap tinggal dalam kebenarannya sendiri. Sinar itu tidak membiarkan budi …",
+      "suggested": "… tetap tinggal dalam kebenarannya sendiri. Dengan demikian, sinar itu tidak membiarkan budi …",
+      "why": "The split dropped the consecutive 'ut': the ray remains in its truth so that it does not let minds rest in the images, and that link carries the reply (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "prooemium[0]",
+      "severity": "minor",
+      "type": "addition",
+      "latin": "Decimo, utrum Scriptura sacra huius doctrinae sit secundum plures sensus exponenda.",
+      "current": "apakah Kitab Suci, yang menjadi dasar ajaran suci ini, harus diuraikan menurut beberapa makna",
+      "suggested": "apakah Kitab Suci dalam ajaran suci ini harus diuraikan menurut beberapa makna",
+      "why": "'Huius doctrinae' is a plain genitive (the Scripture of this doctrine); 'yang menjadi dasar' adds a relation that the Latin does not state (a2 ad 2 comes close to identifying the two: 'Scriptura seu doctrina') (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a3.respondeo[0]",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Quia igitur sacra Scriptura considerat aliqua secundum quod sunt divinitus revelata",
+      "current": "Karena Kitab Suci mempertimbangkan segala sesuatu sejauh diwahyukan Allah",
+      "suggested": "Karena Kitab Suci mempertimbangkan hal-hal tertentu sejauh hal-hal itu diwahyukan Allah",
+      "why": "Editor's needs_translator item, confirmed: 'aliqua' is not 'omnia'; the universal belongs only to the conclusion ('omnia quaecumque sunt divinitus revelabilia'), and putting it in the premise begs the question (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a6.title",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Sexto, utrum sit sapientia.",
+      "current": "Apakah ajaran suci ini sama dengan hikmat?",
+      "suggested": "Apakah ajaran suci merupakan hikmat?",
+      "why": "Editor's needs_translator item, confirmed: 'the same as wisdom' comes from the English title, while the Latin asks whether it is wisdom (as the prooemium, obj. 1–3 and respondeo 'maxime sapientia est' do); the form also matches the a2 title (fixed in text)."
+    },
+    {
+      "stage": "edit",
+      "at": "a2.sed_contra[0]",
+      "severity": "minor",
+      "type": "omission",
+      "latin": "quo fides saluberrima gignitur",
+      "current": "iman yang menyelamatkan",
+      "suggested": "iman yang amat menyelamatkan",
+      "why": "Editor's needs_translator item, confirmed: the superlative (elative) 'saluberrima' was lost; 'amat' keeps it without a clumsy 'paling' before a verb (fixed in text)."
     }
   ],
   "lessons": [
@@ -341,8 +431,14 @@
     "Periksa setiap kutipan terhadap TB untuk memastikan tidak ada frasa TB yang tersalin kata demi kata (di q.1: 2Tim 3:16, 2Kor 10:5, 2Tes 3:2). Terjemahkan dari Latin Thomas.",
     "Perhatikan vokatif dalam kutipan (misalnya 'Deus' dalam Yes 64:4 Vulg.). Kata itu tidak boleh berubah menjadi objek kalimat.",
     "intellectus diterjemahkan 'intelek' dan ratio 'akal budi', terutama bila menyangkut Allah, karena Allah tidak bernalar secara diskursif. Bila ratio berarti argumen atau penalaran, terjemahkan 'argumen'.",
-    "Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → dapat dipertukarkan.",
-    "Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu."
+    "Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → diuraikan sesuai glosarium 0.2.",
+    "Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu.",
+    "Saat memecah kalimat 'Et ideo/Unde, cum A, B': penghubung sebab-akibat hanya menguasai B. Jangan menaruh 'Oleh karena itu' di depan A lalu 'tetapi B'; pakai 'Oleh karena itu, meskipun/karena A, B'.",
+    "Saat memecah kalimat, periksa bahwa 'quia', 'ut' konsekutif/final, dan 'enim' tidak hilang begitu saja; bila kalimat baru dimulai, tandai hubungannya ('Hal itu karena …', 'Dengan demikian, …').",
+    "Negasi dengan 'ex hoc' (non tamen ex hoc …) harus menguasai sebabnya: 'hal itu tidak membuat …', bukan 'karena itu tidak …', yang membalik logika.",
+    "Kata kunci yang diulang Thomas untuk menyambung argumen (ordinare → 'mengatur' dalam definisi orang berhikmat) tidak boleh divariasikan penyunting demi gaya.",
+    "Judul artikel diterjemahkan dari rumusan Latin (prooemium dan isi artikel), bukan dari judul Inggris (mis. 'utrum sit sapientia' → 'merupakan hikmat', bukan 'sama dengan hikmat').",
+    "Kata tak tentu Latin (aliqua, quaedam) jangan dijadikan 'segala sesuatu'; kuantor universal sering hanya ada pada kesimpulan."
   ],
   "glossary_proposals": [
     {
@@ -380,7 +476,13 @@
       "indonesia": "otoritas",
       "alasan": "Dipakai untuk locus ab auctoritate dan auctoritates Scripturae/philosophorum.",
       "rujukan": "—"
+    },
+    {
+      "latin": "ordinare (sapientis est ordinare)",
+      "indonesia": "mengatur",
+      "alasan": "Dalam definisi hikmat (I q.1 a.6) kata ini menyambung objection, respondeo dan ad 1; variasi seperti 'mengarahkan' memutus argumen. Di luar konteks hikmat, 'ordinare ad finem' boleh 'mengarahkan kepada tujuan'.",
+      "rujukan": "STh I q.1 a.6"
     }
   ],
-  "verdict": "revise"
+  "verdict": "pass"
 }

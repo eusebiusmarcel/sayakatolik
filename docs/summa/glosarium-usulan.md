@@ -18,3 +18,4 @@ Diisi otomatis dari review. Pemilik situs memindahkan istilah yang disetujui ke
 | sensus litteralis/historicus, allegoricus, moralis/tropologicus, anagogicus, spiritualis | makna harfiah/historis, alegoris, moral/tropologis, anagogis, rohani | Istilah baku eksegesis Katolik. | KGK 115–119 `cek` | STh I q.1 |
 | probabilis / demonstratio / fallacia | probabel / demonstrasi / sesat pikir | Istilah logika skolastik yang menentukan tingkat kepastian sebuah argumen; 'mungkin' dan 'kekeliruan' mengaburkannya. | — | STh I q.1 |
 | auctoritas | otoritas | Dipakai untuk locus ab auctoritate dan auctoritates Scripturae/philosophorum. | — | STh I q.1 |
+| ordinare (sapientis est ordinare) | mengatur | Dalam definisi hikmat (I q.1 a.6) kata ini menyambung objection, respondeo dan ad 1; variasi seperti 'mengarahkan' memutus argumen. Di luar konteks hikmat, 'ordinare ad finem' boleh 'mengarahkan kepada tujuan'. | STh I q.1 a.6 | STh I q.1 |

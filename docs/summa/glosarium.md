@@ -1,6 +1,8 @@
 # Glosarium Summa Theologiae (Latin → Indonesia)
 
-**Versi:** 0.1 (usulan — belum disetujui)
+**Versi:** 0.2 (sebagian besar masih usulan)
+
+**Riwayat:** 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
 **Aturan:** penerjemah WAJIB memakai padanan berstatus `disetujui`. Istilah berstatus
 `usulan` boleh dipakai dalam pilot, tetapi setiap perubahannya menaikkan versi glosarium
 dan menandai ulang pertanyaan yang terdampak (lihat ADR 0001 §3). Hanya pemilik situs
@@ -53,8 +55,8 @@ Rumus ini dipakai persis sama di setiap artikel.
 
 | Latin | English | Indonesia | Catatan | Status |
 |---|---|---|---|---|
-| ens | being | pengada | "yang ada"; bedakan dari *esse* | usulan |
-| esse | being / existence | ada (berada) | *ipsum esse subsistens* → "Ada itu sendiri yang bersubsistensi" | usulan |
+| ens | being | sesuatu yang ada (jamak: hal-hal yang ada) | Pada kemunculan pertama di satu halaman: "sesuatu yang ada (*ens*)". *Non ens* → "yang tidak ada". Jangan pakai "pengada". | **disetujui** |
+| esse | being / existence | ada (keberadaan) | *Deum esse* → "adanya Allah"; *ipsum esse subsistens* → "Ada itu sendiri yang berdiri sendiri (*ipsum esse subsistens*)" | usulan |
 | actus / potentia | act / potentiality | aktus / potensi | | usulan |
 | substantia / accidens | substance / accident | substansi / aksiden | | usulan |
 | forma / materia | form / matter | forma / materi | "bentuk" terlalu kabur untuk *forma* substansial | usulan |
@@ -63,6 +65,7 @@ Rumus ini dipakai persis sama di setiap artikel.
 | genus / species / differentia | genus / species / difference | genus / spesies / diferensia | | usulan |
 | causa efficiens / finalis / formalis / materialis | efficient / final / formal / material cause | sebab efisien / final / formal / material | | usulan |
 | motus | movement / motion | gerak | *primum movens* → "penggerak pertama" | usulan |
+| X convertitur cum Y | X is convertible with Y | uraikan maknanya: "setiap X adalah Y, dan setiap Y adalah X" (mis. *verum convertitur cum ente* → "setiap hal yang ada itu benar, dan setiap hal yang benar itu ada") | Jangan pakai "konvertibel" atau "dapat dipertukarkan". | **disetujui** |
 | per se / per accidens | per se / accidentally | pada dirinya (per se) / secara aksidental | | usulan |
 | intellectus | intellect | intelek (akal budi) | bedakan dari karunia *intellectus* (§D) | usulan |
 | ratio | reason / notion | akal (budi); "pengertian/konsep" bila berarti *notio* | makna tergantung konteks — reviewer memeriksa | usulan |
@@ -98,7 +101,9 @@ Rumus ini dipakai persis sama di setiap artikel.
 | sacra doctrina | sacred doctrine | ajaran suci | | usulan |
 | Ecclesia | Church | Gereja | | usulan |
 
-## E. Keputusan gaya yang masih terbuka
+## E. Keputusan gaya
+
+Aturan gaya bahasa yang umum ada di `docs/summa/gaya-bahasa.md`. Bagian ini hanya memuat keputusan yang terkait istilah.
 
 1. **"Aku", bukan "saya"**, untuk suara Thomas (*Respondeo dicendum* → "Aku menjawab").
    **Diputuskan** pemilik situs, 2026-09-27.

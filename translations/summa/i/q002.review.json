@@ -242,6 +242,36 @@
       "current": "sehingga dapat mendatangkan kebaikan bahkan dari kejahatan sekalipun",
       "suggested": "sehingga Ia mendatangkan kebaikan bahkan dari kejahatan sekalipun",
       "why": "The Latin says God does bring good out of evil, not merely that He can; the modal 'dapat' is added."
+    },
+    {
+      "stage": "edit",
+      "at": "a3.respondeo[0] (jalan 1)",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "Impossibile est ergo quod, secundum idem et eodem modo, aliquid sit movens et motum, vel quod moveat seipsum.",
+      "current": "Maka, tidak mungkin sesuatu menjadi penggerak sekaligus yang digerakkan menurut segi yang sama dan dengan cara yang sama, atau menggerakkan dirinya sendiri.",
+      "suggested": "Maka, menurut segi yang sama dan dengan cara yang sama, tidak mungkin sesuatu menjadi penggerak sekaligus yang digerakkan, atau menggerakkan dirinya sendiri.",
+      "why": "The edit moved the qualifier after the first disjunct, so 'atau menggerakkan dirinya sendiri' reads as absolutely impossible, while in the Latin 'secundum idem et eodem modo' governs both disjuncts (a thing can move itself in different respects, one part moving another). FIXED in the translation."
+    },
+    {
+      "stage": "edit",
+      "at": "a1.replies[2] (ad 2)",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "non tamen propter hoc sequitur quod intelligat id quod significatur per nomen, esse in rerum natura; sed in apprehensione intellectus tantum.",
+      "current": "Orang itu hanya memahami bahwa hal itu ada dalam tangkapan intelek.",
+      "suggested": "Yang menyusul hanyalah bahwa orang itu memahami hal itu ada dalam tangkapan intelek.",
+      "why": "Splitting the sentence turned the elliptical 'sed ... tantum' (still governed by 'sequitur') into a plain factual claim about the hearer; the fix keeps the split but restores 'what follows is only'. FIXED in the translation."
+    },
+    {
+      "stage": "edit",
+      "at": "a3.respondeo[0] (jalan 4), needs_translator",
+      "severity": "major",
+      "type": "mistranslation",
+      "latin": "secundum quod appropinquant diversimode ad aliquid quod maxime est, sicut magis calidum est, quod magis appropinquat maxime calido",
+      "current": "mendekati sesuatu yang secara maksimal ada (yang paling ada).",
+      "suggested": "mendekati sesuatu yang memiliki sifat yang bersangkutan pada tingkat tertinggi (quod maxime est).",
+      "why": "The editor is right: the parallel 'maxime calido' shows that 'est' is elliptical for the quality being compared, and 'maxime ens' is derived only afterwards ('et per consequens maxime ens ... quae sunt maxime vera sunt maxime entia'), so reading 'paling ada' here assumes the conclusion. This supersedes the earlier review suggestion. FIXED in the translation, with a translator note."
     }
   ],
   "lessons": [
@@ -255,7 +285,10 @@
     "[asal: STh I q.2] Keterangan dalam kurung untuk sang Filsuf, sang Rasul, dan Yohanes dari Damsyik hanya diberi pada kemunculan pertama dalam SATU PERTANYAAN (satu halaman), bukan per artikel.",
     "[asal: STh I q.2] Kutipan yang argumennya bergantung pada kata-kata Vulgata (mis. Kel 3:14 'ego sum qui sum', yang berbeda dari TB 'AKU ADALAH AKU') wajib diberi tanda '(Vulg.)'.",
     "[asal: STh I q.2] Jangan menambah modal 'dapat' pada kutipan Kitab Suci atau kalimat Thomas yang berbentuk indikatif (conspiciuntur, bene faceret); waspadai rumusan TB yang ikut terbawa.",
-    "[asal: STh I q.2] Hindari 'bahwa bahwa' setelah rumus 'Harus dikatakan bahwa'; nominalkan dengan 'adanya ...' (Deum esse → 'adanya Allah')."
+    "[asal: STh I q.2] Hindari 'bahwa bahwa' setelah rumus 'Harus dikatakan bahwa'; nominalkan dengan 'adanya ...' (Deum esse → 'adanya Allah').",
+    "[asal: STh I q.2, tahap edit] Saat memecah atau menyusun ulang kalimat, keterangan yang di Latin diletakkan di depan dan menaungi beberapa anak kalimat (mis. 'secundum idem et eodem modo ... vel ...') harus tetap di depan agar cakupannya tidak menyempit ke satu anak kalimat saja.",
+    "[asal: STh I q.2, tahap edit] Anak kalimat elips yang masih dikuasai verba utama ('non sequitur quod ... sed ... tantum') tidak boleh dijadikan pernyataan faktual yang berdiri sendiri; pertahankan 'yang menyusul hanyalah ...'.",
+    "[asal: STh I q.2, tahap edit] 'Quod maxime est' dalam argumen gradasi: bila contoh sejajarnya menyebut sifat ('maxime calido'), 'est' adalah elips untuk sifat yang dibandingkan; jangan diterjemahkan 'paling ada' jika 'maxime ens' baru disimpulkan sesudahnya."
   ],
   "glossary_proposals": [
     {
