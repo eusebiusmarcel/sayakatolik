@@ -1,0 +1,33 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[1].objections[2][0]",
+      "ref": "Mat 26:24",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=26&a1=24&a2=24",
+      "text": "[24] Anak Manusia memang akan pergi sesuai dengan yang ada tertulis tentang Dia, akan tetapi celakalah orang yang olehnya Anak Manusia itu diserahkan. Adalah lebih baik bagi orang itu sekiranya ia tidak dilahirkan.\""
+    },
+    {
+      "at": "articles[2].objections[1][0]",
+      "ref": "Yes 5:20",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=5&a1=20&a2=20",
+      "text": "[20] Celakalah mereka yang menyebutkan kejahatan itu baik dan kebaikan itu jahat, yang mengubah kegelapan menjadi terang dan terang menjadi kegelapan, yang mengubah pahit menjadi manis, dan manis menjadi pahit."
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "1Tim 4:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1tim&b=4&a1=4&a2=4",
+      "text": "[4] Karena semua yang diciptakan Allah itu baik dan suatupun tidak ada yang haram, jika diterima dengan ucapan syukur,"
+    },
+    {
+      "at": "articles[4].objections[0][0]",
+      "ref": "Keb 11:21",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=11&a1=21&a2=21",
+      "text": "[21] Memang bertindak yang sesuai dengan besarnya kekuasaan-Mu senantiasa ada dalam kemampuan-Mu, dan siapa gerangan dapat bertahan terhadap kekuatan lengan-Mu?"
+    }
+  ]
+}

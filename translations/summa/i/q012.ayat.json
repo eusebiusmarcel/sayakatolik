@@ -1,0 +1,194 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].objections[0][0]",
+      "ref": "Yoh 1:18",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=1&a1=18&a2=18",
+      "text": "[18] Tidak seorangpun yang pernah melihat Allah; tetapi Anak Tunggal Allah, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya."
+    },
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "1Yoh 2:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1yoh&b=2&a1=2&a2=2",
+      "text": "[2] Dan Ia adalah pendamaian untuk segala dosa kita, dan bukan untuk dosa kita saja, tetapi juga untuk dosa seluruh dunia."
+    },
+    {
+      "at": "articles[1].objections[0][0]",
+      "ref": "1Yoh 3:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1yoh&b=3&a1=2&a2=2",
+      "text": "[2] Saudara-saudaraku yang kekasih, sekarang kita adalah anak-anak Allah, tetapi belum nyata apa keadaan kita kelak; akan tetapi kita tahu, bahwa apabila Kristus menyatakan diri-Nya, kita akan menjadi sama seperti Dia, sebab kita akan melihat Dia dalam keadaan-Nya yang sebenarnya."
+    },
+    {
+      "at": "articles[1].respondeo[2]",
+      "ref": "Mzm 35:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=35&a1=10&a2=10",
+      "text": "[10] segala tulangku berkata: \"Ya, TUHAN, siapakah yang seperti Engkau, yang melepaskan orang sengsara dari tangan orang yang lebih kuat dari padanya, orang sengsara dan miskin dari tangan orang yang merampasi dia?\""
+    },
+    {
+      "at": "articles[2].objections[0][0]",
+      "ref": "Ayb 19:26",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=19&a1=26&a2=26",
+      "text": "[26] Juga sesudah kulit tubuhku sangat rusak, tanpa dagingkupun aku akan melihat Allah,"
+    },
+    {
+      "at": "articles[2].objections[0][0]",
+      "ref": "Ayb 42:5",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=42&a1=5&a2=5",
+      "text": "[5] Hanya dari kata orang saja aku mendengar tentang Engkau, tetapi sekarang mataku sendiri memandang Engkau."
+    },
+    {
+      "at": "articles[2].objections[2][0]",
+      "ref": "Yes 6:1",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=6&a1=1&a2=1",
+      "text": "[1] Dalam tahun matinya raja Uzia aku melihat Tuhan duduk di atas takhta yang tinggi dan menjulang, dan ujung jubah-Nya memenuhi Bait Suci."
+    },
+    {
+      "at": "articles[2].replies[0].paras[0]",
+      "ref": "Ef 1:17–18",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ef&b=1&a1=17&a2=18",
+      "text": "[17] dan meminta kepada Allah Tuhan kita Yesus Kristus, yaitu Bapa yang mulia itu, supaya Ia memberikan kepadamu Roh hikmat dan wahyu untuk mengenal Dia dengan benar. [18] Dan supaya Ia menjadikan mata hatimu terang, agar kamu mengerti pengharapan apakah yang terkandung dalam panggilan-Nya: betapa kayanya kemuliaan bagian yang ditentukan-Nya bagi orang-orang kudus,"
+    },
+    {
+      "at": "articles[3].sed_contra[0]",
+      "ref": "Rm 6:23",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=6&a1=23&a2=23",
+      "text": "[23] Sebab upah dosa ialah maut; tetapi karunia Allah ialah hidup yang kekal dalam Kristus Yesus, Tuhan kita."
+    },
+    {
+      "at": "articles[3].sed_contra[0]",
+      "ref": "Yoh 17:3",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=17&a1=3&a2=3",
+      "text": "[3] Inilah hidup yang kekal itu, yaitu bahwa mereka mengenal Engkau, satu-satunya Allah yang benar, dan mengenal Yesus Kristus yang telah Engkau utus."
+    },
+    {
+      "at": "articles[4].sed_contra[0]",
+      "ref": "Mzm 35:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=35&a1=10&a2=10",
+      "text": "[10] segala tulangku berkata: \"Ya, TUHAN, siapakah yang seperti Engkau, yang melepaskan orang sengsara dari tangan orang yang lebih kuat dari padanya, orang sengsara dan miskin dari tangan orang yang merampasi dia?\""
+    },
+    {
+      "at": "articles[4].respondeo[0]",
+      "ref": "Why 21:23",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=why&b=21&a1=23&a2=23",
+      "text": "[23] Dan kota itu tidak memerlukan matahari dan bulan untuk menyinarinya, sebab kemuliaan Allah meneranginya dan Anak Domba itu adalah lampunya."
+    },
+    {
+      "at": "articles[4].respondeo[0]",
+      "ref": "1Yoh 2:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1yoh&b=2&a1=2&a2=2",
+      "text": "[2] Dan Ia adalah pendamaian untuk segala dosa kita, dan bukan untuk dosa kita saja, tetapi juga untuk dosa seluruh dunia."
+    },
+    {
+      "at": "articles[5].objections[0][0]",
+      "ref": "1Yoh 3:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1yoh&b=3&a1=2&a2=2",
+      "text": "[2] Saudara-saudaraku yang kekasih, sekarang kita adalah anak-anak Allah, tetapi belum nyata apa keadaan kita kelak; akan tetapi kita tahu, bahwa apabila Kristus menyatakan diri-Nya, kita akan menjadi sama seperti Dia, sebab kita akan melihat Dia dalam keadaan-Nya yang sebenarnya."
+    },
+    {
+      "at": "articles[5].sed_contra[0]",
+      "ref": "1Kor 15:41",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=15&a1=41&a2=41",
+      "text": "[41] Kemuliaan matahari lain dari pada kemuliaan bulan, dan kemuliaan bulan lain dari pada kemuliaan bintang-bintang, dan kemuliaan bintang yang satu berbeda dengan kemuliaan bintang yang lain."
+    },
+    {
+      "at": "articles[6].objections[0][0]",
+      "ref": "Flp 3:12",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=flp&b=3&a1=12&a2=12",
+      "text": "[12] Bukan seolah-olah aku telah memperoleh hal ini atau telah sempurna, melainkan aku mengejarnya, kalau-kalau aku dapat juga menangkapnya, karena akupun telah ditangkap oleh Kristus Yesus."
+    },
+    {
+      "at": "articles[6].objections[0][0]",
+      "ref": "1Kor 9:26",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=9&a1=26&a2=26",
+      "text": "[26] Sebab itu aku tidak berlari tanpa tujuan dan aku bukan petinju yang sembarangan saja memukul."
+    },
+    {
+      "at": "articles[6].sed_contra[0]",
+      "ref": "Yer 32:18–19",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yer&b=32&a1=18&a2=19",
+      "text": "[18] Engkaulah yang menunjukkan kasih setia-Mu kepada beribu-ribu orang dan yang membalaskan kesalahan bapa kepada anak-anaknya yang datang kemudian. Ya Allah yang besar dan perkasa, nama-Mu adalah TUHAN semesta alam, [19] besar dalam rancangan-Mu dan agung dalam perbuatan-Mu; mata-Mu terbuka terhadap segala tingkah langkah anak-anak manusia dengan mengganjar setiap orang sesuai dengan tingkah langkahnya dan sesuai dengan buah perbuatannya;"
+    },
+    {
+      "at": "articles[6].replies[0].paras[0]",
+      "ref": "Kid 3:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kid&b=3&a1=4&a2=4",
+      "text": "[4] Baru saja aku meninggalkan mereka, kutemui jantung hatiku; kupegang dan tak kulepaskan dia, sampai kubawa dia ke rumah ibuku, ke kamar orang yang melahirkan aku."
+    },
+    {
+      "at": "articles[8].objections[1][0]",
+      "ref": "2Kor 12:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=2kor&b=12&a1=4&a2=4",
+      "text": "[4] ia tiba-tiba diangkat ke Firdaus dan ia mendengar kata-kata yang tak terkatakan, yang tidak boleh diucapkan manusia."
+    },
+    {
+      "at": "articles[10].objections[0][0]",
+      "ref": "Kej 32:30",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kej&b=32&a1=30&a2=30",
+      "text": "[30] Yakub menamai tempat itu Pniel, sebab katanya: \"Aku telah melihat Allah berhadapan muka, tetapi nyawaku tertolong!\""
+    },
+    {
+      "at": "articles[10].objections[0][0]",
+      "ref": "1Kor 13:12",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=13&a1=12&a2=12",
+      "text": "[12] Karena sekarang kita melihat dalam cermin suatu gambaran yang samar-samar, tetapi nanti kita akan melihat muka dengan muka. Sekarang aku hanya mengenal dengan tidak sempurna, tetapi nanti aku akan mengenal dengan sempurna, seperti aku sendiri dikenal."
+    },
+    {
+      "at": "articles[10].objections[1][0]",
+      "ref": "Bil 12:8",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=bil&b=12&a1=8&a2=8",
+      "text": "[8] Berhadap-hadapan Aku berbicara dengan dia, terus terang, bukan dengan teka-teki, dan ia memandang rupa TUHAN. Mengapakah kamu tidak takut mengatai hamba-Ku Musa?\""
+    },
+    {
+      "at": "articles[10].sed_contra[0]",
+      "ref": "Kel 32:20",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kel&b=32&a1=20&a2=20",
+      "text": "[20] Sesudah itu diambilnyalah anak lembu yang dibuat mereka itu, dibakarnya dengan api dan digilingnya sampai halus, kemudian ditaburkannya ke atas air dan disuruhnya diminum oleh orang Israel."
+    },
+    {
+      "at": "articles[11].sed_contra[0]",
+      "ref": "Rm 1:19",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rm&b=1&a1=19&a2=19",
+      "text": "[19] Karena apa yang dapat mereka ketahui tentang Allah nyata bagi mereka, sebab Allah telah menyatakannya kepada mereka."
+    },
+    {
+      "at": "articles[12].sed_contra[0]",
+      "ref": "1Kor 2:10",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=2&a1=10&a2=10",
+      "text": "[10] Karena kepada kita Allah telah menyatakannya oleh Roh, sebab Roh menyelidiki segala sesuatu, bahkan hal-hal yang tersembunyi dalam diri Allah."
+    },
+    {
+      "at": "articles[12].respondeo[1]",
+      "ref": "Mat 3:17",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=3&a1=17&a2=17",
+      "text": "[17] lalu terdengarlah suara dari sorga yang mengatakan: \"Inilah Anak-Ku yang Kukasihi, kepada-Nyalah Aku berkenan.\""
+    }
+  ]
+}

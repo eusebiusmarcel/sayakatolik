@@ -1,0 +1,324 @@
+{
+  "pars": "I",
+  "q": 5,
+  "source_sha256": "3950ecc111d2dad66818d43d95967b9ef0b9ec694e998d07bd577d23ab591cc7",
+  "glossary_version": "0.4",
+  "title": "Kebaikan pada umumnya",
+  "prooemium": [
+    "Selanjutnya kita membahas kebaikan: pertama, kebaikan pada umumnya; kedua, kebaikan Allah.",
+    "Mengenai yang pertama, ada enam hal yang diselidiki:",
+    "(1) apakah yang baik dan yang ada itu sama dalam kenyataan;",
+    "(2) jika keduanya hanya berbeda dalam pengertian, manakah yang lebih dahulu dalam pengertian;",
+    "(3) jika yang ada lebih dahulu, apakah setiap hal yang ada itu baik;",
+    "(4) kepada sebab manakah kebaikan harus dikembalikan;",
+    "(5) apakah kebaikan terletak pada modus (takaran yang semestinya), spesies, dan tatanan;",
+    "(6) apakah kebaikan dibagi menjadi yang luhur, yang berguna, dan yang menyenangkan."
+  ],
+  "articles": [
+    {
+      "a": 1,
+      "title": "Apakah yang baik berbeda secara nyata dari yang ada?",
+      "objections": [
+        [
+          "Tampaknya yang baik berbeda secara nyata dari yang ada, sebab Boethius berkata (De Hebdom.): \"Aku melihat bahwa dalam alam, kenyataan bahwa segala sesuatu itu baik adalah satu hal, dan kenyataan bahwa segala sesuatu itu ada adalah hal lain.\" Jadi, yang baik dan yang ada berbeda secara nyata."
+        ],
+        [
+          "Selanjutnya, tidak ada sesuatu pun yang dapat menjadi forma bagi dirinya sendiri. Akan tetapi, menurut komentar atas De Causis, \"yang disebut baik ialah apa yang memiliki forma keberadaan.\" Jadi, yang baik berbeda secara nyata dari yang ada."
+        ],
+        [
+          "Selanjutnya, yang baik dapat lebih atau kurang. Akan tetapi, yang ada tidak dapat lebih atau kurang. Jadi, yang baik berbeda secara nyata dari yang ada."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, Agustinus berkata (De Doctr. Christ. i, 42) bahwa \"sejauh kita ada, kita baik.\""
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa yang baik dan yang ada sama dalam kenyataan dan hanya berbeda dalam pengertian. Hal ini jelas dari argumen berikut. Hakikat kebaikan terletak pada kenyataan bahwa sesuatu dalam arti tertentu dapat diinginkan. Oleh karena itu, sang Filsuf (Aristoteles) berkata (Ethic. i): \"Yang baik ialah apa yang diinginkan oleh semua.\" Adapun jelas bahwa sesuatu dapat diinginkan hanya sejauh ia sempurna, sebab semua menginginkan kesempurnaannya sendiri. Akan tetapi, segala sesuatu sempurna sejauh ia aktual. Jadi, jelaslah bahwa sesuatu sempurna sejauh ia ada, sebab keberadaanlah yang membuat segala sesuatu aktual, sebagaimana jelas dari uraian sebelumnya (q. 3, a. 4; q. 4, a. 1). Maka, jelaslah bahwa yang baik dan yang ada sama dalam kenyataan. Namun, yang baik mengandung pengertian \"dapat diinginkan\", sedangkan yang ada tidak mengandungnya."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Meskipun yang baik dan yang ada sama dalam kenyataan, keduanya tidak dikatakan tentang sesuatu secara mutlak dengan cara yang sama, karena keduanya berbeda dalam pengertian. Yang ada, dalam arti sebenarnya, menandakan bahwa sesuatu sungguh ada secara aktual, dan aktualitas dalam arti sebenarnya berhubungan dengan potensi. Oleh karena itu, sesuatu dikatakan memiliki keberadaan secara mutlak sejauh ia pertama-tama dibedakan dari apa yang hanya berada dalam potensi; dan inilah tepatnya keberadaan substansial setiap hal. Maka, karena keberadaan substansialnya, segala sesuatu dikatakan memiliki keberadaan secara mutlak; tetapi karena aktualitas tambahan apa pun, ia dikatakan memiliki keberadaan secara relatif. Misalnya, menjadi putih mengandung keberadaan yang relatif, sebab menjadi putih tidak mengeluarkan sesuatu dari keberadaan yang semata-mata potensial; hanya sesuatu yang sudah sungguh ada secara aktual dapat menerima cara berada ini. Adapun yang baik menandakan kesempurnaan yang dapat diinginkan, dan karena itu menandakan kesempurnaan terakhir. Oleh karena itu, apa yang memiliki kesempurnaan terakhir disebut baik secara mutlak. Sebaliknya, apa yang tidak memiliki kesempurnaan terakhir yang semestinya dimilikinya (walaupun, sejauh ia aktual, ia memiliki suatu kesempurnaan) tidak disebut sempurna secara mutlak ataupun baik secara mutlak, tetapi hanya secara relatif. Jadi, dilihat dari keberadaannya yang pertama (yaitu keberadaan substansial), sesuatu dikatakan ada secara mutlak dan baik secara relatif (yaitu sejauh ia memiliki keberadaan); tetapi dilihat dari aktualitasnya yang lengkap, sesuatu dikatakan ada secara relatif dan baik secara mutlak. Maka, perkataan Boethius (De Hebdom.), \"Aku melihat bahwa dalam alam, kenyataan bahwa segala sesuatu itu baik adalah satu hal, dan kenyataan bahwa segala sesuatu itu ada adalah hal lain,\" harus dipahami sebagai mengenai baik secara mutlak dan ada secara mutlak. Hal itu karena, dilihat dari aktualitasnya yang pertama, sesuatu ada secara mutlak, dan dilihat dari aktualitasnya yang lengkap, ia baik secara mutlak, sedemikian rupa sehingga bahkan dalam aktualitasnya yang pertama pun ia dalam arti tertentu baik, dan bahkan dalam aktualitasnya yang lengkap pun ia dalam arti tertentu memiliki keberadaan."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Yang baik adalah suatu forma sejauh kebaikan mutlak menandakan aktualitas yang lengkap."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Demikian pula, yang baik dikatakan lebih atau kurang menurut aktualitas yang ditambahkan pada sesuatu, misalnya dalam hal pengetahuan atau kebajikan."
+          ]
+        }
+      ]
+    },
+    {
+      "a": 2,
+      "title": "Apakah yang baik lebih dahulu dalam pengertian daripada yang ada?",
+      "objections": [
+        [
+          "Tampaknya yang baik lebih dahulu dalam pengertian daripada yang ada, sebab urutan nama-nama mengikuti urutan hal-hal yang ditandakan oleh nama-nama itu. Akan tetapi, di antara nama-nama Allah yang lain, Dionisius (Areopagita) (Div. Nom. iii) menempatkan kebaikan-Nya di tempat pertama, bukan keberadaan-Nya. Jadi, dalam pengertian, yang baik lebih dahulu daripada yang ada."
+        ],
+        [
+          "Selanjutnya, apa yang lebih luas cakupannya lebih dahulu dalam pengertian. Akan tetapi, yang baik lebih luas cakupannya daripada yang ada, sebab, seperti dicatat Dionisius (Div. Nom. v), \"kebaikan menjangkau hal-hal yang ada maupun yang tidak ada, sedangkan keberadaan hanya menjangkau hal-hal yang ada.\" Jadi, dalam pengertian, yang baik lebih dahulu daripada yang ada."
+        ],
+        [
+          "Selanjutnya, apa yang lebih universal lebih dahulu dalam pengertian. Akan tetapi, tampaknya yang baik lebih universal daripada yang ada, sebab yang baik mengandung pengertian \"dapat diinginkan\", padahal bagi sebagian orang, justru ketiadaanlah yang diinginkan. Tentang Yudas, misalnya, dikatakan: \"Seandainya orang itu tidak dilahirkan, hal itu lebih baik baginya\" (Mat 26:24). Jadi, dalam pengertian, yang baik lebih dahulu daripada yang ada."
+        ],
+        [
+          "Selanjutnya, bukan hanya keberadaan yang diinginkan, melainkan juga hidup, pengetahuan, dan banyak hal lain. Dengan demikian, tampaknya keberadaan adalah suatu objek keinginan yang khusus, sedangkan yang baik adalah objek keinginan yang universal. Jadi, secara mutlak, yang baik lebih dahulu dalam pengertian daripada yang ada."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, Aristoteles berkata (De Causis) bahwa \"yang pertama di antara hal-hal ciptaan ialah keberadaan.\""
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa dalam pengertian, yang ada lebih dahulu daripada yang baik. Alasannya, makna yang ditandakan oleh nama suatu hal ialah apa yang ditangkap pikiran tentang hal itu dan dimaksudkannya dengan kata yang mewakilinya. Oleh karena itu, yang lebih dahulu dalam pengertian ialah apa yang pertama-tama ditangkap oleh intelek. Adapun hal pertama yang ditangkap oleh intelek ialah yang ada, sebab segala sesuatu dapat diketahui hanya sejauh ia berada dalam aktus. Maka, yang ada adalah objek khas intelek dan merupakan hal pertama yang dapat dimengerti, sebagaimana bunyi adalah hal pertama yang dapat didengar. Jadi, dalam pengertian, yang ada lebih dahulu daripada yang baik."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Dionisius membahas nama-nama ilahi (Div. Nom. i, iii) sejauh nama-nama itu mengandung suatu hubungan kausal dalam Allah. Alasannya, seperti dikatakannya, kita menamai Allah berdasarkan makhluk ciptaan, sebagaimana kita menamai suatu sebab berdasarkan akibat-akibatnya. Akan tetapi, karena yang baik mengandung pengertian \"dapat diinginkan\", ia mengandung pengertian sebab final, yang kausalitasnya pertama di antara sebab-sebab, sebab pelaku tidak bertindak kecuali demi suatu tujuan, dan oleh pelaku, materi digerakkan kepada formanya. Oleh karena itu, tujuan disebut sebab dari segala sebab. Dengan demikian, yang baik, sebagai sebab, lebih dahulu daripada yang ada, sebagaimana tujuan lebih dahulu daripada forma. Maka, di antara nama-nama yang menandakan kausalitas ilahi, kebaikan mendahului keberadaan. Selain itu, kaum Platonis tidak membedakan materi pertama dari kekurangan (yaitu tidak adanya sesuatu yang semestinya ada), dan karena itu mengatakan bahwa materi adalah yang tidak ada. Menurut mereka, lebih banyak hal mengambil bagian dalam kebaikan daripada dalam keberadaan, sebab materi pertama mengambil bagian dalam kebaikan karena mengarah kepadanya, mengingat semua hal mencari apa yang serupa dengannya; tetapi materi pertama tidak mengambil bagian dalam keberadaan, sebab dianggap sebagai yang tidak ada. Karena itu, Dionisius berkata bahwa \"kebaikan menjangkau juga yang tidak ada\" (Div. Nom. v)."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Jawaban yang sama berlaku bagi keberatan ini. Atau dapat dikatakan bahwa kebaikan menjangkau hal-hal yang ada maupun yang tidak ada, bukan sejauh kebaikan dapat dipredikatkan pada hal-hal itu, melainkan sejauh kebaikan dapat menyebabkannya, asalkan yang dimaksud dengan hal-hal yang tidak ada bukanlah hal-hal yang sama sekali tidak ada, melainkan hal-hal yang berada dalam potensi dan belum aktual. Alasannya, kebaikan mengandung pengertian tujuan: di dalam tujuan, hal-hal yang aktual menemukan kepenuhannya, dan ke arah tujuan itu pula bergerak hal-hal yang belum aktual, tetapi baru potensial. Adapun yang ada hanya mengandung hubungan sebab formal, entah yang melekat pada sesuatu, entah yang menjadi teladannya (eksemplar); dan kausalitasnya hanya menjangkau hal-hal yang aktual."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Ketiadaan diinginkan bukan pada dirinya, melainkan hanya secara relatif, yaitu sejauh hilangnya suatu kejahatan, yang hanya dapat dihilangkan melalui ketiadaan, itu diinginkan. Adapun hilangnya suatu kejahatan tidak dapat diinginkan kecuali sejauh kejahatan itu merampas suatu keberadaan dari sesuatu. Oleh karena itu, keberadaan diinginkan pada dirinya, sedangkan ketiadaan hanya secara relatif, yaitu sejauh orang mencari suatu cara berada yang tidak tahan ia kehilangan. Dengan demikian, bahkan ketiadaan pun dapat disebut baik secara relatif."
+          ]
+        },
+        {
+          "n": [4],
+          "paras": [
+            "Hidup, hikmat, dan sebagainya diinginkan hanya sejauh semua itu aktual. Oleh karena itu, dalam masing-masing hal itu yang diinginkan ialah suatu keberadaan. Dengan demikian, tidak ada yang dapat diinginkan kecuali keberadaan; dan karena itu, tidak ada yang baik kecuali yang ada."
+          ]
+        }
+      ]
+    },
+    {
+      "a": 3,
+      "title": "Apakah setiap hal yang ada itu baik?",
+      "objections": [
+        [
+          "Tampaknya tidak setiap hal yang ada itu baik, sebab kebaikan adalah sesuatu yang ditambahkan pada yang ada, sebagaimana jelas dari a. 1. Akan tetapi, apa pun yang ditambahkan pada yang ada membatasinya, seperti substansi, kuantitas, kualitas, dan sebagainya. Jadi, kebaikan membatasi yang ada. Maka, tidak setiap hal yang ada itu baik."
+        ],
+        [
+          "Selanjutnya, tidak ada yang jahat itu baik: \"Celakalah kamu yang menyebut yang jahat baik dan yang baik jahat\" (Yes 5:20). Akan tetapi, ada hal-hal yang disebut jahat. Jadi, tidak setiap hal yang ada itu baik."
+        ],
+        [
+          "Selanjutnya, kebaikan mengandung pengertian \"dapat diinginkan\". Adapun materi pertama tidak mengandung pengertian \"dapat diinginkan\", tetapi justru pengertian \"yang menginginkan\". Jadi, materi pertama tidak memuat hakikat kebaikan. Maka, tidak setiap hal yang ada itu baik."
+        ],
+        [
+          "Selanjutnya, sang Filsuf mencatat (Metaph. iii) bahwa \"dalam matematika tidak ada kebaikan.\" Akan tetapi, objek-objek matematika adalah hal-hal yang ada; kalau tidak, tidak akan ada ilmu matematika. Jadi, tidak setiap hal yang ada itu baik."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, setiap hal yang ada yang bukan Allah adalah ciptaan Allah. Adapun setiap ciptaan Allah itu baik (1Tim 4:4), dan Allah adalah kebaikan tertinggi. Jadi, setiap hal yang ada itu baik."
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa setiap hal yang ada, sejauh ia ada, adalah baik. Alasannya, setiap hal yang ada, sejauh ia ada, berada dalam aktus dan dalam arti tertentu sempurna, sebab setiap aktus mengandung suatu kesempurnaan; dan kesempurnaan mengandung pengertian \"dapat diinginkan\" dan \"baik\", sebagaimana jelas dari a. 1. Oleh karena itu, dapat disimpulkan bahwa setiap hal yang ada, sebagai hal yang ada, adalah baik."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Substansi, kuantitas, kualitas, dan segala yang termasuk di dalamnya membatasi yang ada dengan menerapkannya pada suatu esensi atau kodrat. Adapun dalam arti ini, kebaikan tidak menambahkan apa pun pada yang ada selain pengertian \"dapat diinginkan\" dan \"sempurna\", yang juga khas bagi keberadaan itu sendiri, apa pun jenis kodratnya. Oleh karena itu, kebaikan tidak membatasi yang ada."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Tidak ada hal yang ada yang dapat disebut jahat secara formal sejauh ia ada, tetapi hanya sejauh ia kekurangan keberadaan. Demikianlah seseorang disebut jahat karena ia kekurangan suatu kebajikan, dan mata disebut buruk karena kekurangan daya untuk melihat dengan baik."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Sebagaimana materi pertama hanya memiliki keberadaan potensial, demikian pula ia hanya baik secara potensial. Walaupun menurut kaum Platonis materi pertama dapat disebut yang tidak ada karena kekurangan yang melekat padanya, ia tetap mengambil bagian dalam kebaikan sampai batas tertentu, yaitu melalui hubungannya dengan kebaikan atau kesiapannya untuk kebaikan. Maka, yang menjadi sifatnya bukanlah dapat diinginkan, melainkan menginginkan."
+          ]
+        },
+        {
+          "n": [4],
+          "paras": [
+            "Objek-objek matematika tidak berdiri sendiri sebagai kenyataan, sebab seandainya berdiri sendiri, objek-objek itu dalam arti tertentu akan baik. Objek-objek itu hanya memiliki keberadaan logis, yaitu dalam akal budi, sejauh diabstraksikan dari gerak dan materi. Dengan demikian, objek-objek itu tidak dapat mengandung pengertian tujuan, yang sendiri mengandung pengertian menggerakkan sesuatu yang lain. Tidaklah bertentangan pula jika dalam suatu hal yang hanya ada dalam akal budi tidak terdapat kebaikan ataupun hakikat kebaikan, sebab pengertian \"ada\" lebih dahulu daripada pengertian \"baik\", sebagaimana telah dikatakan dalam artikel sebelumnya."
+          ]
+        }
+      ]
+    },
+    {
+      "a": 4,
+      "title": "Apakah kebaikan mengandung pengertian sebab final?",
+      "objections": [
+        [
+          "Tampaknya kebaikan tidak mengandung pengertian sebab final, tetapi justru pengertian sebab-sebab lain, sebab, seperti dikatakan Dionisius (Div. Nom. iv), \"Kebaikan dipuji sebagai keindahan.\" Akan tetapi, keindahan mengandung pengertian sebab formal. Jadi, kebaikan mengandung pengertian sebab formal."
+        ],
+        [
+          "Selanjutnya, kebaikan menyebarkan dirinya, sebab Dionisius berkata (Div. Nom. iv) bahwa kebaikan adalah apa yang membuat segala sesuatu berdiri dan ada. Akan tetapi, memberikan diri mengandung pengertian sebab efisien. Jadi, kebaikan mengandung pengertian sebab efisien."
+        ],
+        [
+          "Selanjutnya, Agustinus berkata (De Doctr. Christ. i, 31) bahwa \"kita ada karena Allah baik.\" Akan tetapi, kita berutang keberadaan kita kepada Allah sebagai sebab efisien. Jadi, kebaikan mengandung pengertian sebab efisien."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, sang Filsuf berkata (Phys. ii) bahwa \"apa yang demi dirinya sesuatu ada, itulah yang harus dipandang sebagai tujuan dan kebaikan bagi hal-hal lain.\" Jadi, kebaikan mengandung pengertian sebab final."
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa karena kebaikan adalah apa yang diinginkan segala sesuatu, dan hal ini mengandung pengertian tujuan, jelaslah bahwa kebaikan mengandung pengertian tujuan. Meskipun demikian, pengertian kebaikan mengandaikan pengertian sebab efisien, dan juga pengertian sebab formal. Alasannya, kita melihat bahwa apa yang pertama dalam menyebabkan adalah yang terakhir dalam hal yang disebabkan. Misalnya, api pertama-tama memanaskan sebelum menghasilkan kembali forma api, walaupun panas dalam api itu sendiri mengalir dari forma substansialnya. Adapun dalam menyebabkan, yang pertama ialah kebaikan dan tujuan, yang keduanya menggerakkan pelaku untuk bertindak; yang kedua ialah tindakan pelaku yang menggerakkan menuju forma; yang ketiga, datanglah forma. Oleh karena itu, dalam hal yang disebabkan semestinya terjadi urutan sebaliknya: pertama-tama ada forma, yang membuatnya menjadi sesuatu yang ada; kedua, kita melihat di dalamnya daya kerjanya, yang membuatnya sempurna dalam keberadaan, sebab sesuatu itu sempurna bila ia dapat menghasilkan yang serupa dengannya, seperti dikatakan sang Filsuf (Meteor. iv); ketiga, menyusullah hakikat kebaikan, yang menjadi dasar kesempurnaannya."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Keindahan dan kebaikan dalam sesuatu pada dasarnya sama, sebab keduanya berdasar pada hal yang sama, yaitu forma; karena itu, kebaikan dipuji sebagai keindahan. Namun, keduanya berbeda dalam pengertian. Kebaikan dalam arti sebenarnya berhubungan dengan apetit (daya keinginan), sebab kebaikan adalah apa yang diinginkan segala sesuatu; karena itu, kebaikan mengandung pengertian tujuan, sebab apetit adalah semacam gerak menuju sesuatu. Adapun keindahan berhubungan dengan daya mengenal, sebab hal-hal yang indah ialah hal-hal yang menyenangkan bila dilihat. Oleh karena itu, keindahan terletak pada proporsi yang semestinya, sebab indra senang akan hal-hal yang proporsional sebagaimana mestinya, seperti akan apa yang sejenis dengannya. Hal itu karena indra pun semacam akal budi, sama seperti setiap daya mengenal. Adapun karena pengetahuan terjadi melalui penyerupaan, dan keserupaan berhubungan dengan forma, keindahan dalam arti sebenarnya termasuk dalam hakikat sebab formal."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Kebaikan disebut menyebarkan dirinya dalam arti bahwa tujuan dikatakan menggerakkan."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Orang yang berkehendak disebut baik sejauh ia memiliki kehendak yang baik, sebab dengan kehendak kitalah kita menggunakan daya apa pun yang kita miliki. Oleh karena itu, seseorang disebut baik bukan karena inteleknya yang baik, melainkan karena kehendaknya yang baik. Adapun kehendak berhubungan dengan tujuan sebagai objeknya yang khas. Dengan demikian, perkataan \"kita ada karena Allah baik\" mengacu pada sebab final."
+          ]
+        }
+      ]
+    },
+    {
+      "a": 5,
+      "title": "Apakah hakikat kebaikan terletak pada modus, spesies, dan tatanan?",
+      "objections": [
+        [
+          "Tampaknya hakikat kebaikan tidak terletak pada modus, spesies, dan tatanan, sebab yang baik dan yang ada berbeda dalam pengertian. Akan tetapi, modus, spesies, dan tatanan tampaknya termasuk dalam hakikat yang ada, sebab tertulis: \"Engkau telah menata segala sesuatu menurut ukuran, bilangan, dan bobot\" (Keb 11:21). Pada ketiga hal ini dapat dikembalikan spesies, modus, dan tatanan, seperti dikatakan Agustinus (Gen. ad lit. iv, 3): \"Ukuran menetapkan modus setiap hal, bilangan memberinya spesies, dan bobot memberinya ketenangan dan kestabilan.\" Jadi, hakikat kebaikan tidak terletak pada modus, spesies, dan tatanan."
+        ],
+        [
+          "Selanjutnya, modus, spesies, dan tatanan itu sendiri baik. Maka, jika hakikat kebaikan terletak pada modus, spesies, dan tatanan, setiap modus mesti memiliki modus, spesies, dan tatanannya sendiri. Demikian pula halnya dengan spesies dan tatanan, dan begitu seterusnya tanpa akhir."
+        ],
+        [
+          "Selanjutnya, kejahatan adalah kekurangan modus, spesies, dan tatanan. Akan tetapi, kejahatan bukanlah ketiadaan kebaikan sama sekali. Jadi, hakikat kebaikan tidak terletak pada modus, spesies, dan tatanan."
+        ],
+        [
+          "Selanjutnya, apa yang menjadi letak hakikat kebaikan tidak dapat disebut jahat. Akan tetapi, kita dapat berbicara tentang modus, spesies, dan tatanan yang jahat. Jadi, hakikat kebaikan tidak terletak pada modus, spesies, dan tatanan."
+        ],
+        [
+          "Selanjutnya, modus, spesies, dan tatanan disebabkan oleh bobot, bilangan, dan ukuran, seperti tampak dari kutipan Agustinus tadi. Akan tetapi, tidak setiap hal yang baik memiliki bobot, bilangan, dan ukuran, sebab Ambrosius berkata (Hexam. i, 9): \"Termasuk hakikat cahaya bahwa ia tidak diciptakan dalam bilangan, bobot, dan ukuran.\" Jadi, hakikat kebaikan tidak terletak pada modus, spesies, dan tatanan."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, Agustinus berkata (De Nat. Boni. iii): \"Ketiga hal ini, yaitu modus, spesies, dan tatanan, sebagai kebaikan-kebaikan umum, terdapat dalam segala sesuatu yang dijadikan Allah. Maka, bila ketiganya berlimpah, hal-hal itu sangat baik; bila ketiganya kurang, hal-hal itu kurang baik; bila ketiganya sama sekali tidak ada, tidak mungkin ada sesuatu yang baik.\" Akan tetapi, hal ini tidak akan demikian seandainya hakikat kebaikan tidak terletak pada ketiganya. Jadi, hakikat kebaikan terletak pada modus, spesies, dan tatanan."
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa segala sesuatu disebut baik sejauh ia sempurna, sebab hanya dengan cara itulah ia dapat diinginkan (sebagaimana telah ditunjukkan di atas, a. 1, 3). Adapun sesuatu disebut sempurna jika ia tidak kekurangan apa pun menurut cara kesempurnaannya. Akan tetapi, segala sesuatu adalah apa adanya karena formanya; dan forma mengandaikan hal-hal tertentu, dan dari forma itu mengalir hal-hal tertentu secara niscaya. Oleh karena itu, agar sesuatu sempurna dan baik, ia mesti memiliki forma, beserta segala yang mendahului dan yang menyusul forma itu. Adapun forma mengandaikan penentuan atau keserasian ukuran prinsip-prinsipnya, entah prinsip material entah prinsip efisien; dan inilah yang ditandakan oleh modus. Karena itu dikatakan bahwa ukuran menetapkan modus. Forma itu sendiri ditandakan oleh spesies, sebab segala sesuatu ditempatkan dalam spesiesnya oleh formanya. Maka, bilangan dikatakan memberi spesies, sebab definisi-definisi yang menandakan spesies itu seperti bilangan, menurut sang Filsuf (Metaph. x). Hal itu karena, sebagaimana satu satuan yang ditambahkan pada atau diambil dari suatu bilangan mengubah spesies bilangan itu, demikian pula diferensia yang ditambahkan pada atau diambil dari suatu definisi mengubah spesiesnya. Selain itu, dari forma menyusul suatu kecenderungan kepada tujuan, atau kepada suatu tindakan, atau semacamnya, sebab segala sesuatu, sejauh berada dalam aktus, bertindak dan mengarah kepada apa yang sesuai dengan formanya; dan inilah yang termasuk pada bobot dan tatanan. Jadi, hakikat kebaikan, sejauh terletak pada kesempurnaan, juga terletak pada modus, spesies, dan tatanan."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Ketiga hal ini menyusul yang ada hanya sejauh yang ada itu sempurna, dan menurut kesempurnaan inilah ia baik."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Modus, spesies, dan tatanan disebut baik dan disebut hal-hal yang ada, bukan seolah-olah ketiganya sendiri merupakan hal-hal yang berdiri sendiri, melainkan karena melalui ketiganya hal-hal lain menjadi hal-hal yang ada dan baik. Oleh karena itu, ketiganya tidak memerlukan hal-hal lain yang membuatnya baik. Ketiganya disebut baik bukan seolah-olah dibentuk secara formal menjadi baik oleh sesuatu yang lain, melainkan karena secara formal membentuk hal-hal lain menjadi baik. Demikian pula, keputihan disebut sesuatu yang ada bukan seolah-olah ia ada karena sesuatu yang lain, melainkan karena melalui keputihan itu sesuatu yang lain memiliki keberadaan aksidental, misalnya benda yang putih."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Setiap keberadaan disebabkan oleh suatu forma. Oleh karena itu, pada setiap keberadaan suatu hal ada modus, spesies, dan tatanannya. Misalnya, seseorang memiliki modus, spesies, dan tatanan sejauh ia putih, berkebajikan, terpelajar, dan seterusnya, yaitu menurut setiap hal yang dipredikatkan padanya. Akan tetapi, kejahatan merampas dari sesuatu salah satu keberadaannya, seperti kebutaan merampas dari kita keberadaan yang berupa penglihatan. Namun, kejahatan tidak meniadakan setiap modus, spesies, dan tatanan, tetapi hanya modus, spesies, dan tatanan yang menyusul keberadaan penglihatan."
+          ]
+        },
+        {
+          "n": [4],
+          "paras": [
+            "Agustinus berkata (De Nat. Boni. xxiii): \"Setiap modus, sejauh ia modus, adalah baik\" (dan hal yang sama dapat dikatakan tentang spesies dan tatanan). \"Akan tetapi, modus, spesies, dan tatanan disebut jahat karena lebih kecil daripada yang semestinya, atau karena tidak termasuk pada apa yang semestinya menjadi tempatnya. Oleh karena itu, semua itu disebut jahat karena tidak pada tempatnya dan tidak serasi.\""
+          ]
+        },
+        {
+          "n": [5],
+          "paras": [
+            "Hakikat cahaya dikatakan tanpa bilangan, bobot, dan ukuran bukan secara mutlak, melainkan dibandingkan dengan benda-benda jasmani, sebab daya cahaya menjangkau semua benda jasmani, sejauh cahaya adalah kualitas aktif dari benda pertama yang menyebabkan perubahan, yaitu langit."
+          ]
+        }
+      ]
+    },
+    {
+      "a": 6,
+      "title": "Apakah kebaikan tepat dibagi menjadi yang luhur, yang berguna, dan yang menyenangkan?",
+      "objections": [
+        [
+          "Tampaknya kebaikan tidak tepat dibagi menjadi yang luhur, yang berguna, dan yang menyenangkan, sebab, seperti dikatakan sang Filsuf (Ethic. i), kebaikan dibagi menurut sepuluh kategori. Akan tetapi, yang luhur, yang berguna, dan yang menyenangkan dapat ditemukan dalam satu kategori saja. Jadi, kebaikan tidak tepat dibagi menurut ketiganya."
+        ],
+        [
+          "Selanjutnya, setiap pembagian dilakukan menurut hal-hal yang berlawanan. Akan tetapi, ketiga hal ini tampaknya tidak berlawanan, sebab yang luhur itu menyenangkan, dan tidak ada kejahatan yang berguna. Padahal, seharusnya demikian jika pembagian itu dilakukan menurut hal-hal yang berlawanan, sebab dengan demikian yang luhur dan yang berguna akan saling berlawanan; dan Tullius (Cicero) membicarakan hal ini (De Offic. ii). Jadi, pembagian ini tidak tepat."
+        ],
+        [
+          "Selanjutnya, bila satu hal ada demi hal lain, di situ hanya ada satu hal. Akan tetapi, yang berguna bukanlah kebaikan kecuali sejauh ia menyenangkan dan luhur. Jadi, yang berguna tidak semestinya dijadikan anggota pembagian di samping yang menyenangkan dan yang luhur."
+        ]
+      ],
+      "sed_contra": [
+        "Sebaliknya, Ambrosius memakai pembagian kebaikan ini (De Offic. i, 9)."
+      ],
+      "respondeo": [
+        "Aku menjawab bahwa pembagian ini dalam arti sebenarnya menyangkut kebaikan manusiawi. Akan tetapi, jika kita menimbang hakikat kebaikan dari sudut pandang yang lebih tinggi dan lebih universal, kita akan mendapati bahwa pembagian ini dalam arti sebenarnya menyangkut kebaikan sebagai kebaikan. Alasannya, segala sesuatu baik sejauh ia dapat diinginkan dan merupakan titik akhir gerak apetit; dan titik akhir gerak itu dapat dipahami dengan menimbang gerak benda kodrati. Adapun gerak benda kodrati berakhir secara mutlak pada tujuan, tempat gerak itu berhenti, dan secara relatif pada perantara yang dilaluinya untuk sampai ke tujuan itu. Jadi, sesuatu disebut titik akhir gerak sejauh ia mengakhiri suatu bagian dari gerak itu. Adapun titik akhir terakhir gerak dapat dipahami dalam dua cara: entah sebagai hal yang dituju oleh gerak itu, misalnya suatu tempat atau forma; entah sebagai keadaan diam dalam hal itu. Demikianlah, dalam gerak apetit, hal yang diinginkan yang mengakhiri gerak apetit secara relatif, sebagai sarana yang melaluinya sesuatu mengarah kepada hal lain, disebut yang berguna. Apa yang dicari sebagai hal terakhir yang mengakhiri gerak apetit secara mutlak, sebagai hal yang dituju apetit demi hal itu sendiri, disebut yang luhur, sebab yang luhur ialah apa yang diinginkan demi dirinya sendiri. Adapun apa yang mengakhiri gerak apetit dalam bentuk keadaan diam dalam hal yang diinginkan disebut yang menyenangkan."
+      ],
+      "replies": [
+        {
+          "n": [1],
+          "paras": [
+            "Kebaikan, sejauh identik dengan yang ada, dibagi menurut sepuluh kategori. Akan tetapi, pembagian ini termasuk padanya menurut hakikatnya yang khas."
+          ]
+        },
+        {
+          "n": [2],
+          "paras": [
+            "Pembagian ini tidak dilakukan menurut hal-hal yang berlawanan, tetapi menurut segi-segi yang berlawanan. Adapun yang disebut menyenangkan ialah hal-hal yang tidak memiliki segi lain yang membuatnya dapat diinginkan selain sifat menyenangkan, walaupun kadang-kadang hal-hal itu merugikan dan bertentangan dengan kebajikan. Yang berguna dikenakan pada hal-hal yang dalam dirinya tidak memiliki apa pun yang dapat diinginkan, tetapi diinginkan hanya karena membantu untuk mencapai sesuatu yang lain, seperti minum obat yang pahit. Sementara itu, yang luhur dipredikatkan pada hal-hal yang dapat diinginkan dalam dirinya sendiri."
+          ]
+        },
+        {
+          "n": [3],
+          "paras": [
+            "Kebaikan tidak dibagi menjadi ketiga hal ini sebagai sesuatu yang univok (yang dipredikatkan dengan arti yang persis sama), yang dipredikatkan secara sama pada ketiganya, tetapi sebagai sesuatu yang analog, yang dipredikatkan pada ketiganya menurut urutan yang lebih dahulu dan yang kemudian. Oleh karena itu, kebaikan terutama dipredikatkan pada yang luhur, kemudian pada yang menyenangkan, dan terakhir pada yang berguna."
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial_notes": [],
+  "translator_notes": [
+    "Istilah pokok: 'goodness/good' dan 'being' dalam perbandingan bonum–ens diterjemahkan 'yang baik' dan 'yang ada' (sejajar dengan glosarium §C: ens → sesuatu yang ada, non ens → yang tidak ada); 'goodness' sebagai sifat/hakikat → 'kebaikan'; 'existence' → 'keberadaan'; 'non-existence/non-being' → 'ketiadaan' atau 'yang tidak ada'.",
+    "Judul a6 dalam teks Inggris memuat catatan kaki: [*\"Bonum honestum\" is the virtuous good considered as fitting. Cf. II-II, Q. 141, A. 3; Q. 145.]. Tidak dimasukkan ke judul agar judul tetap berbentuk pertanyaan. Usulan terjemahan (bila perlu dijadikan catatan): '\"Bonum honestum\" ialah kebaikan yang bajik, dipandang sebagai sesuatu yang pantas. Bdk. II-II, q. 141, a. 3; q. 145.'",
+    "Keb 11:21 (Wis. 11:21) adalah kitab deuterokanonika; penomoran TB Deuterokanonika perlu dicek (kemungkinan 11:20).",
+    "a3 ad 2: 'evil' untuk manusia → 'jahat', untuk mata → 'buruk' (bahasa Indonesia tidak menyebut mata 'jahat'); korektor mohon memeriksa apakah ini dapat diterima.",
+    "a4 ad 1: 'sense is a sort of reason' → 'indra pun semacam akal budi' (ratio).",
+    "Uraian singkat dalam kurung ditambahkan pada kemunculan pertama (gaya-bahasa §5): modus (takaran yang semestinya), kekurangan (yaitu tidak adanya sesuatu yang semestinya ada), univok (yang dipredikatkan dengan arti yang persis sama); juga 'Dionisius (Areopagita)' sesuai q.1.",
+    "ISTILAH BARU: mode (modus) → modus (istilah Agustinus modus–species–ordo; diberi uraian 'takaran yang semestinya' pada kemunculan pertama)",
+    "ISTILAH BARU: species (triad Agustinus) → spesies (sesuai glosarium §C, karena respondeo a5 mengaitkannya dengan spesies logis)",
+    "ISTILAH BARU: order (triad) → tatanan (sejalan dengan 'tatanan kodrat' di q.2)",
+    "ISTILAH BARU: measure, number, weight → ukuran, bilangan, bobot (bobot dipilih agar tidak menyalin TB 'timbangan')",
+    "ISTILAH BARU: virtuous / useful / pleasant (bonum honestum, utile, delectabile) → yang luhur / yang berguna / yang menyenangkan ('bajik' janggal sebagai kata sifat benda; 'luhur' lazim untuk kebaikan moral yang dicari demi dirinya)",
+    "ISTILAH BARU: privation → kekurangan (bukan 'privasi', yang dalam bahasa Indonesia berarti ranah pribadi)",
+    "ISTILAH BARU: actuality → aktualitas (turunan dari aktus, glosarium §C)",
+    "ISTILAH BARU: simply / relatively → secara mutlak / secara relatif (simpliciter / secundum quid)",
+    "ISTILAH BARU: predicaments → kategori (sepuluh kategori Aristoteles; lebih dikenal daripada 'predikamen')",
+    "ISTILAH BARU: univocal / analogical → univok / analog (istilah baku filsafat skolastik Indonesia)",
+    "ISTILAH BARU: participate → mengambil bagian (lazim dalam bahasa Gereja, mis. 'mengambil bagian dalam kodrat ilahi')",
+    "ISTILAH BARU: exemplar (cause) → teladan (eksemplar)",
+    "ISTILAH BARU: appetible → objek keinginan",
+    "ISTILAH BARU: term of movement → titik akhir gerak"
+  ]
+}

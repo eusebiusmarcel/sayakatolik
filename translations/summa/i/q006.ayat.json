@@ -1,0 +1,26 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "Rat 3:25",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=rat&b=3&a1=25&a2=25",
+      "text": "[25] TUHAN adalah baik bagi orang yang berharap kepada-Nya, bagi jiwa yang mencari Dia."
+    },
+    {
+      "at": "articles[1].objections[1][0]",
+      "ref": "Mat 19:17",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=19&a1=17&a2=17",
+      "text": "[17] Jawab Yesus: \"Apakah sebabnya engkau bertanya kepada-Ku tentang apa yang baik? Hanya Satu yang baik. Tetapi jikalau engkau ingin masuk ke dalam hidup, turutilah segala perintah Allah.\""
+    },
+    {
+      "at": "articles[1].objections[1][0]",
+      "ref": "Luk 18:19",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=luk&b=18&a1=19&a2=19",
+      "text": "[19] Jawab Yesus: \"Mengapa kaukatakan Aku baik? Tak seorangpun yang baik selain dari pada Allah saja."
+    }
+  ]
+}
