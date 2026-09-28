@@ -1,0 +1,40 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "Mat 5:48",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mat&b=5&a1=48&a2=48",
+      "text": "[48] Karena itu haruslah kamu sempurna, sama seperti Bapamu yang di sorga adalah sempurna.\""
+    },
+    {
+      "at": "articles[2].objections[0][0]",
+      "ref": "Mzm 86:8",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=86&a1=8&a2=8",
+      "text": "[8] Tidak ada seperti Engkau di antara para allah, ya Tuhan, dan tidak ada seperti apa yang Kaubuat."
+    },
+    {
+      "at": "articles[2].objections[3][0]",
+      "ref": "Yes 40:18",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=40&a1=18&a2=18",
+      "text": "[18] Jadi dengan siapa hendak kamu samakan Allah, dan apa yang dapat kamu anggap serupa dengan Dia?"
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "Kej 1:26",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kej&b=1&a1=26&a2=26",
+      "text": "[26] Berfirmanlah Allah: \"Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.\""
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "1Yoh 3:2",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1yoh&b=3&a1=2&a2=2",
+      "text": "[2] Saudara-saudaraku yang kekasih, sekarang kita adalah anak-anak Allah, tetapi belum nyata apa keadaan kita kelak; akan tetapi kita tahu, bahwa apabila Kristus menyatakan diri-Nya, kita akan menjadi sama seperti Dia, sebab kita akan melihat Dia dalam keadaan-Nya yang sebenarnya."
+    }
+  ]
+}

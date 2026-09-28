@@ -1,0 +1,26 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[2].objections[0][0]",
+      "ref": "1Kor 8:5",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=8&a1=5&a2=5",
+      "text": "[5] Sebab sungguhpun ada apa yang disebut \"allah\", baik di sorga, maupun di bumi?dan memang benar ada banyak \"allah\" dan banyak \"tuhan\" yang demikian?"
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "Ul 6:4",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ul&b=6&a1=4&a2=4",
+      "text": "[4] Dengarlah, hai orang Israel: TUHAN itu Allah kita, TUHAN itu esa!"
+    },
+    {
+      "at": "articles[2].replies[0].paras[0]",
+      "ref": "1Kor 8:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=1kor&b=8&a1=6&a2=6",
+      "text": "[6] namun bagi kita hanya ada satu Allah saja, yaitu Bapa, yang dari pada-Nya berasal segala sesuatu dan yang untuk Dia kita hidup, dan satu Tuhan saja, yaitu Yesus Kristus, yang oleh-Nya segala sesuatu telah dijadikan dan yang karena Dia kita hidup."
+    }
+  ]
+}

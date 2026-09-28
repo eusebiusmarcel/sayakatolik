@@ -35,3 +35,20 @@
 .summary:nth-child(even) {
     background-color: var(--cosmic-latte);
 } */
+/* Summa Theologiae */
+.summa-crumbs a { color: inherit; text-decoration: none; }
+.summa-ref { font-family: avenir, helvetica, sans-serif; letter-spacing: .02em; color: #777; }
+.summa-nav a { color: #555; text-decoration: none; }
+.summa-nav a:hover { text-decoration: underline; }
+.summa-nav > span { flex: 1; }
+.summa-nav > a { flex: 0 0 auto; padding: 0 1rem; }
+.summa-text h2 { font-size: 1.35rem; line-height: 1.35; margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #ddd; }
+.summa-text p { margin: 0 0 1em; }
+.summa-text p strong:first-child { color: #333; }
+.summa-text :target { background: var(--cosmic-latte); }
+.summa-text .catatan-redaksi, .summa-text blockquote { border-left: 3px solid var(--orange-yellow); margin: 0 0 1em; padding: .25em 1em; font-size: .9em; }
+.summa-toc-aside nav ul { list-style: none; padding-left: 0; margin: 0; }
+.summa-toc-aside nav li { margin-bottom: .5em; font-size: .9rem; line-height: 1.35; }
+@media screen and (min-width: 60em) { .summa-toc-aside > div { position: sticky; top: 1rem; } }
+.summa-list { list-style: none; padding-left: 0; }
+.summa-list li { padding: .5em 0; border-bottom: 1px solid #e5e5e5; font-size: 1.1rem; }

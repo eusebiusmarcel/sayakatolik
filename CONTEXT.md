@@ -27,6 +27,15 @@ All content must be faithful to the teaching of the Roman Catholic Church.
   Gembira, Terang, Sedih, Mulia), in place of "Misteri."
 - **Meditasi Naratif** — the narrative meditation variant of a Peristiwa.
 - **Meditasi Kitab Suci** — the Scripture-quote meditation variant of a Peristiwa.
+- **Summa** — St. Thomas Aquinas's *Summa Theologiae*, translated from the 1920
+  English Dominican translation (the base text), with every departure in meaning
+  corrected against the Latin (Leonine), which is the authority. Cited as *STh I,
+  q. 2, a. 3*. Its units are **Pertanyaan** (quaestio), **Artikel** (articulus),
+  **Keberatan** (objection), **Sebaliknya** (sed contra), **Aku menjawab bahwa**
+  (respondeo) and **Jawaban atas Keberatan** (reply). Terminology lives in
+  `docs/summa/glosarium.md`; policy in `docs/adr/0001-summa-theologiae-translation.md`.
+  **Exception to the TB rule:** Thomas's Scripture quotations are translated (never
+  pasted from the TB), with TB references (ADR 0001 §4).
 
 ## Stack
 

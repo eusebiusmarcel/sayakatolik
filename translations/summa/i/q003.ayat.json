@@ -1,0 +1,117 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].objections[0][0]",
+      "ref": "Ayb 11:8–9",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=11&a1=8&a2=9",
+      "text": "[8] Tingginya seperti langit?apa yang dapat kaulakukan? Dalamnya melebihi dunia orang mati?apa yang dapat kauketahui? [9] Lebih panjang dari pada bumi ukurannya, dan lebih luas dari pada samudera."
+    },
+    {
+      "at": "articles[0].objections[1][0]",
+      "ref": "Kej 1:26",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kej&b=1&a1=26&a2=26",
+      "text": "[26] Berfirmanlah Allah: \"Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.\""
+    },
+    {
+      "at": "articles[0].objections[1][0]",
+      "ref": "Ibr 1:3",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ibr&b=1&a1=3&a2=3",
+      "text": "[3] Ia adalah cahaya kemuliaan Allah dan gambar wujud Allah dan menopang segala yang ada dengan firman-Nya yang penuh kekuasaan. Dan setelah Ia selesai mengadakan penyucian dosa, Ia duduk di sebelah kanan Yang Mahabesar, di tempat yang tinggi,"
+    },
+    {
+      "at": "articles[0].objections[2][0]",
+      "ref": "Ayb 40:9",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ayb&b=40&a1=9&a2=9",
+      "text": "[9] Apakah lenganmu seperti lengan Allah, dan dapatkah engkau mengguntur seperti Dia?"
+    },
+    {
+      "at": "articles[0].objections[2][0]",
+      "ref": "Mzm 34:15",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=34&a1=15&a2=15",
+      "text": "[15] Mata TUHAN tertuju kepada orang-orang benar, dan telinga-Nya kepada teriak mereka minta tolong;"
+    },
+    {
+      "at": "articles[0].objections[2][0]",
+      "ref": "Mzm 118:16",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=118&a1=16&a2=16",
+      "text": "[16] tangan kanan TUHAN berkuasa meninggikan, tangan kanan TUHAN melakukan keperkasaan!\""
+    },
+    {
+      "at": "articles[0].objections[3][0]",
+      "ref": "Yes 6:1",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=6&a1=1&a2=1",
+      "text": "[1] Dalam tahun matinya raja Uzia aku melihat Tuhan duduk di atas takhta yang tinggi dan menjulang, dan ujung jubah-Nya memenuhi Bait Suci."
+    },
+    {
+      "at": "articles[0].objections[3][0]",
+      "ref": "Yes 3:13",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yes&b=3&a1=13&a2=13",
+      "text": "[13] TUHAN mengambil tempat untuk menuntut dan berdiri untuk mengadili bangsa-bangsa."
+    },
+    {
+      "at": "articles[0].objections[4][0]",
+      "ref": "Mzm 34:5",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=34&a1=5&a2=5",
+      "text": "[5] Tujukanlah pandanganmu kepada-Nya, maka mukamu akan berseri-seri, dan tidak akan malu tersipu-sipu."
+    },
+    {
+      "at": "articles[0].objections[4][0]",
+      "ref": "Yer 17:13",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yer&b=17&a1=13&a2=13",
+      "text": "[13] Ya Pengharapan Israel, TUHAN, semua orang yang meninggalkan Engkau akan menjadi malu; orang-orang yang menyimpang dari pada-Mu akan dilenyapkan di negeri, sebab mereka telah meninggalkan sumber air yang hidup, yakni TUHAN."
+    },
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "Yoh 4:24",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=4&a1=24&a2=24",
+      "text": "[24] Allah itu Roh dan barangsiapa menyembah Dia, harus menyembah-Nya dalam roh dan kebenaran.\""
+    },
+    {
+      "at": "articles[0].replies[1].paras[0]",
+      "ref": "Kej 1:26",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=kej&b=1&a1=26&a2=26",
+      "text": "[26] Berfirmanlah Allah: \"Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.\""
+    },
+    {
+      "at": "articles[1].objections[0][0]",
+      "ref": "Ibr 10:38",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=ibr&b=10&a1=38&a2=38",
+      "text": "[38] Tetapi orang-Ku yang benar akan hidup oleh iman, dan apabila ia mengundurkan diri, maka Aku tidak berkenan kepadanya.\""
+    },
+    {
+      "at": "articles[1].objections[1][0]",
+      "ref": "Mzm 106:40",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=106&a1=40&a2=40",
+      "text": "[40] Maka menyalalah murka TUHAN terhadap umat-Nya, dan Ia jijik kepada milik-Nya sendiri."
+    },
+    {
+      "at": "articles[2].sed_contra[0]",
+      "ref": "Yoh 14:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yoh&b=14&a1=6&a2=6",
+      "text": "[6] Kata Yesus kepadanya: \"Akulah jalan dan kebenaran dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku."
+    },
+    {
+      "at": "articles[3].objections[0][0]",
+      "ref": "Keb 14:21",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=14&a1=21&a2=21",
+      "text": "[21] Dan ini menjadi perangkap bagi kehidupan, bahwasanya orang yang tertekan karena malapetaka ataupun karena kekuasaan penguasa memberikan nama yang tak bersekutu kepada batu dan kayu."
+    }
+  ]
+}

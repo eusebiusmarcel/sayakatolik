@@ -1,2 +1,5 @@
 *.tmp.*
 .DS_Store
+sources/summa/raw/
+.claude/settings.local.json
+__pycache__/

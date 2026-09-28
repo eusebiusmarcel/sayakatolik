@@ -1,0 +1,26 @@
+{
+  "source": "Alkitab (TB + Deuterokanonika) via imankatolik.or.id; for checking and linking only, not for quoting",
+  "refs": [
+    {
+      "at": "articles[0].objections[1][0]",
+      "ref": "Keb 7:24",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=keb&b=7&a1=24&a2=24",
+      "text": "[24] Sebab kebijaksanaan lebih lincah dari segala gerakan, karena dengan kemurniannya ia menembusi dan melintasi segala-galanya."
+    },
+    {
+      "at": "articles[0].objections[2][0]",
+      "ref": "Yak 4:8",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=yak&b=4&a1=8&a2=8",
+      "text": "[8] Mendekatlah kepada Allah, dan Ia akan mendekat kepadamu. Tahirkanlah tanganmu, hai kamu orang-orang berdosa! dan sucikanlah hatimu, hai kamu yang mendua hati!"
+    },
+    {
+      "at": "articles[0].sed_contra[0]",
+      "ref": "Mal 3:6",
+      "status": "ok",
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mal&b=3&a1=6&a2=6",
+      "text": "[6] Bahwasanya Aku, TUHAN, tidak berubah, dan kamu, bani Yakub, tidak akan lenyap."
+    }
+  ]
+}

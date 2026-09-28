@@ -1,0 +1,61 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+
+{{ define "main" }}
+  {{/* Previous / next by weight within the part (Prolog = 0, then q.1, q.2, …). */}}
+  {{ $pages := .CurrentSection.RegularPages.ByWeight }}
+  {{ $idx := -1 }}
+  {{ range $i, $p := $pages }}{{ if eq $p.RelPermalink $.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end }}
+  {{ $prev := false }}{{ $next := false }}
+  {{ if gt $idx 0 }}{{ $prev = index $pages (sub $idx 1) }}{{ end }}
+  {{ if lt (add $idx 1) (len $pages) }}{{ $next = index $pages (add $idx 1) }}{{ end }}
+
+  <article class="summa-page mw8 center ph3">
+    <header class="mt4">
+      <aside class="b helvetica tracked ttu f6 summa-crumbs">
+        <a href="{{ .CurrentSection.Parent.RelPermalink }}">Summa Theologiae</a> ·
+        <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>
+      </aside>
+      <h1 class="f2 athelas mt3 mb1">{{ .Title }}</h1>
+      <p class="summa-ref mt0">{{ .Params.summa_ref }}</p>
+      {{ template "summa-nav" (dict "prev" $prev "next" $next "up" .CurrentSection) }}
+    </header>
+
+    <div class="flex-l justify-between">
+      <div class="summa-text nested-copy-line-height lh-copy serif f4 nested-links mid-gray {{ if .Params.toc }}w-two-thirds-l pr4-l{{ else }}w-100{{ end }}">
+        {{ .Content }}
+      </div>
+      {{ if .Params.toc }}
+        <aside class="summa-toc-aside w-30-l mt4">
+          <div class="bg-light-gray pa3 nested-list-reset nested-links">
+            <p class="f5 b mb2">Artikel</p>
+            {{ .TableOfContents }}
+          </div>
+        </aside>
+      {{ end }}
+    </div>
+
+    {{ template "summa-nav" (dict "prev" $prev "next" $next "up" .CurrentSection) }}
+
+    <footer class="summa-credit f6 lh-copy mid-gray mt4 pt3 bt b--light-gray">
+      <p>
+        Diterjemahkan dari terjemahan bahasa Inggris oleh <em>Fathers of the English Dominican
+        Province</em> (1920, domain publik). Setiap bagian yang maknanya berbeda dari teks Latin
+        (edisi Leonina) dikoreksi mengikuti teks Latin. Kutipan Kitab Suci diterjemahkan dari teks
+        Thomas; tautan ayat menuju Alkitab di imankatolik.or.id.
+      </p>
+      <p>
+        Status:
+        {{ if eq .Params.summa_status "spot-checked" }}terjemahan dibantu AI, sudah diperiksa redaksi.
+        {{ else }}terjemahan dibantu AI dan ditinjau secara teologis oleh AI; pemeriksaan redaksi menyusul.{{ end }}
+      </p>
+    </footer>
+  </article>
+{{ end }}
+
+{{ define "summa-nav" }}
+  <nav class="summa-nav flex justify-between f6 helvetica mv3">
+    <span>{{ with .prev }}<a href="{{ .RelPermalink }}">‹ {{ .LinkTitle }}</a>{{ end }}</span>
+    <a href="{{ .up.RelPermalink }}">Daftar isi</a>
+    <span class="tr">{{ with .next }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }} ›</a>{{ end }}</span>
+  </nav>
+{{ end }}

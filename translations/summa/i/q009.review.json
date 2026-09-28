@@ -1,0 +1,133 @@
+{
+  "findings": [
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "Ex quo patet quod impossibile est Deum aliquo modo mutari.",
+      "current": "mustahil Allah dapat berubah dengan cara apa pun",
+      "suggested": "mustahil Allah berubah dengan cara apa pun",
+      "why": "The Latin denies that God is changed ('mutari'); the extra modal from the English 'changeable' doubles the modality under 'impossibile'.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[0]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "in Deo nulla est compositio, sed est omnino simplex",
+      "current": "tidak ada susunan apa pun, sebab Ia sepenuhnya sederhana",
+      "suggested": "tidak ada susunan apa pun, melainkan Ia sepenuhnya sederhana",
+      "why": "'Sed' states the positive side of the same proposition that was shown in q.3 a.7; it does not give a reason ('for' in the English).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a1.respondeo[0]; a2.respondeo[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "cum sit infinitus / qui sua infinitate omnia loca replet",
+      "current": "tidak terhingga / ketidakterhinggaan-Nya",
+      "suggested": "tak terbatas / ketakterbatasan-Nya",
+      "why": "Unified terms §B name q9 explicitly: infinitum/infinitas → tak terbatas/ketakterbatasan (paired with 'virtute sua finita' → 'terbatas' in the same sentence).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "inquantum radius luminis eius usque ad terram pertingit",
+      "current": "sejauh sinar cahayanya menyentuh bumi",
+      "suggested": "sejauh sinar terangnya mencapai bumi",
+      "why": "Unified terms §E: lumen → terang (this spot is listed); 'pertingit' is reaching, the same verb as in ad 3, not touching.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a1.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "inquantum percipimus influentiam bonitatis ipsius, vel ab eo deficimus",
+      "current": "ketika kita menerima aliran kebaikan-Nya atau berpaling dari-Nya",
+      "suggested": "sejauh kita menerima aliran kebaikan-Nya atau berpaling dari-Nya",
+      "why": "'Inquantum' gives the respect in which the metaphor holds (parallel to the sun's rays in the same sentence), not a time ('when' in the English).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.obj2",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "sicut omnes beati",
+      "current": "seperti semua orang yang berbahagia di surga",
+      "suggested": "seperti semua orang kudus di surga",
+      "why": "Unified terms §E: beati → para kudus di surga (this spot is listed); 'orang' replaces 'para' only because 'omnes' precedes it.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.obj1-2; a2.respondeo[0-2]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "creaturae / omnis creatura / in omni creatura / nullum creatum",
+      "current": "makhluk ciptaan / makhluk-makhluk",
+      "suggested": "ciptaan",
+      "why": "Unified terms §E: creatura → ciptaan (q9 listed).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo[1]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "cum privatione formae substantialis / privationem accidentis / privatio illius accidentis / privationem formae / privationem huius loci vel illius / privationem huius actus",
+      "current": "keadaan tanpa (forma / aksiden / tempat / aktus)",
+      "suggested": "kekurangan (yaitu tidak adanya sesuatu yang semestinya ada) forma …; kekurangan aksiden / forma / tempat / aktus",
+      "why": "Unified terms §C: privatio → kekurangan, with the standard gloss at first occurrence (q9 a2, 6× listed).",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.respondeo[1]",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "quia materia eorum potest esse cum privatione formae substantialis ipsorum",
+      "current": "sejauh materinya dapat berada dalam keadaan tanpa forma substansialnya",
+      "suggested": "karena materinya dapat berada bersama kekurangan … forma substansialnya",
+      "why": "'Quia' gives the cause of substantial mutability, not a respect ('inasmuch as' in the English).",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    },
+    {
+      "at": "a2.respondeo[0]",
+      "severity": "minor",
+      "type": "glossary",
+      "latin": "per potentiam quae est in altero, scilicet in Deo, sunt mutabiles",
+      "current": "karena daya pihak lain, yakni Allah",
+      "suggested": "karena kuasa yang ada pada pihak lain, yakni pada Allah",
+      "why": "Unified terms §D: God's potentia → kuasa (this spot is listed); 'in altero … in Deo' is also locative, not possessive.",
+      "fixed": true,
+      "sumber_kesalahan": "penerjemah"
+    },
+    {
+      "at": "a2.ad3",
+      "severity": "minor",
+      "type": "mistranslation",
+      "latin": "subiiciuntur tamen variationi, inquantum subiectum secundum eas variatur",
+      "current": "tunduk pada perubahan karena melalui forma-formalah subjeknya berubah-ubah",
+      "suggested": "tunduk pada perubahan sejauh subjeknya berubah-ubah menurut forma-forma itu",
+      "why": "'Inquantum' limits how forms are subject to variation (only through the subject varying according to them), which is the point of the reply; 'because' in the English turns it into a cause.",
+      "fixed": true,
+      "sumber_kesalahan": "inggris"
+    }
+  ],
+  "lessons": [
+    "[asal: STh I q.9] 'Inquantum' dalam analogi (matahari dan sinarnya, subjek dan forma) → 'sejauh', bukan 'ketika' atau 'karena'. Bahasa Inggris 1920 sering menjadikannya 'when' atau 'because', sehingga pembatasnya hilang.",
+    "[asal: STh I q.9] Setelah 'mustahil'/'impossibile est' jangan menambah 'dapat' pada verba Latin pasif indikatif (mutari, moveri); modalitasnya sudah ada pada 'mustahil'.",
+    "[asal: STh I q.9] 'Nulla est X, sed est Y' → 'tidak ada X, melainkan Y', bukan 'sebab Y'; 'sed' tidak memberi alasan.",
+    "[asal: STh I q.9] Dalam pembagian 'per potentiam quae in ipso est / in altero est', bila 'alterum' adalah Allah, pakai 'kuasa' untuk Allah dan 'daya' untuk ciptaan. Jangan memakai 'potensi' untuk Allah, sebab Ia aktus murni."
+  ],
+  "glossary_proposals": [],
+  "verdict": "pass"
+}

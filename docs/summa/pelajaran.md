@@ -1,0 +1,130 @@
+# Pelajaran penerjemahan Summa
+
+Aturan yang dipelajari dari review. Aturan di sini **mengikat** penerjemah, sama seperti
+glosarium. Reviewer menambahkannya secara otomatis (lewat skill `summa-translate`);
+pemilik situs boleh menyunting atau menghapusnya.
+
+<!-- Format: - [asal: STh I q.2] aturan -->
+- [asal: STh I q.2] 'Nec potest argui quod ...' / 'argui' = 'disimpulkan/dibuktikan dengan argumen', JANGAN 'diperdebatkan': 'tidak dapat diperdebatkan' dalam bahasa Indonesia berarti 'tak terbantahkan' dan membalik makna.
+- [asal: STh I q.2] 'Non est procedere in infinitum' dan 'non est possibile quod procedatur in infinitum' menyatakan kemustahilan logis: terjemahkan 'tidak mungkin berlanjut sampai tak terhingga', bukan 'tidak boleh'.
+- [asal: STh I q.2] 'Necesse est ponere' = 'mesti diakui/diterima adanya', bukan 'perlu mengandaikan'; 'necesse est' adalah keharusan logis, 'perlu' terlalu lemah.
+- [asal: STh I q.2] 'Ratio' dalam frasa 'ex ratione X' / 'de ratione X' / 'in ratione subiecti' berarti pengertian/hakikat X, bukan 'alasan'.
+- [asal: STh I q.2] 'Animal' sebagai genus manusia = 'hewan'; 'makhluk hidup' adalah padanan 'vivens'. Jangan ganti genus dalam contoh logika.
+- [asal: STh I q.2] Terjemahkan kata Latin yang tertulis walaupun teks Inggris berbeda (mis. 'significari' vs 'conceived'): bahasa Latin adalah otoritas.
+- [asal: STh I q.2] 'Naturaliter' dan 'natura' sebagai prinsip intrinsik diterjemahkan dengan 'kodrati/kodrat' (glosarium §B), bukan 'alami/alam'; konsisten dengan 'naturalis' = 'kodrati'.
+- [asal: STh I q.2] Keterangan dalam kurung untuk sang Filsuf, sang Rasul, dan Yohanes dari Damsyik hanya diberi pada kemunculan pertama dalam SATU PERTANYAAN (satu halaman), bukan per artikel.
+- [asal: STh I q.2] Kutipan yang argumennya bergantung pada kata-kata Vulgata (mis. Kel 3:14 'ego sum qui sum', yang berbeda dari TB 'AKU ADALAH AKU') wajib diberi tanda '(Vulg.)'.
+- [asal: STh I q.2] Jangan menambah modal 'dapat' pada kutipan Kitab Suci atau kalimat Thomas yang berbentuk indikatif (conspiciuntur, bene faceret); waspadai rumusan TB yang ikut terbawa.
+- [asal: STh I q.2] Hindari 'bahwa bahwa' setelah rumus 'Harus dikatakan bahwa'; nominalkan dengan 'adanya ...' (Deum esse → 'adanya Allah').
+- [asal: STh I q.1] Kitab deuterokanonika: TB Deuterokanonika memakai penomoran ayat Yunani, bukan Vulgata. Tulis nomor TB dengan nomor Vulgata dalam kurung, misalnya Sir 3:21 (Vulg. 3:22), seperti aturan Mazmur di ADR §4. Ayat yang hanya ada dalam Vulgata (misalnya Sir 24:31 'qui elucidant me') ditandai 'Vulg.' dan diberi keterangan bahwa ayat itu tidak ada dalam TB.
+- [asal: STh I q.1] Jangan percaya begitu saja pada rujukan Inggris. Periksa bab di Latin, tetapi pertahankan rujukan Latin bila Thomas memparafrasekan, lalu tambahkan 'bdk.' ke ayat yang paling dekat (misalnya Ibr 7; bdk. Ibr 10:1).
+- [asal: STh I q.1] Bila sebuah kutipan Kitab Suci dipakai sebagai bukti karena satu kata Latin (scientia, sapiens, arguere, similitudo), kata itu harus diterjemahkan dengan istilah Indonesia yang sama seperti dalam argumen Thomas, dan ditandai (Vulg.) bila perlu. Jangan memakai padanan TB yang memutus hubungan itu.
+- [asal: STh I q.1] Periksa setiap kutipan terhadap TB untuk memastikan tidak ada frasa TB yang tersalin kata demi kata (di q.1: 2Tim 3:16, 2Kor 10:5, 2Tes 3:2). Terjemahkan dari Latin Thomas.
+- [asal: STh I q.1] Perhatikan vokatif dalam kutipan (misalnya 'Deus' dalam Yes 64:4 Vulg.). Kata itu tidak boleh berubah menjadi objek kalimat.
+- [asal: STh I q.1] intellectus diterjemahkan 'intelek' dan ratio 'akal budi', terutama bila menyangkut Allah, karena Allah tidak bernalar secara diskursif. Bila ratio berarti argumen atau penalaran, terjemahkan 'argumen'.
+- [asal: STh I q.1] Kata ganti relatif Latin yang merujuk pada kata tunggal atau jamak (quae est / quae sunt) harus diperiksa rujukannya. Ubah kalimat Indonesia bila 'yang' menjadi ambigu.
+- [asal: STh I q.1] Istilah logika skolastik dipertahankan secara teknis: probabilis → probabel (bukan 'mungkin'); demonstratio → demonstrasi; fallacia → sesat pikir; proprie (lawan figurative) → dalam arti sebenarnya; convertitur (transendental) → diuraikan sesuai glosarium 0.2.
+- [asal: STh I q.1] Saat memecah kalimat 'Et ideo/Unde, cum A, B': penghubung sebab-akibat hanya menguasai B. Jangan menaruh 'Oleh karena itu' di depan A lalu 'tetapi B'; pakai 'Oleh karena itu, meskipun/karena A, B'.
+- [asal: STh I q.1] Saat memecah kalimat, periksa bahwa 'quia', 'ut' konsekutif/final, dan 'enim' tidak hilang begitu saja; bila kalimat baru dimulai, tandai hubungannya ('Hal itu karena …', 'Dengan demikian, …').
+- [asal: STh I q.1] Negasi dengan 'ex hoc' (non tamen ex hoc …) harus menguasai sebabnya: 'hal itu tidak membuat …', bukan 'karena itu tidak …', yang membalik logika.
+- [asal: STh I q.1] Kata kunci yang diulang Thomas untuk menyambung argumen (ordinare → 'mengatur' dalam definisi orang berhikmat) tidak boleh divariasikan penyunting demi gaya.
+- [asal: STh I q.1] Judul artikel diterjemahkan dari rumusan Latin (prooemium dan isi artikel), bukan dari judul Inggris (mis. 'utrum sit sapientia' → 'merupakan hikmat', bukan 'sama dengan hikmat').
+- [asal: STh I q.1] Kata tak tentu Latin (aliqua, quaedam) jangan dijadikan 'segala sesuatu'; kuantor universal sering hanya ada pada kesimpulan.
+- [asal: STh I q.1] Dalam keberatan, 'Tampaknya …' dan kalimat *enim* sesudahnya digabung dengan koma + 'sebab'; premis minor *Sed* → 'Namun'/'Akan tetapi', dan *autem* → 'Adapun' (bukan 'Tetapi', yang terasa kontras padahal Latinnya hanya melanjutkan).
+- [asal: STh I q.1] *Enim* yang membuka kalimat baru → 'Alasannya, …' atau 'Hal itu karena …'; *enim* yang memberi contoh → 'Misalnya, …'.
+- [asal: STh I q.1] *Haec doctrina*/*haec scientia* selalu 'ajaran suci ini'/'ilmu suci ini' pada kemunculan pertama di setiap bagian dan di setiap judul; dalam satu kalimat yang sudah jelas boleh diganti '-nya'.
+- [asal: STh I q.1] *Unde … Unde … igitur* berurutan: variasikan 'Maka', 'Oleh karena itu', 'Jadi', 'Karena itu'.
+- [asal: STh I q.1] Kutipan Kitab Suci yang ditaruh dalam kurung di tengah periode panjang boleh diangkat menjadi kalimat sendiri ('Selain itu, … sesuai dengan yang tertulis, "…" (Rm 1:14). Karena itu, …'), asalkan teks kutipan dan rujukannya tidak diubah.
+- [asal: STh I q.1] 'di mana' dalam kutipan patristik (bukan Kitab Suci) → 'ketika'/'bila'.
+- [asal: STh I q.1] *In aliquo genere* dalam arti non-teknis ('dalam suatu bidang') → 'bidang', bukan 'jenis' atau 'genus'; 'genus' dipakai hanya untuk istilah logika (a1 ad 2, a3 keb. 1).
+- [asal: STh I q.2] Saat memecah atau menyusun ulang kalimat, keterangan yang di Latin diletakkan di depan dan menaungi beberapa anak kalimat (mis. 'secundum idem et eodem modo ... vel ...') harus tetap di depan agar cakupannya tidak menyempit ke satu anak kalimat saja.
+- [asal: STh I q.2] Anak kalimat elips yang masih dikuasai verba utama ('non sequitur quod ... sed ... tantum') tidak boleh dijadikan pernyataan faktual yang berdiri sendiri; pertahankan 'yang menyusul hanyalah ...'.
+- [asal: STh I q.2] 'Quod maxime est' dalam argumen gradasi: bila contoh sejajarnya menyebut sifat ('maxime calido'), 'est' adalah elips untuk sifat yang dibandingkan; jangan diterjemahkan 'paling ada' jika 'maxime ens' baru disimpulkan sesudahnya.
+- [asal: STh I q.2] Deum esse diterjemahkan 'adanya Allah', bukan 'bahwa Allah ada itu', kecuali bila Latin memang anak kalimat (mis. 'dapat dibuktikan bahwa Allah ada').
+- [asal: STh I q.2] Enim/quia di awal kalimat → 'Alasannya, …' atau 'Hal itu karena …'; bila kalimatnya pendek, gabungkan saja dengan kalimat sebelumnya memakai ', sebab …'.
+- [asal: STh I q.2] Dalam silogisme keberatan: premis minor dengan 'Sed' → 'Akan tetapi,'; premis dengan 'autem' → 'Padahal' atau tanpa kata sambung.
+- [asal: STh I q.2] 'nomen Deus' → 'nama "Allah"'; tidak perlu 'nama "Allah" ini'.
+- [asal: STh I q.2] 'sicut patet per philosophum' → 'sebagaimana dijelaskan/dikatakan sang Filsuf', bukan 'tampak jelas melalui'.
+- [asal: STh I q.2] 'maxime ens' → 'paling sungguh ada (maxime ens)'; 'entia' → 'hal-hal yang ada'.
+- [asal: STh I q.2] Istilah logika yang asing (mis. 'term tengah') boleh diberi uraian singkat dalam kurung pada kemunculan pertama.
+- [asal: STh I q.2] Koreksi dari teks Inggris 1920: waspadai modal yang ditambahkan Inggris ('must', 'could have been', 'it is possible', 'cannot') pada verba Latin indikatif (cognoscitur, fuit, procedatur, tendunt); hapus modalnya.
+- [asal: STh I q.2] Inggris 1920 sering menghapus rujukan otoritas yang pendek (et I Poster., ut dicitur Rom. I, ut in eodem libro dicitur, ut postea ostendetur, ut patet per apostolum); cocokkan setiap otoritas Latin dengan teks Indonesia.
+- [asal: STh I q.2] Dalam Jalan Pertama, 'movere' adalah verba aktif (menggerakkan), bukan 'gerak'; dalam Jalan Kedua, 'ultimum' adalah akibat terakhir, bukan 'sebab terakhir'.
+- [asal: STh I q.2] Jalan Ketiga: 'omnia quae sunt, talia esse' = 'segala sesuatu yang ada bersifat demikian (kontingen)', bukan 'selalu ada'.
+- [asal: STh I q.2] 'Cognitio' pada Jalan Kelima = 'pengetahuan', bukan 'intelek'; 'intelligens' baru muncul pada kesimpulan.
+- [asal: STh I q.2] 'Ex persona Dei' = Allah sendiri yang berbicara; jangan 'atas nama Allah'.
+- [asal: STh I q.2] Nomor ayat Mazmur: jangan menurunkan nomor ayat Alkitab Katolik dari nomor Vulgata dengan rumus. Alkitab Katolik (imankatolik.or.id) tidak menghitung judul Mazmur sebagai ayat, sedangkan Vulgata Latin menghitungnya; cek teks ayat di qNNN.ayat.json.
+- [asal: STh I q.1] subiectum scientiae → 'pokok bahasan', obiectum potentiae/habitus → 'objek'. Jangan menyamakan keduanya: a7 respondeo bertumpu pada analogi proporsional di antara keduanya. Teks Inggris 1920 memakai 'object' untuk keduanya.
+- [asal: STh I q.1] revelabile / divinitus revelabilia → 'yang dapat diwahyukan (secara ilahi)', bukan 'yang telah diwahyukan'. Bahasa Inggris menghapus modalitas ini, yang menentukan cakupan objek formal ajaran suci.
+- [asal: STh I q.1] accipere a (menerima dari) jangan diterjemahkan 'bergantung pada' (Inggris 'depend upon'), sebab a5 ad 2 justru membedakan 'menerima' dari 'bergantung'.
+- [asal: STh I q.1] Dalam teks berbasis Inggris, periksa setiap 'doctrina' yang oleh bahasa Inggris menjadi 'knowledge'/'science'. Sacra doctrina tetap 'ajaran suci', dan puisi adalah 'doctrina infima', bukan 'ilmu'.
+- [asal: STh I q.1] Hosea 11-14: TB mengikuti penomoran Ibrani (Vulg./Inggris Hos 11:12 = TB 12:1; Hos 12:10 Vulg. = TB 12:11). Tulis nomor TB dengan nomor Vulgata dalam kurung, seperti untuk Mazmur.
+- [asal: STh I q.1] Teks Inggris sering menghapus 'ut dictum est / ut iam dictum est / secundum quod dictum est' dan atribusi sumber (Boethius, sang Filsuf, X Ethic., Magnus orator). Periksa dan pulihkan setiap rujukan balik dan atribusi.
+- [asal: STh I q.1] Teks Inggris sering menambah modal ('can', 'must', 'may') dan pembatas ('only', 'principally', 'mainly') pada kalimat Latin indikatif, dan menghapus 'magis' atau superlatif. Kata-kata kecil ini harus dicek satu per satu.
+- [asal: STh I q.1] 'Secundum proprietatem' (a9 ad 3) → 'dalam arti yang sebenarnya', bukan 'harfiah', agar tidak bertabrakan dengan a10 ad 3 (makna kiasan termasuk makna harfiah).
+- [asal: STh I q.1] Nomor ayat TB/Katolik tidak pernah dihitung dengan rumus dari Vulgata (termasuk Hosea dan Mazmur); selalu cocokkan isi ayat lewat tools/summa/ayat.py.
+- [asal: STh I q.1] Pelajaran.md memuat dua aturan yang bertentangan tentang convertitur (baris 'dapat dipertukarkan' vs. 'diuraikan sesuai glosarium 0.2'). Glosarium §C (disetujui) yang berlaku; baris yang lama sebaiknya dihapus.
+- [asal: STh I q.0] Prolog I: 'huius doctrinae' dan 'sacra doctrina' → 'ajaran suci (ini)', bukan 'ilmu suci' dari 'this (Sacred) Science' bahasa Inggris; istilah ini harus sama dengan yang membuka q.1.
+- [asal: STh I q.0] Bentuk jamak pengarang Thomas (nostrae intentionis, consideravimus, tentabimus) di prolog → 'kami'; 'Aku menjawab' hanya rumus respondeo.
+- [asal: STh I q.0] Catholicae veritatis doctor bersifat umum/tak tentu ('seorang pengajar kebenaran Katolik'), bukan 'the Master' yang definit.
+- [asal: STh I q.0] Ordo disciplinae = urutan pengajaran/belajar; librorum expositio = penafsiran/komentar atas teks, bukan 'rencana buku'; auditores = pendengar, bukan pembaca.
+- [asal: STh I q.0] Bahasa Inggris 1920 melemahkan intensifier dan frasa devosional (plurimum → 'not seldom'; cum confidentia divini auxilii → 'by God's help'); periksa terhadap Latin.
+- [asal: STh I q.4] 'Illud cui competit esse' (the subject that has esse) must not be rendered 'sesuatu yang ada', which is the glossary term for ens; keep the esse/ens distinction visible: 'sesuatu yang memiliki keberadaan itu'.
+- [asal: STh I q.4] The English 1920 flattens the prae- compounds from Dionysius (praehabet, praeaccipit, praeexistere) into 'embraces'/'contains'. Keep 'sudah lebih dahulu ...' every time, because the argument of a.2 is about pre-existence in the cause.
+- [asal: STh I q.4] Check the English proper names against the Latin: in a.1 the English has 'Leucippus' where the Latin has 'Speusippus'.
+- [asal: STh I q.4] 'Quasi' in an etymological definition (perfectum quasi totaliter factum) gives the sense of a name. Render it 'disebut ... seakan-akan', not as a condition with 'jika'.
+- [asal: STh I q.6] Dalam kalimat 'keserupaan dengan X yang melekat padanya', anak kalimat 'yang' mudah melekat pada X. Bila X adalah Allah atau sifat ilahi, ulangi nomina kepalanya ('yaitu keserupaan yang ...') agar sifat ilahi tidak terbaca melekat secara formal pada ciptaan.
+- [asal: STh I q.6] 'ratio X' juga dipakai untuk pengertian predikat abstrak ('ratio perfectionis', 'ratio indivisionis', 'ratio speciei'). 'Pengertian' melekat pada X, bukan pada subjek kalimat.
+- [asal: STh I q.6] 'Pelaku/sebab univok' diberi uraian '(sama spesiesnya dengan akibatnya)', bukan 'sejenis', karena Thomas membedakan kesamaan spesies dari kesamaan genus.
+- [asal: STh I q.6] Teks Latin Wikisource kadang cacat (eye-skip). Bila teks Inggris 1920 mengikuti bacaan Leonina yang lebih lengkap dan argumennya membutuhkan bacaan itu, jangan memotong terjemahan demi Wikisource; laporkan sebagai temuan dengan fixed: false.
+- [asal: STh I q.5] The 1920 English sometimes rewrites the conclusion of a proof step (a1 resp: 'perfect so far as it exists' for 'bonum inquantum est ens'). Check that each 'unde manifestum est' conclusion has the Latin predicate.
+- [asal: STh I q.5] Per accidens is not secundum quid: the English renders both as 'relatively'. Per accidens → 'secara aksidental' (paired with per se → 'pada dirinya'); secundum quid → 'dalam arti tertentu'; quodammodo → 'dengan cara tertentu'.
+- [asal: STh I q.5] The English swaps near-synonyms that Thomas deliberately varies (sapientia/scientia in a2 obj 4 and ad 4). Check each item of a list against the Latin.
+- [asal: STh I q.5] The English attributes anonymous 'dicitur in libro de causis' to Aristotle. Never add an author the Latin does not name.
+- [asal: STh I q.5] Sensus/virtus cognoscitiva 'ratio quaedam est' (a4 ad 1) = a kind of proportion (logos), not 'akal budi'.
+- [asal: STh I q.5] 'Videtur' at the head of a respondeo (a6: 'haec divisio proprie videtur esse boni humani') is a provisional claim that Thomas then corrects; dropping it makes the respondeo contradict itself.
+- [asal: STh I q.5] Keb 11:21 Vulg. (omnia in mensura et numero et pondere) = Catholic Keb 11:20: write '(Keb 11:20; Vulg. 11:21)'.
+- [asal: STh I q.7] The English 1920 renders 'per se' as 'absolutely' (a.4: multitudo infinita per se). Keep 'pada dirinya' for per se and 'secara mutlak' for simpliciter; the two pairs (per se/per accidens and simpliciter/secundum quid) must never share a word.
+- [asal: STh I q.7] 'Ex principio' / 'ex Deo sicut ex primo principio' means 'berasal dari suatu asas', not 'memiliki awal'; the English 'beginning' wrongly makes the argument temporal.
+- [asal: STh I q.7] 'Terminus quantitatis est sicut forma' (the boundary is quasi-form): check English sentences that turn a predicate noun into a passive verb ('is terminated by its form'), because they reverse the dependency.
+- [asal: STh I q.7] Keb 11:21 Vulg. ('omnia in mensura/pondere, numero ...') = Keb 11:20 in the Catholic Bible; cite as (Keb 11:20; Vulg. 11:21) and follow Thomas's order of the three words in each place he quotes it.
+- [asal: STh I q.7] 'Abstrahentium non est mendacium' is about those who abstract, not abstract things.
+- [asal: STh I q.8] 'Per se' yang dipasangkan dengan 'per accidens' atau 'primo' diterjemahkan 'pada dirinya', walaupun teks Inggris menulis 'absolutely'; 'secara mutlak' hanya untuk simpliciter/absolute.
+- [asal: STh I q.8] Dalam traktat kehadiran Allah, 'esse in' diterjemahkan 'ada/berada dalam', bukan 'hadir'; 'hadir/kehadiran' disisihkan untuk praesens/praesentia, salah satu dari tiga cara (esensi, kuasa, kehadiran).
+- [asal: STh I q.8] Periksa atribusi otoritas pada Latin: teks Inggris 1920 kadang mengganti nama pengarang dengan 'a gloss' (a3 sed contra: Latin 'Gregorius dicit').
+- [asal: STh I q.8] 'Res' (res aliquae, res quaedam) jangan diterjemahkan 'sesuatu yang ada', yang disisihkan untuk ens; pakai 'hal/hal-hal tertentu'.
+- [asal: STh I q.9] 'Inquantum' dalam analogi (matahari dan sinarnya, subjek dan forma) → 'sejauh', bukan 'ketika' atau 'karena'. Bahasa Inggris 1920 sering menjadikannya 'when' atau 'because', sehingga pembatasnya hilang.
+- [asal: STh I q.9] Setelah 'mustahil'/'impossibile est' jangan menambah 'dapat' pada verba Latin pasif indikatif (mutari, moveri); modalitasnya sudah ada pada 'mustahil'.
+- [asal: STh I q.9] 'Nulla est X, sed est Y' → 'tidak ada X, melainkan Y', bukan 'sebab Y'; 'sed' tidak memberi alasan.
+- [asal: STh I q.9] Dalam pembagian 'per potentiam quae in ipso est / in altero est', bila 'alterum' adalah Allah, pakai 'kuasa' untuk Allah dan 'daya' untuk ciptaan. Jangan memakai 'potensi' untuk Allah, sebab Ia aktus murni.
+- [asal: STh I q.3] 'Actus essendi' → 'aktus mengada', never 'aktus esensi' (the 1920 English 'act of essence' merges esse and essentia, the very distinction of I q.3 a.4).
+- [asal: STh I q.3] Keep per se ('pada dirinya'), per essentiam ('menurut esensinya'), and de ratione ('termasuk dalam pengertian') apart; the 1920 English renders all three as 'essential(ly)' or 'of the essence'.
+- [asal: STh I q.3] Reflexive 'suus' in 'ratione suorum actuum' refers to the grammatical subject (the bodily parts), not to God; check the referent of every suus/eius that the English turns into 'His'.
+- [asal: STh I q.3] 'Accidit in eis compositio' = 'terjadi susunan', not 'composition is accidental'; the technical 'accidental' contradicts a7 ad 1 (composition is de ratione causati).
+- [asal: STh I q.3] The English sometimes reverses subject and object ('potentia actui adiungatur' → 'actuality added to potentiality') or changes the subject ('genus eius esset ens' → 'He would be the genus being'); check the grammar, not only the vocabulary.
+- [asal: STh I q.3] 'Liber de Causis' is never attributed to 'sang Filsuf' unless the Latin does so; the 1920 English does it in I q.3 a.8.
+- [asal: STh I q.3] Psalms on imankatolik.or.id merge the title into v.1 (English numbering): Vulg. 33:16 = Mzm 34:15, Vulg. 33:6 = Mzm 34:5. Job: Vulg. 40:4 = Ayb 40:9, because Vulgate Job 39 has 35 verses.
+- [asal: STh I q.3] Istilah-seragam rows keyed to a location still have to match the Latin: I q.3 a1 ad 4 has 'immobilitas', not 'immutabilitas', so 'ketidakberubahan' is not applied there.
+- [asal: STh I q.11] With the unified terms, 'dalam arti tertentu' belongs to secundum quid only. Render quodammodo and aliquo modo as 'dengan cara tertentu', because the two occur in the same sentence (a1 ad 2).
+- [asal: STh I q.11] 'Ipsa' (the things themselves) and the English 'in itself' must not be rendered 'pada dirinya', which is reserved for per se; never place 'pada dirinya' next to 'secara mutlak'.
+- [asal: STh I q.11] In paired conditionals ('si ... erit ...; si vero e converso ...'), keep both protases as 'jika'. Do not turn the first into a statement of possibility, because that breaks the symmetry of the argument.
+- [asal: STh I q.11] The 1920 English renders 'nobis autem unus Deus' (1 Cor 8:6) as 'Our God is one'. Translate the Latin ('bagi kita ada satu Allah'), and do not supply an author the Latin does not name ('subdit').
+- [asal: STh I q.10] The 1920 English drops minor premises of objections (a2 obj 1: 'Sed aeternitas est aliquid factum'). Check that every Sed/autem step of each syllogism is present.
+- [asal: STh I q.10] When an objection proves its point from a word in a Scripture quotation (aevum in Sir 1:1 Vulg. and 3 Esdras; tempora aeterna in Rm 16:25), render that word with the article's technical term and in the Latin number (plural), and mark the quotation (Vulg.) if the phrase is Vulgate-only.
+- [asal: STh I q.10] Time is numerus motus, not mensura: the English slips into 'measure' of before and after. Keep 'bilangan' for numerus throughout q.10.
+- [asal: STh I q.10] Check the scope of limiting phrases like 'quantum ad eorum naturam pertinet' (a5 resp): the English attaches them to the wrong clause, which can shift doctrine on the angels.
+- [asal: STh I q.10] 'Quod tanto est simplicius, quanto prius' = the more prior, the simpler. Tanto ... quanto correlatives must not become 'the nearer to the first'.
+- [asal: STh I q.10] Psalm references: Catholic (imankatolik) numbering = Hebrew verse minus one for one-verse titles, and ayat.json texts confirm it (Mzm 75:5 = Heb 75:6; Mzm 80:16 = Heb 80:17). So Vulg. 75:5 → Mzm 76:4 and Vulg. 80:16 → Mzm 81:15, but always re-check with ayat.py.
+- [asal: STh I q.12] Psalm references: the Indonesian Catholic Bible (TB + Deuterokanonika) counts the Psalm heading as verse 1, so the verse number is often one higher than in RSV/NAB. Vulg. 35:10 'in lumine tuo videbimus lumen' = Mzm 36:10, not 36:9. Always check the verse text in qNNN.ayat.json and never convert Vulgate numbers by the Hebrew chapter shift alone.
+- [asal: STh I q.12] Augustine book numbers in the 1920 English are unreliable ('ultimo de civ. Dei' = xxii; 'ultimo de Trin.' = xv; Gen. ad lit. 'xiii' does not exist). Take the book number from the Latin.
+- [asal: STh I q.12] Watch the scope of the negation in 'Non ergo quicumque ... vident omnia' ('not everyone who ... sees all'). The English 'whosoever ... does not know all' makes it a universal negative.
+- [asal: STh I q.12] In 'haec non removentur ab eo propter eius defectum' (a12), 'haec' means the predicates denied of God (via remotionis), not the creatures.
+- [asal: STh I q.12] 'Insecutio' in the comprehensio distinction (a7 ad 1) is 'mengejar', which ties back to 'sequor' in Flp 3:12. The English 'non-attainment' loses this.
+- [asal: STh I q.12] imago in the sense of a portrait (a9 resp 'in sua imagine'; ad 2 'similitudine imaginis') was left as 'gambar'. The owner's imago → citra decision is recorded for imago Dei. Extending it to portraits should be decided explicitly before q.35 and q.93.
+- [asal: STh I q.13] Bahasa Inggris 1920 di q.13 sering menghapus modal 'videtur' dan 'oportet' (a2 obj1, a6 sc, a7 obj3–4, a12 obj3) serta mengubah kuantor ('quaedam' → semua, a7 resp); periksa setiap 'Therefore'/'follows' terhadap Latin.
+- [asal: STh I q.13] Subsistentia ≠ substantia: 'keberadaan-Nya yang berdiri sendiri', bukan 'substansi'.
+- [asal: STh I q.13] Remotio (a1, a2, a10) = peniadaan; negatio (a8 ad2) = penyangkalan; jangan meniru parafrase Inggris 'distance of the creature'.
+- [asal: STh I q.13] Ratio dalam konteks nama/definisi = 'pengertian', termasuk ketika bahasa Inggris memakai 'essence' (a5 sc), 'aspect', atau 'images' (a9 resp).
+- [asal: STh I q.13] Label tafsiran penerjemah Inggris (predicamental/transcendental untuk relativa secundum esse/dici) dan catatan Douay dalam kurung siku bukan teks Thomas, jadi jangan dibawa ke terjemahan.
+- [asal: STh I q.13] Tanda (Vulg.) hanya dipakai bila bagian atau frasa itu ada hanya dalam Vulgata (mis. Kel 3:14 'qui est', Ef 3:14 'Domini nostri Iesu Christi'), bukan sekadar karena kata-katanya berbeda dari TB.
+- [asal: STh I q.13] Periksa nomor bab Dionisius terhadap Latin; bahasa Inggris dapat salah (a8: ii → xii).
