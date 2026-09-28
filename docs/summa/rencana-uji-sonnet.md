@@ -42,3 +42,18 @@ summa-translator 6%.
   pertanyaannya, bukan seluruh file.
 - Maksimal 2–3 agen paralel.
 - Orkestrator di sesi baru boleh memakai Sonnet.
+
+## Tingkat effort (reasoning)
+
+| Peran | Model | Effort |
+|---|---|---|
+| Sesi utama / orkestrator | Sonnet | rendah |
+| summa-translator | Opus (tetap) | sedang |
+| summa-reviewer (korektor Latin) | Opus, atau Sonnet jika lolos Uji A | tinggi |
+| Penilai Uji A | Opus | tinggi (sekali jalan) |
+
+- Uji A membandingkan **Sonnet effort tinggi** dengan Opus, supaya yang diuji benar-benar
+  modelnya, bukan effort-nya.
+- Effort subagen diatur di frontmatter `.claude/agents/*.md`. **Pastikan dulu nama kolom
+  frontmatter-nya di dokumentasi Claude Code sebelum menambahkannya.** Effort sesi utama
+  diatur di aplikasi, bersama pilihan model.
