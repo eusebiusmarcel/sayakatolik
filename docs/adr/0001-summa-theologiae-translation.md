@@ -80,7 +80,10 @@ translation-workbench.
    compares the Indonesian with the Latin unit by unit. It fixes **only meaning**:
    content, logic, scope, modality, negation, a term's sense, and Scripture references
    and their TB numbering. It keeps the translator's wording and style wherever the
-   meaning is right, and logs every change in `qNNN.review.json`.
+   meaning is right, and logs every change in `qNNN.review.json`. **Tested 2026-09-28:**
+   a Sonnet-model reviewer, run on held-out pre-correction drafts (q.7, q.8) against the
+   Opus corrector's real findings on the same drafts, found only ~54% of the
+   major/critical issues (7 of 13) — below a 90% bar — so the corrector stays Opus.
 3. **Language edit** (`summa-editor`): only when the corrector's changes read
    awkwardly, or when the owner flags style.
    Then **lint**: checks that the structure mirrors the English, the §A formulas are
