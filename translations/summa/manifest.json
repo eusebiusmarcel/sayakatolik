@@ -131,5 +131,28 @@
       "minor": 25
     },
     "open_findings": 0
+  },
+  "i/q012": {
+    "status": "ai-reviewed",
+    "source_sha256": "bd903fe912cad3e23b8920ca05e353c96b9d4a51474b2ec5b41e1f275ed356d2",
+    "glossary_version": "0.5",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 30,
+      "minor": 31,
+      "critical": 2
+    },
+    "open_findings": 0
+  },
+  "i/q013": {
+    "status": "ai-reviewed",
+    "source_sha256": "31af9c7d8f01ea13876888cbfc315cbb24a7fd610a6dded6700252a6f252a906",
+    "glossary_version": "0.5",
+    "reviewed_at": "2026-09-28",
+    "review_findings": {
+      "major": 24,
+      "minor": 38
+    },
+    "open_findings": 0
   }
 }

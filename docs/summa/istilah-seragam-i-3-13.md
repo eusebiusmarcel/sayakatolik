@@ -130,13 +130,19 @@ menerapkan tabel ini saat mengoreksi setiap pertanyaan. **Terjemahan belum diuba
 1. **infinitum → "tak terbatas"** di seluruh q.3–13. Varian "tidak terhingga" (q8–q13)
    diganti. "Sampai tak terhingga" tetap khusus untuk regres (pelajaran q.2).
 2. **privatio → "kekurangan"** (q9: "keadaan tanpa" diganti). *Defectus* → "cacat".
-3. **imago → "citra"** (KGK). Akibatnya Kej 1:26 menjadi "menurut citra dan
-   keserupaan Kita" (Vulg.), bukan "gambar dan keserupaan". *Phantasma* tetap "gambaran".
+3. **[SELESAI, 2026-09-28] imago → "citra"** (KGK). Akibatnya Kej 1:26 menjadi "menurut
+   citra dan keserupaan Kita" (Vulg.), bukan "gambar dan keserupaan". *Phantasma* tetap
+   "gambaran". Dipindah ke `glosarium.md` §C, status disetujui.
 4. **modus, species, ordo → "takaran, spesies, dan tatanan"**. q5 ("modus") dan q6
    ("ukuran, rupa") sama-sama diganti.
 5. **ens di q5**: "yang ada" diganti "sesuatu yang ada" menurut glosarium §C yang sudah
    disetujui. Jika pemilik ingin mengizinkan bentuk pendek dalam pasangan
    *bonum–ens*, glosarium §C perlu diubah lebih dulu.
 6. **secundum quid → "dalam arti tertentu"**, sehingga "relatif" tersedia untuk *relatio*.
-7. **lex aeterna**: glosarium §D "hukum abadi" tidak selaras dengan *aeternitas* →
-   "kekekalan". Belum diubah; pemilik perlu memutuskan.
+7. **[SELESAI, 2026-09-28] lex aeterna → "hukum kekal"**, mengganti "hukum abadi" di
+   glosarium §D agar selaras dengan *aeternitas* → kekekalan/kekal. *Naturalis/nova* pada
+   baris yang sama masih `cek`.
+8. **[Belum dicek terhadap KGK, 2026-09-28]** Rendering Indonesia dikonfirmasi pemilik,
+   rujukan KGK persis masih perlu diperiksa: *malum* → "kejahatan" (§C, baris 76),
+   *daemones* → "setan-setan" (§E, baris 123), *species (intelligibilis)* → "gagasan"
+   (§D, baris 88). Boleh dipakai korektor sambil menunggu pengecekan.

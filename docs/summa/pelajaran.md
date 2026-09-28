@@ -115,3 +115,16 @@ pemilik situs boleh menyunting atau menghapusnya.
 - [asal: STh I q.10] Check the scope of limiting phrases like 'quantum ad eorum naturam pertinet' (a5 resp): the English attaches them to the wrong clause, which can shift doctrine on the angels.
 - [asal: STh I q.10] 'Quod tanto est simplicius, quanto prius' = the more prior, the simpler. Tanto ... quanto correlatives must not become 'the nearer to the first'.
 - [asal: STh I q.10] Psalm references: Catholic (imankatolik) numbering = Hebrew verse minus one for one-verse titles, and ayat.json texts confirm it (Mzm 75:5 = Heb 75:6; Mzm 80:16 = Heb 80:17). So Vulg. 75:5 → Mzm 76:4 and Vulg. 80:16 → Mzm 81:15, but always re-check with ayat.py.
+- [asal: STh I q.12] Psalm references: the Indonesian Catholic Bible (TB + Deuterokanonika) counts the Psalm heading as verse 1, so the verse number is often one higher than in RSV/NAB. Vulg. 35:10 'in lumine tuo videbimus lumen' = Mzm 36:10, not 36:9. Always check the verse text in qNNN.ayat.json and never convert Vulgate numbers by the Hebrew chapter shift alone.
+- [asal: STh I q.12] Augustine book numbers in the 1920 English are unreliable ('ultimo de civ. Dei' = xxii; 'ultimo de Trin.' = xv; Gen. ad lit. 'xiii' does not exist). Take the book number from the Latin.
+- [asal: STh I q.12] Watch the scope of the negation in 'Non ergo quicumque ... vident omnia' ('not everyone who ... sees all'). The English 'whosoever ... does not know all' makes it a universal negative.
+- [asal: STh I q.12] In 'haec non removentur ab eo propter eius defectum' (a12), 'haec' means the predicates denied of God (via remotionis), not the creatures.
+- [asal: STh I q.12] 'Insecutio' in the comprehensio distinction (a7 ad 1) is 'mengejar', which ties back to 'sequor' in Flp 3:12. The English 'non-attainment' loses this.
+- [asal: STh I q.12] imago in the sense of a portrait (a9 resp 'in sua imagine'; ad 2 'similitudine imaginis') was left as 'gambar'. The owner's imago → citra decision is recorded for imago Dei. Extending it to portraits should be decided explicitly before q.35 and q.93.
+- [asal: STh I q.13] Bahasa Inggris 1920 di q.13 sering menghapus modal 'videtur' dan 'oportet' (a2 obj1, a6 sc, a7 obj3–4, a12 obj3) serta mengubah kuantor ('quaedam' → semua, a7 resp); periksa setiap 'Therefore'/'follows' terhadap Latin.
+- [asal: STh I q.13] Subsistentia ≠ substantia: 'keberadaan-Nya yang berdiri sendiri', bukan 'substansi'.
+- [asal: STh I q.13] Remotio (a1, a2, a10) = peniadaan; negatio (a8 ad2) = penyangkalan; jangan meniru parafrase Inggris 'distance of the creature'.
+- [asal: STh I q.13] Ratio dalam konteks nama/definisi = 'pengertian', termasuk ketika bahasa Inggris memakai 'essence' (a5 sc), 'aspect', atau 'images' (a9 resp).
+- [asal: STh I q.13] Label tafsiran penerjemah Inggris (predicamental/transcendental untuk relativa secundum esse/dici) dan catatan Douay dalam kurung siku bukan teks Thomas, jadi jangan dibawa ke terjemahan.
+- [asal: STh I q.13] Tanda (Vulg.) hanya dipakai bila bagian atau frasa itu ada hanya dalam Vulgata (mis. Kel 3:14 'qui est', Ef 3:14 'Domini nostri Iesu Christi'), bukan sekadar karena kata-katanya berbeda dari TB.
+- [asal: STh I q.13] Periksa nomor bab Dionisius terhadap Latin; bahasa Inggris dapat salah (a8: ii → xii).

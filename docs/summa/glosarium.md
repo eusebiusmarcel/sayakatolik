@@ -1,8 +1,8 @@
 # Glosarium Summa Theologiae (Latin → Indonesia)
 
-**Versi:** 0.4 (sebagian besar masih usulan)
+**Versi:** 0.5 (sebagian besar masih usulan)
 
-**Riwayat:** 0.4 (2026-09-28): subiectum, articulus fidei, littera, infusio, gubernatio disetujui (rekomendasi, pemilik tidak keberatan). 0.3 (2026-09-28): teks Inggris 1920 menjadi teks dasar; rumus §A mengikuti bahasa Inggris; tanpa istilah Latin dalam kurung (keputusan pemilik). 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
+**Riwayat:** 0.5 (2026-09-28): *imago* → "citra" disetujui pemilik (istilah-seragam-i-3-13.md keputusan #3); *lex aeterna* → "hukum kekal" disetujui pemilik, mengganti "hukum abadi" agar selaras dengan *aeternitas* → kekekalan/kekal (keputusan #7); *naturalis/nova* pada baris yang sama tetap `cek`. 0.4 (2026-09-28): subiectum, articulus fidei, littera, infusio, gubernatio disetujui (rekomendasi, pemilik tidak keberatan). 0.3 (2026-09-28): teks Inggris 1920 menjadi teks dasar; rumus §A mengikuti bahasa Inggris; tanpa istilah Latin dalam kurung (keputusan pemilik). 0.2 (2026-09-27): *ens* → "sesuatu yang ada" (keputusan pemilik), *convertitur* diuraikan (keduanya disetujui pemilik), dan gaya bahasa dipindah ke `gaya-bahasa.md`.
 **Aturan:** penerjemah WAJIB memakai padanan berstatus `disetujui`. Istilah berstatus
 `usulan` boleh dipakai dalam pilot, tetapi setiap perubahannya menaikkan versi glosarium
 dan menandai ulang pertanyaan yang terdampak (lihat ADR 0001 §3). Hanya pemilik situs
@@ -82,6 +82,7 @@ tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 | littera (Scripturae) | the letter of Scripture (teks Inggris menulis "word") | rumusan teks | STh I q.1 a.10 (bukan "kata") | **disetujui** |
 | synderesis | synderesis | sinderesis | | usulan |
 | conscientia | conscience | hati nurani | KGK 1776 | usulan |
+| imago (Dei) | image (of God) | citra; Kej 1:26 → "menurut citra dan keserupaan Kita" (Vulg.) | KGK 355 dst. `cek`; bedakan dari *similitudo* (keserupaan) dan *phantasma* (gambaran). Keputusan pemilik 2026-09-28 (istilah-seragam-i-3-13.md §D, keputusan #3). | **disetujui** |
 
 ## D. Rahmat, keutamaan, karunia, sakramen
 
@@ -99,7 +100,7 @@ tebal ditambahkan oleh renderer, bukan ditulis di dalam paragraf.
 | meritum | merit | jasa | KGK 2006 | usulan |
 | peccatum originale | original sin | dosa asal | KGK 404 | usulan |
 | peccatum mortale / veniale | mortal / venial sin | dosa berat / dosa ringan | KGK 1855 | usulan |
-| lex aeterna / naturalis / nova | eternal / natural / new law | hukum abadi / hukum kodrat / hukum baru | KGK 1950–1974 `cek` | usulan |
+| lex aeterna / naturalis / nova | eternal / natural / new law | hukum kekal / hukum kodrat / hukum baru | *lex aeterna* → "hukum kekal" disetujui pemilik 2026-09-28 (selaras dengan *aeternitas* → kekekalan/kekal, mis. STh I-II q.91 a.1: "Hukum kekal tidak lain daripada rencana kebijaksanaan ilahi..."); *naturalis/nova* dan rujukan KGK 1950–1974 `cek` | sebagian disetujui |
 | sacramentum | sacrament | sakramen | KGK | usulan |
 | baptismus / confirmatio / Eucharistia / paenitentia / extrema unctio / ordo / matrimonium | | Pembaptisan / Penguatan / Ekaristi / Tobat / Pengurapan Orang Sakit / Tahbisan / Perkawinan | KGK 1113 `cek` | usulan |
 | transubstantiatio | transubstantiation | transubstansiasi | KGK 1376 | usulan |

@@ -14,6 +14,30 @@ summa-translator 6%.
 - **Belum di-deploy.** Pemilik menunggu I q.3–13 selesai. Setelah itu:
   `render.py`, preview, lalu deploy.
 
+## Hasil Uji A (2026-09-28): TIDAK, korektor tetap Opus
+
+Sonnet (`summa-reviewer` dengan `model: sonnet`) dijalankan pada draf pra-koreksi q.7 dan
+q.8, dengan `pelajaran.md`/`glosarium.md` versi commit `2f79da9` (sebelum q.3–13
+dikoreksi), lalu dicocokkan dengan temuan Opus asli:
+
+| | Opus major/critical | Ditemukan Sonnet | Recall |
+|---|---|---|---|
+| q.7 | 7 | 4 | 57% |
+| q.8 | 6 | 3 | 50% |
+| **Gabungan** | **13** | **7** | **~54%** |
+
+Terlewat oleh Sonnet: q7 a4.respondeo[1] (kejamakan tak terbatas vs eksistensinya), q7
+a4.obj[2] (spesies/individu), q7 a1.obj[1] (ratio partis/materiae), q8 a1.ad4 (makna nama
+"setan"), q8 a4.respondeo/ad2/ad3 (per se/per accidens), q8 a4.ad1 (esse universal/materi
+pertama di mana-mana). Semua ini adalah kesalahan makna yang halus, butuh pelacakan
+argumen lintas-paragraf — bukan kesalahan permukaan.
+
+Temuan Sonnet sendiri semuanya benar (tidak ada perbaikan yang salah), hanya kurang
+lengkap. Recall **54% jauh di bawah ambang 90%**, sehingga sesuai kriteria di bawah:
+**korektor Latin tetap memakai Opus.** Sonnet boleh dipakai untuk peran lain (mis.
+orkestrator, `summa-editor`, `summa-translator` bila diuji terpisah) tetapi tidak untuk
+koreksi makna terhadap Latin.
+
 ## Uji A: apakah korektor Latin boleh memakai Sonnet?
 
 - **Kontrol:** koreksi Opus untuk q.7 dan q.8.

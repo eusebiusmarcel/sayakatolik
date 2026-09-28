@@ -52,10 +52,10 @@
     },
     {
       "at": "articles[6].replies[1].paras[0]",
-      "ref": "Mzm 89:1",
+      "ref": "Mzm 90:1",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=89&a1=1&a2=1",
-      "text": "[1] Nyanyian pengajaran Etan, orang Ezrahi. Aku hendak menyanyikan kasih setia TUHAN selama-lamanya, hendak memperkenalkan kesetiaan-Mu dengan mulutku turun-temurun."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=90&a1=1&a2=1",
+      "text": "[1] Doa Musa, abdi Allah. Tuhan, Engkaulah tempat perteduhan kami turun-temurun."
     },
     {
       "at": "articles[8].objections[0][0]",
@@ -66,10 +66,10 @@
     },
     {
       "at": "articles[8].objections[1][0]",
-      "ref": "Mzm 81:6",
+      "ref": "Mzm 82:6",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=81&a1=6&a2=6",
-      "text": "[6] \"Aku telah mengangkat beban dari bahunya, tangannya telah bebas dari keranjang pikulan;"
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=82&a1=6&a2=6",
+      "text": "[6] Aku sendiri telah berfirman: \"Kamu adalah allah, dan anak-anak Yang Mahatinggi kamu sekalian. ?"
     },
     {
       "at": "articles[8].sed_contra[0]",
@@ -87,17 +87,17 @@
     },
     {
       "at": "articles[8].respondeo[1]",
-      "ref": "Mzm 81:6",
+      "ref": "Mzm 82:6",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=81&a1=6&a2=6",
-      "text": "[6] \"Aku telah mengangkat beban dari bahunya, tangannya telah bebas dari keranjang pikulan;"
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=82&a1=6&a2=6",
+      "text": "[6] Aku sendiri telah berfirman: \"Kamu adalah allah, dan anak-anak Yang Mahatinggi kamu sekalian. ?"
     },
     {
       "at": "articles[9].replies[0].paras[0]",
-      "ref": "Mzm 95:5",
+      "ref": "Mzm 96:5",
       "status": "ok",
-      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=95&a1=5&a2=5",
-      "text": "[5] Kepunyaan-Nya laut, Dialah yang menjadikannya, dan darat, tangan-Nyalah yang membentuknya."
+      "url": "https://www.imankatolik.or.id/alkitab.php?k=mzm&b=96&a1=5&a2=5",
+      "text": "[5] Sebab segala allah bangsa-bangsa adalah hampa, tetapi Tuhanlah yang menjadikan langit."
     },
     {
       "at": "articles[10].sed_contra[0]",
